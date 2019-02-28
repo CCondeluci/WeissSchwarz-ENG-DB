@@ -1,0 +1,1053 @@
+[
+    {
+        "name": "Asuna Joins a Party",
+        "code": "SAO/SE26-E01",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Yuuki(ユウキ)\" or \"Sleeping Knights(スリーピング・ナイツ)\" in its card name, this card gets +1500 power."
+        ],
+        "flavor_text": "Okay, let's see how far we can go.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E01R.png"
+    },
+    {
+        "name": "Vestige of an Elder Sister, Asuna",
+        "code": "SAO/SE26-E02",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 Memory [(1) Put a card from your hand into your waiting room] This ability activates up to one time per turn. When damage dealt by this card is canceled, if a card named \"《Sword Skill Lore》 Yuuki\" is in your memory, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Really? What is it you wanted to give me?",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E02R.png"
+    },
+    {
+        "name": "Undefeated Super Swordsman, Yuuki",
+        "code": "SAO/SE26-E07",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Yer not gonna let us get by you, is that what yer sayin'?",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E07R.png"
+    },
+    {
+        "name": "《Sword Skill Lore》 Yuuki",
+        "code": "SAO/SE26-E08",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 [(4) Put a card from your hand into your waiting room & Put this card into your memory] When another of your \"Vestige of an Elder Sister, Asuna\" attacks, you may pay the cost. If you do, put eleven cards from the top of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of trigger icons revealed among those cards. (This damage may be canceled)"
+        ],
+        "flavor_text": "Take this. It's my Original Sword Skill.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E08R.png"
+    },
+    {
+        "name": "《Sleeping Knights》 Talken & Nori & Jun",
+        "code": "SAO/SE26-E09",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage with \"Yuuki(ユウキ)\" or \"Asuna(アスナ)\" in its card name gets +1 level and +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Asuna: \"A toast to this gathering of friends, new and old――\"",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E09R.png"
+    },
+    {
+        "name": "《Zekken》 Yuuki",
+        "code": "SAO/SE26-E10",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named \"《Mother's Rosario》\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Avatar》 or 《Net》 characters, reveal them to your opponent, and put them into your hand. Then, shuffle your deck, and this card gets +1 level until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Is there anyone else out there wanna take me on today-?",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E10R.png"
+    },
+    {
+        "name": "Memories That Were Fun, Yuuki",
+        "code": "SAO/SE26-E11",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\" (The revealed card is returned to its original place)",
+            "【AUTO】 When this card attacks, each player puts the top card of his or her deck into the waiting room. If the level of the card put into your waiting room with this effect is higher than the level of the card put into your opponent's waiting room with this effect, you may put the top card of your deck into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Who should I marry…… Oh, I know! You!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E11R.png"
+    },
+    {
+        "name": "Strong and Stout-hearted, Lisbeth",
+        "code": "SAO/SE26-E22",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 [(1)] When you use \"Accelerate\", you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Let's get the lead out and kick his giant ass.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E22",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E22R.png"
+    },
+    {
+        "name": "Trusted Skills, Lisbeth",
+        "code": "SAO/SE26-E23",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1 level and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Your weapons are all restored and ready for action!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E23",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E23R.png"
+    },
+    {
+        "name": "《SAO Survivor》 Kirito",
+        "code": "SAO/SE26-E27",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+            "【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "We fought before, when we were stuck in another game.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E27R.png"
+    },
+    {
+        "name": "Brains of the Party, Yui",
+        "code": "SAO/SE26-E28",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
+        ],
+        "flavor_text": "I\"ll lock on to the coordinates!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E28R.png"
+    },
+    {
+        "name": "Getting the Holy Sword, Kirito",
+        "code": "SAO/SE26-E29",
+        "rarity": "R",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "You don't know how much this means to me!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E29",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E29R.png"
+    },
+    {
+        "name": "Restful Stroll, Asuna",
+        "code": "SAO/SE26-E03",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, your other character in the middle position of the center stage gets +500 power.",
+            "【AUTO】 Bond/\"Innocent and Uninhibited, Yuuki\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Innocent and Uninhibited, Yuuki\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Thank you, Yui.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E03C.png"
+    },
+    {
+        "name": "Childhood Asuna",
+        "code": "SAO/SE26-E04",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your encore step, put the top card of your deck into your waiting room. If that card is level 0 or lower, put this card into your waiting room.",
+            "(Climax are regarded as level 0)"
+        ],
+        "flavor_text": "\"I really loved their place in Miyagi. It was magical.\"",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E04C.png"
+    },
+    {
+        "name": "《Berserk Healer》 Asuna",
+        "code": "SAO/SE26-E05",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 When this card attacks, if a card named \"Demise of 《Zekken》\" is in your climax area, this card gets +4000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Haa!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E05C.png"
+    },
+    {
+        "name": "Yuuki's Raised Antenna",
+        "code": "SAO/SE26-E12",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Asuna Joins a Party\" get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 Bond/\"Asuna Joins a Party\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Asuna Joins a Party\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I picked ya, 'cuz you're the only one who can help us.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E12C.png"
+    },
+    {
+        "name": "《Sleeping Knights》 Yuuki",
+        "code": "SAO/SE26-E13",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose one of your characters with \"Asuna(アスナ)\" or \"Sleeping Knights(スリーピング・ナイツ)\" in its card name, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "You got it!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E13C.png"
+    },
+    {
+        "name": "Simultaneous Attack, Leafa",
+        "code": "SAO/SE26-E14",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters in your center stage, this card gets +1500 power."
+        ],
+        "flavor_text": "The gold one's tough; nothing we do's slowin' him down.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E14C.png"
+    },
+    {
+        "name": "Time Limit, Leafa",
+        "code": "SAO/SE26-E15",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "We made it!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E15C.png"
+    },
+    {
+        "name": "《Imp》 Girl, Yuuki",
+        "code": "SAO/SE26-E16",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top or the bottom of your deck.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "What's up! Y'next?",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E16C.png"
+    },
+    {
+        "name": "Innocent and Uninhibited, Yuuki",
+        "code": "SAO/SE26-E17",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.",
+            "【ACT】 [(1)] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Yeah.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E17C.png"
+    },
+    {
+        "name": "Asuna & Yuuki",
+        "code": "SAO/SE26-E18",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and put it face down underneath this card as a marker."
+        ],
+        "flavor_text": "I gave this life… everything I had…… I was alive……",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E18C.png"
+    },
+    {
+        "name": "《Sleeping Knights》 Siune & Tecchi",
+        "code": "SAO/SE26-E19",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have a card named \"Asuna Joins a Party\" and \"《Sleeping Knights》 Yuuki\", this card gets -1 level while in your hand.",
+            "【AUTO】 When this card attacks, if a card named \"Braves of 27th floor\" is in your climax area, choose up to one 《Avatar》 or 《Net》 character in your waiting room, put it into your stock, and this card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Asuna: \"――To us.\"",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E19C.png"
+    },
+    {
+        "name": "Sinister Glint,《Death Gun》",
+        "code": "SAO/SE26-E24",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one of your opponent's level 0 or lower 《Target》 characters, and put it into his or her waiting room."
+        ],
+        "flavor_text": "It's time I found out if you're the real deal, or a fake.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E24C.png"
+    },
+    {
+        "name": "Fluffy on the Head, Silica",
+        "code": "SAO/SE26-E25",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room with \"Silica(シリカ)\" or \"Pina(ピナ)\" in its card name, and return it to your hand.",
+            "【AUTO】 Change [(3) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Battle Stance, Silica\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Heh heh……",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E25C.png"
+    },
+    {
+        "name": "Battle Stance, Silica",
+        "code": "SAO/SE26-E26",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your waiting room, if you have another character with \"Pina(ピナ)\" in its card name, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 or 《Dragon》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Right!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E26C.png"
+    },
+    {
+        "name": "Wildcat Girl, Sinon",
+        "code": "SAO/SE26-E30",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E30",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E30C.png"
+    },
+    {
+        "name": "Challenging Many, Kirito",
+        "code": "SAO/SE26-E31",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Stand down, yer not getting' past me.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E31",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E31C.png"
+    },
+    {
+        "name": "Providing Information, Yui",
+        "code": "SAO/SE26-E32",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 This ability activates up to two times per turn. When another of your characters with \"Kirito(キリト)\" or \"Asuna(アスナ)\" in its card name is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck."
+        ],
+        "flavor_text": "They found a different quest.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E32",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E32C.png"
+    },
+    {
+        "name": "In the Face of “Death”, Kirito & Sinon",
+        "code": "SAO/SE26-E33",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Kirito: \"And I won't let a single one of 'em hit you.\"",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E33",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E33C.png"
+    },
+    {
+        "name": "《Cait Sith》 Archer, Sinon",
+        "code": "SAO/SE26-E34",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other characters get +1500 power.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into our hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "You're more than welcome.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E34",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E34C.png"
+    },
+    {
+        "name": "《Skill Connect》 Kirito",
+        "code": "SAO/SE26-E35",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When a card named \"Quest to Get 《Excalibur》\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, all of your characters get +3000 power until end of turn.",
+            "【AUTO】 [Shuffle your deck] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, reveal the top card of your deck. If that card is \"《Skill Connect》 Kirito\", 【STAND】 this card. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Go-!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E35",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E35C.png"
+    },
+    {
+        "name": "Demise of 《Zekken》",
+        "code": "SAO/SE26-E06",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E06C.png"
+    },
+    {
+        "name": "《Mother's Rosario》",
+        "code": "SAO/SE26-E20",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E20C.png"
+    },
+    {
+        "name": "Braves of 27th floor",
+        "code": "SAO/SE26-E21",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E21C.png"
+    },
+    {
+        "name": "Quest to Get 《Excalibur》",
+        "code": "SAO/SE26-E36",
+        "rarity": "C",
+        "expansion": "Sword Art Online Ⅱ Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I really appreciate you guys, helpin' me out on such short notice!",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "E36",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_E36C.png"
+    },
+    {
+        "name": "Swimsuit Sinon",
+        "code": "SAO/SE26-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Here, take this.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_PE01.png"
+    },
+    {
+        "name": "Summer Festival, Asuna",
+        "code": "SAO/SE26-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 [Return two characters in your waiting room to your deck, and shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "C'mon, let's go.",
+        "set": "SAO",
+        "release": "E26",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE26_PE02.png"
+    }
+]

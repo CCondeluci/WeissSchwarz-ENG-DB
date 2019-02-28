@@ -1,0 +1,967 @@
+[
+    {
+        "name": "Mikuru Wishing Upon the Stars",
+        "code": "SY/WE09-E05",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Time",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+            "【ACT】 [(2)] Choose one of your 《Time》 characters, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "\"I hope to get better at sewing.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E05_R.png"
+    },
+    {
+        "name": "Time Travel, Kyon & Mikuru",
+        "code": "SY/WE09-E06",
+        "rarity": "Ｒ",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Time",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《SOS Brigade》 characters get \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 [【REST】 this card] When another of your characters is put into your clock from the stage, if this card is 【STAND】, you may pay the cost. If you do, put the top card of your deck into your stock."
+        ],
+        "flavor_text": "Mikuru(Adult): \"You can give\nthe sleeping me there a kiss. But only while she's asleep.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E06_R.png"
+    },
+    {
+        "name": "Encounter with Mikuru, Mikuru(Adult)",
+        "code": "SY/WE09-E07",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Time",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if a card named \"Guiding Role\" is in your climax area, return this card to your hand, choose one of your 《Time》 characters, and that character gets +3000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "So this is how I looked\nback then…",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E07_R.png"
+    },
+    {
+        "name": "“Super Director” Haruhi",
+        "code": "SY/WE09-E13",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Brigade Leader",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.",
+            "【ACT】 [【REST】 this card] Choose one of your 《SOS Brigade》 characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "Okay! Now let's try this for real!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E13_R.png"
+    },
+    {
+        "name": "Flower Viewing, Haruhi",
+        "code": "SY/WE09-E14",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "10000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Brigade Leader",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Of course! Come on.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E14_R.png"
+    },
+    {
+        "name": "“Bamboo Leaf Rhapsody” Haruhi",
+        "code": "SY/WE09-E15",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《SOS Brigade》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, if a card named \"I am here\" is in your climax area, you may choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I don't know who you are, but if you're not doing anything, then help me out.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E15_R.png"
+    },
+    {
+        "name": "Observer, Nagato",
+        "code": "SY/WE09-E22",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Alien",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Alien》 characters get +500 power."
+        ],
+        "flavor_text": "Fine.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E22",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E22_R.png"
+    },
+    {
+        "name": "Mage Nagato & Shamisen",
+        "code": "SY/WE09-E23",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Alien",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if the number of 《Alien》 characters you have is two or more, choose one of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Take this…",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E23",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E23_R.png"
+    },
+    {
+        "name": "Nagato at a Summer Festival",
+        "code": "SY/WE09-E24",
+        "rarity": "R",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Alien",
+            "Mask"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Alien》 characters you have is four or more, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card attacks, if a card named \"Night with Two Weeks Left\" is in your climax area, put up to one card from the top of your clock into your waiting room, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Haruhi: \"Huh, what's with\nthe mask, Yuki?\"\nNagato: \"I bought it.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E24_R.png"
+    },
+    {
+        "name": "Kyon & Koizumi",
+        "code": "SY/WE09-E01",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Psychic Ability",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room."
+        ],
+        "flavor_text": "Koizumi: \"The world is at peace.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E01_C.png"
+    },
+    {
+        "name": "Koizumi Talking About the Stars",
+        "code": "SY/WE09-E02",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Psychic Ability",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【CONT】 If you have another 《SOS Brigade》 character in the middle position of your center stage, this card gets +1000 power."
+        ],
+        "flavor_text": "I was pretty moved when I caught a glimpse of the moons of Jupiter.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E02_C.png"
+    },
+    {
+        "name": "Kyon Looking Up at the Night Sky",
+        "code": "SY/WE09-E03",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "SOS Brigade",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "The time that we've lost, eh…",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E03_C.png"
+    },
+    {
+        "name": "5th Grade Elementary Student, Kyon's Sister",
+        "code": "SY/WE09-E04",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Animal",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Kyon, the phone's ringing.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E04_C.png"
+    },
+    {
+        "name": "Energetic Senior, Tsuruya",
+        "code": "SY/WE09-E08",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Forehead",
+            "Fang Teeth"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Time》 or 《Forehead》 characters get +500 power.",
+            "【AUTO】 When your character's trigger check reveals a climax, if that card's trigger icon is Treasure@, choose one of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "You're so cute, Mikuru. I'd love to keep you as a pet!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E08_C.png"
+    },
+    {
+        "name": "Mikuru Working Part-time",
+        "code": "SY/WE09-E09",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Time",
+            "Frog"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Huh…",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E09_C.png"
+    },
+    {
+        "name": "Flower Viewing, Mikuru",
+        "code": "SY/WE09-E10",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Time",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Time》 or 《SOS Brigade》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Oh, they're so beautiful～",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E10_C.png"
+    },
+    {
+        "name": "Cicada Capturing Competition, Mikuru",
+        "code": "SY/WE09-E11",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Time",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Time》 or 《SOS Brigade》 characters you have is three or more, this card gets +1000 power."
+        ],
+        "flavor_text": "Haruhi: \"This will be the SOS Brigade's Cicada Capturing Competition!\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E11_C.png"
+    },
+    {
+        "name": "Girl Who Will Change the World, Haruhi",
+        "code": "SY/WE09-E16",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Brigade Leader",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 one of your 《SOS Brigade》 characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "We're going to do something\nreally exciting!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E16_C.png"
+    },
+    {
+        "name": "Swimsuit Haruhi",
+        "code": "SY/WE09-E17",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Brigade Leader",
+            "Swimsuit"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put this card into your clock] When a card named \"End of Summer\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Flower Viewing, Haruhi\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I don't know when those are!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E17_C.png"
+    },
+    {
+        "name": "Haruhi at a Summer Festival",
+        "code": "SY/WE09-E18",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Brigade Leader",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "You can have one, but only one.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E18_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19a",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Haruhi: \"We have to do summer vacation-y things during our summer vacation!\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19a_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19b",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Koizumi: \"This makes me smile, though.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19b_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19c",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "And yet it feels like there are\na lot of things we've yet to do!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19c_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19d",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Haruhi: \"Yup. There're only two weeks of summer vacation left, right?\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19d",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19d_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19e",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Kyon: \"That's not a cicada.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19e",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19e_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19f",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Mikuru: \"T-Thank you…\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19f",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19f_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19g",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "Mikuru: \"Wah～～!\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19g",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19g_C.png"
+    },
+    {
+        "name": "Endless Eight",
+        "code": "SY/WE09-E19h",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 You can put up to eight cards with the same card name as this card in your deck.",
+            "【COUNTER】 Put this card into your memory.",
+            "Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory."
+        ],
+        "flavor_text": "This is the 15,532nd time.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E19h",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E19h_C.png"
+    },
+    {
+        "name": "Standby Mode, Nagato",
+        "code": "SY/WE09-E25",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Alien",
+            "Glasses"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "That is my role.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E25_C.png"
+    },
+    {
+        "name": "Flower Viewing, Nagato",
+        "code": "SY/WE09-E26",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Alien",
+            "SOS Brigade"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Alien》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "It is enough.",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E26_C.png"
+    },
+    {
+        "name": "Guiding Role",
+        "code": "SY/WE09-E12",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+        ],
+        "flavor_text": "Mikuru(Adult): \"Guiding you from this point on is mine.\"",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E12_C.png"
+    },
+    {
+        "name": "I am here",
+        "code": "SY/WE09-E20",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Who are you?",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E20_C.png"
+    },
+    {
+        "name": "End of Summer",
+        "code": "SY/WE09-E21",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I'm going too!",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E21_C.png"
+    },
+    {
+        "name": "Night with Two Weeks Left",
+        "code": "SY/WE09-E27",
+        "rarity": "C",
+        "expansion": "The Melancholy of Haruhi Suzumiya",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "-",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E27_C.png"
+    },
+    {
+        "name": "Literature Club Yuki",
+        "code": "SY/WE09-E28",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Glasses",
+            "Book"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "……",
+        "set": "SY",
+        "release": "E09",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_SY_WE09_E28_PR.png"
+    }
+]

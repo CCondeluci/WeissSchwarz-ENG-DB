@@ -1,0 +1,3489 @@
+[
+    {
+        "name": "Asuna Invites to Party",
+        "code": "SAO/S20-E001",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】[(1)］ When this card attacks, if a card named \"<<Star Splash>>\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Then, party up with me. It's been forever.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e001.jpg"
+    },
+    {
+        "name": "<<Lightning Flash>> Asuna",
+        "code": "SAO/S20-E002",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's stock."
+        ],
+        "flavor_text": "I'll protect you, too. I'll protect you forever.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e002.jpg"
+    },
+    {
+        "name": "Magic Swordsman, Leafa",
+        "code": "SAO/S20-E026",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card attacks, if a card named \"Spell Chanting\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability.\"【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\""
+        ],
+        "flavor_text": "There's a trick to flying on your own, some people can master it right away……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e026.jpg"
+    },
+    {
+        "name": "Leafa's Pure Wish",
+        "code": "SAO/S20-E027",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your deck is five or less, this card gets -1 level in your hand.",
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1500 power.",
+            "【ACT】[(1) Put an 《Avatar》 or 《Net》 character from your hand into your waiting room］ Until end of your opponent's next turn, this card gets +3000 power and the following ability.\"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "I'll be waiting. I'll be waiting for you to come home for real.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e027.jpg"
+    },
+    {
+        "name": "Searching Lisbeth",
+        "code": "SAO/S20-E046",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card attacks, if a card named \"Seeking Warmth\" is in your climax area, you may pay the cost. If you do, choose up to two characters in your waiting room, return them to your hand, choose a card in your hand, put it into your waiting room, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I, too, was always looking for something.\nSomething real in this world.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e046.jpg"
+    },
+    {
+        "name": "Like a Younger Sister, Silica",
+        "code": "SAO/S20-E047",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"Pina's Resurrection\" is in your climax area, choose up to one character in your waiting room, return it to your hand, choose up to one card in your opponent's waiting room, and put it on top of your opponent's deck."
+        ],
+        "flavor_text": "If I told him I wanted to talk a little more, would he laugh at me……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e047.jpg"
+    },
+    {
+        "name": "Mysterious Girl, Yui",
+        "code": "SAO/S20-E076",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【ACT】[(1)］ Draw a card, choose a card in your hand, and put it into your waiting room.",
+            "【ACT】［【REST】 this card and another of your characters］Choose one of your characters, and that character gets +1000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "Daddy…… Mommy…… I remember everything……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e076.jpg"
+    },
+    {
+        "name": "《Black Swordsman》 Kirito",
+        "code": "SAO/S20-E077",
+        "rarity": "RR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(3) Put a card from your hand into your clock］ When a card named \"<<Dual-wielding>> User\" is placed on your climax area, you may pay the cost. If you do, until end of turn, this card gets +3500 power and the following ability.\"【AUTO】 This ability activates up to once per turn. When this card's battle opponent becomes 【REVERSE】, you may 【STAND】 this card.\"",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If the revealed card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to is its original place.)"
+        ],
+        "flavor_text": "I'm going to win. I'm going to win and end this game.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e077.jpg"
+    },
+    {
+        "name": "Asuna Lays on the Sofa",
+        "code": "SAO/S20-E003",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is a non-《Avatar》 character, put it into your clock. (If it is not, return the revealed card to is its original place.)"
+        ],
+        "flavor_text": "Hey…… Kirito.\nDo you think it would be okay if we left the front lines for a bit.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e003.jpg"
+    },
+    {
+        "name": "Imprisoned Queen, Asuna",
+        "code": "SAO/S20-E004",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Kirito\" in its card name, this card gets +1000 power and \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"."
+        ],
+        "flavor_text": "Save me, Kirito…",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e004.jpg"
+    },
+    {
+        "name": "Asuna Changes Clothes",
+        "code": "SAO/S20-E005",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Kyaa!?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e005.jpg"
+    },
+    {
+        "name": "Asuna Dozed Off",
+        "code": "SAO/S20-E006",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"A Sworn Promise\" is in your climax area, until end of turn, all of your characters get +1000 power and your opponent cannot use \"【AUTO】 Encore\". （Your opponent cannot use the \"【AUTO】 Encore [(3)］\" rule either.)",
+            "【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "Mm…… I was just dreaming a little. About my old world……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e006.jpg"
+    },
+    {
+        "name": "Asuna's Commanding Strength",
+        "code": "SAO/S20-E007",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand or by the effect of a card named \"Returning to the Front Lines\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】[(1) Put a card from your hand into your waiting room］ When this card attacks, you may pay the cost. If you do, all of your 《Avatar》 characters get +500 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "I'll protect you…… So you protect me, okay?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e007.jpg"
+    },
+    {
+        "name": "Reliable Guide, Leafa",
+        "code": "SAO/S20-E028",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose another of your characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "I've been playing this game a long time.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e028.jpg"
+    },
+    {
+        "name": "Suguha's Shaken Feelings",
+        "code": "SAO/S20-E029",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get +500 power.",
+            "【AUTO】[(1)］ When a card named \"Repressed Feelings\" is placed on your climax area, you may pay the cost. If you do, all of your characters get +1500 power until end of turn."
+        ],
+        "flavor_text": "However, do I want to be a good sister? Or do I……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e029.jpg"
+    },
+    {
+        "name": "<<Sylph>> Girl, Leafa",
+        "code": "SAO/S20-E030",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+            "【ACT】［【REST】 two of your 《Avatar》 or 《Net》 characters］ This card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "I'll draw as much of their attention as I can, so try and knock one down.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e030.jpg"
+    },
+    {
+        "name": "Suguha in Uniform",
+        "code": "SAO/S20-E031",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
+            "【AUTO】[(1)］ When this card attacks, you may pay the cost. If you do, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Don't get any weird ideas!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e031.jpg"
+    },
+    {
+        "name": "Lisbeth's Blessings",
+        "code": "SAO/S20-E048",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, all of your other characters with \"Asuna\" in its card name get +500 power until end of turn.",
+            "【AUTO】 Bond／\"Asuna Invites to Party\" [(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Asuna Invites to Party\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "You've found something important to you.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e048.jpg"
+    },
+    {
+        "name": "Silica in the <<Flower Garden>>",
+        "code": "SAO/S20-E049",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"《Pneuma Flower》\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "It's like a dream…… smells nice!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e049.jpg"
+    },
+    {
+        "name": "Lisbeth's Professional Pride",
+        "code": "SAO/S20-E050",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose one of your other 《Weapon》 characters, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Don't you insult me.\nBelieve it or not, I'm an expert mace user.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e050.jpg"
+    },
+    {
+        "name": "Silica's Unyielding Trust",
+        "code": "SAO/S20-E051",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one 《Avatar》 or 《Net》 or 《Familiar》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You're a good person…… so I wouldn't be scared.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e051.jpg"
+    },
+    {
+        "name": "Lisbeth Changes Clothes",
+        "code": "SAO/S20-E052",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters."
+        ],
+        "flavor_text": "Wah……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e052.jpg"
+    },
+    {
+        "name": "Lisbeth's Determined Confession",
+        "code": "SAO/S20-E053",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】[(2)］ When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I want to be your exclusive smith.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e053.jpg"
+    },
+    {
+        "name": "Blade User, Klein",
+        "code": "SAO/S20-E078",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is an 《Avatar》 or 《Net》 character, choose one of your characters, and that character gets +1000 power until end of turn. （The revealed cards are returned to their original place.)",
+            "【ACT】 Brainstorm [(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "Oh, Kirito! It's been a while.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e078.jpg"
+    },
+    {
+        "name": "Kirito in the Battlefield",
+        "code": "SAO/S20-E079",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1) Put a card from your hand into your waiting room］ When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Avatar》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I don't plan on losing.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e079.jpg"
+    },
+    {
+        "name": "Kirito - For Someone Special",
+        "code": "SAO/S20-E080",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card attacks, if a card named \"End of the World\" is in your climax area, you may pay the cost. If you do, draw a card.",
+            "【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "--please help me one more time.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e080.jpg"
+    },
+    {
+        "name": "Artificial Intelligence, Yui",
+        "code": "SAO/S20-E081",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】[(2)］ When this card attacks, if a card named \"Sudden Farewell\" is in your climax area, you may pay the cost. If you do, draw up to two cards."
+        ],
+        "flavor_text": "《Mental Health Counseling Program》prototype 1, code name《Yui》. That's me.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e081.jpg"
+    },
+    {
+        "name": "Kirito Discovers a Unique Skill",
+        "code": "SAO/S20-E082",
+        "rarity": "R",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker.",
+            "【AUTO】［Put all markers from underneath this card into your waiting room］ When another of your characters attack, if the number of markers underneath this card is five or more, you may pay the cost. If you do, 【STAND】 this card, and this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "……aaaAAAAAAH!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e082.jpg"
+    },
+    {
+        "name": "Asuna's Married Life",
+        "code": "SAO/S20-E008",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "You must be hungry. Let's eat.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e008.jpg"
+    },
+    {
+        "name": "Asuna's True Expression",
+        "code": "SAO/S20-E009",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Change[(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Imprisoned Queen, Asuna\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Even if this is a virtual world, my feelings are real.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e009.jpg"
+    },
+    {
+        "name": "Vice Commander, Asuna",
+        "code": "SAO/S20-E010",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if the number of 《Avatar》 or 《Net》 characters you have is two or more, choose one of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】【COUNTER】 Backup 1000, Level 1 ［Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)"
+        ],
+        "flavor_text": "I, Asuna, Vice Commander of the Knights of the Blood Oath, will oversee this operation.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e010.jpg"
+    },
+    {
+        "name": "Asuna Takes Shelter",
+        "code": "SAO/S20-E011",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker."
+        ],
+        "flavor_text": "It kind of feels, like I was born and raised here for my entire life, it's just a feeling.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e011.jpg"
+    },
+    {
+        "name": "Asuna Replies to a Proposal",
+        "code": "SAO/S20-E012",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this character gets +1000 power.",
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is an 《Avatar》 or 《Net》 character, choose one of your characters, and that character gets +1 soul until end of turn. (The revealed cards are returned to their original place.)"
+        ],
+        "flavor_text": "…… Yes.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e012.jpg"
+    },
+    {
+        "name": "Guild Commander, Heathcliff",
+        "code": "SAO/S20-E013",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Duel in the Arena\" is in your climax area, choose one of your opponent's cost 1 or less characters, return it to your opponent's hand, and this card cannot 【REVERSE】 until end of turn."
+        ],
+        "flavor_text": "If you can defeat me in combat, you may take Asuna. But if you lose, you will join the Knights of the Blood Oath.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e013.jpg"
+    },
+    {
+        "name": "Returning to the Front Lines",
+        "code": "SAO/S20-E021",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "You may choose one of your characters named \"Asuna Replies to a Proposal\", and put it into your waiting room. If you do, choose a card named \"Asuna's Commanding Strength\" in your waiting room, and put it on any position of your stage. Put this card into your memory."
+        ],
+        "flavor_text": "Kirito, Asuna: \"Teleport-- Grandzam!\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e021.jpg"
+    },
+    {
+        "name": "Suguha Persuading Herself",
+        "code": "SAO/S20-E032",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose another of your 《Avatar》 or 《Net》 characters, and that character gets +500 power until end of turn.",
+            "【AUTO】 Bond／\"Kirito - For Someone Special\" [(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kirito - For Someone Special\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "……I'm just showing him the way. That's all.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e032.jpg"
+    },
+    {
+        "name": "Gentle Ally, Recon",
+        "code": "SAO/S20-E033",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "I can't believe you, you could've at least said something before you left.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e033.jpg"
+    },
+    {
+        "name": "Kendo Girl, Suguha",
+        "code": "SAO/S20-E034",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Sei!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e034.jpg"
+    },
+    {
+        "name": "Leafa's Bashful Expression",
+        "code": "SAO/S20-E035",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Are you stupid!! I would rather fight!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e035.jpg"
+    },
+    {
+        "name": "Leafa Gets Her Hand Bit",
+        "code": "SAO/S20-E036",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get the following ability.\"【CONT】 This card cannot side attack.\""
+        ],
+        "flavor_text": "Aah-----!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e036.jpg"
+    },
+    {
+        "name": "Healing Magic",
+        "code": "SAO/S20-E042",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Look at up to two cards from the top of your opponent's deck, choose up to one card from among them, and put it on the bottom of your opponent's deck. Put the rest of the cards on top of your opponent's deck in any order. Choose one of your characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Suu, Firra, Heiraghoul, Austol, Broat, Subaal, Bhani.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e042.jpg"
+    },
+    {
+        "name": "Familiar, Pina",
+        "code": "SAO/S20-E054",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familiar",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Silica\" in its card name get +500 power.",
+            "【AUTO】［Put this card into your waiting room］ When another of your characters with \"Silica\" in its card name is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage postition as 【REST】."
+        ],
+        "flavor_text": "Kyuru.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e054.jpg"
+    },
+    {
+        "name": "Silica - Like a Date",
+        "code": "SAO/S20-E055",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If the revealed card is a climax, 【REST】 this card. （The revealed cards are returned to their original place.)"
+        ],
+        "flavor_text": "……this is……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e055.jpg"
+    },
+    {
+        "name": "Mace User, Lisbeth",
+        "code": "SAO/S20-E056",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card attacks, if a card named \"Awakened Feelings\" is in your climax area, you may pay the cost. If you do, all of your 《Weapon》 characters get +2500 power until end of turn."
+        ],
+        "flavor_text": "When I finish a sword I can be satisfied with, I'll tell him how I feel.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e056.jpg"
+    },
+    {
+        "name": "Silica - Start of the Adventure",
+        "code": "SAO/S20-E057",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(1)］ When this card attacks, if a card named \"First Adventure\" is in your climax area, you may pay the cost. If you do, choose a card named \"Familiar, Pina\" in your waiting room, and put that card on any position of your stage as 【REST】, and this card gets +3500 power until end of turn."
+        ],
+        "flavor_text": "Okay, I'll do my best too!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e057.jpg"
+    },
+    {
+        "name": "Dagger User, Silica",
+        "code": "SAO/S20-E058",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "S-sorry to keep you waiting.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e058.jpg"
+    },
+    {
+        "name": "Cute Mischief, Silica",
+        "code": "SAO/S20-E059",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If the revealed card is a climax, choose another of your characters, and put it into your waiting room. （The revealed cards are returned to their original place.)"
+        ],
+        "flavor_text": "Ah!?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e059.jpg"
+    },
+    {
+        "name": "Lisbeth's Positive Smile",
+        "code": "SAO/S20-E060",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is a climax, 【REST】 this card. （The revealed cards are returned to their original place.)"
+        ],
+        "flavor_text": "If you need your equipment repaired, come by anytime.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e060.jpg"
+    },
+    {
+        "name": "《Pneuma Flower》",
+        "code": "SAO/S20-E070",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you do not have a character with \"Silica\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to one card with \"Pina\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Silica: \"This will bring Pina back, right……?\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e070.jpg"
+    },
+    {
+        "name": "Solo Player, Kirito",
+        "code": "SAO/S20-E083",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "Just so we're clear, I'm a solo player.\nOne or two days of playing while orange mean nothing to me.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e083.jpg"
+    },
+    {
+        "name": "Moonlit Black Cats, Sachi",
+        "code": "SAO/S20-E084",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "Don't talk about me like I'm useless.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e084.jpg"
+    },
+    {
+        "name": "Kirito's Strong Bond",
+        "code": "SAO/S20-E085",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Asuna\" in its card name get +500 power.",
+            "【CONT】 During your opponent's turn, all of your other characters get +500 power."
+        ],
+        "flavor_text": "My life belongs to you, Asuna.\nSo I will use it for you.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e085.jpg"
+    },
+    {
+        "name": "Kirito Appraises Items",
+        "code": "SAO/S20-E086",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Asuna\" in its card name, this card gets +1000 power and \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"."
+        ],
+        "flavor_text": "Seems you're just as greedy as ever.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e086.jpg"
+    },
+    {
+        "name": "Kirito's Natural Gentleness",
+        "code": "SAO/S20-E087",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Change[(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Kirito Discovers a Unique Skill\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I don't mind. Don't worry about it.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e087.jpg"
+    },
+    {
+        "name": "Marriage Proposal",
+        "code": "SAO/S20-E096",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "You may choose one of your characters named \"Kirito Joins the Knights of the Blood Oath\", and put it into your waiting room. If you do, choose a card named \"《Black Swordsman》 Kirito\" in your waiting room, put it on any position of your stage, and that character gets +1500 until end of your opponent's next turn. Put this card into your memory."
+        ],
+        "flavor_text": "……L-let's get married.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e096.jpg"
+    },
+    {
+        "name": "Thank you, goodbye",
+        "code": "SAO/S20-E097",
+        "rarity": "U",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose one of your opponent's level 3 or lower characters, and that character cannot 【STAND】 during your opponent's next stand phase."
+        ],
+        "flavor_text": "No flavor text",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e097.jpg"
+    },
+    {
+        "name": "Asuna's Strong Bond",
+        "code": "SAO/S20-E014",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Kirito Joins the Knights of the Blood Oath\" ［Put the top card of your deck into your clock］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kirito Joins the Knights of the Blood Oath\" in your waiting room, and return it to your hand.)",
+            "【ACT】[(1)］ Choose one of your 《Avatar》 characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "To me, Kirito is the meaning of my two years here, and proof that I'm alive.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e014.jpg"
+    },
+    {
+        "name": "Asuna Jumps to Conclusions",
+        "code": "SAO/S20-E015",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "You dummy------!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e015.jpg"
+    },
+    {
+        "name": "Observer, Kuradeel",
+        "code": "SAO/S20-E016",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】[(1)］ Choose one of your opponent's level 0 or lower characters on the center stage, and put it into your opponent's stock."
+        ],
+        "flavor_text": "Hell, no! A low-level player like you couldn't possibly protect her!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e016.jpg"
+    },
+    {
+        "name": "Asuna - Start of the Battle",
+        "code": "SAO/S20-E017",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "So I'll accept your offer, and take it easy today.\nYou can play at forward.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e017.jpg"
+    },
+    {
+        "name": "Laughing Coffin",
+        "code": "SAO/S20-E018",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】[(1) 【REST】 two of your characters］ This card gets +1500 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "No flavor text",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e018.jpg"
+    },
+    {
+        "name": "Heathcliff's Hidden Identity",
+        "code": "SAO/S20-E019",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "The plan was not to reveal that fact before we reached Floor 95.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e019.jpg"
+    },
+    {
+        "name": "Asuna's Veteran Cooking Skill",
+        "code": "SAO/S20-E020",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if the number of other 《Avatar》 characters you have is two or more, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "Let's see…… Then let's make a stew.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e020.jpg"
+    },
+    {
+        "name": "Self-sacrifice",
+        "code": "SAO/S20-E022",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +3500 power until end of turn."
+        ],
+        "flavor_text": "Kirito: \"No, Asuna…… This can't…… This can't be……\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e022.jpg"
+    },
+    {
+        "name": "Leafa's Sharp Observation",
+        "code": "SAO/S20-E037",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is three or more, this card gets +1000 power."
+        ],
+        "flavor_text": "You have good instincts.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e037.jpg"
+    },
+    {
+        "name": "Suguha Out of the Bath",
+        "code": "SAO/S20-E038",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Brother, the bath's ready-",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e038.jpg"
+    },
+    {
+        "name": "Leafa's in a Panic",
+        "code": "SAO/S20-E039",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "N-n-nothing!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e039.jpg"
+    },
+    {
+        "name": "Suguha's Mixed Emotions",
+        "code": "SAO/S20-E040",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "\"I want to see virtual reality for myself.\" When did I first think that to myself.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e040.jpg"
+    },
+    {
+        "name": "Fairy King, Oberon",
+        "code": "SAO/S20-E041",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It's just a fake body. It won't hurt anything. Don't you want to enjoy yourself a little?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e041.jpg"
+    },
+    {
+        "name": "Recon's Courage",
+        "code": "SAO/S20-E043",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose one of your characters, and put it into your waiting room. If you do, choose up to one of your opponent's characters, and that character gets -4000 power until end of turn."
+        ],
+        "flavor_text": "……Then, I'll help.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e043.jpg"
+    },
+    {
+        "name": "Lisbeth the Blacksmith",
+        "code": "SAO/S20-E061",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】［【REST】 this card］ When you use an \"Accelerate\" ability, if this card is 【STAND】, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Welcome to Lisbeth's Smith Shop!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e061.jpg"
+    },
+    {
+        "name": "<<Beast Tamer>> Silica",
+        "code": "SAO/S20-E062",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Familiar, Pina\" [(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Familiar, Pina\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "No flavor text",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e062.jpg"
+    },
+    {
+        "name": "Like an Idol, Silica",
+        "code": "SAO/S20-E063",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I-I'm Silica.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e063.jpg"
+    },
+    {
+        "name": "Silica Leaves the Party",
+        "code": "SAO/S20-E064",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "There are plenty of parties that want me!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e064.jpg"
+    },
+    {
+        "name": "《Pina's Heart》",
+        "code": "SAO/S20-E065",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familiar",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage with \"Silica\" in its card name gets +1000 power.",
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Kirito: \"Don't cry. If 《Pina's Heart》 is still here, you can revive her.\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e065.jpg"
+    },
+    {
+        "name": "Cornered Silica",
+        "code": "SAO/S20-E066",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power."
+        ],
+        "flavor_text": "I don't…… have any healing items……!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e066.jpg"
+    },
+    {
+        "name": "Encouraging Lisbeth",
+        "code": "SAO/S20-E067",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Change[(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Lisbeth's Positive Smile\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "He's weird, but he's not a bad guy.\nI'll be cheering for you, so do your best.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e067.jpg"
+    },
+    {
+        "name": "Happening! Silica",
+        "code": "SAO/S20-E068",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "……Did you see?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e068.jpg"
+    },
+    {
+        "name": "Silica's Gratitude",
+        "code": "SAO/S20-E069",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】［【REST】 two of your 《Avatar》 or 《Net》 or 《Familiar》 characters］ This card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "You're a good person! You saved me!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e069.jpg"
+    },
+    {
+        "name": "White Dragon's Lair",
+        "code": "SAO/S20-E071",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, your character in the middle positin of the center stage with \"Kirito\" in its card name gets +1000 power."
+        ],
+        "flavor_text": "Um……thank you. For saving me.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e071.jpg"
+    },
+    {
+        "name": "Their Child, Yui",
+        "code": "SAO/S20-E088",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】［【REST】 this card］ Choose one of your characters with \"Kirito\" or \"Asuna\" in its card name, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "I want the same one as daddy.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e088.jpg"
+    },
+    {
+        "name": "Kirito's Quiet Days",
+        "code": "SAO/S20-E089",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Asuna Changes Clothes\" [(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Asuna Changes Clothes\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Morning. Sleep well?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e089.jpg"
+    },
+    {
+        "name": "Kirito - Start of the Battle",
+        "code": "SAO/S20-E090",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "W-Wait a second, we take turns as forward!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e090.jpg"
+    },
+    {
+        "name": "Sachi's Bloomed Admiration",
+        "code": "SAO/S20-E091",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[(2) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, draw a card."
+        ],
+        "flavor_text": "…… Really?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e091.jpg"
+    },
+    {
+        "name": "Lovely Girl, Yui",
+        "code": "SAO/S20-E092",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Mommy!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e092.jpg"
+    },
+    {
+        "name": "Kirito - Snow Mountain on Floor 55",
+        "code": "SAO/S20-E093",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "What's wrong, Lisbeth? Giving up already?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e093.jpg"
+    },
+    {
+        "name": "Kirito Joins the Knights of the Blood Oath",
+        "code": "SAO/S20-E094",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "……D-Didn't I request something that wasn't so flashy……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e094.jpg"
+    },
+    {
+        "name": "Axe Warrior, Agil",
+        "code": "SAO/S20-E095",
+        "rarity": "C",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I'm gonna make a fortune off today's drops. I have no intention of dying.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e095.jpg"
+    },
+    {
+        "name": "A Sworn Promise",
+        "code": "SAO/S20-E023",
+        "rarity": "CR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "If we make it back to the real world, I'll find you again--\nAnd fall in love with you again.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e023.jpg"
+    },
+    {
+        "name": "Spell Chanting",
+        "code": "SAO/S20-E044",
+        "rarity": "CR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Ekk, Skit, Totoog, Smarl, Stridda.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e044.jpg"
+    },
+    {
+        "name": "Seeking Warmth",
+        "code": "SAO/S20-E072",
+        "rarity": "CR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "……it's warm.\nYou and I are both data in a virtual world, but……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e072.jpg"
+    },
+    {
+        "name": "<<Dual-wielding>> User",
+        "code": "SAO/S20-E098",
+        "rarity": "CR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【DRAW】: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "Wwwoooooaaah!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e098.jpg"
+    },
+    {
+        "name": "<<Star Splash>>",
+        "code": "SAO/S20-E024",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+        ],
+        "flavor_text": "Yaaaa!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e024.jpg"
+    },
+    {
+        "name": "Duel in the Arena",
+        "code": "SAO/S20-E025",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
+        ],
+        "flavor_text": "Splendid reaction time.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e025.jpg"
+    },
+    {
+        "name": "Repressed Feelings",
+        "code": "SAO/S20-E045",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+        ],
+        "flavor_text": "I--I betrayed my own heart. I betrayed my love for you.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e045.jpg"
+    },
+    {
+        "name": "First Adventure",
+        "code": "SAO/S20-E073",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters gets +2 soul."
+        ],
+        "flavor_text": "No flavor text",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e073.jpg"
+    },
+    {
+        "name": "Pina's Resurrection",
+        "code": "SAO/S20-E074",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Pina…… I'll talk to you lots and lots, okay?",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e074.jpg"
+    },
+    {
+        "name": "Awakened Feelings",
+        "code": "SAO/S20-E075",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I-I like you!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e075.jpg"
+    },
+    {
+        "name": "End of the World",
+        "code": "SAO/S20-E099",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Asuna: \"Thank you…… I love you……\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e099.jpg"
+    },
+    {
+        "name": "Sudden Farewell",
+        "code": "SAO/S20-E100",
+        "rarity": "CC",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters gets +2 soul."
+        ],
+        "flavor_text": "Please, from now on…… go and help people in my place…… share your happiness with them……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_sao_s20_e100.jpg"
+    },
+    {
+        "name": "<<Lead Group>> Asuna",
+        "code": "SAO/S20-E101",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to two times per turn. When you use an 【ACT】, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "But, I want to go back.\nThere are lots of things I never had the chance to do there.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_E101.jpg"
+    },
+    {
+        "name": "<<Lead Group>> Kirito",
+        "code": "SAO/S20-E102",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.",
+            "【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck."
+        ],
+        "flavor_text": "Unless we do our best, it isn't fair to the merchants and others who are supporting us.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_E102.jpg"
+    },
+    {
+        "name": "<<Beater>> Kirito",
+        "code": "SAO/S20-E103",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】[(1)］ Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "From now on, don't confuse me with the other testers.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_E103.jpg"
+    },
+    {
+        "name": "Kirito & Asuna",
+        "code": "SAO/S20-E104",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power.",
+            "【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】[(1)］ This card gets +1000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "Asuna: \"Even if I get killed by a monster, I don't want to lose to this game… To this world. No matter what.\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_E104.jpg"
+    },
+    {
+        "name": "Asuna Enters the Underground Dungeon",
+        "code": "SAO/S20-E105",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn."
+        ],
+        "flavor_text": "Take care of Yui! You three should run!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_E105.jpg"
+    },
+    {
+        "name": "Asuna Jumps to Conclusions",
+        "code": "SAO/S20-TE01",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "D-Don't look over here……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE01.jpg"
+    },
+    {
+        "name": "Asuna - Start of the Battle",
+        "code": "SAO/S20-TE02",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "So I'll accept your offer, and take it easy today.\nYou can play at forward!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE02.jpg"
+    },
+    {
+        "name": "Heathcliff's Hidden Identity",
+        "code": "SAO/S20-TE03",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Kirito, I must reward you for deducing my identity. I shall give you a chance.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE03.jpg"
+    },
+    {
+        "name": "Asuna Replies to a Proposal",
+        "code": "SAO/S20-TE04",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, choose one of your characters, and that character gets +1 soul until end of turn. （The revealed cards are returned to their original place.)"
+        ],
+        "flavor_text": "…… Yes.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE04.jpg"
+    },
+    {
+        "name": "Asuna's Veteran Cooking Skill",
+        "code": "SAO/S20-TE05",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if the number of other 《Avatar》 characters you have is two or more, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "That takes care of the stew.\nI'll make some side dishes.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE05.jpg"
+    },
+    {
+        "name": "<<Star Splash>>",
+        "code": "SAO/S20-TE06",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+        ],
+        "flavor_text": "Yaaaa!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE06.jpg"
+    },
+    {
+        "name": "Kirito - Start of the Battle",
+        "code": "SAO/S20-TE07",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "W-Wait a second, we take turns as forward!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE07.jpg"
+    },
+    {
+        "name": "Their Child, Yui",
+        "code": "SAO/S20-TE08",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】［【REST】 this card］ Choose one of your characters with \"Kirito\" or \"Asuna\" in its card name, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "I want the same one as daddy.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE08.jpg"
+    },
+    {
+        "name": "Lovely Girl, Yui",
+        "code": "SAO/S20-TE09",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It's good.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE09.jpg"
+    },
+    {
+        "name": "Kirito Joins the Knights of the Blood Oath",
+        "code": "SAO/S20-TE10",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "……D-Didn't I request something that wasn't so flashy……",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE10.jpg"
+    },
+    {
+        "name": "Axe Warrior, Agil",
+        "code": "SAO/S20-TE11",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "You should be happy to see me.\nI shut my shop down to come and help.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE11.jpg"
+    },
+    {
+        "name": "Kirito - Snow Mountain on Floor 55",
+        "code": "SAO/S20-TE12",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "Get over there, and hide!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE12.jpg"
+    },
+    {
+        "name": "End of the World",
+        "code": "SAO/S20-TE13",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Asuna: \"Thank you…… I love you……\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE13.jpg"
+    },
+    {
+        "name": "<<Dual-wielding>> User",
+        "code": "SAO/S20-TE14",
+        "rarity": "TD",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【DRAW】: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "Wwwoooooaaah!!",
+        "set": "SAO",
+        "release": "20",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_TE14.jpg"
+    },
+    {
+        "name": "Fair and Beautiful, Asuna",
+        "code": "SAO/S20-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Well, anyway… Thanks for today.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_PE01.png"
+    },
+    {
+        "name": "Asuna in the Bath",
+        "code": "SAO/S20-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be chosen by your opponent's effects.",
+            "【CONT】 During your turn, all of your other characters get +1000 power."
+        ],
+        "flavor_text": "～♪",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_PE02.png"
+    },
+    {
+        "name": "A Happy Moment, Asuna & Yui",
+        "code": "SAO/S20-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Net"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other characters get +500 power."
+        ],
+        "flavor_text": "Asuna: \"We'll be together forever, Yui.\"",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_PE03.png"
+    },
+    {
+        "name": "Asuna - Two Worlds",
+        "code": "SAO/S20-PE04",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】［①］ This card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "No, I knew. I knew---you'd come to save me…",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_PE04.png"
+    },
+    {
+        "name": "Asuna Conveying Her Feelings",
+        "code": "SAO/S20-PE05",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【ACT】［①] This card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Ah, seriously… When you relax, you really do space out, whether in the game or here.",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_S20_PE05.png"
+    },
+    {
+        "name": "SD Asuna",
+        "code": "SAO/S20-E106",
+        "rarity": "PR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "...",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E106",
+        "image": "http://jktcg.com/WS_EN/EN_SAO1_S20/SAO_S20_E106.jpg"
+    },
+    {
+        "name": "SD Silica",
+        "code": "SAO/S20-E107",
+        "rarity": "PR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power."
+        ],
+        "flavor_text": "...",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E107",
+        "image": "http://jktcg.com/WS_EN/EN_SAO1_S20/SAO_S20_E107.jpg"
+    },
+    {
+        "name": "SD Kirito",
+        "code": "SAO/S20-E108",
+        "rarity": "PR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "...",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E108",
+        "image": "http://jktcg.com/WS_EN/EN_SAO1_S20/SAO_S20_E108.jpg"
+    },
+    {
+        "name": "SD Yui",
+        "code": "SAO/S20-E109",
+        "rarity": "PR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "...",
+        "set": "SAO",
+        "release": "20",
+        "sid": "E109",
+        "image": "http://jktcg.com/WS_EN/EN_SAO1_S20/SAO_S20_E109.jpg"
+    },
+    {
+        "name": "Suguha Conveying Her Feelings",
+        "code": "SAO/S20-PE06",
+        "rarity": "PR",
+        "expansion": "Sword Art Online",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until the end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "SAO",
+        "release": "20",
+        "sid": "PE06",
+        "image": "http://jktcg.com/WS_EN/EN_SAO1_S20/SAO_S20_PE06.jpg"
+    }
+]

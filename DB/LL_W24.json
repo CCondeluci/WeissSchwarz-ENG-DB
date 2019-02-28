@@ -1,0 +1,4248 @@
+[
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Maki Nishikino",
+        "code": "LL/W24-E001",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［Put a climax from your hand into your waiting room］ When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Change\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E001.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Honoka Kosaka",
+        "code": "LL/W24-E002",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(2)］ When a card named \"Our LIVE, the LIFE with You\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one level 0 or lower 《Music》 character, and put it on any position of your stage. Shuffle your deck afterwards, and that character gets +1000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E002.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Nozomi Tojo",
+        "code": "LL/W24-E003",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, reveal the top card of your deck. If that card is a 《Music》 character, choose another of your 《Music》 characters, and that character gets +2000 power and soul +1 until end of turn. （The revealed card is returned to its original place.)"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E003.png"
+    },
+    {
+        "name": "Student Council President, Eli",
+        "code": "LL/W24-E026",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"What I Really Want to Do\" is in your climax area, you may pay the cost. If you do, until end of your opponent's next turn, this card gets +2500 power and your opponent cannot play event cards from hand.",
+            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "…What I… want to do… That's…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E026.png"
+    },
+    {
+        "name": "Idol Otaku, Nico",
+        "code": "LL/W24-E027",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Otaku"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】［(2) Put a card from your hand to your waiting room］ When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Let's see～ my favorite food is～",
+        "set": "LL",
+        "release": "24",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E027.png"
+    },
+    {
+        "name": "Otonokizaka High 2nd Year, Kotori",
+        "code": "LL/W24-E051",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Favorite Place\" is in your climax area, you may pay the cost. If you do, choose up to two of your other characters, and those characters get +3000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Umi: \"Are you listening? If the skirt doesn't at least reach my knees, I'm not wearing it. Understood?!\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E051.png"
+    },
+    {
+        "name": "Otonokizaka High 2nd Year, Umi",
+        "code": "LL/W24-E052",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"You're the worst!\" is in your climax area, choose a character in your waiting room, return it to your hand, and all your 《Music》 characters get +1000 power until end of turn."
+        ],
+        "flavor_text": "Eh?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E052.png"
+    },
+    {
+        "name": "Otonokizaka High 1st Year, Rin",
+        "code": "LL/W24-E076",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named \"μ's Teammates\" is in your climax area, and the number of other 《Music》 characters you have is three or more, you may pay the cost. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "We'll send her off with a lively show!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E076.png"
+    },
+    {
+        "name": "Loves Idols, Hanayo",
+        "code": "LL/W24-E077",
+        "rarity": "RR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 ［(2)］ When a card named \"Declaration of Participation\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to three cost 0 or lower 《Music》 characters or \"Alpaca\", and put them on separate positions of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Is this the \"Legendary Idol Legend\" complete DVD box set? I've never met someone who owned this before!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E077.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Umi Sonoda",
+        "code": "LL/W24-E004",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +500 power.",
+            "【ACT】 Brainstorm ［(1) 【REST】 two of your characters］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E004.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Eli Ayase",
+        "code": "LL/W24-E005",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E005.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006a",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006a.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006b",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006b.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006c",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006c.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006d",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006d",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006d.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006e",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006e",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006e.png"
+    },
+    {
+        "name": "\"With a `Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006f",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006f",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006f.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006g",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006g",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006g.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006h",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006h",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006h.png"
+    },
+    {
+        "name": "\"With a Summer Smile 1,2,Jump!\" μ's",
+        "code": "LL/W24-E006i",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 ［(1)] When this card attacks, if a card named \"Mermaid festa vol.1\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck\u001066\u0005\u0010??"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E006i",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E006i.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Kotori Minami",
+        "code": "LL/W24-E007",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E007.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Rin Hoshizora",
+        "code": "LL/W24-E008",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+            "【ACT】 [【REST】 two of your characters] This card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E008.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Nico Yazawa",
+        "code": "LL/W24-E009",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Music》 character attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E009.png"
+    },
+    {
+        "name": "\"Our LIVE, the LIFE with You\" Hanayo Koizumi",
+        "code": "LL/W24-E010",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 one of your 【STAND】 《Music》 characters] When this card attacks, you may pay the cost. If you do, choose one of your other 《Music》 characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E010.png"
+    },
+    {
+        "name": "Spiritual Power, Nozomi",
+        "code": "LL/W24-E028",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is not a 《Music》 character, put that card into your clock. （If it is not, return the revealed card to its original place.)"
+        ],
+        "flavor_text": "It's what the cards are telling me to do!!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E028.png"
+    },
+    {
+        "name": "Otonokizaka High 3rd Year, Nico",
+        "code": "LL/W24-E029",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Otaku"
+        ],
+        "ability": [
+            "【CONT】 If you would pay the \"Change\" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock.",
+            "【AUTO】 When this card is placed on stage from your hand, put the top card of your deck underneath this card as a marker.",
+            "【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn."
+        ],
+        "flavor_text": "You'd better not be serious!!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E029.png"
+    },
+    {
+        "name": "Otonokizaka High 3rd Year, Nozomi",
+        "code": "LL/W24-E030",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Music》 characters, and that character gets +2000 power until end of turn.",
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "Those three seem serious.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E030.png"
+    },
+    {
+        "name": "Otonokizaka High 3rd Year, Eli",
+        "code": "LL/W24-E031",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on stage from your hand, if the number of other 《Music》 characters you have is four or more, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "Honoka: \"You're tall, you have long legs, and you're beautiful, more than anything, you're so mature… I wouldn't expect less from a third year…!\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E031.png"
+    },
+    {
+        "name": "Secondary Leader Type, Kotori",
+        "code": "LL/W24-E053",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +500 power.",
+            "【AUTO】 [(1) 【REST】 this card] When you use \"Change\", if this card is 【STAND】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E053.png"
+    },
+    {
+        "name": "Energetic by Nature, Honoka",
+        "code": "LL/W24-E054",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +500 power and \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"First Thoughts\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm fine! I'm on fire!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E054.png"
+    },
+    {
+        "name": "Driving Force Behind μ's, Honoka",
+        "code": "LL/W24-E055",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 Change ［Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Honoka Kosaka\" in your waiting room, and put it on the stage position that this card was on.",
+            "【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"We Are Now Waiting In the Shining Light\"μ's\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Kotori, I'm sorry!\nI want to keep being a School Idol!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E055.png"
+    },
+    {
+        "name": "True Japanese Lady, Umi",
+        "code": "LL/W24-E056",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
+            "【ACT】 [【REST】 two of your 《Music》 characters] This card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Waiting will only make it more painful.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E056.png"
+    },
+    {
+        "name": "Rin's Childhood Friend, Hanayo",
+        "code": "LL/W24-E078",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +500 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "Oh, um… It's nothing…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E078.png"
+    },
+    {
+        "name": "Great at Singing, Maki",
+        "code": "LL/W24-E079",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1 level and +1000 power.",
+            "【CONT】 If you would pay the \"Change\" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock.",
+            "【AUTO】 When this card is placed on stage from your hand, put the top card of your deck underneath this card as a marker."
+        ],
+        "flavor_text": "Honoka: \"Let the School Idol group, μ's, begin practicing.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E079.png"
+    },
+    {
+        "name": "Hanayo's Childhood Friend, Rin",
+        "code": "LL/W24-E080",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Rin Hoshizora\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E080.png"
+    },
+    {
+        "name": "Otonokizaka High 1st Year, Maki",
+        "code": "LL/W24-E081",
+        "rarity": "R",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E081.png"
+    },
+    {
+        "name": "Kotori Minami",
+        "code": "LL/W24-E011",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E011.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012a",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012a.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012b",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012b.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012c",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012c.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012d",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012d",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012d.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012e",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012e",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012e.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012f",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012f",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012f.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012g",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012g",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012g.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012h",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012h",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012h.png"
+    },
+    {
+        "name": "\"Tight Hug, and Closing In on \"love\"!\" μ's",
+        "code": "LL/W24-E012i",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E012i",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E012i.png"
+    },
+    {
+        "name": "Umi Sonoda",
+        "code": "LL/W24-E013",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 【REST】 《Music》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E013.png"
+    },
+    {
+        "name": "\"We Are Now Waiting In the Shining Light\" μ's",
+        "code": "LL/W24-E014",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"Youthfulness Must Be Listening\" is in your climax area, all of your characters get +3000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E014.png"
+    },
+    {
+        "name": "Club Leader, Nico",
+        "code": "LL/W24-E032",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Otaku"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E032.png"
+    },
+    {
+        "name": "Swimsuit Nozomi",
+        "code": "LL/W24-E033",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "【AUTO】 Change ［(1) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Nozomi Tojo\" in your waiting room, and put it on the stage position that this card was on.",
+            "【ACT】 [【REST】 this card] Choose one of your 《Music》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E033.png"
+    },
+    {
+        "name": "Maid Outfit Nico",
+        "code": "LL/W24-E034",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Work that Brings a Smile\" is in your climax area, this card gets +5500 power until end of turn, and at the beginning of your encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "Nico-Nico-Ni! How do I look?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E034.png"
+    },
+    {
+        "name": "Nico Likes Pranks",
+        "code": "LL/W24-E035",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Mm～hm",
+        "set": "LL",
+        "release": "24",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E035.png"
+    },
+    {
+        "name": "\"Secrets\" Nozomi",
+        "code": "LL/W24-E036",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Tarot Reading\" is in your climax area, choose up to one of your other characters, put it into your stock, choose one of your characters, and that character gets +2000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "I think I may have said too much. Don't tell anyone else.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E036.png"
+    },
+    {
+        "name": "Ascension",
+        "code": "LL/W24-E045",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to one card with \"Change\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards, and put this card into your memory."
+        ],
+        "flavor_text": "Rin: \"Huh～ She isn't here...\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E045.png"
+    },
+    {
+        "name": "Everyone at the Beach",
+        "code": "LL/W24-E046",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of cards in your stock."
+        ],
+        "flavor_text": "Umi: \"P-Please don't do that, Nozomi… Nozomi!!\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E046.png"
+    },
+    {
+        "name": "Memories of That Day",
+        "code": "LL/W24-E047",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Look at the top card of your opponent's deck, and put it on the top or the bottom of your opponent's deck. Put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E047.png"
+    },
+    {
+        "name": "Maid Outfit Umi",
+        "code": "LL/W24-E057",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage with \"Honoka(穂乃果)\" in its card name gets +500 power.",
+            "【AUTO】 Bond／\"Driving Force Behind μ's, Honoka\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Driving Force Behind μ's, Honoka\" in your waiting room, and return it to your hand.）"
+        ],
+        "flavor_text": "Welcome back, Master…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E057.png"
+    },
+    {
+        "name": "Maid Outfit Honoka",
+        "code": "LL/W24-E058",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【AUTO】 ［Return two characters in your waiting room to your deck. Shuffle your deck afterwards］ When this card attacks, you may pay the cost. If you do, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Umi!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E058.png"
+    },
+    {
+        "name": "Archery Club, Umi",
+        "code": "LL/W24-E059",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "……",
+        "set": "LL",
+        "release": "24",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E059.png"
+    },
+    {
+        "name": "Real Feelings, Kotori",
+        "code": "LL/W24-E060",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "…No, I'm sorry…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E060.png"
+    },
+    {
+        "name": "\"Not Fair\" Kotori",
+        "code": "LL/W24-E061",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power."
+        ],
+        "flavor_text": "Umi: \"…That's not fair, Kotori…\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E061.png"
+    },
+    {
+        "name": "Makeshift Approach",
+        "code": "LL/W24-E070",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters with \"Kotori(ことり)\" in its card name in battle, and put it into your memory. At the beginning of your next draw phase, put that character from your memory on any position of your stage, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Kotori? What? Who is that?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E070.png"
+    },
+    {
+        "name": "Climbing a Tree Together",
+        "code": "LL/W24-E071",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 《Music》 characters in your waiting room, and return it to your hand. Choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Wah!! I'm scared!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E071.png"
+    },
+    {
+        "name": "Uncool Step",
+        "code": "LL/W24-E072",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Deal five damage to your opponent. （This damage may be canceled）"
+        ],
+        "flavor_text": "I see… I came up with that choreography…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E072.png"
+    },
+    {
+        "name": "Powerful Pride, Maki",
+        "code": "LL/W24-E082",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【ACT】 Brainstorm ［(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Music》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E082.png"
+    },
+    {
+        "name": "\"Secrets\" Maki",
+        "code": "LL/W24-E083",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Maki Nishikino\" in your waiting room, and put it on the stage position that this card was on.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "You're a handful, aren't you?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E083.png"
+    },
+    {
+        "name": "Swimsuit Hanayo",
+        "code": "LL/W24-E084",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "【CONT】 If you have other characters with \"Rin(凛)\" in its card name, this card gets +1000 power and \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"."
+        ],
+        "flavor_text": "Ahh…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E084.png"
+    },
+    {
+        "name": "Encouraging Maki",
+        "code": "LL/W24-E085",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E085.png"
+    },
+    {
+        "name": "Maid Outfit Rin",
+        "code": "LL/W24-E086",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Music》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E086.png"
+    },
+    {
+        "name": "Smile! Push-ups!",
+        "code": "LL/W24-E095",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Music》 characters, and that character gets +3500 power until end of turn."
+        ],
+        "flavor_text": "Ooh, ooh…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E095.png"
+    },
+    {
+        "name": "Childhood Dreams",
+        "code": "LL/W24-E096",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 《Music》 characters, and 【REST】 it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "If you want to do it, do it… They're right…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E096.png"
+    },
+    {
+        "name": "Great Day for Practice?",
+        "code": "LL/W24-E097",
+        "rarity": "U",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Tsh--!!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E097.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015a",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Thank you for coming, everyone!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015a.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015b",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"We performed our first concert in this auditorium.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015b.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015c",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"We performed our first concert in this auditorium.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015c.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015d",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"At the time, I thought I wanted to fill these seats someday.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015d",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015d.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015e",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"We performed our first concert in this auditorium.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015e",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015e.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015f",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"At the time, I thought I wanted to fill these seats someday.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015f",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015f.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015g",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"At the time, I thought I wanted to fill these seats someday.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015g",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015g.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015h",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"At the time, I thought I wanted to fill these seats someday.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015h",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015h.png"
+    },
+    {
+        "name": "\"A New Start\" μ's",
+        "code": "LL/W24-E015i",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Honoka: \"We performed our first concert in this auditorium.\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E015i",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E015i.png"
+    },
+    {
+        "name": "Eli Ayase",
+        "code": "LL/W24-E016",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E016.png"
+    },
+    {
+        "name": "Nico Yazawa",
+        "code": "LL/W24-E017",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E017.png"
+    },
+    {
+        "name": "Hanayo Koizumi",
+        "code": "LL/W24-E018",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E018.png"
+    },
+    {
+        "name": "Rin Hoshizora",
+        "code": "LL/W24-E019",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 2000, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E019.png"
+    },
+    {
+        "name": "Nozomi Tojo",
+        "code": "LL/W24-E020",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E020.png"
+    },
+    {
+        "name": "Maki Nishikino",
+        "code": "LL/W24-E021",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】［(1) 【REST】 this card］ Choose one of your characters, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E021.png"
+    },
+    {
+        "name": "Honoka Kosaka",
+        "code": "LL/W24-E022",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your 【STAND】 《Music》 characters, and 【REST】 it."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E022.png"
+    },
+    {
+        "name": "Caring for Friends, Nozomi",
+        "code": "LL/W24-E037",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Otonokizaka High 3rd Year, Eli\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Otonokizaka High 3rd Year, Eli\" in your waiting room, and return it to your hand.）"
+        ],
+        "flavor_text": "Even your desire to keep the school open comes from your sense of responsibility as the student council president?!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E037.png"
+    },
+    {
+        "name": "Alisa Ayase",
+        "code": "LL/W24-E038",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】［(1)］ This card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Really?! I'm so happy!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E038.png"
+    },
+    {
+        "name": "\"Khorosho\" Eli",
+        "code": "LL/W24-E039",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 Change ［Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Eli Ayase\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Khorosho…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E039.png"
+    },
+    {
+        "name": "Swimsuit Eli",
+        "code": "LL/W24-E040",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Maki seems hard to get along with.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E040.png"
+    },
+    {
+        "name": "Plotting Secretly, Nico",
+        "code": "LL/W24-E041",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Otaku"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 Change ［(3) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Nico Yazawa\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "……I thought this might happen, so I've already picked out an easily high-scoring song…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E041.png"
+    },
+    {
+        "name": "Maid Outfit Eli",
+        "code": "LL/W24-E042",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get +500 power.",
+            "【ACT】 [(1) 【REST】 this card] Choose a card in your clock, and return it to your hand. Choose a card in your hand, and put it into your clock."
+        ],
+        "flavor_text": "Honoka: \"Ohhh～!!\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E042.png"
+    },
+    {
+        "name": "Maid Outfit Nozomi",
+        "code": "LL/W24-E043",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E043.png"
+    },
+    {
+        "name": "A Quarter Russian, Eli",
+        "code": "LL/W24-E044",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E044.png"
+    },
+    {
+        "name": "Runaway Delusions, Umi",
+        "code": "LL/W24-E062",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Worries"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Bam!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E062.png"
+    },
+    {
+        "name": "Daughter of a Japanese Confectionery, Honoka",
+        "code": "LL/W24-E063",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Welcome!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E063.png"
+    },
+    {
+        "name": "\"Minalinsky\" Kotori",
+        "code": "LL/W24-E064",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【AUTO】 Change ［(1) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Kotori Minami\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Welcome back! Master♪",
+        "set": "LL",
+        "release": "24",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E064.png"
+    },
+    {
+        "name": "Yukiho Kosaka",
+        "code": "LL/W24-E065",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sweets",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Honoka(穂乃果)\" in its card name, this card gets +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E065.png"
+    },
+    {
+        "name": "Daughter of the Chairman, Kotori",
+        "code": "LL/W24-E066",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Umi… I… The truth is…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E066.png"
+    },
+    {
+        "name": "Childhood Umi",
+        "code": "LL/W24-E067",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Umi Sonoda\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Ah…ahh…",
+        "set": "LL",
+        "release": "24",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E067.png"
+    },
+    {
+        "name": "Swimsuit Honoka",
+        "code": "LL/W24-E068",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Nico, come play with us!!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E068.png"
+    },
+    {
+        "name": "Otonokizaka High 2nd Year, Honoka",
+        "code": "LL/W24-E069",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Yeah! Information about our concert.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E069.png"
+    },
+    {
+        "name": "Athletic Rin",
+        "code": "LL/W24-E087",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Swimsuit Hanayo\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Swimsuit Hanayo\" in your waiting room, and return it to your hand.）"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E087.png"
+    },
+    {
+        "name": "Alpaca",
+        "code": "LL/W24-E088",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Animal",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Loves Idols, Hanayo\" get +1000 power."
+        ],
+        "flavor_text": "Munch munch",
+        "set": "LL",
+        "release": "24",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E088.png"
+    },
+    {
+        "name": "Swimsuit Rin",
+        "code": "LL/W24-E089",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Swimsuit"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "You can do it!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E089.png"
+    },
+    {
+        "name": "Maid Outfit Hanayo",
+        "code": "LL/W24-E090",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 If this card is on your center stage, this card cannot 【STAND】 during your stand phase."
+        ],
+        "flavor_text": "We're going to Akiba dressed like this?!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E090.png"
+    },
+    {
+        "name": "Otonokizaka High 1st Year, Hanayo",
+        "code": "LL/W24-E091",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your 《Music》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Our LIVE, the LIFE with You\" Hanayo Koizumi\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E091.png"
+    },
+    {
+        "name": "Strong-minded Maki",
+        "code": "LL/W24-E092",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Heiress"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Music Room Girl\" is in your climax area, you may pay the cost. If you do, all of your characters get +1500 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "In any case, let's go!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E092.png"
+    },
+    {
+        "name": "Rin During an Interview",
+        "code": "LL/W24-E093",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Camera"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power and \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"."
+        ],
+        "flavor_text": "Yeah, doesn't it sound fun!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E093.png"
+    },
+    {
+        "name": "Discovering Oneself, Hanayo",
+        "code": "LL/W24-E094",
+        "rarity": "C",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Good morning!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E094.png"
+    },
+    {
+        "name": "Youthfulness Must Be Listening",
+        "code": "LL/W24-E023",
+        "rarity": "CR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【RETURN】：When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.）"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E023.png"
+    },
+    {
+        "name": "Work that Brings a Smile",
+        "code": "LL/W24-E048",
+        "rarity": "CR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+        ],
+        "flavor_text": "Let's take!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E048.png"
+    },
+    {
+        "name": "First Thoughts",
+        "code": "LL/W24-E073",
+        "rarity": "CR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I'm going to do it. I'll do it!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E073.png"
+    },
+    {
+        "name": "μ's Teammates",
+        "code": "LL/W24-E098",
+        "rarity": "CR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【DRAW】: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "Maki! Maki Maki Maki!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E098.png"
+    },
+    {
+        "name": "Our LIVE, the LIFE with You",
+        "code": "LL/W24-E024",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E024.png"
+    },
+    {
+        "name": "Mermaid festa vol.2",
+        "code": "LL/W24-E025",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】All of your characters gets +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E025.png"
+    },
+    {
+        "name": "What I Really Want to Do",
+        "code": "LL/W24-E049",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "We want you to sing with μ's.\nAs a School Idol!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E049.png"
+    },
+    {
+        "name": "Tarot Reading",
+        "code": "LL/W24-E050",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "What are you going to do?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E050.png"
+    },
+    {
+        "name": "Favorite Place",
+        "code": "LL/W24-E074",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "This is your table.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E074.png"
+    },
+    {
+        "name": "You're the worst!",
+        "code": "LL/W24-E075",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "I didn't think you were that kind of person.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E075.png"
+    },
+    {
+        "name": "Declaration of Participation",
+        "code": "LL/W24-E099",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "But I believe I want to be an idol more than anyone else!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E099.png"
+    },
+    {
+        "name": "Music Room Girl",
+        "code": "LL/W24-E100",
+        "rarity": "CC",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Honoka: \"What a beautiful voice…\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_E100.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Nico Yazawa",
+        "code": "LL/W24-E101",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I'll Nico-Nico-Ni your happiness???",
+        "set": "LL",
+        "release": "24",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e101.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Umi Sonoda",
+        "code": "LL/W24-E102",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as【REST】.)",
+            "【ACT】 [(1)【REST】 two of your 《Music》 characters] This card gets +4000 power until end of turn."
+        ],
+        "flavor_text": "To head towards the most interesting direction without turning away…\nThat could very well be Honoka's unique trait.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e102.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Eli Ayase",
+        "code": "LL/W24-E103",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn."
+        ],
+        "flavor_text": "I have decided to believe in everyone and work hard.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e103.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Maki Nishikino",
+        "code": "LL/W24-E104",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I'll do my best--- so cheer for me, alright?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e104.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Nozomi Tojo",
+        "code": "LL/W24-E105",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "I hope that my power can reach everyone today---",
+        "set": "LL",
+        "release": "24",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e105.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Hanayo Koizumi",
+        "code": "LL/W24-E106",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, your other character in the middle position of your center stage gets +500 power.",
+            "【CONT】 Assist All of your characters in front of this card get +1000 power."
+        ],
+        "flavor_text": "Hanayo, having a lovely August?",
+        "set": "LL",
+        "release": "24",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e106.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Rin Hoshizora",
+        "code": "LL/W24-E107",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [(1)] This card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Singing and dancing just for you,\nthe cold just doesn't seem to matter anymore.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e107.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Kotori Minami",
+        "code": "LL/W24-E108",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power."
+        ],
+        "flavor_text": "If a tiny smile can reach your heart.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e108.png"
+    },
+    {
+        "name": "\"Wonderful Rush\" Honoka Kosaka",
+        "code": "LL/W24-E109",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+            "【AUTO】 When another of your 《Music》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Let's get started!!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E109",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e109.png"
+    },
+    {
+        "name": "\"Oh ,Love & Peace!\" μ's",
+        "code": "LL/W24-E110",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 When this card attacks, if a card name \"Wonderful Rush\" is in your climax area, you may pay the cost. If you do, choose one of your 《Music》 characters, and that character gets +5000 power until end of turn."
+        ],
+        "flavor_text": "Let's go! Towards a new future!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E110",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e110.png"
+    },
+    {
+        "name": "Wonderful Rush",
+        "code": "LL/W24-E111",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Come on, it's time to go!",
+        "set": "LL",
+        "release": "24",
+        "sid": "E111",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e111.png"
+    },
+    {
+        "name": "We Are Now Waiting In the Shining Light",
+        "code": "LL/W24-E112a",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "If we come together, we'll all become stronger.\nFor sure. We'll keep changing.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E112a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e112a.png"
+    },
+    {
+        "name": "We Are Now Waiting In the Shining Light",
+        "code": "LL/W24-E112b",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "That it's not just going to be fun. There will be trials, too.\nThat those hardships are part of our future.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E112b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e112b.png"
+    },
+    {
+        "name": "We Are Now Waiting In the Shining Light",
+        "code": "LL/W24-E112c",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Despite that we want to dream the big dream.\nThat's right here and it's beginning now.",
+        "set": "LL",
+        "release": "24",
+        "sid": "E112c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_e112c.png"
+    },
+    {
+        "name": "Runaway Delusions, Umi",
+        "code": "LL/W24-TE01",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Worries"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "I'll pierce your hearts!",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te01.png"
+    },
+    {
+        "name": "Daughter of a Japanese Confectionery, Honoka",
+        "code": "LL/W24-TE02",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Mom?",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te02.png"
+    },
+    {
+        "name": "Daughter of the Chairman, Kotori",
+        "code": "LL/W24-TE03",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I thought my mom would be pretty sad, too…",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te03.png"
+    },
+    {
+        "name": "Archery Club, Umi",
+        "code": "LL/W24-TE04",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te04.png"
+    },
+    {
+        "name": "Otonokizaka High 2nd Year, Honoka",
+        "code": "LL/W24-TE05",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "~♪",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te05.png"
+    },
+    {
+        "name": "\"Not Fair\" Kotori",
+        "code": "LL/W24-TE06",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power."
+        ],
+        "flavor_text": "Umi...Please…!",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te06.png"
+    },
+    {
+        "name": "Climbing a Tree Together",
+        "code": "LL/W24-TE07",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose a 《Music》 character in your waiting room, and return it to your hand.",
+            "Choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "…...Wow……",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te07.png"
+    },
+    {
+        "name": "First Thoughts",
+        "code": "LL/W24-TE08",
+        "rarity": "TD",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "【COME BACK】 When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I'm going to do it. I'll do it!",
+        "set": "LL",
+        "release": "24",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_ll_w24_te08.png"
+    },
+    {
+        "name": "Shining Stage! μ's",
+        "code": "LL/W24-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】 .)"
+        ],
+        "flavor_text": "Honoka: \"We are μ's!\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_PE01.png"
+    },
+    {
+        "name": "Preparations for X'mas, Kotori & Honoka & Umi",
+        "code": "LL/W24-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be 【REVERSE】 by your opponent character's 【AUTO】 effects."
+        ],
+        "flavor_text": "Honoka: \"Will Santa pay a visit to Honoka～?\"",
+        "set": "LL",
+        "release": "24",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LL_W24_PE03.png"
+    },
+    {
+        "name": "Mini Honoka",
+        "code": "LL/W24-E113",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E113",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E113.jpg"
+    },
+    {
+        "name": "Mini Eli",
+        "code": "LL/W24-E114",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E114",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E114.jpg"
+    },
+    {
+        "name": "Mini Kotori",
+        "code": "LL/W24-E115",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E115",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E115.jpg"
+    },
+    {
+        "name": "Mini Umi",
+        "code": "LL/W24-E116",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E116",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E116.jpg"
+    },
+    {
+        "name": "Mini Rin",
+        "code": "LL/W24-E117",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E117",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E117.jpg"
+    },
+    {
+        "name": "Mini Maki",
+        "code": "LL/W24-E118",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E118",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E118.jpg"
+    },
+    {
+        "name": "Mini Nozomi",
+        "code": "LL/W24-E119",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All if your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E119",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E119.jpg"
+    },
+    {
+        "name": "Mini Hanayo",
+        "code": "LL/W24-E120",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E120",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E120.jpg"
+    },
+    {
+        "name": "Mini Nico",
+        "code": "LL/W24-E121",
+        "rarity": "PR",
+        "expansion": "Love Live!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "LL",
+        "release": "24",
+        "sid": "E121",
+        "image": "http://jktcg.com/WS_EN/EN_LL_W24/LL_W24_E121.jpg"
+    }
+]

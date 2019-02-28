@@ -1,0 +1,3459 @@
+[
+    {
+        "name": "Style of a Knight, Saber",
+        "code": "FS/S34-E001",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Search your deck for up to one character with \"Shirou(士郎)\" or \"Saber(セイバー)\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E001RR.png"
+    },
+    {
+        "name": "\"Saber's Master\" Shirou",
+        "code": "FS/S34-E002",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Anger Towards Evil\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.\""
+        ],
+        "flavor_text": "I will be your Master.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E002RR.png"
+    },
+    {
+        "name": "A Knight's Oath, Saber",
+        "code": "FS/S34-E003",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》characters.",
+            "【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled)"
+        ],
+        "flavor_text": "Allow me to renew my vow. So long as there are Command Seals on your body, mine will be your blade.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E003RR.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Rider",
+        "code": "FS/S34-E036",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room. If you do, your opponent chooses up to one level 0 or lower character in his or her waiting room, and puts it on the stage position that character was on. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Dancing After School\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "t You've been caught by me from the beginning.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E036RR.png"
+    },
+    {
+        "name": "For Victory, Rin",
+        "code": "FS/S34-E051",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 Experience If there is a card named \"For Victory, Rin\" and \"Dual-wielding Bowman, Archer\" in your level, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm not as na?ve as Shirou Emiya, but there are some things I won't budge on.\n[「i」の上の2点をご注意ください]",
+        "set": "FS",
+        "release": "34",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "Great Day for a Date, Rin",
+        "code": "FS/S34-E052",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it.",
+            "【AUTO】 [(2)] When this card attacks, if a card named \"Tohsaka's Magic Crest\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of climax in your waiting room. (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E052RR.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Archer",
+        "code": "FS/S34-E053",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, deal X damage to your opponent. X is equal to that character's level. (This damage may be canceled. The revealed card is returned to its original place)",
+            "【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E053RR.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Caster",
+        "code": "FS/S34-E076",
+        "rarity": "RR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Master"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Master》 or 《Servant》 characters you have. 【AUTO】 [(4) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Do you think you can escape?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E076RR.png"
+    },
+    {
+        "name": "Resolution to Fight Together, Shirou",
+        "code": "FS/S34-E004",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Master》 characters get \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one \"\"Saber's Master\" Shirou\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I've decided to fight as a Master.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E004R.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Saber",
+        "code": "FS/S34-E005",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another 《Master》 or 《Servant》 character, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E005R.png"
+    },
+    {
+        "name": "Resolution to Fight Together, Saber",
+        "code": "FS/S34-E006",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+            "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "I have come in response to your summons. Master, what is the situation?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E006R.png"
+    },
+    {
+        "name": "Resolution Not to Fight, Shirou",
+        "code": "FS/S34-E007",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Saber(セイバー)\" in its card name, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's stock.\""
+        ],
+        "flavor_text": "These are Gandr shots?! It's different from what I know!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E007R.png"
+    },
+    {
+        "name": "Battle with Soichiro, Saber",
+        "code": "FS/S34-E008",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Armor Release\" is in your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +5000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E008R.png"
+    },
+    {
+        "name": "Shirou in the Morning Glow",
+        "code": "FS/S34-E009",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [Put a 《Weapon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +2500 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E009R.png"
+    },
+    {
+        "name": "Battle Within the Field, Saber",
+        "code": "FS/S34-E010",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your characters, and that character gets +4000 power until end of turn.",
+            "【AUTO】 Resonate [(1) Reveal a card named \"Activating a Command Seal, Shirou\" in your hand] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E010R.png"
+    },
+    {
+        "name": "Daily Symbol, Sakura",
+        "code": "FS/S34-E037",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one green character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "…about that, Senpai. Maybe you could stop by the dojo?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E037R.png"
+    },
+    {
+        "name": "Bewitching Beauty, Rider",
+        "code": "FS/S34-E038",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put another character from your stage into your waiting room] When this card attacks, if a card named \"\" is in your climax area, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E038R.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Lancer",
+        "code": "FS/S34-E039",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Servant》 characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters, and that character gets -500 power until end of turn."
+        ],
+        "flavor_text": "Curse with your dying breath that\nyou were born with no luck and no power.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E039R.png"
+    },
+    {
+        "name": "Devilish Smile, Rin",
+        "code": "FS/S34-E054",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name gets \"【AUTO】 Encore [Put the top card of your deck into your clock]\"."
+        ],
+        "flavor_text": "Emotional flab.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E054R.png"
+    },
+    {
+        "name": "As a Mage, Rin",
+        "code": "FS/S34-E055",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "You don't have to go to such extremes to help others!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E055R.png"
+    },
+    {
+        "name": "Rin's Servant, Archer",
+        "code": "FS/S34-E056",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Weapon》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one 《Weapon》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Oh, and this is the most damning. Your appeal is hard to see.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E056R.png"
+    },
+    {
+        "name": "Latecomer, Archer",
+        "code": "FS/S34-E057",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When a card named \"Precision Piercing\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 0 or lower characters, put it into your opponent's waiting room, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "I sensed a threat\nto my Master and rushed to her side. It appears I was too late, though.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E057R.png"
+    },
+    {
+        "name": "Cursed Magic Bullet, Rin",
+        "code": "FS/S34-E058",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "You'll die instantly\nif they hit a vital spot!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E058R.png"
+    },
+    {
+        "name": "A Master's Mental State, Rin",
+        "code": "FS/S34-E059",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 Resonate [(1) Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "I brought you here because you weren't officially my enemy yet.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E059R.png"
+    },
+    {
+        "name": "A Bowman's True Value, Archer",
+        "code": "FS/S34-E060",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room.",
+            "【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Imbecile!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E060R.png"
+    },
+    {
+        "name": "Mages' Fighting Style, Caster",
+        "code": "FS/S34-E077",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Master"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card."
+        ],
+        "flavor_text": "Had you worked with me, I would have been willing\nto share the Grail with you.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E077R.png"
+    },
+    {
+        "name": "Silver Thread Alchemy Elgen Lied, Illya",
+        "code": "FS/S34-E078",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Homunculus"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Attacking without warning? What are you, an animal, Rin?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E078R.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Assassin",
+        "code": "FS/S34-E079",
+        "rarity": "R",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if this card is in the middle position of the center stage, this card gets +2000 power."
+        ],
+        "flavor_text": "Kojiro Sasaki,\nAssassin-class Servant.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E079R.png"
+    },
+    {
+        "name": "Battle After School, Shirou",
+        "code": "FS/S34-E011",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Rin: \"You finally came out, eh, Emiya?\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E011U.png"
+    },
+    {
+        "name": "Past Hero, Saber",
+        "code": "FS/S34-E012",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, if a card named \"A Fateful Night\" is in your climax area, you may choose one of your other characters, and return it to your hand."
+        ],
+        "flavor_text": "Rin: \"Servants are basically always\nwith you in spirit form, and should the need arise, you can materialize them and make them fight.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E012U.png"
+    },
+    {
+        "name": "Confronting a Servant, Shirou",
+        "code": "FS/S34-E013",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Weapon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Rider: \"I'm surprised. You aren't going to use a Command Seal?\"\nShirou: \"Sorry, I don't have many left.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E013U.png"
+    },
+    {
+        "name": "Heading for the Rescue, Saber",
+        "code": "FS/S34-E014",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Assassin: \"Even now, you will not\nreveal your Noble Phantasm.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E014U.png"
+    },
+    {
+        "name": "Mischievous Smile, Taiga",
+        "code": "FS/S34-E015",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Teacher",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into your opponent's stock."
+        ],
+        "flavor_text": "Yay?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E015U.png"
+    },
+    {
+        "name": "\"Servant\" Gilgamesh",
+        "code": "FS/S34-E016",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E016U.png"
+    },
+    {
+        "name": "Kind Soul, Shirou",
+        "code": "FS/S34-E017",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "…man, this place never changes.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E017U.png"
+    },
+    {
+        "name": "Archery Club Captain, Mitsuzuri",
+        "code": "FS/S34-E018",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +3500 power.",
+            "【ACT】 [Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your next draw phase, choose a card named \"Archery Club Captain, Ayako\" in your memory, put it on any position of your stage, and put the top card of your deck underneath that character as a marker."
+        ],
+        "flavor_text": "Well, I need to go to the faculty room.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E018U.png"
+    },
+    {
+        "name": "Temporary Rest",
+        "code": "FS/S34-E030",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Look at up to four cards from the top of your deck, choose up to one 《Weapon》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room. Choose one of your characters, and that character gets +4000 power until end of turn. Put this card into your clock."
+        ],
+        "flavor_text": "I can also minimize my mana expenditure by sleeping.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E030U.png"
+    },
+    {
+        "name": "Morning Greeting, Sakura",
+        "code": "FS/S34-E040",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Sports》 or 《Weapon》 character in the middle position of the center stage gets +1500 power."
+        ],
+        "flavor_text": "And good morning to you, Senpai.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E040U.png"
+    },
+    {
+        "name": "Archery Club Member, Sakura",
+        "code": "FS/S34-E041",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Sports》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E041U.png"
+    },
+    {
+        "name": "Bystander, Lancer",
+        "code": "FS/S34-E042",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "You just want me to stand by and watch, right? Don't worry, I'm not gonna help you.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E042U.png"
+    },
+    {
+        "name": "Noble Phantasm Unleashed",
+        "code": "FS/S34-E048",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If the number of green characters you have is two or less, this card cannot be played from your hand.",
+            "Put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock."
+        ],
+        "flavor_text": "So, will you face my\nmightiest blow, then?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E048U.png"
+    },
+    {
+        "name": "Proof of Contract, Rin",
+        "code": "FS/S34-E061",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【ACT】 [【REST】 this card] Choose one of your characters with \"Archer(アーチャー)\" in its card name, until end of turn, that character gets +1500 power and the following ability. \"【CONT】 If the character facing this card is a lower level than this card, this card cannot attack.\""
+        ],
+        "flavor_text": "This is all the proof you need that I am your Master, right?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E061U.png"
+    },
+    {
+        "name": "Fashionable Glasses, Rin",
+        "code": "FS/S34-E062",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named \"Summoning Ritual\" is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Well?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E062U.png"
+    },
+    {
+        "name": "Proof of Contract, Archer",
+        "code": "FS/S34-E063",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power."
+        ],
+        "flavor_text": "As a mage, you should be able to sense the bond between us through our pact.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E063U.png"
+    },
+    {
+        "name": "Archer's Surprise Attack",
+        "code": "FS/S34-E064",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E064U.png"
+    },
+    {
+        "name": "A Bowman's Speciality, Archer",
+        "code": "FS/S34-E065",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of \"A Bowman's Speciality\" in your waiting room is three or more, this card gets -1 level while in your hand.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "He's more an embodiment of\nsavagery than a mad warrior.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E065U.png"
+    },
+    {
+        "name": "Father's Keepsake",
+        "code": "FS/S34-E071",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to two 《Jewel》 characters in your waiting room, return them to your hand, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Oh, right. That pendant.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E071U.png"
+    },
+    {
+        "name": "\"Caster's Master\" Soichiro Kuzuki",
+        "code": "FS/S34-E080",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Teacher"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "You underestimated me, Saber",
+        "set": "FS",
+        "release": "34",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E080U.png"
+    },
+    {
+        "name": "Rin's Classmate, Kane Himuro",
+        "code": "FS/S34-E081",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card.",
+            "【ACT】 [【REST】 one of your characters with \"Assist\"] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Maki, all we need to do is go eat lunch at the cafeteria, right?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E081U.png"
+    },
+    {
+        "name": "Overwhelming Violence, Berserker",
+        "code": "FS/S34-E082",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "power": "9500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "■■■■■―――！",
+        "set": "FS",
+        "release": "34",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E082U.png"
+    },
+    {
+        "name": "Lady, Illya",
+        "code": "FS/S34-E083",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Homunculus"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Illya's Magic, Storch Ritter\" is in your climax area and the number of your other 《Master》 or 《Servant》 characters is three or more, you may draw up to two cards. If you do, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "It's nice to meet you, Rin. I'm Illya.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E083U.png"
+    },
+    {
+        "name": "Hypocritical Courtesy, Kirei",
+        "code": "FS/S34-E084",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Weapon",
+            "Priest"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is five or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until the end of turn."
+        ],
+        "flavor_text": "It is the sixth day since the war commenced. You are the first to have\nmade his way here.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E084U.png"
+    },
+    {
+        "name": "\"Finishing\" Move, Assassin",
+        "code": "FS/S34-E085",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other \"\"Finishing\" Move, Assassin\".",
+            "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two \"\"Finishing\" Move, Assassin\", and put them on separate positions of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Ultimate Technique, Swallow Reversal",
+        "set": "FS",
+        "release": "34",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E085U.png"
+    },
+    {
+        "name": "Tactician, Caster",
+        "code": "FS/S34-E086",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Master"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Master》 characters in front of this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"\"Heroic Spirit\" Caster\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I am leaving\nto claim my prize early.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E086U.png"
+    },
+    {
+        "name": "Illusion magic",
+        "code": "FS/S34-E096",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards."
+        ],
+        "flavor_text": "Saber: \"Rider-class Servant!\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E096U.png"
+    },
+    {
+        "name": "Taken",
+        "code": "FS/S34-E097",
+        "rarity": "U",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 《Master》 characters, and 【REST】 it. If you do, choose one of your opponent's level 2 or lower characters, and put it on the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Saber is now my puppet.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E097U.png"
+    },
+    {
+        "name": "Commanding Aura, Saber",
+        "code": "FS/S34-E019",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E019C.png"
+    },
+    {
+        "name": "At the School Cafeteria, Mitsuzuri",
+        "code": "FS/S34-E020",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until end of turn."
+        ],
+        "flavor_text": "You're not eating with the student\ncouncil president today.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E020C.png"
+    },
+    {
+        "name": "Shirou's Close Friend, Issei",
+        "code": "FS/S34-E021",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power and the character facing this card gets +1 soul for each of your other \"Battle After School, Shirou\"."
+        ],
+        "flavor_text": "Emiya, you'd better hurry and eat\nbefore the lunch break ends.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E021C.png"
+    },
+    {
+        "name": "Tinkering with Machines, Shirou",
+        "code": "FS/S34-E022",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It's okay, I'm almost done.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E022C.png"
+    },
+    {
+        "name": "During Morning Practice, Mitsuzuri",
+        "code": "FS/S34-E023",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck, and your opponent may put the top card of your deck on the bottom of your deck. (If not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Hey, Tohsaka?\nYou're early today.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E023C.png"
+    },
+    {
+        "name": "Usual Morning, Shirou",
+        "code": "FS/S34-E024",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Morning, Fuji-nee.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E024C.png"
+    },
+    {
+        "name": "Student\nCouncil President, Issei",
+        "code": "FS/S34-E025",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "Glasses"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Tohsaka…",
+        "set": "FS",
+        "release": "34",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E025C.png"
+    },
+    {
+        "name": "Usual Morning, Taiga",
+        "code": "FS/S34-E026",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Teacher",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, your opponent chooses the number 0 or 1 or 2. Reveal the top card of your deck, and if that card is a card of a level that matches the number that your opponent chose, draw up to X cards. X is equal to the number that your opponent chose +1. (Climax are regarded as level 0. If it is not, the revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Sakura, good morning～",
+        "set": "FS",
+        "release": "34",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E026C.png"
+    },
+    {
+        "name": "Activating a Command Seal, Shirou",
+        "code": "FS/S34-E027",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Return this card to your hand] When a card named \"Summoning Saber\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Battle Within the Field, Saber\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "That means it's my turn.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E027C.png"
+    },
+    {
+        "name": "Servant with Blond Hair",
+        "code": "FS/S34-E028",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul."
+        ],
+        "flavor_text": "There is a sneer on your lips, holy man.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E028C.png"
+    },
+    {
+        "name": "Hidden Weapon, Saber",
+        "code": "FS/S34-E029",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Lancer: \"Your Noble Phantasm, is it a sword?\"\nSaber: \"Perhaps, perhaps not. It may be a battle axe.\nOr perhaps it is a polearm.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E029C.png"
+    },
+    {
+        "name": "Self-training",
+        "code": "FS/S34-E031",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Until end of turn, all of your characters get +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "Tracing basic structure. Tracing component materials!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E031C.png"
+    },
+    {
+        "name": "Self-concious, Shinji",
+        "code": "FS/S34-E043",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Book",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage."
+        ],
+        "flavor_text": "Really? I thought you were.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E043C.png"
+    },
+    {
+        "name": "Archery Club Vice-captain, Shinji",
+        "code": "FS/S34-E044",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Book",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 Experience This card gets +3000 power for each card named \"Self-concious, Shinji\" in your level."
+        ],
+        "flavor_text": "I was wondering what you've been up to after quitting the club. You're the student council\npresident's errand boy, eh?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E044C.png"
+    },
+    {
+        "name": "Moving Like a Beast, Lancer",
+        "code": "FS/S34-E045",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order."
+        ],
+        "flavor_text": "If you're a man,\nshow some dignity, damn it.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E045C.png"
+    },
+    {
+        "name": "Usual Morning, Sakura",
+        "code": "FS/S34-E046",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "I always double-check the gas valve, so we're safe.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E046C.png"
+    },
+    {
+        "name": "Shinji's Servant, Rider",
+        "code": "FS/S34-E047",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E047C.png"
+    },
+    {
+        "name": "Cynic, Archer",
+        "code": "FS/S34-E066",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 Bond／\"Cursed Magic Bullet, Rin\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Cursed Magic Bullet, Rin\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "If we were to fight now, I wouldn't\nhave a choice but to die just like Rider.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E066C.png"
+    },
+    {
+        "name": "Rough Summoning, Archer",
+        "code": "FS/S34-E067",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…hm?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E067C.png"
+    },
+    {
+        "name": "Dual-wielding Bowman, Archer",
+        "code": "FS/S34-E068",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E068C.png"
+    },
+    {
+        "name": "A Different Morning, Rin",
+        "code": "FS/S34-E069",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I guess it's just one of those days.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E069C.png"
+    },
+    {
+        "name": "Summon Rites, Rin",
+        "code": "FS/S34-E070",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters."
+        ],
+        "flavor_text": "Close the gates of the four directions. Come forth from the Crown and follow the forked road leading to the Kingdom.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E070C.png"
+    },
+    {
+        "name": "Warning Before the Battle, Illya",
+        "code": "FS/S34-E087",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Homunculus"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets \"【CONT】 Assist All of your characters in front of this card gets +1000 power.\".",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to one card named \"Warning Before the Battle, Illya\" in your hand, reveal it to your opponent, and put it face down underneath this card as a marker."
+        ],
+        "flavor_text": "If you don't summon yours soon, you're gonna die, Big Brother.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E087C.png"
+    },
+    {
+        "name": "Modern Power, Kirei",
+        "code": "FS/S34-E088",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Priest"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Weapon》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E088C.png"
+    },
+    {
+        "name": "\"Heroic Spirit\" Berserker",
+        "code": "FS/S34-E089",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a 《Servant》 character from your stage into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Rin: \"Berserker!?\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E089C.png"
+    },
+    {
+        "name": "Rin's Classmate, Yukika Saegusa",
+        "code": "FS/S34-E090",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "Manager"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Rin's Classmate, Kane Himuro\" and \"Rin's Classmate, Kaede Makidera\" get +500 power.",
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "E-Excuse me, Tohsaka?\nIf you don't mind, would you like to eat lunch together?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E090C.png"
+    },
+    {
+        "name": "\"Berserker's Master\" Illya",
+        "code": "FS/S34-E091",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Homunculus"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E091C.png"
+    },
+    {
+        "name": "Rin's Classmate, Kaede Makidera",
+        "code": "FS/S34-E092",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "Didn't I tell you? Tohsaka never brings a boxed lunch.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E092C.png"
+    },
+    {
+        "name": "Rule-breaking Noble Phantasm, Caster",
+        "code": "FS/S34-E093",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Master"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Rule-breaking Noble Phantasm\" is in your climax area, choose one trait of a character on your opponent's stage, and until end of turn, all of your opponent's characters lose that trait."
+        ],
+        "flavor_text": "Hmph…",
+        "set": "FS",
+        "release": "34",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E093C.png"
+    },
+    {
+        "name": "Overseer of the Holy Grail War, Kirei",
+        "code": "FS/S34-E094",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Priest"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It chooses the Master who is worthy of it.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E094C.png"
+    },
+    {
+        "name": "Reticent Teacher, Soichiro Kuzuki",
+        "code": "FS/S34-E095",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Teacher"
+        ],
+        "ability": [
+            "【AUTO】 [Put a \"\"Caster's Master\" Soichiro Kuzuki\" from your hand into your clock] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it on the bottom of your opponent's deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
+        ],
+        "flavor_text": "Ryudou, I need to speak to you.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E095C.png"
+    },
+    {
+        "name": "Immense Power",
+        "code": "FS/S34-E098",
+        "rarity": "C",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Master》 characters you have."
+        ],
+        "flavor_text": "■■■―――！",
+        "set": "FS",
+        "release": "34",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E098C.png"
+    },
+    {
+        "name": "Armor Release",
+        "code": "FS/S34-E032",
+        "rarity": "CR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Shot@: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E032CR.png"
+    },
+    {
+        "name": "Dancing After School",
+        "code": "FS/S34-E049",
+        "rarity": "CR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I will kill you gently.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E049CR.png"
+    },
+    {
+        "name": "Tohsaka's Magic Crest",
+        "code": "FS/S34-E072",
+        "rarity": "CR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "This is the embodiment of\nthe magics passed down in my family.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E072CR.png"
+    },
+    {
+        "name": "Illya's Magic, Storch Ritter",
+        "code": "FS/S34-E099",
+        "rarity": "CR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Gate@: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Besides, what do you want me to say\nto someone who is going to die here?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E099CR.png"
+    },
+    {
+        "name": "A Fateful Night",
+        "code": "FS/S34-E033",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I ask you. Are you my Master?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E033CC.png"
+    },
+    {
+        "name": "Anger Towards Evil",
+        "code": "FS/S34-E034",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Shot@: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
+        ],
+        "flavor_text": "Like hell I will! Let Fuji-nee go!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E034CC.png"
+    },
+    {
+        "name": "Summoning Saber",
+        "code": "FS/S34-E035",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Return@: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+        ],
+        "flavor_text": "Please… Come to me, Saber!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E035CC.png"
+    },
+    {
+        "name": "Bounded Field",
+        "code": "FS/S34-E050",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Treasure@: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E050CC.png"
+    },
+    {
+        "name": "Summoning Ritual",
+        "code": "FS/S34-E073",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Come forth from the circle of\nbinding, Guardian of the Scales!",
+        "set": "FS",
+        "release": "34",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E073CC.png"
+    },
+    {
+        "name": "Precision Piercing",
+        "code": "FS/S34-E074",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I am the bone of my sword.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E074CC.png"
+    },
+    {
+        "name": "A Bowman's Speciality",
+        "code": "FS/S34-E075",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E075CC.png"
+    },
+    {
+        "name": "Rule-breaking Noble Phantasm",
+        "code": "FS/S34-E100",
+        "rarity": "CC",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(Draw@: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "I had thought that\nyou were utterly irrational, but you do understand\nyour situation, don't you?",
+        "set": "FS",
+        "release": "34",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E100CC.png"
+    },
+    {
+        "name": "Commanding Aura, Saber",
+        "code": "FS/S34-TE01",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE01.png"
+    },
+    {
+        "name": "Tinkering with Machines, Shirou",
+        "code": "FS/S34-TE02",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It's okay, I'm almost done.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE02.png"
+    },
+    {
+        "name": "Usual Morning, Shirou",
+        "code": "FS/S34-TE03",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Morning, Fuji-nee.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE03.png"
+    },
+    {
+        "name": "Past Hero, Saber",
+        "code": "FS/S34-TE04",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, if a card named \"A Fateful Night\" is in your climax area, you may choose one of your other characters, and return it to your hand."
+        ],
+        "flavor_text": "Rin: \"Servants are basically always\nwith you in spirit form, and should the need arise, you can materialize them and make them fight.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE04.png"
+    },
+    {
+        "name": "Kind Soul, Shirou",
+        "code": "FS/S34-TE05",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+            "【ACT】 COUNTER@ Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "…man, this place never changes.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE05.png"
+    },
+    {
+        "name": "Hidden Weapon, Saber",
+        "code": "FS/S34-TE06",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Lancer: \"Your Noble Phantasm, is it a sword?\"\nSaber: \"Perhaps, perhaps not. It may be a battle axe.\nOr perhaps it is a polearm.\"",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE06.png"
+    },
+    {
+        "name": "Self-training",
+        "code": "FS/S34-TE07",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Until end of turn, all of your characters get +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "Tracing basic structure. Tracing component materials!",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE07.png"
+    },
+    {
+        "name": "A Fateful Night",
+        "code": "FS/S34-TE08",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I ask you. Are you my Master?",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE08.png"
+    },
+    {
+        "name": "Proof of Contract, Rin",
+        "code": "FS/S34-TE09",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【ACT】 [【REST】 this card] Choose one of your characters with \"Archer(アーチャー)\" in its card name, until end of turn, that character gets +1500 power and the following ability. \"【CONT】 If the character facing this card is a lower level than this card, this card cannot attack.\""
+        ],
+        "flavor_text": "This is all the proof you need that I am your Master, right?",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE09.png"
+    },
+    {
+        "name": "Rough Summoning, Archer",
+        "code": "FS/S34-TE10",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…hm?",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE10.png"
+    },
+    {
+        "name": "Dual-wielding Bowman, Archer",
+        "code": "FS/S34-TE11",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack."
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE11.png"
+    },
+    {
+        "name": "A Different Morning, Rin",
+        "code": "FS/S34-TE12",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I guess it's just one of those days.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE12.png"
+    },
+    {
+        "name": "Summon Rites, Rin",
+        "code": "FS/S34-TE13",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters."
+        ],
+        "flavor_text": "Close the gates of the four directions. Come forth from the Crown and follow the forked road leading to the Kingdom.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE13.png"
+    },
+    {
+        "name": "Summoning Ritual",
+        "code": "FS/S34-TE14",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Come forth from the circle of\nbinding, Guardian of the Scales!",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE14.png"
+    },
+    {
+        "name": "A Bowman's Speciality",
+        "code": "FS/S34-TE15",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "-",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE15.png"
+    },
+    {
+        "name": "Holy Grail War Entry, Saber",
+        "code": "FS/S34-TE16",
+        "rarity": "SP",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 two of your characters] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Reveal one card from the top of your deck, and put it into your waiting room. Choose one of your characters, and that character gets +X soul until end of turn. X is equal to the level of the card put into your waiting room with this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Your Servant Saber has come in response to your summons.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "Familiar's Work, Archer",
+        "code": "FS/S34-TE17",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You are quite the slob, aren't you, girl?",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE17.png"
+    },
+    {
+        "name": "For Victory, Rin & Archer",
+        "code": "FS/S34-TE18",
+        "rarity": "SR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Servant"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Master》 or 《Servant》 characters is four or more, you may put the top card of your deck into your stock.",
+            "【AUTO】 [(1)] At the beginning of your encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "Yes, I'm fighting to win. That's all.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE18.png"
+    },
+    {
+        "name": "Jewel Mage, Rin",
+        "code": "FS/S34-TE19",
+        "rarity": "SP",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When another of your 《Master》 or 《Servant》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Say your prayers!",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "Reinforce Magic, Shirou",
+        "code": "FS/S34-TE20",
+        "rarity": "TD",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Trace on.",
+        "set": "FS",
+        "release": "34",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_TE20.png"
+    },
+    {
+        "name": "SD Shirou",
+        "code": "FS/S34-E101",
+        "rarity": "PR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Master》 or 《Servant》 characters get +500 power."
+        ],
+        "flavor_text": "I like people like you.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E101PR.png"
+    },
+    {
+        "name": "SD Saber",
+        "code": "FS/S34-E102",
+        "rarity": "PR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your clock is zero, this card cannot attack."
+        ],
+        "flavor_text": "Give me an order.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E102PR.png"
+    },
+    {
+        "name": "SD Archer",
+        "code": "FS/S34-E103",
+        "rarity": "PR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "If presented with an enemy that is easy to slay, we ought to do so.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E103PR.png"
+    },
+    {
+        "name": "SD Rin",
+        "code": "FS/S34-E104",
+        "rarity": "PR",
+        "expansion": "Fate/stay night [Unlimited Blade Works]",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "For starters, good evening, Emiya.",
+        "set": "FS",
+        "release": "34",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_E104PR.png"
+    },
+    {
+        "name": "The Ones Fighting Against Fate",
+        "code": "FS/S34-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another 《Servant》 character, this card gets +1500 power."
+        ],
+        "flavor_text": "",
+        "set": "FS",
+        "release": "34",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_PE01.png"
+    },
+    {
+        "name": "In an Alliance",
+        "code": "FS/S34-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Servant"
+        ],
+        "ability": [
+            "【CONT】 Assist During your turn, all of your characters in front of this card get +1000 power.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "",
+        "set": "FS",
+        "release": "34",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FS_S34_PE02.png"
+    }
+]

@@ -1,0 +1,1640 @@
+[
+    {
+        "name": "Asuna's Quiet Time",
+        "code": "SAO/SE23-E01",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"On Top of the 《World Tree》\" is placed on your climax area, you may pay the cost. If you do, search your deck for a card named \"Beacon of Hope, Asuna\" and up to one 《Avatar》 or 《Net》 character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Suu Fylla Heill Austr!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E01R.jpg"
+    },
+    {
+        "name": "Sibling Moment, Suguha",
+        "code": "SAO/SE23-E05",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [(2) Put a card from your hand into your waiting room] When a card named \"Fairy Dance\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Virtual and Reality, Leafa & Suguha\" in your hand, and put it on any position of your stage."
+        ],
+        "flavor_text": "Except this isn't similar, it's exactly the same, right?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E05R.jpg"
+    },
+    {
+        "name": "Gathering Materials, Silica",
+        "code": "SAO/SE23-E07",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Did you get all the materials?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E07R.jpg"
+    },
+    {
+        "name": "Shoichi Shinkawa",
+        "code": "SAO/SE23-E08",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Weapon》 characters get +500 power.",
+            "【CONT】 All of your opponent's characters in the center stage get 《Target》."
+        ],
+        "flavor_text": "Kikuoka: \"In Kyoji's eyes, his older brother seemed like a hero.\"",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E08R.jpg"
+    },
+    {
+        "name": "Sterben 《Death Gun》",
+        "code": "SAO/SE23-E09",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if all of your opponent's characters are 《Target》, you may deal one damage to your opponent. (This damage may be canceled)",
+            "【AUTO】 When this card attacks, if a card named \"Fateful Estoc Wielder\" is in your climax area, until the end of your opponent's next turn, this card gets +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "You don't know my name.\nThat's why you'll never remember it.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E09R.jpg"
+    },
+    {
+        "name": "Ideal Self, Sinon",
+        "code": "SAO/SE23-E18",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search you deck for up to one level 2 or higher character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I'm not gonna run.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E18R.jpg"
+    },
+    {
+        "name": "In the Sunlight Forest, Sinon",
+        "code": "SAO/SE23-E19",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.",
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. Search you deck for up to X 《Avatar》 or 《Net》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose X cards from your hand, and put them into your waiting room. X is equal to the number of climax revealed among those cards."
+        ],
+        "flavor_text": "……I think.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E19R.jpg"
+    },
+    {
+        "name": "Temporary Alliance, Kirito",
+        "code": "SAO/SE23-E20",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other characters with \"Sinon(シノン)\" in its card name, and that character gets +1000 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is an 《Avatar》 or 《Net》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "I'm gonna charge him, so back me up, okay?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E20R.jpg"
+    },
+    {
+        "name": "Temporary Alliance, Sinon",
+        "code": "SAO/SE23-E21",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "……roger that.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E21R.jpg"
+    },
+    {
+        "name": "Strong Existence, Sinon",
+        "code": "SAO/SE23-E22",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.",
+            "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Last Shot, Sinon\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "If I get knocked out, I'm going to retire.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E22",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E22R.jpg"
+    },
+    {
+        "name": "End of Fate, Kirito",
+        "code": "SAO/SE23-E23",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.",
+            "【AUTO】 When this card attacks, if a card named \"Past Name\" is in your climax area, put up to one card from the top of your clock into your waiting room, and this card gets +3000 power until end of turn.",
+            "【AUTO】 [(1)] When this card is frontal attacked, you may pay the cost. If you do, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "It's true, I refused to hear this guy's name.\nI never wanted to have anything to do with him again.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E23",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E23R.jpg"
+    },
+    {
+        "name": "Last Shot, Sinon",
+        "code": "SAO/SE23-E24",
+        "rarity": "R",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, if a card named \"Phantom Bullet\" is in your climax area, you may pay the cost. If you do, deal four damage to your opponent. When this damage is canceled, this card gets +3500 power until the end of your opponent's next turn. (This damage may be canceled)",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory."
+        ],
+        "flavor_text": "Kirito…………!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E24R.jpg"
+    },
+    {
+        "name": "Bitter Memories, Asuna",
+        "code": "SAO/SE23-E02",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose one of your characters with \"Kirito(キリト)\" in its card name, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "《Laughing Coffin》……\nDon't tell me that's the leader… that knife-wielder?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E02C.jpg"
+    },
+    {
+        "name": "《ALO》 Days, Asuna",
+        "code": "SAO/SE23-E03",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E03C.jpg"
+    },
+    {
+        "name": "Autumn Walk, Asuna",
+        "code": "SAO/SE23-E04",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Anyway, hello, Kirito.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E04C.jpg"
+    },
+    {
+        "name": "Gathering Materials, Leafa",
+        "code": "SAO/SE23-E06",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
+        ],
+        "flavor_text": "Leave it to me! You little!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E06C.jpg"
+    },
+    {
+        "name": "Watching the Match Together, Lisbeth",
+        "code": "SAO/SE23-E10",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your opponent's stock is three or less, this card gets +1000 power."
+        ],
+        "flavor_text": "That guy's really good.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E10C.jpg"
+    },
+    {
+        "name": "Red Player, 《Death Gun》",
+        "code": "SAO/SE23-E11",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your draw phase, deal one damage to yourself. (This damage may be canceled)"
+        ],
+        "flavor_text": "It's showtime.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E11C.jpg"
+    },
+    {
+        "name": "Reaper Manifestation, 《Death Gun》",
+        "code": "SAO/SE23-E12",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's cost 1 or less characters on the center stage. That character cannot 【STAND】 during your opponent's next stand phase."
+        ],
+        "flavor_text": "……",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E12C.jpg"
+    },
+    {
+        "name": "Excessive Obsession, Kyoji",
+        "code": "SAO/SE23-E13",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Weapon》 characters get +1000 power.",
+            "【CONT】 All of your opponent's characters in the back stage get 《Target》."
+        ],
+        "flavor_text": "Asada, you did tell me, right? To wait.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E13C.jpg"
+    },
+    {
+        "name": "Mob Hunting Together, Lisbeth",
+        "code": "SAO/SE23-E14",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 [(1)] When this card frontal attacks, you may pay the cost. If you do, choose one of your opponent's characters, and that character gets -1 level until end of turn."
+        ],
+        "flavor_text": "Chest-!!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E14C.jpg"
+    },
+    {
+        "name": "Death-causing Bullet, 《Death Gun》",
+        "code": "SAO/SE23-E15",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your opponent's characters are 《Target》, this card gets +2000 power.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 2 or lower 《Target》 characters on the center stage, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Don't forget, it's not over yet.\nNothing is over yet.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E15C.jpg"
+    },
+    {
+        "name": "Usual Silica",
+        "code": "SAO/SE23-E16",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is six or more, this card gets +500 power and +1 soul."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E16C.jpg"
+    },
+    {
+        "name": "Basic Knowledge of Guns, Sinon",
+        "code": "SAO/SE23-E25",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters on your center stage, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "《Five-seven》. The caliber size.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E25C.jpg"
+    },
+    {
+        "name": "Diving Kirito",
+        "code": "SAO/SE23-E26",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack."
+        ],
+        "flavor_text": "When I got scanned I was swimming in that river.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E26C.jpg"
+    },
+    {
+        "name": "Autumn Walk, Kazuto",
+        "code": "SAO/SE23-E27",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】."
+        ],
+        "flavor_text": "Hey, Asuna.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E27C.jpg"
+    },
+    {
+        "name": "Shino Wishes to be Stronger",
+        "code": "SAO/SE23-E28",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 [(1)] When a card named \"A Small Step\" is placed on your climax area, you may pay the cost. If you do, choose one of your other characters with \"Sinon(シノン)\" in its card name, and until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\""
+        ],
+        "flavor_text": "Because I've got to be stronger, too.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E28C.jpg"
+    },
+    {
+        "name": "Beautiful Avatar, Kirito",
+        "code": "SAO/SE23-E30",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\".",
+            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Root for me, okay?♪",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E30",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E30C.jpg"
+    },
+    {
+        "name": "Angry Sinon",
+        "code": "SAO/SE23-E31",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E31",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E31C.jpg"
+    },
+    {
+        "name": "\"Check Six\" Sinon",
+        "code": "SAO/SE23-E32",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power.",
+            "【ACT】 [【REST】 two of your 《Avatar》 or 《Net》 characters] This card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Always check your six.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E32",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E32C.jpg"
+    },
+    {
+        "name": "Confrontation with 《Death Gun》, Kirito",
+        "code": "SAO/SE23-E33",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Past Name\" is in your climax area, you may pay the cost. If you do, draw a card, and this card gets +3000 power until end of turn. At the beginning of your encore step, if this card is 【REST】, put this card into your waiting room, choose up to one card named \"End of Fate, Kirito\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I did want to try out something like this once.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E33",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E33C.jpg"
+    },
+    {
+        "name": "Fateful Estoc Wielder",
+        "code": "SAO/SE23-E17",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "――《Star Splash》 Octet Blast――",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E17C.jpg"
+    },
+    {
+        "name": "Past Name",
+        "code": "SAO/SE23-E34",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Red-eyed XaXa. That's your name.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E34",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E34C.jpg"
+    },
+    {
+        "name": "Phantom Bullet",
+        "code": "SAO/SE23-E35",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw a card.)"
+        ],
+        "flavor_text": "――Last attack. Phantom Bullet――",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E35",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E35C.jpg"
+    },
+    {
+        "name": "A Small Step",
+        "code": "SAO/SE23-E36",
+        "rarity": "C",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Mizue: \"Big Sister Shino, thank you for saving Mommy and me.\"",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "E36",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_E36C.jpg"
+    },
+    {
+        "name": "Light-hearted Talk, Kyoji",
+        "code": "SAO/SE23-TE01",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose up to two characters, and those characters get 《Target》 until end of turn."
+        ],
+        "flavor_text": "No problems on that front, Instructor.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE01.jpg"
+    },
+    {
+        "name": "Kyoji Protecting Shino",
+        "code": "SAO/SE23-TE02",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1 level and +1000 power.",
+            "【CONT】 The character facing this card gets 《Target》."
+        ],
+        "flavor_text": "……Are you all right, Asada?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE02.jpg"
+    },
+    {
+        "name": "Gathering Materials, Lisbeth",
+        "code": "SAO/SE23-TE03",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I think I have most of what I need.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE03.jpg"
+    },
+    {
+        "name": "Unknown Identity, 《Death Gun》",
+        "code": "SAO/SE23-TE04",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, if this card's battle opponent is 《Target》, this card gets the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\"",
+            "【ACT】 [(1) 【REST】 two of your characters] Choose one of your oppponent's characters, and that character gets -1 level and 《Target》 until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE04.jpg"
+    },
+    {
+        "name": "Confident Silica",
+        "code": "SAO/SE23-TE05",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "I'm not the girl that I used to be!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE05.jpg"
+    },
+    {
+        "name": "\"True\" Power, 《Death Gun》",
+        "code": "SAO/SE23-TE06",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets +1000 power.",
+            "【CONT】 The character facing this card gets 《Target》.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Power of 《Death Gun》\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose one of your opponent's cost 1 or less 《Target》 characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "My name, and the name of this gun, is 《Death Gun》!!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE06.jpg"
+    },
+    {
+        "name": "Unexpected Encounter, 《Death Gun》",
+        "code": "SAO/SE23-TE07",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if your opponent has a 《Target》 character, this card gets +3000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Are you, the real deal?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE07.jpg"
+    },
+    {
+        "name": "Power of 《Death Gun》",
+        "code": "SAO/SE23-TE08",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "……This is true power. This is what true strength is about!\nYou ignorant fools, carve my name into your minds - with fear!",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE08.jpg"
+    },
+    {
+        "name": "Like a Girl, Kirito",
+        "code": "SAO/SE23-TE09",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "I'd like to go to a cheap weapons shop, and also someplace called the Administrative Building……",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE09.jpg"
+    },
+    {
+        "name": "Place to Return to, Asuna",
+        "code": "SAO/SE23-TE10",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Try to get back as soon as you can, okay?\nBecause there's only one place where our home is.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE10.jpg"
+    },
+    {
+        "name": "M9000 Model Avatar, Kirito",
+        "code": "SAO/SE23-TE11",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "If a shot from that gun could really kill the player in the real world, too……",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE11.jpg"
+    },
+    {
+        "name": "Friendly Guide, Sinon",
+        "code": "SAO/SE23-TE12",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Hey, look, someone's here to increase the pool money again.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE12.jpg"
+    },
+    {
+        "name": "Another Self, Shino",
+        "code": "SAO/SE23-TE13",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Machine of Ice\" Sinon\" in your waiting room, and put it on the stage position that this card was on.",
+            "【ACT】 [【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE13.jpg"
+    },
+    {
+        "name": "\"Gun World Swordsman\" Kirito",
+        "code": "SAO/SE23-TE14",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"《Photon Sword》 Wielder\" is in your climax area, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "The Prediction Lines will show me exactly what path the bullets will take.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE14.jpg"
+    },
+    {
+        "name": "\"Machine of Ice\" Sinon",
+        "code": "SAO/SE23-TE15",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 [【REST】 this card] Choose one of your oppponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from your hand.\""
+        ],
+        "flavor_text": "――ice. I am a machine made of cold, hard ice.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE15.jpg"
+    },
+    {
+        "name": "The Will to Shoot, Kirito",
+        "code": "SAO/SE23-TE16",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "If that was the case, then could you still pull the trigger!?",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE16.jpg"
+    },
+    {
+        "name": "Excellent Sniper, Sinon",
+        "code": "SAO/SE23-TE17",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "First target, cleared.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE17.jpg"
+    },
+    {
+        "name": "Late Self-introduction",
+        "code": "SAO/SE23-TE18",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Kirito(キリト)\" in its card name, this card cannot be played from your hand.",
+            "Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\". Put this card into your stock."
+        ],
+        "flavor_text": "Sinon: \"No way…………A guy…………?\nWith that avatar………………?\"",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE18.jpg"
+    },
+    {
+        "name": "《Photon Sword》 Wielder",
+        "code": "SAO/SE23-TE19",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "……！",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE19.jpg"
+    },
+    {
+        "name": "Partner 《Hecate Ⅱ》",
+        "code": "SAO/SE23-TE20",
+        "rarity": "TD",
+        "expansion": "Sword Art Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Distance, 1500…? That's like tossing a balled-up wad of paper into a trash can.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_TE20.jpg"
+    },
+    {
+        "name": "Mission in the Twilight, Sinon",
+        "code": "SAO/SE23-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I'm getting a bad vibe from that guy.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_PE01.png"
+    },
+    {
+        "name": "Kirito taking on 《Death Gun》",
+        "code": "SAO/SE23-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Avatar》 or 《Net》 characters is three or more, this card gets +1000 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\""
+        ],
+        "flavor_text": "……Okay, here goes.",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_PE02.png"
+    },
+    {
+        "name": "Winning Combination, Sinon & Kirito",
+        "code": "SAO/SE23-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "―[Sinon] and [Kirito] are both co-winners―",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_PE03.png"
+    },
+    {
+        "name": "Kazuto & Asuna in Uniform",
+        "code": "SAO/SE23-PE04",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SAO",
+        "release": "E23",
+        "sid": "PE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_SAO_SE23_PE04b.png"
+    }
+]

@@ -1,0 +1,4060 @@
+[
+    {
+        "name": "Kanade Sending Everyone Off",
+        "code": "AB/W31-E001",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Death》 characters get \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
+            "【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Have you overcome your lingering emotions?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E001.png"
+    },
+    {
+        "name": "\"Messenger of God\" Angel",
+        "code": "AB/W31-E002",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is not a 《Death》 character, at the beginning of your encore step, put this card into your waiting room. (The revealed cards are returned to their original place)"
+        ],
+        "flavor_text": "Hideous, isn't it?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E002.png"
+    },
+    {
+        "name": "Strategic Provocation, Yuri",
+        "code": "AB/W31-E056",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "How are things looking with Angel?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E056.png"
+    },
+    {
+        "name": "Resolved Conflict, Yuri",
+        "code": "AB/W31-E057",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Death》 characters get +500 power.",
+            "【AUTO】 When another of your 《Death》 characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "Ah… What's this feeling I have…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E057.png"
+    },
+    {
+        "name": "Yuri's Independent Actions",
+        "code": "AB/W31-E058",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"After the Battle\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose one of your 《Death》 characters, and that character gets +3000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "I'm going to eliminate some likely possibilities.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E058.png"
+    },
+    {
+        "name": "\"Little Braver\" Yui",
+        "code": "AB/W31-E105",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax cards in your waiting room is six or more, this card gets -1 level in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on stage from your hand, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "But I always admired people who could do a German Suplex…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E105.png"
+    },
+    {
+        "name": "Kanade Tachibana",
+        "code": "AB/W31-E106",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] When a card named \"Somewhere, Someday\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one 《Death》 character, and put it on any position of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "AB",
+        "release": "31",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E106.png"
+    },
+    {
+        "name": "Yuri Nakamura",
+        "code": "AB/W31-E113",
+        "rarity": "RR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card attacks, if you have a card named \"Heart of the World\" on your climax area, deal one damage to your opponent, and this card gets +1500 power until end of your opponent's next turn. (This damage may be canceled)"
+        ],
+        "flavor_text": "Should I be happy…? Or get mad…?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E113",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E113.png"
+    },
+    {
+        "name": "Battle Meeting, Kanade",
+        "code": "AB/W31-E003",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1000 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\""
+        ],
+        "flavor_text": "That plan sounds perfect for me.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E003.png"
+    },
+    {
+        "name": "Yui's Sex Appeal?",
+        "code": "AB/W31-E004",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If the revealed card is a climax, this card gets -3000 power until end of turn. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "It's not a gag!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E004.png"
+    },
+    {
+        "name": "Angel Wings, Kanade",
+        "code": "AB/W31-E005",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Death》 characters.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Time to Part Ways\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Student Council》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "No, they're decorations. I was told it would make me appear more angelic.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E005.png"
+    },
+    {
+        "name": "End of the Confrontation, Kanade",
+        "code": "AB/W31-E006",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Death》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Yuri has overcome the weight pulling her down.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E006.png"
+    },
+    {
+        "name": "A Good Understanding, Iwasawa & Hisako",
+        "code": "AB/W31-E007",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Memory If you have a card in your memory, this card gets +1500 power."
+        ],
+        "flavor_text": "Iwasawa: \"This is my life…\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E007.png"
+    },
+    {
+        "name": "Worrying Kanade",
+        "code": "AB/W31-E008",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on stage from your hand, choose another of your 《Death》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Don't push yourself.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E008.png"
+    },
+    {
+        "name": "Cool Beauty, Iwasawa",
+        "code": "AB/W31-E009",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your memory] When a card named \"Memories of Gldemo\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Realizing a Dream, Yui\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "…I couldn't sing my beloved songs……that's all.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E009.png"
+    },
+    {
+        "name": "Kanade Standing Still",
+        "code": "AB/W31-E010",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your characters with \"【AUTO】 Encore [Put a character from your hand into your waiting room]\", and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Where are you going? The test is about to start.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E010.png"
+    },
+    {
+        "name": "Realizing a Dream, Yui",
+        "code": "AB/W31-E011",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Memory If the number of 《Music》 characters in your memory is two or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"Memories of Gldemo\" is in your climax area, all of your 《Death》 characters get +3500 power until end of turn."
+        ],
+        "flavor_text": "I thought how cool it would be if I could do that.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E011.png"
+    },
+    {
+        "name": "Yuzuru's Heart, Kanade",
+        "code": "AB/W31-E012",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "I came here to tell you \"thank you\".",
+        "set": "AB",
+        "release": "31",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E012.png"
+    },
+    {
+        "name": "Parting Words, Kanade",
+        "code": "AB/W31-E013",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] When a card named \"Somewhere, Someday\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's stock."
+        ],
+        "flavor_text": "………Truly…thank you for giving my life to me.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E013.png"
+    },
+    {
+        "name": "Passionate Girl, Yui",
+        "code": "AB/W31-E014",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card is placed on stage from your hand, choose up to two of your other characters, and those characters get +1000 power and +1 soul until end of turn.",
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, return it to your opponent's hand, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "That's why I've come to offer my help, mew.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E014.png"
+    },
+    {
+        "name": "Winter Yuri",
+        "code": "AB/W31-E059",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on top of your deck or into your waiting room.",
+            "【AUTO】 Bond／\"Pink Cape, Kanade\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Pink Cape, Kanade\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Man, this stinks…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E059.png"
+    },
+    {
+        "name": "Yuri's Invitation to the Battlefront",
+        "code": "AB/W31-E060",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is not a 《Death》 character, put it into your clock. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Welcome, to the \"Not Dead Yet Battlefront\".",
+        "set": "AB",
+        "release": "31",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E060.png"
+    },
+    {
+        "name": "Role of a Big Sister, Yuri",
+        "code": "AB/W31-E061",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Memories of a Past Life\" is in your climax area, you may choose up to two 《Death》 characters in your waiting room, and return them to your hand. If you do, choose two cards from your hand, and put them into your waiting room.",
+            "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Graduation from This World, Yuri\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I lost everything I wanted to protect in thirty minutes, that's too unfair…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E061.png"
+    },
+    {
+        "name": "Yuri's Fearless Gaze",
+        "code": "AB/W31-E062",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Death》 character from your waiting room, return it to your hand, choose a card from your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "I see you have a strange set of values.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E062.png"
+    },
+    {
+        "name": "United Battlefront, Kanade & Yuri",
+        "code": "AB/W31-E063",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Death》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Kanade, I'm counting on you.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E063.png"
+    },
+    {
+        "name": "Skilled Martial Artist, Shiina",
+        "code": "AB/W31-E064",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "…what is it.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E064.png"
+    },
+    {
+        "name": "Messenger, Yusa",
+        "code": "AB/W31-E065",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Operator"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Death》 characters get +500 power.",
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Your orders.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E065.png"
+    },
+    {
+        "name": "Highly Skilled Shiina",
+        "code": "AB/W31-E066",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck. Shuffle your deck afterwards.",
+            "【ACT】【COUNTER】 Backup 2500, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
+        ],
+        "flavor_text": "How foolish…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E066.png"
+    },
+    {
+        "name": "Irregular in the World, Otonashi",
+        "code": "AB/W31-E067",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put a 《Death》 character from your memory into your waiting room] Choose a character from your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Kanade: \"Really, you should have been obliterated.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E067.png"
+    },
+    {
+        "name": "\"Godfather\" Yuri",
+        "code": "AB/W31-E068",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Death》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Aren't all of the members here your allies too?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E068.png"
+    },
+    {
+        "name": "Yuri Defying an Unreasonable Fate",
+        "code": "AB/W31-E069",
+        "rarity": "R",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】 [(4)] When this card attacks, you may pay the cost. If you do, choose up to four of your other characters, put them into your waiting room, and deal X damage to your opponent. X is equal to the number of characters put into your waiting room with this effect. (This damage may be canceled)"
+        ],
+        "flavor_text": "A life like that's unforgivable!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E069.png"
+    },
+    {
+        "name": "Gldemo's Assistant, Yui",
+        "code": "AB/W31-E015",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(1) 【REST】 one of your other 《Music》 characters] Choose one of your 《Music》 characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "It's \"Alchemy\"!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E015.png"
+    },
+    {
+        "name": "Student Council President, Kanade",
+        "code": "AB/W31-E016",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand to your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one 《Student Council》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "It's like I'm the bad guy.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E016.png"
+    },
+    {
+        "name": "Yui & Hinata",
+        "code": "AB/W31-E017",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If the revealed card is a 《Music》 character, you may put this card into your memory. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Hinata: \"Count on it.\"\nYui: \"…I'm glad\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E017.png"
+    },
+    {
+        "name": "Lonely Angel",
+        "code": "AB/W31-E018",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Death》 characters."
+        ],
+        "flavor_text": "Even if someone sided with me, they'd just disappear.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E018.png"
+    },
+    {
+        "name": "Kanade's Innocent Eyes",
+        "code": "AB/W31-E019",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other 《Death》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Hmm…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E019.png"
+    },
+    {
+        "name": "Hypnotist, Naoi",
+        "code": "AB/W31-E020",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1 level, +1000 power until end of turn."
+        ],
+        "flavor_text": "Despair in your uselessness and\ninferiority to clothes pins.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E020.png"
+    },
+    {
+        "name": "Kanade's Reason for Battle",
+        "code": "AB/W31-E021",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand to your waiting room & 【REST】 one of your Stand@ characters] When this card is placed on stage, you may pay the cost. If you do, search your deck for up to one \"Kanade's Reason for Battle\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "It was a big fight…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E021.png"
+    },
+    {
+        "name": "Always Energetic, Yui",
+        "code": "AB/W31-E022",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters."
+        ],
+        "flavor_text": "Huh? Everyone seems really smart today.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E022.png"
+    },
+    {
+        "name": "Mount Position, Yui",
+        "code": "AB/W31-E023",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other characters with \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "That's what you get for all those locks, you jerk～～!!!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E023.png"
+    },
+    {
+        "name": "Couple Who Are Alike, Yui & Hinata",
+        "code": "AB/W31-E024",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Yui: \"Whoa, Hina-kins, you're wide open.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E024.png"
+    },
+    {
+        "name": "Straw Hat Kanade",
+        "code": "AB/W31-E025",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When a card named \"Power to Protect\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to two cards named \"Kanade's Reason for Battle\", and put them on separate positions of your center stage. Shuffle your deck afterwards.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "It's against school rules to go there.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E025.png"
+    },
+    {
+        "name": "Casual Gesture, Kanade",
+        "code": "AB/W31-E026",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if the number of cards in your memory is two or more, this card gets +2000 power."
+        ],
+        "flavor_text": "…Do you want to stay with them forever?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E026.png"
+    },
+    {
+        "name": "Normal Girl, Kanade",
+        "code": "AB/W31-E027",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Parting Words, Kanade\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "You say the strangest things…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E027.png"
+    },
+    {
+        "name": "Lots of Things to Do, Yui",
+        "code": "AB/W31-E028",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"A Girl's Ultimate Happiness\" is in your climax area, you may pay the cost. If you do, all of your characters get +1000 power and +1 soul until end of turn.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "That's not everything.\nIt's just one of the things I wanted to do.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E028.png"
+    },
+    {
+        "name": "Kanade Under the Blue Skies",
+        "code": "AB/W31-E029",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Death》 characters you have is two or more, this card gets +1000 power.",
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose one of your 《Death》 characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AB",
+        "release": "31",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E029.png"
+    },
+    {
+        "name": "Song I Wanted to Sing",
+        "code": "AB/W31-E048",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Death》 characters, and that character gets +3500 power until end of turn."
+        ],
+        "flavor_text": "Iwasawa: \"I finally...found it...\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E048.png"
+    },
+    {
+        "name": "Conflicted Otonashi",
+        "code": "AB/W31-E070",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Return two characters in your waiting room to your deck. Shuffle your deck afterwards] When this card attacks, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Say… Who are we fighting against?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E070.png"
+    },
+    {
+        "name": "Excellent Communicator, Yusa",
+        "code": "AB/W31-E071",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of other characters you have is one or less, you may choose a character in your waiting room, and return it to your hand. If you do, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Resume diversion.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E071.png"
+    },
+    {
+        "name": "Like a Villian, Yuri",
+        "code": "AB/W31-E072",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you level up, put this card into your waiting room.",
+            "【ACT】 [(1)] Choose a level 0 or lower character on your opponent's center stage, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Everyone is desperate since they're terrified\nof a penalty game worse than death…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E072.png"
+    },
+    {
+        "name": "Operator, Yusa",
+        "code": "AB/W31-E073",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Death》 characters in front of this card get +1 level and +500 power."
+        ],
+        "flavor_text": "……Angel has made an appearance.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E073.png"
+    },
+    {
+        "name": "Swimsuit Yuri",
+        "code": "AB/W31-E074",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 【REST】 characters."
+        ],
+        "flavor_text": "Where's everyone else?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E074.png"
+    },
+    {
+        "name": "Yuri's Time for Departure",
+        "code": "AB/W31-E075",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is two or less, this card gets +1000 power.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "Well, I'll see you later if I can.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E075.png"
+    },
+    {
+        "name": "Unreasonable Request, Yuri",
+        "code": "AB/W31-E076",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 one of your characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "…Listen up! Get the seat right in front of hers.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E076.png"
+    },
+    {
+        "name": "Commander, Yuri",
+        "code": "AB/W31-E077",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\" get +1000 power.",
+            "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "This is the afterlife.\nYou'll get obliterated if you don't fight.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E077.png"
+    },
+    {
+        "name": "Graduation from This World, Yuri",
+        "code": "AB/W31-E078",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Memory If the number of cards in your memory is two or more, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand. If you do, choose a card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "Well, see you later!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E078.png"
+    },
+    {
+        "name": "Separate Ways, Yuri",
+        "code": "AB/W31-E079",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Yuri's Independent Actions\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I'll let everyone decide what\nto do for themselves.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E079.png"
+    },
+    {
+        "name": "\"SSS(Underworld Battlefront)\" Yuri",
+        "code": "AB/W31-E080",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Death》 characters is two or more, this card gets the following ability. \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"",
+            "【AUTO】 [(2)] When a card named \"Underworld Battlefront\" is placed on your climax area, if this card in on your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《Death》 character, and put that card on an open position of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I'm Yuri, the leader of this Battlefront.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E080.png"
+    },
+    {
+        "name": "Otonashi Searching for His Past",
+        "code": "AB/W31-E081",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Return two characters in your waiting room to your deck. Shuffle your deck afterwards] When this card attacks, you may pay the cost. If you do, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Fulfilled Feelings\" is in your climax area, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Of course I want to remember… so why do I feel so nervous?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E081.png"
+    },
+    {
+        "name": "Operation Tornado",
+        "code": "AB/W31-E098",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. Choose one level X or lower 《Death》 character in your waiting room, and return it to your hand. X is equal to the number of 《Death》 characters revealed among those cards."
+        ],
+        "flavor_text": "I had no idea… buying time could be so intense…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E098.png"
+    },
+    {
+        "name": "Jet Engine",
+        "code": "AB/W31-E099",
+        "rarity": "U",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "You may choose one of your characters, and put it into your waiting room. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Yuri: \"Man, this stinks.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E099.png"
+    },
+    {
+        "name": "Otonashi Understanding Kanade",
+        "code": "AB/W31-E030",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Straw Hat Kanade\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Straw Hat Kanade\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I might have sided with you when I came here.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E030.png"
+    },
+    {
+        "name": "Memories of the Beat, Otonashi",
+        "code": "AB/W31-E031",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"\"Messenger of God\" Angel\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Messenger of God\" Angel\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I lived a fulfilled life there at the end.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E031.png"
+    },
+    {
+        "name": "Always Together, Sekine & Irie",
+        "code": "AB/W31-E032",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Cool Beauty, Iwasawa\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Cool Beauty, Iwasawa\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Irie: \"Everyday was fun, like a festival…\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E032.png"
+    },
+    {
+        "name": "Swimsuit Kanade",
+        "code": "AB/W31-E033",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "Uh…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E033.png"
+    },
+    {
+        "name": "Hardworking Fangirl, Yui",
+        "code": "AB/W31-E034",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power unitl end of turn."
+        ],
+        "flavor_text": "Whatever I want?\nI don't do everything I want.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E034.png"
+    },
+    {
+        "name": "Self-proclaimed God, Naoi",
+        "code": "AB/W31-E035",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Were you referring to me… I am God!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E035.png"
+    },
+    {
+        "name": "Kanade's Quiet Appearance",
+        "code": "AB/W31-E036",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…you're right.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E036.png"
+    },
+    {
+        "name": "Guitar Performer, Iwasawa",
+        "code": "AB/W31-E037",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one 《Death》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Oh, Hisako, everything okay?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E037.png"
+    },
+    {
+        "name": "Kanade & Otonashi",
+        "code": "AB/W31-E038",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【ACT】 [(1)] This card gets +X power until end of turn. X is equal to 500 multiplied by the number of your 《Death》 characters."
+        ],
+        "flavor_text": "Otonashi: \"Because I love you so much, Kanade.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E038.png"
+    },
+    {
+        "name": "Iwasawa's Successor, Yui",
+        "code": "AB/W31-E039",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Yay～! Thank you all for coming today～!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E039.png"
+    },
+    {
+        "name": "Battlefront's Enemy, Angel",
+        "code": "AB/W31-E040",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 2000, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "…Guard Skill: Hand Sonic.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E040.png"
+    },
+    {
+        "name": "Baseball Girl, Yui",
+        "code": "AB/W31-E041",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Music》 characters get +500 power.",
+            "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power."
+        ],
+        "flavor_text": "Over the fence, of course.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E041.png"
+    },
+    {
+        "name": "Irie & Hisako",
+        "code": "AB/W31-E042",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "She really was a horrible vocalist.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E042.png"
+    },
+    {
+        "name": "Pink Cape, Kanade",
+        "code": "AB/W31-E043",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "Um…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E043.png"
+    },
+    {
+        "name": "Strong Minded Guitarist, Hisako",
+        "code": "AB/W31-E044",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "I think you'll have a harder time with the others.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E044.png"
+    },
+    {
+        "name": "Awkward Confrontation, Kanade",
+        "code": "AB/W31-E045",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Descending Angel\" is in your climax area, you may choose one of your opponent's characters, and return it to your opponent's hand."
+        ],
+        "flavor_text": "You may call me that if you so wish.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E045.png"
+    },
+    {
+        "name": "Otonashi Without Past Memories",
+        "code": "AB/W31-E046",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…Where…am I? …I can't remember a thing…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E046.png"
+    },
+    {
+        "name": "Two Faces, Naoi",
+        "code": "AB/W31-E047",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on stage from your hand, if you have another 《Death》 character, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, and put it into your opponent's stock."
+        ],
+        "flavor_text": "It was God's doing.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E047.png"
+    },
+    {
+        "name": "Hypnotism",
+        "code": "AB/W31-E049",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose a level 2 or lower character in your opponent's center stage, and put it into your opponent's memory."
+        ],
+        "flavor_text": "You're about to have a great dream.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E049.png"
+    },
+    {
+        "name": "Operation Start, Yuri",
+        "code": "AB/W31-E082",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Otonashi Searching for His Past\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Otonashi Searching for His Past\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "C'mon, give it a rest.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E082.png"
+    },
+    {
+        "name": "Stinks at English, TK",
+        "code": "AB/W31-E083",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "KISS YOU!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E083.png"
+    },
+    {
+        "name": "Noda & Ooyama",
+        "code": "AB/W31-E084",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a 《Death》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Ooyama: \"I'll make God's eyes pop out if I do\nsomething great here.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E084.png"
+    },
+    {
+        "name": "Everyone's Pillar, Yuri",
+        "code": "AB/W31-E085",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Death》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Relay this to all Battlefront members: Stay alert at all times.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E085.png"
+    },
+    {
+        "name": "Genius Hacker, Takeyama",
+        "code": "AB/W31-E086",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】Clock@ Alarm When this card is the top card of your clock, all of your 《Death》 characters get the following ability. \"【AUTO】 When this card attacks, choose one of your characters, and that character gets +500 power until end of turn.\""
+        ],
+        "flavor_text": "Yuri: \"Codename Takeyama will be on the team.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E086.png"
+    },
+    {
+        "name": "Hinata Looking Out for Allies",
+        "code": "AB/W31-E087",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "I won't leave you behind.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E087.png"
+    },
+    {
+        "name": "Moodmaker, Hinata",
+        "code": "AB/W31-E088",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】 [(1)] Choose one of your 《Death》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "What about you is seductive.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E088.png"
+    },
+    {
+        "name": "Rivalry, Noda",
+        "code": "AB/W31-E089",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "You bastard… You're the jerk that insulted Yurippe and refused to enlist!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E089.png"
+    },
+    {
+        "name": "Codename Takeyama",
+        "code": "AB/W31-E090",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 If this card is on the stage, this card's card name will also be regarded as \"Christ\"."
+        ],
+        "flavor_text": "…3421170679 8214808651 3282306647\n0938446095 5058223172 5359408128\n4811174502 8410270193 8521105559…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E090.png"
+    },
+    {
+        "name": "Kanade's Friend, Yuri",
+        "code": "AB/W31-E091",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of the center stage, this card gets +500 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\""
+        ],
+        "flavor_text": "So don't be so harsh on her… Right?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E091.png"
+    },
+    {
+        "name": "Hinata's Response to Her Feelings",
+        "code": "AB/W31-E092",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "I'll marry you!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E092.png"
+    },
+    {
+        "name": "Proud Kunoichi, Shiina",
+        "code": "AB/W31-E093",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "This will make the gap in\nour concentration levels obvious.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E093.png"
+    },
+    {
+        "name": "Takamatsu Not Taking Off Enough",
+        "code": "AB/W31-E094",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "I'll take my pants off next…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E094.png"
+    },
+    {
+        "name": "Unknown Identity, TK",
+        "code": "AB/W31-E095",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Come on!! Let's dance!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E095.png"
+    },
+    {
+        "name": "Famous Battlefront Combination, Hinata & Otonashi",
+        "code": "AB/W31-E096",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [Return two characters from your waiting room to your deck. Shuffle your deck afterwards] When this card attacks, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Otonashi: \"Say 'Hi' to Yui if you see her.\"\nHinata: \"Sure thing. I should have a bunch of luck stored up,\nso I'll be sure to use it.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E096.png"
+    },
+    {
+        "name": "Matsushita\nthe Fifth",
+        "code": "AB/W31-E097",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 Alarm When this card is the top card of your clock, and your level is 2 or higher, all of your characters with \"【AUTO】 Encore [Put a character from your hand into your waiting room]\" get the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.\""
+        ],
+        "flavor_text": "What should we do?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E097.png"
+    },
+    {
+        "name": "Please call me Christ",
+        "code": "AB/W31-E100",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If the number of 《Death》 characters on your stage is three or less, this card cannot be played from your hand.",
+            "Choose a card from your opponent's waiting room, and put it into your opponent's memory. Put this card into your memory."
+        ],
+        "flavor_text": "Yuri: \"Well done, Takeyama.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E100.png"
+    },
+    {
+        "name": "Sekine Loves Pranks",
+        "code": "AB/W31-E107",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "If this mission fails, no one can eat for a week!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E107.png"
+    },
+    {
+        "name": "Powerful Performance, Irie",
+        "code": "AB/W31-E108",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "That's right-!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E108.png"
+    },
+    {
+        "name": "Sub-leader, Hisako",
+        "code": "AB/W31-E109",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【ACT】 [【REST】 this card] Choose one of your 《Music》 characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "But now we've got a new song.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E109",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E109.png"
+    },
+    {
+        "name": "\"Crow Song\" Iwasawa",
+        "code": "AB/W31-E110",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【CONT】 This card cannot be chosen by your opponent's effects."
+        ],
+        "flavor_text": "Did you hear about someone's memories?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E110",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E110.png"
+    },
+    {
+        "name": "Kanade Waking Up",
+        "code": "AB/W31-E111",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Student Council》 characters you have."
+        ],
+        "flavor_text": "It's miraculous that the me who\nmade that promise awoke…",
+        "set": "AB",
+        "release": "31",
+        "sid": "E111",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E111.png"
+    },
+    {
+        "name": "MAX Tension, Shiina",
+        "code": "AB/W31-E114",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a card in your opponent's waiting room, and put that character on top of your opponent's deck."
+        ],
+        "flavor_text": "Cute---!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E114",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E114.png"
+    },
+    {
+        "name": "Student Council President, Otonashi",
+        "code": "AB/W31-E115",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "Then stop whining and do something about it. You have something you want to do, right?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E115",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E115.png"
+    },
+    {
+        "name": "Demonic Commander, Yuri",
+        "code": "AB/W31-E116",
+        "rarity": "C",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Jet Engine\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I won't send you flying if you say it just like that.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E116",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E116.png"
+    },
+    {
+        "name": "Memories of Gldemo",
+        "code": "AB/W31-E050",
+        "rarity": "CR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AB",
+        "release": "31",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E050.png"
+    },
+    {
+        "name": "After the Battle",
+        "code": "AB/W31-E101",
+        "rarity": "CR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Wha-!! Cu-!?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E101.png"
+    },
+    {
+        "name": "Somewhere, Someday",
+        "code": "AB/W31-E112",
+        "rarity": "CR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AB",
+        "release": "31",
+        "sid": "E112",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E112.png"
+    },
+    {
+        "name": "Heart of the World",
+        "code": "AB/W31-E117",
+        "rarity": "CR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Shut down these computers. Do it right now!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "E117",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E117.png"
+    },
+    {
+        "name": "Time to Part Ways",
+        "code": "AB/W31-E051",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
+        ],
+        "flavor_text": "Please let me believe in… everything you believed in.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E051.png"
+    },
+    {
+        "name": "Somewhere, Someday",
+        "code": "AB/W31-E052",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+        ],
+        "flavor_text": "Kanade: \"Please let me believe in… everything you believed in.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E052.png"
+    },
+    {
+        "name": "Power to Protect",
+        "code": "AB/W31-E053",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "…I must save them.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E053.png"
+    },
+    {
+        "name": "A Girl's Ultimate Happiness",
+        "code": "AB/W31-E054",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.）"
+        ],
+        "flavor_text": "…I'm glad.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E054.png"
+    },
+    {
+        "name": "Descending Angel",
+        "code": "AB/W31-E055",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
+        ],
+        "flavor_text": "…I see……very well.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E055.png"
+    },
+    {
+        "name": "Memories of a Past Life",
+        "code": "AB/W31-E102",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Yuri: \"I just can't… forgive God.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E102.png"
+    },
+    {
+        "name": "Underworld Battlefront",
+        "code": "AB/W31-E103",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "\"Now they can leave this world… without any difficulty…\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E103.png"
+    },
+    {
+        "name": "Fulfilled Feelings",
+        "code": "AB/W31-E104",
+        "rarity": "CC",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "\"I had been living a life that was worthwhile. My reason to live had been right next to me…\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_E104.png"
+    },
+    {
+        "name": "Friendly Combination, Sekine & Irie",
+        "code": "AB/W31-TE01",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory."
+        ],
+        "flavor_text": "Irie: \"Eh!?\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE01.png"
+    },
+    {
+        "name": "Big Fan of Gldemo, Yui",
+        "code": "AB/W31-TE02",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "Girls Dead Monster is amazing, it's Gldemo for short!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE02.png"
+    },
+    {
+        "name": "Charisma Vocalist, Iwasawa",
+        "code": "AB/W31-TE03",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, return it to your opponent's hand, and at the end of turn, put this card into your memory."
+        ],
+        "flavor_text": "This is my life… I wanted to sing like this…",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE03.png"
+    },
+    {
+        "name": "Past Formidable Enemy, Kanade",
+        "code": "AB/W31-TE04",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Then, I'll go do it.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE04.png"
+    },
+    {
+        "name": "Like an Elder Sister, Hisako",
+        "code": "AB/W31-TE05",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "We're getting bored here.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE05.png"
+    },
+    {
+        "name": "Girl Known as \"Angel\", Kanade",
+        "code": "AB/W31-TE06",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if you have a card in your memory, this card gets +1500 power."
+        ],
+        "flavor_text": "…I'm not an angel.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE06.png"
+    },
+    {
+        "name": "2nd Generation Vocalist, Yui",
+        "code": "AB/W31-TE07",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 ［Put the top card of your deck into your clock］ When this card attacks, if a card named \"Operation Tornado feat. Yui\" is in your climax area, you may pay the cost. If you do, until end of turn this card gets +4000 power and your opponent cannot use \"【AUTO】 Encore\". （Your opponent cannot use the \"【AUTO】 Encore [(3)]\" rule either.)"
+        ],
+        "flavor_text": "Nice to meet ya!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE07.png"
+    },
+    {
+        "name": "Girl Standing Up Against Fate",
+        "code": "AB/W31-TE08",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Yuri: \"I hope this will be our last battle.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE08.png"
+    },
+    {
+        "name": "Leader of Gldemo, Iwasawa",
+        "code": "AB/W31-TE09",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.",
+            "【CONT】 Memory If the number of cards in your memory is three or more, this card gets the following ability. \"【CONT】 Assist All of your characters in front of this card get +500 power.\""
+        ],
+        "flavor_text": "OK, shall we begin!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE09.png"
+    },
+    {
+        "name": "\"Maradona\" Yui",
+        "code": "AB/W31-TE10",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 Memory If the number of 《Death》 characters in your memory is two or more, this card gets +500 power and the following ability. \"【CONT】 During your turn, this card gets +1000 power.\""
+        ],
+        "flavor_text": "Prepare to get your butts cleaned!!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE10.png"
+    },
+    {
+        "name": "Tenshi's Mabo Tofu",
+        "code": "AB/W31-TE11",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to three 《Death》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose two cards from your hand, and put them into your waiting room."
+        ],
+        "flavor_text": "I like Mabo Tofu?",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE11.png"
+    },
+    {
+        "name": "Operation Tornado feat. Yui",
+        "code": "AB/W31-TE12",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "No, I can sing it right.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE12.png"
+    },
+    {
+        "name": "Fujimaki & Ooyama",
+        "code": "AB/W31-TE13",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Fujimaki: \"You've got some guts,\nsmart-mouthin' to Yurippe.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE13.png"
+    },
+    {
+        "name": "Thinner in Clothes, Takamatsu",
+        "code": "AB/W31-TE14",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a 《Death》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Yuri: \"He's actually stupid.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE14.png"
+    },
+    {
+        "name": "Baseball Boy, Hinata",
+        "code": "AB/W31-TE15",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory."
+        ],
+        "flavor_text": "Great, change pitchers.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE15.png"
+    },
+    {
+        "name": "Gone Unnoticed, Fujimaki",
+        "code": "AB/W31-TE16",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "It feels like no one would notice if I vanished.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE16.png"
+    },
+    {
+        "name": "Releasing Oneself, Takamatsu",
+        "code": "AB/W31-TE17",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Muscle"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 2000, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "Hinata: \"Whatever, just get dressed.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE17.png"
+    },
+    {
+        "name": "Yuri Defying God",
+        "code": "AB/W31-TE18",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Battle with Shadows\" is in your climax area, you may choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Right! Let's go!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE18.png"
+    },
+    {
+        "name": "Cheerful Dancer, TK",
+        "code": "AB/W31-TE19",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Dancing in the shadow!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE19.png"
+    },
+    {
+        "name": "Just Like Sisters, Kanade & Yuri",
+        "code": "AB/W31-TE20",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from hand."
+        ],
+        "flavor_text": "Yuri: \"…but I'm kinda happy… You called me Yuri.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE20.png"
+    },
+    {
+        "name": "Battle with Shadows",
+        "code": "AB/W31-TE21",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Quit goofing off and help out!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE21.png"
+    },
+    {
+        "name": "Model Student, Kanade",
+        "code": "AB/W31-TE22",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Death》 characters"
+        ],
+        "flavor_text": "Second period's about to start.",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE22",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE22.png"
+    },
+    {
+        "name": "Yuri's Powerful Draw?",
+        "code": "AB/W31-TE23",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if the number of 《Death》 characters you have is two or more, choose one of your characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by your level.",
+            "【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)"
+        ],
+        "flavor_text": "I got number one!",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE23",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE23.png"
+    },
+    {
+        "name": "Otonashi & Kanade in Winter",
+        "code": "AB/W31-TE24",
+        "rarity": "TD",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 Memory If the number of cards in your memory is three or more, this card gets +1000 power and the following ability. \"【ACT】 [【REST】 one of your characters] This card gets +1000 power until end of turn.\"",
+            "【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a level 2 or lower character in your opponent's center stage, and put it on the top of your opponent's deck."
+        ],
+        "flavor_text": "Otonashi: \"Everyone's headed towards a new life.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "TE24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_TE24.png"
+    },
+    {
+        "name": "Underworld Girl, Yuri",
+        "code": "AB/W11-E107",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Now, let's go. I'll protect you.",
+        "set": "AB",
+        "release": "11",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W11_E107.jpg"
+    },
+    {
+        "name": "Proof That One Cannot Die, Kanade",
+        "code": "AB/W31-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\"."
+        ],
+        "flavor_text": "Hand Sonic",
+        "set": "AB",
+        "release": "31",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AB_W31_PE01.png"
+    },
+    {
+        "name": "\"Graduation Ceremony\" Kanade & Yuri",
+        "code": "AB/W31-E118",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Yuri: \"Good Job, Kanade.\"",
+        "set": "AB",
+        "release": "31",
+        "sid": "E118",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E118.jpg"
+    },
+    {
+        "name": "Battlefront Rest, Yuri",
+        "code": "AB/W31-E119",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "Time for a quick breather...",
+        "set": "AB",
+        "release": "31",
+        "sid": "E119",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E119.jpg"
+    },
+    {
+        "name": "From Now On, Kanade",
+        "code": "AB/W31-E120",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power."
+        ],
+        "flavor_text": "What's next?",
+        "set": "AB",
+        "release": "31",
+        "sid": "E120",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E120.jpg"
+    },
+    {
+        "name": "Tomboy, Yui",
+        "code": "AB/W31-E121",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Music"
+        ],
+        "ability": [
+            "【ACT】 ［(1)］ This card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "But sir~",
+        "set": "AB",
+        "release": "31",
+        "sid": "E121",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E121.jpg"
+    },
+    {
+        "name": "Bond of Many Lifetimes, Otonashi",
+        "code": "AB/W31-E122",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand to your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Death》 character in your waiting room, return it to your hand, and this card gets +1000 power until end of turn"
+        ],
+        "flavor_text": "Well, I guess they aren't as bad as I first thought.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E122",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E122.jpg"
+    },
+    {
+        "name": "Otonashi's Close Friend, Hinata",
+        "code": "AB/W31-E123",
+        "rarity": "PR",
+        "expansion": "Angel Beats! Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Death》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 Bond／\"Tomboy, Yui\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Tomboy, Yui\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Seems to have taken a shine to you.",
+        "set": "AB",
+        "release": "31",
+        "sid": "E123",
+        "image": "http://jktcg.com/WS_EN/EN_AB_W31/AB_W31_E123.jpg"
+    }
+]
