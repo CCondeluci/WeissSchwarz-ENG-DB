@@ -2833,5 +2833,163 @@
         "release": "55",
         "sid": "E100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/KS_W55_E100.png"
+    },
+    {
+        "name": "Petit Vanir",
+        "code": "KS/W55-E101",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Mask",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is two or less, this card cannot attack."
+        ],
+        "flavor_text": "KONOSUBA",
+        "set": "KS",
+        "release": "55",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/KS_W55_E101.png"
+    },
+    {
+        "name": "Petit Wiz",
+        "code": "KS/W55-E102",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may 【REVERSE】 that character.\""
+        ],
+        "flavor_text": "KONOSUBA--",
+        "set": "KS",
+        "release": "55",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/KS_W55_E102.png"
+    },
+    {
+        "name": "Petit Yunyun",
+        "code": "KS/W55-E103",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to two times per turn. When your other 《Adventurer》 or 《Magic》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "KONOSUBA!",
+        "set": "KS",
+        "release": "55",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/KS_W55_E103.png"
+    },
+    {
+        "name": "Petit Eris",
+        "code": "KS/W55-E104",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Goddess",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card cannot direct attack.",
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "KONOSUBA♪",
+        "set": "KS",
+        "release": "55",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/KS_W55_E104.png"
+    },
+    {
+        "name": "\"Heartstrings of the Crimson Demon Race\" Megumin",
+        "code": "KS/W55-PE01",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other level 0 or lower characters."
+        ],
+        "flavor_text": "KONOSUBA♪",
+        "set": "KS",
+        "release": "55",
+        "sid": "PE01",
+        "image": "http://jktcg.com/WS_EN/EN_KS2_W55/KS_W55_PE01.jpg"
+    },
+    {
+        "name": "\"Double Peace Sign\" Aqua",
+        "code": "KS/W55-PE02",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +1000 power.",
+            "【AUTO】 This ability activates up to three times per turn. When your other character is placed on the stage from your waiting room, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\" until end of turn."
+        ],
+        "flavor_text": "KONOSUBA♪",
+        "set": "KS",
+        "release": "55",
+        "sid": "PE02",
+        "image": "http://jktcg.com/WS_EN/EN_KS2_W55/KS_W55_PE02.jpg"
     }
 ]
