@@ -1,5 +1,35 @@
 [
     {
+        "name": "Kagamine Rin \"Original\"(F 2nd)",
+        "code": "PD/S29-E001",
+        "rarity": "RR",
+        "expansion": "Hatsune Miku: Project DIVA F 2nd",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power.",
+            "【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)",
+            "【AUTO】 [(1)] When this card attacks. if a card named \"Kokoro\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "PD",
+        "release": "29",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PD_S29_E001.jpg"
+    },
+    {
         "name": "Kagamine Rin \"Reactor\"",
         "code": "PD/S29-E002",
         "rarity": "RR",
