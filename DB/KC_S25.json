@@ -1,5 +1,63 @@
 [
     {
+        "name": "1st Yamato-class Battleship, Yamato",
+        "code": "KC/S25-E001",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Battleship"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】When this card attacks, if a card named \"Gunfire assault, ready!\" is in your climax area, until end of turn, all of your characters get +2000 power and your opponent cannot use \"【AUTO】Encore\". (Your opponent cannot use the \"【AUTO】Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "Battleship Yamato, pushing forth。",
+        "set": "KC",
+        "release": "25",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E001RRPlus.jpg"
+    },
+    {
+        "name": "2nd Yamato-class Battleship, Musashi",
+        "code": "KC/S25-E002",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Battleship"
+        ],
+        "ability": [
+            "【CONT】This card cannot side attack.",
+            "【AUTO】This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled)"
+        ],
+        "flavor_text": "Let Musashi handle this battle!",
+        "set": "KC",
+        "release": "25",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E002RRPlus.jpg"
+    },
+    {
         "name": "Shimakaze-class Destroyer, Shimakaze",
         "code": "KC/S25-E003",
         "rarity": "RR",
@@ -113,6 +171,36 @@
         "release": "25",
         "sid": "E036",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E036RR.jpg"
+    },
+    {
+        "name": "Akagi-class Aircraft Carrier, Akagi-Kai",
+        "code": "KC/S25-E035",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Aircraft Carrier"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】At the beginning of your climax phase, put all cards from your stock into your waiting room, and all of your characters get +1000 power until the end of your opponent's next turn.",
+            "【AUTO】When this card's battle opponent becomes 【Reverse】, if a card named \"Akagi of the First Carrier Division is up next!\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "All planes, are you ready?",
+        "set": "KC",
+        "release": "25",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E035RRPlus.jpg"
     },
     {
         "name": "Yubari-class Light Cruiser, Yubari",
