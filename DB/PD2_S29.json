@@ -30,6 +30,94 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PD_S29_E001.jpg"
     },
     {
+        "name": "Resonating \"DIVA\" Hatsune Miku",
+        "code": "PD/S29-E026",
+        "rarity": "RR",
+        "expansion": "Hatsune Miku: Project DIVA F 2nd",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax cards in your waiting room is six or more, this card gets -1 level while in your hand.",
+            "【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards from your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock."
+        ],
+        "flavor_text": "この歌声――届け、響け。",
+        "set": "PD",
+        "release": "29",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PD_S29_E026.jpg"
+    },
+    {
+        "name": "\"Eternal Sounds\" Hatsune Miku",
+        "code": "PD/S29-E027",
+        "rarity": "RR",
+        "expansion": "Hatsune Miku: Project DIVA F 2nd",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+            "【AUTO】 [(1)] When a card named \"Packaged\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one 《Music》 character, and put it on any position of your stage. Shuffle your deck afterwards, and this card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "きらめく、ときめく、舞台へ。",
+        "set": "PD",
+        "release": "29",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PD_S29_E027.jpg"
+    },
+    {
+        "name": "Megurine Luka \"Original\"(F 2nd)",
+        "code": "PD/S29-E057",
+        "rarity": "RR",
+        "expansion": "Hatsune Miku: Project DIVA F 2nd",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Double Lariat\" is in your climax area, you may pay the cost. If you do, 【Stand】 this card, and until end of turn, this card gets -4 soul and the following ability. \"【CONT】 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\""
+        ],
+        "flavor_text": "-",
+        "set": "PD",
+        "release": "29",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PD_S29_E057.jpg"
+    },
+    {
         "name": "Kagamine Rin \"Reactor\"",
         "code": "PD/S29-E002",
         "rarity": "RR",
