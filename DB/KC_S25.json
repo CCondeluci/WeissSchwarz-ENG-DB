@@ -5168,5 +5168,93 @@
         "release": "25",
         "sid": "E166P",
         "image": "http://jktcg.com/WS_EN/EN_KC_S25/KC_S25_E166P.jpg"
+    },
+    {
+        "name": "1st Kongo-class Battleship, Kongo-Kai-Ni",
+        "code": "KC/S25-E080",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Battleship"
+        ],
+        "ability": [
+            "【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters.",
+            "【AUTO】When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】[Put a card from your hand into your waiting room] During your opponent's turn, when this card becomes 【Reverse】 in battle, you may pay the cost. If you do, 【REST】this card, and at the beginning of your next encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "I will try even harder! So don't you take your eyes off me!",
+        "set": "KC",
+        "release": "25",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E080RRPlus.jpg"
+    },
+    {
+        "name": "2nd Kongo-class Battleship, Hiei-Kai-Ni",
+        "code": "KC/S25-E081",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Battleship"
+        ],
+        "ability": [
+            "【CONT】This card gets +X power. X is equal to 1000 multiplied by the level of the character facing this card.",
+            "【AUTO】When this card is placed on the stage from your hand or by the 【ACT】effect of \"2nd Kongo-class Battleship, Hiei\", all of your characters get +2000 power until end of turn."
+        ],
+        "flavor_text": "I am always ready!",
+        "set": "KC",
+        "release": "25",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E081RRPlus.jpg"
+    },
+    {
+        "name": "1st Nagato-class Battleship, Nagato",
+        "code": "KC/S25-E128",
+        "rarity": "RR",
+        "expansion": "Kancolle",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet Girl",
+            "Battleship"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】When a card named \"Do not look down on the power of the Big 7\" is placed on your climax area, if this card is in your center stage, until end of turn, all of your characters get +500 power and the following ability. \"【AUTO】When this card's battle opponent becomes 【Reverse】, you may put that character on the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "It's the long awaited showdown between the fleets. My chest is burning with anticipation.",
+        "set": "KC",
+        "release": "25",
+        "sid": "E128",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S25_E128RRPlus.jpg"
     }
 ]
