@@ -1,0 +1,3509 @@
+[
+    {
+        "name": "Brave Girl, Cow Girl",
+        "code": "GBS/S63-TE01",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other \"Quiet Consideration, Goblin Slayer\" get +2000 power.",
+            "【AUTO】 Bond/\"Quiet Consideration, Goblin Slayer\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Quiet Consideration, Goblin Slayer\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Hey, I need to make some deliveries. We should go together.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE01.png"
+    },
+    {
+        "name": "Concealed Tactics, Goblin Slayer",
+        "code": "GBS/S63-TE02",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "This is a scout. This is the right way.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE02.png"
+    },
+    {
+        "name": "He Who Slays Goblins, Goblin Slayer",
+        "code": "GBS/S63-TE03",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Put the top card of your deck into your clock] When this card attacks, if \"Rhythmical Extermination\" is in your climax area, you may pay the cost. If you do, choose 1 of your other characters and this card, and both characters get the following abilities until end of turn. \"【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Is the last one a woman? Looks like they dragged her in deeper.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE03.png"
+    },
+    {
+        "name": "Quiet Consideration, Goblin Slayer",
+        "code": "GBS/S63-TE04",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Do you want me to take over?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE04.png"
+    },
+    {
+        "name": "Merciless Actions, Goblin Slayer",
+        "code": "GBS/S63-TE05",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is placed into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "If we waited any longer, there'd be about fifty of them, and they would've attacked.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE05.png"
+    },
+    {
+        "name": "Like a Parent, Goblin Slayer",
+        "code": "GBS/S63-TE06",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another \"Like a Child, Priestess\", this card gets +4000 power.",
+            "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Like a Child, Priestess\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "I see.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE06.png"
+    },
+    {
+        "name": "Masked Figure's Name, Goblin Slayer",
+        "code": "GBS/S63-TE07",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.",
+            "【AUTO】 ［(3)］ During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "...Goblin Slayer.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE07.png"
+    },
+    {
+        "name": "Torch",
+        "code": "GBS/S63-TE08",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have an 《Order》 character, this card cannot be played from your hand.",
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "That over there would catch your eye first. It's a common mistake that rookies make.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE08.png"
+    },
+    {
+        "name": "Rhythmical Extermination",
+        "code": "GBS/S63-TE09",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE09.png"
+    },
+    {
+        "name": "Charge!",
+        "code": "GBS/S63-TE10",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Ten.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE10.png"
+    },
+    {
+        "name": "Unnoticed Beauty, Guild Girl",
+        "code": "GBS/S63-TE11",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Order》 characters, and that character gains the following ability until end of turn. \"【AUTO】 When this card direct attacks, reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room.\" (Otherwise, return it to its original place)",
+            "【ACT】 Brainstorm ［① 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "This will act as your ID in the guild.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE11.png"
+    },
+    {
+        "name": "One's Own Will, Priestess",
+        "code": "GBS/S63-TE12",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Order》 characters get +500 power.",
+            "【ACT】 ［(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Yes. I'm an adult now, so I wanted to help other adventurers.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE12.png"
+    },
+    {
+        "name": "Earth Mother's Disciple, Priestess",
+        "code": "GBS/S63-TE13",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【AUTO】 ［(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "So I'm a beginner.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE13.png"
+    },
+    {
+        "name": "Adventurer, Female Mage",
+        "code": "GBS/S63-TE14",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Order》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Sagitta inflammarae radius!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE14.png"
+    },
+    {
+        "name": "Adventurer, Swordsman",
+        "code": "GBS/S63-TE15",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, you cannot play \"Backup\" from your hand."
+        ],
+        "flavor_text": "We're looking for at least one more person. Would you come with us?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE15.png"
+    },
+    {
+        "name": "Adventurer, Female Martial Artist",
+        "code": "GBS/S63-TE16",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Come with us.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE16.png"
+    },
+    {
+        "name": "Flame's Source, Priestess",
+        "code": "GBS/S63-TE17",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Order》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "What was that?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE17.png"
+    },
+    {
+        "name": "Like a Child, Priestess",
+        "code": "GBS/S63-TE18",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Like a Parent, Goblin Slayer\", your opponent cannot use \"【AUTO】 Encore\" until end of turn. (Your opponent cannot use the \"【AUTO】 Encore ［(3)］\" rule either)"
+        ],
+        "flavor_text": "H-Hello, Goblin Slayer. Um, I bought some armor, just as you instructed.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE18.png"
+    },
+    {
+        "name": "Light That Exposes Chaos, Priestess",
+        "code": "GBS/S63-TE19",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Order》 characters you have ×1000."
+        ],
+        "flavor_text": "O merciful Earth Mother, please bless us, the wanderers in the darkness, with holy light!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE19.png"
+    },
+    {
+        "name": "Merciful, Priestess",
+        "code": "GBS/S63-TE20",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Order》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "!?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE20.png"
+    },
+    {
+        "name": "Unanswered Prayers",
+        "code": "GBS/S63-TE21",
+        "rarity": "TD",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All your characters get +2 soul."
+        ],
+        "flavor_text": "Great Earth Mother, why did you bestow this miracle upon me?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_TE21.png"
+    },
+    {
+        "name": "Pride of an Elf, High Elf Archer",
+        "code": "GBS/S63-E001",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All players cannot play event cards with the same card name as an event card that was played this turn from hand.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Colorful Adventures\" is in your climax area, put the top 3 cards of your deck into your waiting room, choose up to X 《Order》 characters in your waiting room, and return them to your hand. X is equal to the number of cards with trigger icon that were put into your waiting room by this effect."
+        ],
+        "flavor_text": "An elf's arrows hit their mark, even when their eyes are closed!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E001.png"
+    },
+    {
+        "name": "Natural Adventurer, High Elf Archer",
+        "code": "GBS/S63-E002",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "AUTO＠ [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 3 or lower characters, and return it to his or her hand.",
+            "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "I'm going to slay some goblins, too! But only if you'll come with us again!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E002.png"
+    },
+    {
+        "name": "Envy for the Unknown, High Elf Archer",
+        "code": "GBS/S63-E003",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [Return 2 characters from your waiting room into your deck & Shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "A strange and incomprehensible being, huh?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E003.png"
+    },
+    {
+        "name": "Inquiry About a Warrior, High Elf Archer",
+        "code": "GBS/S63-E004",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When your character's trigger check reveals \"Friends to Battle Alongside With\", you may choose 1 \"Rapid Firing of Pebbles, Dwarf Shaman\" or \"Banisher of Heresy, Lizard Priest\" in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over the top 6 cards of your deck, and put them into your waiting room. If there is a climax card with 【SHOT】 trigger icon revealed among those cards, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "No. Orc. Orcbolg. I heard that he was here.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E004.png"
+    },
+    {
+        "name": "Generous Heavy Drinker, Dwarf Shaman",
+        "code": "GBS/S63-E005",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Order》 characters, and that card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's trigger check reveals a climax, if that card's trigger icon is 【SHOT】, you may choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm gonna have my fire wine, and you can have regular ol' wine.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E005.png"
+    },
+    {
+        "name": "Sure-Hit Strike, High Elf Archer",
+        "code": "GBS/S63-E006",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Faith Entrusted to the Bow\" is placed on your climax area, if this card is on the center stage, all of your characters get +1 soul until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of your opponent's stock into his or her waiting room."
+        ],
+        "flavor_text": "Hush.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E006.png"
+    },
+    {
+        "name": "Rapid Firing of Pebbles, Dwarf Shaman",
+        "code": "GBS/S63-E007",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Banisher of Heresy, Lizard Priest\", draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(4)] When this card attacks, if \"Friends to Battle Alongside With\" is in your climax area, you may pay the cost. If you do, this card gets +3000 power until end of turn, put up to 5 cards from the top of your deck into your waiting room, and perform the following action X times. \"Deal 1 damage to your opponent.\" X is equal to the number of cards with trigger icon put into your waiting room by this effect. (Damage may be canceled)"
+        ],
+        "flavor_text": "We have our own way of fighting! Stone Blast!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E007.png"
+    },
+    {
+        "name": "Banisher of Heresy, Lizard Priest",
+        "code": "GBS/S63-E008",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When \"Friends to Battle Alongside With\" is placed on your climax area, if this card is on your center stage, and you are level 3 or higher, you may choose 1 \"Rapid Firing of Pebbles, Dwarf Shaman\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "Thank you.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E008.png"
+    },
+    {
+        "name": "Battle Stance, Lizard Priest",
+        "code": "GBS/S63-E009",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Order》 character attacks, this card gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "O sickle wings of the velociraptor… Slice, fly and hunt!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E009.png"
+    },
+    {
+        "name": "Exploding! High Elf Archer",
+        "code": "GBS/S63-E010",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your clock has 0 cards, this card cannot attack.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Order》 characters revealed among those cards ×1000."
+        ],
+        "flavor_text": "---!!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E010.png"
+    },
+    {
+        "name": "Rear Support, High Elf Archer",
+        "code": "GBS/S63-E011",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if all your characters are yellow, you may put the top card of your deck into your stock.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E011.png"
+    },
+    {
+        "name": "Eye of a Veteran Fighter, Dwarf Shaman",
+        "code": "GBS/S63-E012",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order."
+        ],
+        "flavor_text": "Let's see…",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E012.png"
+    },
+    {
+        "name": "Overwhelming Interest, High Elf Archer",
+        "code": "GBS/S63-E013",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock."
+        ],
+        "flavor_text": "I guess I'll have some.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E013.png"
+    },
+    {
+        "name": "Miracle from Ancestors, Lizard Priest",
+        "code": "GBS/S63-E014",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Soldier from Dragon Bones, Dragontooth Warrior\" get +2000 power.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Dragon Bones\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "O horns and claws of the father, Iguanodon, be four limbs and walk upon this earth with two legs!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E014.png"
+    },
+    {
+        "name": "Spirited Dreams, Dwarf Shaman",
+        "code": "GBS/S63-E015",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Order》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If the cards revealed are all 《Order》 characters, choose 1 level 3 or lower character in your opponent's back stage. That character cannot 【STAND】 during your opponent's next stand phase."
+        ],
+        "flavor_text": "Drink and sing, spirits! Sing, dance, and sleep like a log!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E015.png"
+    },
+    {
+        "name": "Effective Words, High Elf Archer",
+        "code": "GBS/S63-E016",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Wha-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E016.png"
+    },
+    {
+        "name": "Cherished Flavor, Lizard Priest",
+        "code": "GBS/S63-E017",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +2 soul until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock."
+        ],
+        "flavor_text": "Sweet nectar!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E017.png"
+    },
+    {
+        "name": "Promise to Oneself, High Elf Archer",
+        "code": "GBS/S63-E018",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Order》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Someday, I'll take you on an actual adventure.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E018.png"
+    },
+    {
+        "name": "Final Battle, Female Sage",
+        "code": "GBS/S63-E019",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【CONT】 All of your other \"Final Battle, Female Hero\" and \"Final Battle, Female Swordmaster\" get +500 power, and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "To ensure that even small wishes like that come true…",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E019.png"
+    },
+    {
+        "name": "Final Battle, Female Swordmaster",
+        "code": "GBS/S63-E020",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another \"Final Battle, Female Hero\", this card gets +4000 power.",
+            "【AUTO】 When this card attacks, choose 1 of your other \"Final Battle, Female Hero\", and that card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Everyone's in the same boat! We all have someone dear to us and things we want to do.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E020.png"
+    },
+    {
+        "name": "Soldier from Dragon Bones, Dragon Tooth Warrior",
+        "code": "GBS/S63-E021",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E021.png"
+    },
+    {
+        "name": "Final Battle, Female Hero",
+        "code": "GBS/S63-E022",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "3",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your \"Final Battle, Female Sage\" in your waiting room, and put it on any position of your stage.",
+            "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your \"Final Battle, Female Swordmaster\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "O-Once this is over, the three of us are going back to the village and going to a festival!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E022.png"
+    },
+    {
+        "name": "Dragon Bones",
+        "code": "GBS/S63-E023",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your 【STAND】 characters with \"Lizard Priest(蜥蜴僧侶)\" in its card name, and 【REST】 it. If you do, choose up to 1 of your \"Soldier from Dragon Bones, Dragontooth Warrior\" in your hand, and put it on any position of your stage."
+        ],
+        "flavor_text": "Summoning the dragontooth warrior requires these catalysts.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E023.png"
+    },
+    {
+        "name": "Dice",
+        "code": "GBS/S63-E024",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, all players reveal the top card of their decks. If all revealed cards are level 0 or lower characters, put the top card of your stock into your waiting room. If all revealed cards are level 3 or higher characters, choose up to 4 cards in your waiting room, and put them in any order in your stock. (Return all revealed cards to their original place)"
+        ],
+        "flavor_text": "The gods threw the dice over and over and over again, until they began to feel faint.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E024.png"
+    },
+    {
+        "name": "Colorful Adventures",
+        "code": "GBS/S63-E025",
+        "rarity": "CR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Yeah, you do that.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E025.png"
+    },
+    {
+        "name": "Faith Entrusted to the Bow",
+        "code": "GBS/S63-E026",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "We have to get going, don't we?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E026.png"
+    },
+    {
+        "name": "Friends to Battle Alongside With",
+        "code": "GBS/S63-E027",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Dwarf Shaman: \"A warrior with no equipment is too big a risk to take down there.\"",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E027.png"
+    },
+    {
+        "name": "Energetic Childhood Friend, Cow Girl",
+        "code": "GBS/S63-E028",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1) Return this card to your hand] When \"Brand New Morning\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other 《Order》 characters, and 【STAND】 it.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "It's such a nice day today. The sun's so bright!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E028.png"
+    },
+    {
+        "name": "Precise Battle Tactics, Goblin Slayer",
+        "code": "GBS/S63-E029",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Battle with One's Life at Stake\" is in your climax area, and you have another 《Order》 character, choose 1 of the following effects and perform it. \"Choose 1 \"Torch\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"Torch\", reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "I knew that was what you'd think.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E029.png"
+    },
+    {
+        "name": "Iron Shadow of Annihilation, Goblin Slayer",
+        "code": "GBS/S63-E030",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Last Breath\" is in your climax area, deal 1 damage to your opponent, and put that character on the top of his or her deck. (Damage may be canceled)"
+        ],
+        "flavor_text": "They're not bright creatures, but they aren't complete fools.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E030.png"
+    },
+    {
+        "name": "True Bonds, Goblin Slayer",
+        "code": "GBS/S63-E031",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Order》 character from among them, put it into your hand, put the rest into your waiting room, and put 1 card from your hand into your waiting room.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order."
+        ],
+        "flavor_text": "It's because… I trusted you.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E031.png"
+    },
+    {
+        "name": "Bewitching Demeanor, Witch",
+        "code": "GBS/S63-E032",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Order》 characters revealed among those cards ×1000.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Secret XXXX\" is in your climax area, choose 1 of your other characters and this card, and both characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "I'll give you… something… even better.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E032.png"
+    },
+    {
+        "name": "Enchanting Looks, Witch",
+        "code": "GBS/S63-E033",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "4500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +2000 power.",
+            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "If you wanted to help people… you could do so with those two you were talking to… couldn't you?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E033.png"
+    },
+    {
+        "name": "Burdened by Fate, Goblin Slayer",
+        "code": "GBS/S63-E034",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Order》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 event card, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "High Elf Archer: \"He went… to slay some goblins.\"",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E034.png"
+    },
+    {
+        "name": "Bursting with Vigor, Cow Girl",
+        "code": "GBS/S63-E035",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Order》 characters you have.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Order》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+        ],
+        "flavor_text": "Okay! Let's go together.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E035.png"
+    },
+    {
+        "name": "Unbending Will, Cow Girl",
+        "code": "GBS/S63-E036",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, you may choose 1 of your 《Order》 characters, and return it to your hand.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I'm sorry. I'm not going to run.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E036.png"
+    },
+    {
+        "name": "A Moment of Peace, Cow Girl",
+        "code": "GBS/S63-E037",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Order》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put 1 \"Torch\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E037.png"
+    },
+    {
+        "name": "Predetermined Outcome, Goblin Slayer",
+        "code": "GBS/S63-E038",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +1 level, +1500 power, and the following ability. \"【CONT】 This card and the character facing it cannot side attack.\"",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "And I'm… Goblin Slayer.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E038.png"
+    },
+    {
+        "name": "A Little Kindness, Witch",
+        "code": "GBS/S63-E039",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "There aren't any… quests.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E039.png"
+    },
+    {
+        "name": "Gleaming Dagger, Goblin Slayer",
+        "code": "GBS/S63-E040",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Goblins… are far more troublesome than you.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E040.png"
+    },
+    {
+        "name": "Where the Two Belong, Cow Girl",
+        "code": "GBS/S63-E041",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Order》 characters get +1000 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, choose 1 of your characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+        ],
+        "flavor_text": "Welcome back.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E041.png"
+    },
+    {
+        "name": "Hunting Big Game, Spearman",
+        "code": "GBS/S63-E042",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Take this!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E042.png"
+    },
+    {
+        "name": "Unyielding Stance, Goblin Slayer",
+        "code": "GBS/S63-E043",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Order》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "The goblins must die. That's one.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E043.png"
+    },
+    {
+        "name": "Sleep Spell, Witch",
+        "code": "GBS/S63-E044",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among them, choose 1 level 3 or lower character in your opponent's back stage. That character cannot 【STAND】 during your opponent's next stand phase.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "Sleep.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E044.png"
+    },
+    {
+        "name": "Strange Request, Witch",
+        "code": "GBS/S63-E045",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Order》 characters get +500 power.",
+            "【ACT】 [Put this card into your clock] Choose 1 \"《Gate》 Scroll\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "He wanted some help with a scroll.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E045.png"
+    },
+    {
+        "name": "Man of Few Words, Goblin Slayer",
+        "code": "GBS/S63-E046",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] At the beginning of the encore step, if there are no other 【REST】 characters if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "I see.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E046.png"
+    },
+    {
+        "name": "Under the Starry Sky, Cow Girl",
+        "code": "GBS/S63-E047",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Order》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "It's fine. I needed to do laundry, anyway. And I'll take a bath.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E047.png"
+    },
+    {
+        "name": "Flickering Fire Arrow, Goblin Slayer",
+        "code": "GBS/S63-E048",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "You would hunt them all down and attack them. You'd kill, kill and kill even more.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E048.png"
+    },
+    {
+        "name": "Flash of Silver, Goblin Slayer",
+        "code": "GBS/S63-E049",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck."
+        ],
+        "flavor_text": "Five.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E049.png"
+    },
+    {
+        "name": "Great Health, Cow Girl",
+        "code": "GBS/S63-E050",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "I'm stronger than I look, you know.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E050.png"
+    },
+    {
+        "name": "Most Stubborn Frontline, Spearman",
+        "code": "GBS/S63-E051",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Shut up!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E051.png"
+    },
+    {
+        "name": "《Gate》 Scroll",
+        "code": "GBS/S63-E052",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you have 5 or more 《Order》 characters, choose 1 of your opponent's characters in battle, and return it to his or her hand."
+        ],
+        "flavor_text": "This is a gate scroll. I linked it to the bottom of the sea.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E052.png"
+    },
+    {
+        "name": "Torch",
+        "code": "GBS/S63-E053",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, this card cannot be played from your hand.",
+            "Choose 1 of your opponent's characters, and move it to another open position of his or her stage."
+        ],
+        "flavor_text": "Breathe through your nose. You'll get used to it.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E053.png"
+    },
+    {
+        "name": "Canary",
+        "code": "GBS/S63-E054",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If your memory has 2 or less cards, put this card into your memory.",
+            "【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, look at up to 2 cards from the top of your deck, put them on the top of your deck in the original order, look at up to 2 cards from the top of your opponent's deck, and put them at the top of his or her deck in the original order."
+        ],
+        "flavor_text": "Goblin Slayer: \"It’s a canary.\"\nHigh Elf Archer: \"I told you, I know what it is!\"",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E054.png"
+    },
+    {
+        "name": "Duffel Bag",
+        "code": "GBS/S63-E055",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, this card cannot be played from your hand.",
+            "Choose 1 \"《Gate》 Scroll\" or \"Torch\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E055.png"
+    },
+    {
+        "name": "Last Breath",
+        "code": "GBS/S63-E056",
+        "rarity": "CR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Bullshit.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E056.png"
+    },
+    {
+        "name": "Battle with One's Life at Stake",
+        "code": "GBS/S63-E057",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Who's next?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E057.png"
+    },
+    {
+        "name": "Brand New Morning",
+        "code": "GBS/S63-E058",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "Good morning!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E058.png"
+    },
+    {
+        "name": "Secret XXXX",
+        "code": "GBS/S63-E059",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Wait…",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E059.png"
+    },
+    {
+        "name": "Guild's Poster Girl, Guild Girl",
+        "code": "GBS/S63-E060",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets 1 of the following abilities of your choice until end of turn. \"【AUTO】 During this card's battle, when your opponent refreshes his or her deck, you may put the top card of your deck into your stock.\" \"【AUTO】 During this card's battle, when your opponent levels up, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Adventurers! It's time to post all the quests available this morning!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E060.png"
+    },
+    {
+        "name": "Kind Acolyte, Priestess",
+        "code": "GBS/S63-E061",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When your character's trigger check reveals an event card, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Okay. If you think that I can help you.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E061.png"
+    },
+    {
+        "name": "Beloved Archbishop, Sword Maiden",
+        "code": "GBS/S63-E062",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "People are… Women are weak creatures.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E062.png"
+    },
+    {
+        "name": "Passionate Yearning, Sword Maiden",
+        "code": "GBS/S63-E063",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Order》 characters get +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "Even… Even in my dreams? You will come?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E063.png"
+    },
+    {
+        "name": "Pure Aide, Priestess",
+        "code": "GBS/S63-E064",
+        "rarity": "RR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If \"True Bonds, Goblin Slayer\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Extensive Divine Protection\" is in your climax area, reveal the top card of your deck. If that card is an 《Order》 character or an event card, this card gets +1500 power and the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, all of your opponent's characters get -1 soul until end of turn.\" (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I'm going with you. I can't leave you alone.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E064.png"
+    },
+    {
+        "name": "Personal Special Reward, Priestess",
+        "code": "GBS/S63-E065",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character revealed among those cards, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card is put into your waiting room from the stage, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card revealed among those cards, you may put this card into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Please take off your helmet.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E065.png"
+    },
+    {
+        "name": "Everyday Anticipation, Guild Girl",
+        "code": "GBS/S63-E066",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When damage dealt by this card is canceled, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "I feel so much more relaxed just having someone I trust acting as an observer.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E066.png"
+    },
+    {
+        "name": "Cherubic Smile, Priestess",
+        "code": "GBS/S63-E067",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Order》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+        ],
+        "flavor_text": "Goblin Slayer!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E067.png"
+    },
+    {
+        "name": "Clear Gaze, Priestess",
+        "code": "GBS/S63-E068",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have an 《Order》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E068.png"
+    },
+    {
+        "name": "Translucent Skin, Sword Maiden",
+        "code": "GBS/S63-E069",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Do you mind if I join you?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E069.png"
+    },
+    {
+        "name": "Innocent Virgin, Priestess",
+        "code": "GBS/S63-E070",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Order》 characters get +1000 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn."
+        ],
+        "flavor_text": "---!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E070.png"
+    },
+    {
+        "name": "Inevitable Gathering, Priestess",
+        "code": "GBS/S63-E071",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is placed on the stage from your hand, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "So… It has nothing to do with luck… At all.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E071.png"
+    },
+    {
+        "name": "Figure of Tranquility, Sword Maiden",
+        "code": "GBS/S63-E072",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"A Woman Swayed\" is in your climax area, put up to 2 cards from the top of your deck into your stock."
+        ],
+        "flavor_text": "Priestess: \"Ten years ago, she was one of the adventurers who defeated the resurrected Demon Lord. A gold-ranked adventurer, the second highest rank.\"",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E072.png"
+    },
+    {
+        "name": "Utmost Assistance, Guild Girl",
+        "code": "GBS/S63-E073",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 When \"Here for the Adventurers, Here for You.\" is placed on your climax area, choose up to 2 of your other 《Adventurer》 characters or characters with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "There is now a reward of one gold coin for every goblin you slay!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E073.png"
+    },
+    {
+        "name": "Heart's Truth, Sword Maiden",
+        "code": "GBS/S63-E074",
+        "rarity": "R",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Guide to Salvation\" is in your climax area, choose up to 1 《Order》 character in your waiting room, put it into your stock, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Has something changed since you started slaying goblins?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E074.png"
+    },
+    {
+        "name": "Super Rare Shot! Guild Girl",
+        "code": "GBS/S63-E075",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Oh, my goodness! This is a rare moment!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E075.png"
+    },
+    {
+        "name": "Welcome to the City of Water, Sword Maiden",
+        "code": "GBS/S63-E076",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Welcome, adventurers. I welcome you from the bottom of my heart.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E076.png"
+    },
+    {
+        "name": "For the Future, Guild Girl",
+        "code": "GBS/S63-E077",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When another 《Adventurer》 character or character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name is placed on the stage from your hand, that character gets +1000 power and 《Quest》 until end of turn.",
+            "【ACT】 [(2) 【REST】 this card] Draw 1 card."
+        ],
+        "flavor_text": "Even when adventurers retire, they'll continue to live until they die. So I think it's beneficial to everyone.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E077.png"
+    },
+    {
+        "name": "Profound Reason, Priestess",
+        "code": "GBS/S63-E078",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Order》 character attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage as 【REST】."
+        ],
+        "flavor_text": "Nothing. I just figured out why you know so many things.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E078.png"
+    },
+    {
+        "name": "Ardent Request, Sword Maiden",
+        "code": "GBS/S63-E079",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Order》 characters you have ×500."
+        ],
+        "flavor_text": "Kind sirs, I beg of you… Will you save our town?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E079.png"
+    },
+    {
+        "name": "Sulking Priestess",
+        "code": "GBS/S63-E080",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack."
+        ],
+        "flavor_text": "…!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E080.png"
+    },
+    {
+        "name": "Professional Smile, Guild Girl",
+        "code": "GBS/S63-E081",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "If you're feeling tired, I'd recommend a stamina potion.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E081.png"
+    },
+    {
+        "name": "Always Together, Priestess",
+        "code": "GBS/S63-E082",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 Bond/\"Masked Figure's Name, Goblin Slayer\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Masked Figure's Name, Goblin Slayer\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Of course, I'll be coming along, too.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E082.png"
+    },
+    {
+        "name": "What is a Discussion? Priestess",
+        "code": "GBS/S63-E083",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of his or her deck."
+        ],
+        "flavor_text": "It's not a discussion when there really aren't any options.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E083.png"
+    },
+    {
+        "name": "Quick-Witted Decision, Priestess",
+        "code": "GBS/S63-E084",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When you play an event card, you may put this card into your stock."
+        ],
+        "flavor_text": "I'm sorry. I ended up only using two Protections.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E084.png"
+    },
+    {
+        "name": "Hoping to Repay, Apprentice Cleric",
+        "code": "GBS/S63-E085",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"A New Experience, Greenhorn Warrior\" get +500 power and the following ability. \"【AUTO】 [Put this card into your waiting room] When your other 《Order》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.",
+            "【AUTO】 Bond/\"A New Experience, Greenhorn Warrior\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"A New Experience, Greenhorn Warrior\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Yeah… He did help us out, too.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E085.png"
+    },
+    {
+        "name": "Ultimate Miracle, Sword Maiden",
+        "code": "GBS/S63-E086",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Order》 characters get +500 power.",
+            "【ACT】 [Put this card into your clock] Choose 1 \"Resurrection\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Oh, so you've heard of it?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E086.png"
+    },
+    {
+        "name": "Little Considerations, Priestess",
+        "code": "GBS/S63-E087",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have an 《Order》 character, at the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Are you okay now?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E087.png"
+    },
+    {
+        "name": "Sweet Encounter, Priestess",
+        "code": "GBS/S63-E088",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Ice Cr?me Shock!\" is in your climax area, and your hand has 5 or less cards, look at up to 3 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Amazing! It's so cold and sweet!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E088.png"
+    },
+    {
+        "name": "Feelings of Appreciation, Priestess",
+        "code": "GBS/S63-E089",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, you may put it face down underneath this card as a marker. (Otherwise, return the revealed card to its original place)"
+        ],
+        "flavor_text": "And it's all thanks to you, Goblin Slayer.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E089.png"
+    },
+    {
+        "name": "Morning After Resurrection, Sword Maiden",
+        "code": "GBS/S63-E090",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Archbishop"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "It appears you are awake.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E090.png"
+    },
+    {
+        "name": "Lie-Detecting Gaze, Examiner",
+        "code": "GBS/S63-E091",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your opponent's deck, and look at the bottom card of your opponent's deck. (Return the cards you saw to their original place)"
+        ],
+        "flavor_text": "Don't get any silly ideas.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E091.png"
+    },
+    {
+        "name": "Hitting Guild Girl's Weakness",
+        "code": "GBS/S63-E092",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [【REST】 2 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Huh? U-Um… Y-Yeah, so what?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E092.png"
+    },
+    {
+        "name": "A New Experience, Greenhorn Warrior",
+        "code": "GBS/S63-E093",
+        "rarity": "C",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "But I think I should start.",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E093.png"
+    },
+    {
+        "name": "Obsidian Rank",
+        "code": "GBS/S63-E094",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【AUTO】 Memory [Put this card into your waiting room] When you level up, if this card is in your memory, you may pay the cost. If you do, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Look at this! See?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E094.png"
+    },
+    {
+        "name": "Resurrection",
+        "code": "GBS/S63-E095",
+        "rarity": "U",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "4",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "You may choose in your hand, 1 character with \"Sword Maiden(剣の乙女)\" in its card name and 1 character with \"Priestess(女神官)\" in its card name, and put them into your waiting room. If you do, choose up to 5 cards in your clock, and put them into your waiting room. Put this card into your memory."
+        ],
+        "flavor_text": "......",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E095.png"
+    },
+    {
+        "name": "A Woman Swayed",
+        "code": "GBS/S63-E096",
+        "rarity": "CR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "\"Really?\" He says…",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E096.png"
+    },
+    {
+        "name": "Extensive Divine Protection",
+        "code": "GBS/S63-E097",
+        "rarity": "CR",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Kuh…...",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E097.png"
+    },
+    {
+        "name": "Guide to Salvation",
+        "code": "GBS/S63-E098",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I-I… I cherish you…",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E098.png"
+    },
+    {
+        "name": "Ice Crème Shock!",
+        "code": "GBS/S63-E099",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "…!",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E099.png"
+    },
+    {
+        "name": "Here for the Adventurers, Here for You.",
+        "code": "GBS/S63-E100",
+        "rarity": "CC",
+        "expansion": "Goblin Slayer",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Ufufu",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E100.png"
+    },
+    {
+        "name": "An Ordinary Piece, High Elf Archer",
+        "code": "GBS/S63-E101",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Order》 character attacks, this card gets +2000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 《Order》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "High Elf Archer",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E101.png"
+    },
+    {
+        "name": "An Ordinary Piece, Cow Girl",
+        "code": "GBS/S63-E102",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card from your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "Cow Girl",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E102.png"
+    },
+    {
+        "name": "An Ordinary Piece, Goblin Slayer",
+        "code": "GBS/S63-E103",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card cannot move to another position on the stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Goblin Slayer",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E103.png"
+    },
+    {
+        "name": "An Ordinary Piece, Priestess",
+        "code": "GBS/S63-E104",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Priestess",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E104.png"
+    },
+    {
+        "name": "An Ordinary Piece, Guild Girl",
+        "code": "GBS/S63-E105",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Guild"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Order》, this card gets +2000 power.",
+            "【ACT】 [(1)] This card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Guild Girl",
+        "set": "GBS",
+        "release": "63",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_E105.png"
+    },
+    {
+        "name": "Promise with Friends, Priestess",
+        "code": "GBS/S63-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Order》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Promises must be kept, right?",
+        "set": "GBS",
+        "release": "63",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_PE01.png"
+    }
+]
