@@ -1,0 +1,3354 @@
+[
+    {
+        "name": "\"Memories That Shouldn't Exist\" Alice",
+        "code": "SAO/S65-TE01",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"Memories That Shouldn't Exist\" Eugeo\" get +1000 power.",
+            "【AUTO】 Bond/\"\"Memories That Shouldn't Exist\" Eugeo\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Memories That Shouldn't Exist\" Eugeo\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE01.png"
+    },
+    {
+        "name": "Dazzling Gold, Alice",
+        "code": "SAO/S65-TE02",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Hey! What are you two whispering about?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE02.png"
+    },
+    {
+        "name": "Seeking Ice, Alice",
+        "code": "SAO/S65-TE03",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Fluctlight》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "In the end, the Integrity Knights came from Centoria\nand drove them away, right?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE03.png"
+    },
+    {
+        "name": "Hard Worker, Selka",
+        "code": "SAO/S65-TE04",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Eugeo: \"After Alice was gone, she moved into the church to become a nun and to study the sacred arts.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE04.png"
+    },
+    {
+        "name": "\"The Osmanthus Knight\" Alice Synthesis Thirty",
+        "code": "SAO/S65-TE05",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Fluctlight》 characters you have ×1000."
+        ],
+        "flavor_text": "I am the overseer of the capital city of Centoria,\nan Integrity Knight of the Axiom Church… Alice Synthesis Thirty.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE05.png"
+    },
+    {
+        "name": "\"Female Childhood Friend\" Alice",
+        "code": "SAO/S65-TE06",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Fluctlight》 characters you have.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE06.png"
+    },
+    {
+        "name": "Crime Committed by Fingertips",
+        "code": "SAO/S65-TE07",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters and return it to his or her hand)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE07.png"
+    },
+    {
+        "name": "Right Hand Self to Left",
+        "code": "SAO/S65-TE08",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "(So Selka's transferring my life and her own?)",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE08.png"
+    },
+    {
+        "name": "Somber Expression, Eugeo",
+        "code": "SAO/S65-TE09",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "I was hoping that\nI'd be able to swing this sword one day.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE09.png"
+    },
+    {
+        "name": "Seeking Ice, Kirito",
+        "code": "SAO/S65-TE10",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Fluctlight》 characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "That's it! Ice! Let's go search for ice!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE10.png"
+    },
+    {
+        "name": "\"Primary Trainee\" Eugeo & Kirito",
+        "code": "SAO/S65-TE11",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "Eugeo: \"Some things never change, huh, Kirito?\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE11.png"
+    },
+    {
+        "name": "\"Carver of the Giant Tree\" Kirito",
+        "code": "SAO/S65-TE12",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Fluctlight》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Why are you such a goody-goody?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE12.png"
+    },
+    {
+        "name": "Lunch Time, Eugeo",
+        "code": "SAO/S65-TE13",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Fluctlight》 characters."
+        ],
+        "flavor_text": "The pie sure tastes awesome today!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE13.png"
+    },
+    {
+        "name": "Fate Beginning to Change, Eugeo",
+        "code": "SAO/S65-TE14",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Adventure of the Past\" is in your climax area, and you have another 《Fluctlight》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Fluctlight》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I will become a swordsman!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE14.png"
+    },
+    {
+        "name": "\"Memories That Shouldn't Exist\" Eugeo",
+        "code": "SAO/S65-TE15",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE15.png"
+    },
+    {
+        "name": "\"Carver of the Giant Tree\" Eugeo",
+        "code": "SAO/S65-TE16",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "After all, it's our Calling\nto cut down the Gigas Cedar.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE16.png"
+    },
+    {
+        "name": "\"Lost Child of Vecta\" Kirito",
+        "code": "SAO/S65-TE17",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Fluctlight》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Where... am I?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE17.png"
+    },
+    {
+        "name": "Stacia Window",
+        "code": "SAO/S65-TE18",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "Look at up to 3 cards from the top of your deck, put them on the top of your deck in the original order, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE18.png"
+    },
+    {
+        "name": "Adventure of the Past",
+        "code": "SAO/S65-TE19",
+        "rarity": "TD",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "Kirito: \"What Bercouli supposedly tried to steal. It must be the Blue Rose Sword.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_TE19.png"
+    },
+    {
+        "name": "To the Cave in the North, Alice",
+        "code": "SAO/S65-E001",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your clock, and put the rest into your waiting room. If you put 1 card into your clock, choose 1 《Fluctlight》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Well, we have no choice but to go in now, right?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E001.png"
+    },
+    {
+        "name": "Resolution to Break Away, Alice",
+        "code": "SAO/S65-E002",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Declaration of Independence\" is in your climax area, look at the top card of your deck, choose up to 1 《Fluctlight》 character from among them, reveal it to your opponent, put it into your hand, put the rest on the top of your deck, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is being frontal attacked, you may return this card to your hand.\""
+        ],
+        "flavor_text": "In order to accomplish what I must do, I will fight you!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E002.png"
+    },
+    {
+        "name": "\"If You Want My Answer\" Asuna",
+        "code": "SAO/S65-E003",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Ocean Turtle, Asuna\", when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "It wasn't all just fun and games. There was so much pain and sadness, too, wasn't there?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E003.png"
+    },
+    {
+        "name": "Brilliant Female Knight, Alice",
+        "code": "SAO/S65-E004",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 1 《Fluctlight》 character from your hand into your waiting room] This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Osmanthus Sword\" is in your climax area, you may pay the cost. If you do, put the top 5 cards of your deck into your waiting room, choose up to X cards in your opponent's waiting room, return them to your opponent's deck, your opponent shuffles his or her deck, and deal X damage to your opponent. X is equal to the number of cards with in its trigger icon revealed among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "Who do you think I am?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E004.png"
+    },
+    {
+        "name": "Party in Full Swing, Selka",
+        "code": "SAO/S65-E005",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Fluctlight》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "But chopping down the demon tree is amazing, huh?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E005.png"
+    },
+    {
+        "name": "Lifeline Chains, Alice",
+        "code": "SAO/S65-E006",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Fluctlight》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E006.png"
+    },
+    {
+        "name": "How About Something Sweet? Asuna",
+        "code": "SAO/S65-E007",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room]",
+            "When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "It makes me trip a little, you know!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E007.png"
+    },
+    {
+        "name": "Cooking with the Sacred Arts, Alice",
+        "code": "SAO/S65-E008",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Fluctlight》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Generate Thermal Element. Aqueous Element. Aerial Element.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E008.png"
+    },
+    {
+        "name": "Glittering Osmanthus, Alice",
+        "code": "SAO/S65-E009",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Fluctlight》 characters in front of this card get +2000 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play event cards from hand.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of your opponent's characters, and return it to his or her hand."
+        ],
+        "flavor_text": "Spin, my flowers!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E009.png"
+    },
+    {
+        "name": "Information About the Virtual World, Asuna",
+        "code": "SAO/S65-E010",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into his or her stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "There was a boy and girl, and it seems like the girl broke the Taboo Index.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E010.png"
+    },
+    {
+        "name": "Sore Loser, Alice",
+        "code": "SAO/S65-E011",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fluctlight》 character, put it into your hand, choose 1 card in your hand, and put it in your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 When the damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "Y-You insulted me yet again!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E011.png"
+    },
+    {
+        "name": "Incident of a Certain Summer, Alice",
+        "code": "SAO/S65-E012",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When your other character with \"Kirito(キリト)\" or \"Eugeo(ユージオ)\" in its card name is placed on the stage from your hand, that character gets +1000 power and 《Lunch Box》 until end of turn.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Deusolbert: \"...Trespassing into the Dark Territory.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E012.png"
+    },
+    {
+        "name": "Memories of a Younger Sister, Alice",
+        "code": "SAO/S65-E013",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that card into your opponent's memory."
+        ],
+        "flavor_text": "It's true. I have a family.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E013.png"
+    },
+    {
+        "name": "An Unexpected Welcome, Alice",
+        "code": "SAO/S65-E014",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E014.png"
+    },
+    {
+        "name": "Dauntless Perfect Control Art, Alice",
+        "code": "SAO/S65-E015",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.\""
+        ],
+        "flavor_text": "Could it be you're mocking me? To run towards me without drawing your swords...",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E015.png"
+    },
+    {
+        "name": "Confrontation with PK Squadron, Asuna",
+        "code": "SAO/S65-E016",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another character with \"Kirito(キリト)\" in its card name, this card gets +3000 power.",
+            "【AUTO】 When this card direct attacks, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Leave this to me!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E016.png"
+    },
+    {
+        "name": "Fighting with Minions, Alice",
+        "code": "SAO/S65-E017",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another character with \"Kirito(キリト)\" in its card name, this card gets +3000 power.",
+            "【AUTO】 When this card attacks, you may put the top card of your deck into your waiting room. If you do, for each trigger icon on that card, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "There's no doubt. What are they doing here?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E017.png"
+    },
+    {
+        "name": "Feelings Towards Older Sister, Selka",
+        "code": "SAO/S65-E018",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Fluctlight》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "For some reason, I feel a little better now.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E018.png"
+    },
+    {
+        "name": "Girl to Be Saved, Alice",
+        "code": "SAO/S65-E019",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E019.png"
+    },
+    {
+        "name": "\"Ocean Turtle\" Asuna",
+        "code": "SAO/S65-E020",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Avatar》 or 《Net》 character, draw up to 1 card, choose 1 card in your hand, put it into your waiting room, and put up to 1 card from the top of your deck into your stock.",
+            "【AUTO】 【CXCOMBO】 [(2) Put this card into your waiting room] When \"To Where You Are\" is placed on your climax area, you may pay the cost. If you do, choose 1 \"\"If You Want My Answer\" Asuna\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Nice to meet you",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E020.png"
+    },
+    {
+        "name": "Godsend",
+        "code": "SAO/S65-E021",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "Search your deck for up to 1 character with \"Alice(アリス)\" in its card name and up to 1 character with \"Kirito(キリト)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck. Put this card into your memory."
+        ],
+        "flavor_text": "Alice: \"Why would you keep something like that in your pocket?\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E021.png"
+    },
+    {
+        "name": "Sergeant First Class Natsuki Aki",
+        "code": "SAO/S65-E022",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《Fluctlight》 character, this card cannot be played from your hand. You may put the top card of your clock into your waiting room. Choose 1 of your characters, and that character gets +2500 power until end of turn. Put this card into your memory."
+        ],
+        "flavor_text": "I pledge to protect young Kirigaya, life and limb, with full responsibility! And so on!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E022.png"
+    },
+    {
+        "name": "Osmanthus Sword",
+        "code": "SAO/S65-E023",
+        "rarity": "CR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Its attribute is \"everlasting eternity.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E023.png"
+    },
+    {
+        "name": "Declaration of Independence",
+        "code": "SAO/S65-E024",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Our glorious order of Integrity Knights has been destroyed as of today.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E024.png"
+    },
+    {
+        "name": "To Where You Are",
+        "code": "SAO/S65-E025",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Kirito. Kirito!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E025.png"
+    },
+    {
+        "name": "\"With Pride\" Cardinal",
+        "code": "SAO/S65-E026",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Fluctlight》, this card gets +1000 power.",
+            "【AUTO】 [Put this card into your clock] When your other 《Fluctlight》 character is being frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "I will give you my life!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E026.png"
+    },
+    {
+        "name": "Spending a Day Off, Sortiliena",
+        "code": "SAO/S65-E027",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Fluctlight》 characters revealed among those cards ×1000."
+        ],
+        "flavor_text": "What a coincidence.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E027.png"
+    },
+    {
+        "name": "Fight Between Bitter Enemies, Cardinal",
+        "code": "SAO/S65-E028",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Conclusion After 200 Years\" is in your climax area, reveal the top card of your deck. If that card is a 《Fluctlight》 character, put it into your stock, choose up to 1 \"Charlotte's Assist\" in your waiting room, and return it to your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "Stay back!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E028.png"
+    },
+    {
+        "name": "Girls of Age, Ronie & Tiese",
+        "code": "SAO/S65-E029",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Noble"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【ACT】 [【REST】 this card] Choose 1 character with \"Kirito(キリト)\" or \"Eugeo(ユージオ)\" in its card name, and that card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Ronie: \"Th-Thank you very much, Elite Disciple!\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E029.png"
+    },
+    {
+        "name": "\"Perfect Control Art\" Cardinal",
+        "code": "SAO/S65-E030",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+            "【AUTO】 【CXCOMBO】 When \"What It Means to Be Human\" is placed on your climax area, choose up to 2 of your characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock.\" (Climax are regarded as level 0. Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "Both of you close your eyes and think of your sword.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E030.png"
+    },
+    {
+        "name": "\"The Sage of the Library\" Cardinal",
+        "code": "SAO/S65-E031",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose and perform 1 of the following effects. \"Choose 1 card in your hand, and put it in your waiting room. If you do, put the top card of your clock into your stock.\" \"Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.\" \"This card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from hand.\"\""
+        ],
+        "flavor_text": "We've been detected. Can't use this back door anymore.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E031.png"
+    },
+    {
+        "name": "\"The Legendary Hero\" Bercouli Synthesis One",
+        "code": "SAO/S65-E032",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Bercouli and the Northern White Dragon\" is in your climax area, this card gets +1500 power and the following ability until the end of your opponent's next turn. \"【AUTO】 [(2) Put 1 card from your hand into your waiting room] When the character facing this card attacks, you may pay the cost. If you do, deal 4 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "Integrity Knight Commander Bercouli Synthesis One... is coming!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E032.png"
+    },
+    {
+        "name": "The Girl Called Lyserith, Cardinal",
+        "code": "SAO/S65-E033",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fluctlight》 characters get +500 power.",
+            "【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 \"Cardinal's Dagger\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Administrator: \"If I can copy my own Fluctlight's thoughts and memories by overwriting this child's Fluctlight...\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E033.png"
+    },
+    {
+        "name": "\"Sister-In-Training\" Fizel Synthesis Twenty-Nine",
+        "code": "SAO/S65-E034",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Fluctlight》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"\"Sister-In-Training\" Linel Synthesis Twenty-Eight\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Um... I'm... no... I'm Fizel, an Axiom Church sister-in-training. And this is my fellow sister-in-training.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E034.png"
+    },
+    {
+        "name": "Appeal to the Integrity Knight, Tiese & Ronie",
+        "code": "SAO/S65-E035",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Noble"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Fluctlight》 character in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Eugeo: \"Tiese!\"\nKirito: \"Ronie!\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E035.png"
+    },
+    {
+        "name": "Heroic Warrior, Bercouli",
+        "code": "SAO/S65-E036",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 You cannot play event cards and \"Backup\" from hand."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E036.png"
+    },
+    {
+        "name": "\"Page\" Tiese",
+        "code": "SAO/S65-E037",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Noble"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other card with \"Eugeo(ユージオ)\" in its card name becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character.",
+            "【AUTO】 Bond/\"Fate Beginning to Change, Eugeo\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Fate Beginning to Change, Eugeo\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Eugeo: \"So, Tiese, you come from a noble family, right? I thought all the nobles' mansions were in District Three and Four.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E037.png"
+    },
+    {
+        "name": "Serlut Style User, Sortiliena",
+        "code": "SAO/S65-E038",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Fluctlight》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E038.png"
+    },
+    {
+        "name": "\"Detestable Face\" Fanatio",
+        "code": "SAO/S65-E039",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into his or her clock."
+        ],
+        "flavor_text": "Criminal. I can see that you're unlike the ones I've fought before.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E039.png"
+    },
+    {
+        "name": "\"The Crimson Knight\" Deusolbert Synthesis Seven",
+        "code": "SAO/S65-E040",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, choose 1 character on your opponent's center stage, and that character gets -3000 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Fluctlight》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I oversaw Norlangarth's northern border in District Seven.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E040.png"
+    },
+    {
+        "name": "\"Page\" Ronie",
+        "code": "SAO/S65-E041",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Noble"
+        ],
+        "ability": [
+            "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"\"Lost Child of Vecta\" Kirito\" in your hand, and put it on the stage position that this card was on.\""
+        ],
+        "flavor_text": "Kirito: \"If it's any other trajectory, they'll change their footing for sure, so after seeing that, you'll still have time to block it.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E041.png"
+    },
+    {
+        "name": "\"Sister-In-Training\" Linel Synthesis Twenty-Eight",
+        "code": "SAO/S65-E042",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card cannot move to another position on the stage."
+        ],
+        "flavor_text": "I-I'm Linel.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E042.png"
+    },
+    {
+        "name": "\"Violet-Haired Suave Man\" Eldrie Synthesis Thirty-One",
+        "code": "SAO/S65-E043",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +4000 power and the following ability. \"【AUTO】 [Put 1 《Fluctlight》 character from your hand into your waiting room] At the beginning of your climax phase, if there is no opponent character facing this card, you may pay the cost. If you do, choose 1 of your opponent's characters, and move it to the stage position facing this card.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"An Unexpected Welcome, Alice\" in your waiting room, and put it face up underneath this card as a marker."
+        ],
+        "flavor_text": "I am just a novice, without my own territory... Perhaps you'll be so kind as to forgive that?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E043.png"
+    },
+    {
+        "name": "Information About the Virtual World, Leafa",
+        "code": "SAO/S65-E044",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn.",
+            "【ACT】 [【REST】 1 of your 《Avatar》 or 《Net》 characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Asuna: \"They said that, normally, it wouldn't have been possible.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E044.png"
+    },
+    {
+        "name": "\"The Relentless Knight\" Fanatio Synthesis Two",
+        "code": "SAO/S65-E045",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, if this card is on the center stage, all characters on the center stage get -1000 power until end of turn."
+        ],
+        "flavor_text": "System Call. Enhance Armament!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E045.png"
+    },
+    {
+        "name": "Knight on Flying Dragon, Deulsolbert",
+        "code": "SAO/S65-E046",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Integrity Knight"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Alice: \"Dragon Knights...\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E046.png"
+    },
+    {
+        "name": "\"Swordsman's Pride\" Volo",
+        "code": "SAO/S65-E047",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Fluctlight》 characters you have ×1000."
+        ],
+        "flavor_text": "Sortiliena: \"As has been mutually agreed, both will use real swords.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E047.png"
+    },
+    {
+        "name": "Cardinal's Dagger",
+        "code": "SAO/S65-E048",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "If you have 2 or less 《Fluctlight》 characters, this card cannot be played from your hand.",
+            "Choose up to 1 \"\"The Sage of the Library\" Cardinal\" in your hand, and put it on any position of your stage."
+        ],
+        "flavor_text": "Cardinal: \"Meaning that any sacred arts I use will affect her without fail.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E048.png"
+    },
+    {
+        "name": "What It Means to Be Human",
+        "code": "SAO/S65-E049",
+        "rarity": "CR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "This is what it means to be human, huh?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E049.png"
+    },
+    {
+        "name": "Conclusion After 200 Years",
+        "code": "SAO/S65-E050",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "\"Please protect this world and its people.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E050.png"
+    },
+    {
+        "name": "Bercouli and the Northern White Dragon",
+        "code": "SAO/S65-E051",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Kirito: \"He took hold of a beautiful sword in the treasure, but the instant he did...\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E051.png"
+    },
+    {
+        "name": "\"Pontifex of the Axiom Church\" Administrator",
+        "code": "SAO/S65-E052",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Fluctlight》 character in your clock, and put it at the bottom of your deck.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 2 《Fluctlight》 characters from your hand into your waiting room] When \"Ruler of the 《Human Realm》\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1 《Fluctlight》 character in your waiting room, put it on an open position of your stage, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, you may deal 2 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "But was that love really meant only for you?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E052.png"
+    },
+    {
+        "name": "\"Sacred Arts Researcher\" Quinella",
+        "code": "SAO/S65-E053",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with \"Administrator(アドミニストレータ)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 Resonate [(1) Reveal a card named \"\"Pontifex of the Axiom Church\" Administrator\" in your hand & 【REST】 2 of your 《Fluctlight》 characters] Look at up to 5 cards from the top of your deck, choose up to 1 《Fluctlight》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I gratefully accept, Father.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E053.png"
+    },
+    {
+        "name": "Preparation for the Load Test, Administrator",
+        "code": "SAO/S65-E054",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character revealed among those cards, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Fluctlight》 character in your waiting room, return it to your hand, choose 1 of your other 《Fluctlight》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I knew you'd emerge from your musty hole sooner or later.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E054.png"
+    },
+    {
+        "name": "Brutal Lightning Attack, Administrator",
+        "code": "SAO/S65-E055",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E055.png"
+    },
+    {
+        "name": "Sweet Temptation, Administrator",
+        "code": "SAO/S65-E056",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 Experience If all of the cards in your level have \"Administrator(アドミニストレータ)\" or \"Quinella(クィネラ)\" in their card names, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Temptation into Eternal Stasis\" is in your climax area, you may pay the cost. If you do, put the top card of your deck into your waiting room. If that card is a 《Fluctlight》 character, choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】."
+        ],
+        "flavor_text": "I'll bring you to the ultimate pleasure, one beyond your imagination!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E056.png"
+    },
+    {
+        "name": "\"Ruler\" Administrator",
+        "code": "SAO/S65-E057",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fluctlight》 characters get +X power. X is equal to that character's level ×500.",
+            "【CONT】 Experience If all of the cards in your level have \"Administrator(アドミニストレータ)\" or \"Quinella(クィネラ)\" in their card names, this card gets the following ability. \"【AUTO】 When your card or your opponent's card in the clock is put into the waiting room due to respective card effects, that player may put the top 2 cards from stock into the waiting room. Otherwise, that player puts the top card of the deck into the clock.\""
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E057.png"
+    },
+    {
+        "name": "Confrontation with PK Squadron, Lisbeth",
+        "code": "SAO/S65-E058",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, put up to 1 card from the top of your deck into your stock, and this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "You dirty PK jerks, how do you like this?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E058.png"
+    },
+    {
+        "name": "\"Sword Skill\" Administrator",
+        "code": "SAO/S65-E059",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "On your knees! Offer me your head! Submit to me!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E059.png"
+    },
+    {
+        "name": "\"Endless Thirst to Rule\" Quinella",
+        "code": "SAO/S65-E060",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has.",
+            "【AUTO】 Change [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 1 \"\"Pontifex of the Axiom Church\" Administrator\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "She's a child of God! Surely, Lady Quinella is the holy child of the god Stacia!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E060.png"
+    },
+    {
+        "name": "Unexpected Limit, Administrator",
+        "code": "SAO/S65-E061",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Cardinal: \"Her soul's capacity\nfor preserving her memories had reached its limit.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E061.png"
+    },
+    {
+        "name": "\"Your Eminence, Prime Senator\" Chudelkin",
+        "code": "SAO/S65-E062",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into his or her waiting room. If you do, choose 1 card in your opponent's waiting room, and put it into his or her stock.",
+            "【AUTO】【ACT】 [Put this card into your waiting room] Choose 1 of your characters with \"Administrator(アドミニストレータ)\" or \"Quinella(クィネラ)\" in its card name, and 【STAND】 it."
+        ],
+        "flavor_text": "Have you dealt with those rebels, Number Thirty-two?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E062.png"
+    },
+    {
+        "name": "Information About the Virtual World, Silica",
+        "code": "SAO/S65-E063",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.",
+            "【AUTO】 Encore [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Asuna: \"They think they might've found some kind of loophole.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E063.png"
+    },
+    {
+        "name": "\"Sword Automaton\" Sword Golem",
+        "code": "SAO/S65-E064",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "power": "9000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Administrator(アドミニストレータ)\" or \"Quinella(クィネラ)\" in its card name, this card gets +1500 power.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "Administrator: \"Each of its swords has the Priority Level of a Divine Object. Do you think you can defeat this Sword Golem?\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E064.png"
+    },
+    {
+        "name": "Piety Module",
+        "code": "SAO/S65-E065",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Administrator(アドミニストレータ)\" in its card name, this card cannot be played from your hand.",
+            "Choose 1 cost 1 or lower character on your opponent's back stage, put it into his or her waiting room, choose up to 1 level X character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room. X is equal to the cost +1 of the character put into your opponent's waiting room by this effect."
+        ],
+        "flavor_text": "Kirito: \"There's an order inside you that you're not aware was put there by someone else.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E065.png"
+    },
+    {
+        "name": "Memory Crystal",
+        "code": "SAO/S65-E066",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "Choose 1 《Fluctlight》 character in your waiting room, return it to your hand, choose 1 face up card in your opponent's memory, and put that card face down. At the end of of your opponent's next turn, put that card face up."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E066.png"
+    },
+    {
+        "name": "Ruler of the 《Human Realm》",
+        "code": "SAO/S65-E067",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Cardinal: \"Administrator, you hollow fool!\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E067.png"
+    },
+    {
+        "name": "Temptation into Eternal Stasis",
+        "code": "SAO/S65-E068",
+        "rarity": "CR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "That's right. Now keep going. Remove Core Protection.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E068.png"
+    },
+    {
+        "name": "\"Eugeo's Partner\" Kirito",
+        "code": "SAO/S65-E069",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of cards in your level is 5 or higher, this card gets \"【CONT】 Assist All of your characters in front of this card get +500 power\".",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over the top 4 cards of your deck, and put them into your waiting room. For each climax card revealed among them, search your deck for up to 1 《Fluctlight》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I'm counting on you, partner. I promise to give you a name when this fight is over.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E069.png"
+    },
+    {
+        "name": "Roommate of a Free Spirit, Eugeo",
+        "code": "SAO/S65-E070",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters with \"Kirito(キリト)\" in its card name, and that character gets +1000 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Fluctlight》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "S-Stay cool.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E070.png"
+    },
+    {
+        "name": "\"Kirito's Partner\" Eugeo",
+        "code": "SAO/S65-E071",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Fluctlight》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【ACT】 【CXCOMBO】 Experience [Put this card into your waiting room] If \"Night-Sky-Colored Hero, Kirito\" is in your level, choose 1 \"Red Rose Sword\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Lend me your strength, Blue Rose Sword!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E071.png"
+    },
+    {
+        "name": "Night-Sky-Colored Hero, Kirito",
+        "code": "SAO/S65-E072",
+        "rarity": "RR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of cards in your level is 6 or higher, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, put it into your waiting room, choose up to 1 \"\"Kirito's Partner\" Eugeo\" in your waiting room, and put it face up underneath this card as a marker.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Red Rose Sword\" is in your climax area, deal 1 damage to your opponent, and if there is a marker underneath this card, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Eugeo: \"Now stand, Kirito. My best friend. My... hero.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E072.png"
+    },
+    {
+        "name": "Repayment for Lunch, Kirito",
+        "code": "SAO/S65-E073",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Fluctlight》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "(Think in terms of your avatar, not your physical body.)",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E073.png"
+    },
+    {
+        "name": "\"Power of Meaning\" Kirito",
+        "code": "SAO/S65-E074",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Fluctlight》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Night-Sky Blade\" is in your climax area, you may choose 1 of your opponent's level 0 or lower characters, and put it at the bottom of his or her deck."
+        ],
+        "flavor_text": "Eugeo: \"This is...\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E074.png"
+    },
+    {
+        "name": "Body into Sword, Eugeo",
+        "code": "SAO/S65-E075",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put on the stage from your hand, reveal the top card of your deck. If that card is a 《Fluctlight》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card is placed into your waiting room from the stage, you may reveal up to 3 cards from the top of your deck. If you reveal 1 or more cards, choose up to 1 《Fluctlight》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "I just finally realized what my mission is.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E075.png"
+    },
+    {
+        "name": "Light from Sacred Arts, Eugeo",
+        "code": "SAO/S65-E076",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Fluctlight》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Fluctlight》 characters you have ×500."
+        ],
+        "flavor_text": "I see. They don't like the light from this grass.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E076.png"
+    },
+    {
+        "name": "Taboo and Justice, Eugeo",
+        "code": "SAO/S65-E077",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 《Fluctlight》 characters from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of his or her deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "......!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E077.png"
+    },
+    {
+        "name": "\"Eternal Ice and the Rose\" Eugeo",
+        "code": "SAO/S65-E078",
+        "rarity": "R",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(3) Put 1 \"Blue Rose Sword\" from your hand into your waiting room] At the beginning of your opponent's climax phase, you may pay the cost. If you do, choose 1 character facing this card, deal X damage to your opponent, and that character gets the following ability until end of turn.",
+            "\"【CONT】 This card cannot deal damage to a player.\" X is equal to that character's soul. (Damage may be canceled)"
+        ],
+        "flavor_text": "Eternal ice has the ability to freeze everything. And the rose's ability is...",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E078.png"
+    },
+    {
+        "name": "Searching for Papa, Yui",
+        "code": "SAO/S65-E079",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Right. One possibility is that he may have been transported overseas.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E079.png"
+    },
+    {
+        "name": "To the Cave in the North, Kirito",
+        "code": "SAO/S65-E080",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When a climax is placed on your opponent's climax area, you may put this card into your stock."
+        ],
+        "flavor_text": "The white dragon won't mind if we just take some icicles.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E080.png"
+    },
+    {
+        "name": "Seventh-Generation Carver, Eugeo",
+        "code": "SAO/S65-E081",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E081.png"
+    },
+    {
+        "name": "Confrontation with PK Squadron, Kirito",
+        "code": "SAO/S65-E082",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +3000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Temporary Alliance, Kirito\" in your waiting room, and put it face up underneath this card as a marker.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck."
+        ],
+        "flavor_text": "Klein: \"Man, I'd heard the rumors, but GGO sure is a hardcore game.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E082.png"
+    },
+    {
+        "name": "\"Swordsman's Pride\" Kirito",
+        "code": "SAO/S65-E083",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of cards in your level is 2 or higher, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Sortiliena: \"The one-point match between Elite Disciple Levantein and Novice Trainee Kirito will now begin.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E083.png"
+    },
+    {
+        "name": "Information About the Virtual World, Sinon",
+        "code": "SAO/S65-E084",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn.",
+            "\"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)"
+        ],
+        "flavor_text": "Corrected? I thought the Fluctlights only observed each other, but they were given that kind of authority?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E084.png"
+    },
+    {
+        "name": "\"Truce\" Kirito",
+        "code": "SAO/S65-E085",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of his or her deck.",
+            "【AUTO】 Bond/\"Brilliant Female Knight, Alice\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Brilliant Female Knight, Alice\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Alice: \"Return it to me washed, before I slay you.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E085.png"
+    },
+    {
+        "name": "Departure from Rulid Village, Kirito",
+        "code": "SAO/S65-E086",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 Bond/\"\"Kirito's Partner\" Eugeo\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"\"Kirito's Partner\" Eugeo\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Eugeo: \"The wind feels a little damp. We should probably get going now.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E086.png"
+    },
+    {
+        "name": "Spurring on a Best Friend, Eugeo",
+        "code": "SAO/S65-E087",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience If \"\"Eternal Ice and the Rose\" Eugeo\" is in your level, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCOMBO】 When \"Stay Cool\" is placed on your climax area, if this card is on your center stage, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put up to 2 cards from the top of your deck into your stock.\""
+        ],
+        "flavor_text": "Kirito. I know you can stand again.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E087.png"
+    },
+    {
+        "name": "To the Cave in the North, Eugeo",
+        "code": "SAO/S65-E088",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Fluctlight》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. Draw up to X cards, choose X cards in your hand, and put them into your waiting room. X is equal to the number of climax revealed among those cards ×2."
+        ],
+        "flavor_text": "There's ice! There's ice here!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E088.png"
+    },
+    {
+        "name": "Zephilia Buds, Kirito",
+        "code": "SAO/S65-E089",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fluctlight》 characters get +500 power.",
+            "【ACT】 [【REST】 2 of your 《Fluctlight》 characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them."
+        ],
+        "flavor_text": "(Along the way, I'd started identifying with these flowers that are fighting so hard to bloom in foreign soil.)",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E089.png"
+    },
+    {
+        "name": "Former Appearance, Kirito",
+        "code": "SAO/S65-E090",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "Administrator: \"Why do you resist fate like a fool?\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E090.png"
+    },
+    {
+        "name": "Confrontation with PK Squadron, Sinon",
+        "code": "SAO/S65-E091",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Reliable Reinforcement, Sinon\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "You're up! I'll cover you!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E091.png"
+    },
+    {
+        "name": "\"The 32nd Knight\" Eugeo Synthesis Thirty-Two",
+        "code": "SAO/S65-E092",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Experience When this card's battle opponent becomes 【REVERSE】, if the total level of cards in your level is 3 or higher, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "I have nothing more to say to you.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E092.png"
+    },
+    {
+        "name": "Suspicious Part-Time Job? Kazuto",
+        "code": "SAO/S65-E093",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other 《Avatar》 or 《Net》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "You think so?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E093.png"
+    },
+    {
+        "name": "Someone Else's Sword Skill, Eugeo",
+        "code": "SAO/S65-E094",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Fluctlight》 characters.",
+            "【AUTO】 Encore [Put 1 《Fluctlight》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "But thank you. For bringing me my sword.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E094.png"
+    },
+    {
+        "name": "Charlotte's Assist",
+        "code": "SAO/S65-E095",
+        "rarity": "U",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《Fluctlight》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\""
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E095.png"
+    },
+    {
+        "name": "\"The Demon Tree\" Gigas Cedar",
+        "code": "SAO/S65-E096",
+        "rarity": "C",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "If your memory has 2 or less cards, put this card into your memory.",
+            "【AUTO】 【CXCOMBO】 Memory Experience [Put this card into your waiting room] At the beginning of your main phase, if this card is in your memory, and the total level of the cards in your level is 5 or higher, you may pay the cost. If you do, choose 1 \"Night-Sky Blade\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E096.png"
+    },
+    {
+        "name": "Red Rose Sword",
+        "code": "SAO/S65-E097",
+        "rarity": "CR",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "You can stand as many times as it takes.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E097.png"
+    },
+    {
+        "name": "Night-Sky Blade",
+        "code": "SAO/S65-E098",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E098.png"
+    },
+    {
+        "name": "Blue Rose Sword",
+        "code": "SAO/S65-E099",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E099.png"
+    },
+    {
+        "name": "Stay Cool",
+        "code": "SAO/S65-E100",
+        "rarity": "CC",
+        "expansion": "Sword Art Online -Alicization-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-・-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E100.png"
+    },
+    {
+        "name": "Glitter of the Water's Surface, Asuna",
+        "code": "SAO/S65-E101",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net・-"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Avatar》 or 《Net》 character attacks, this card gets +1500 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E101.png"
+    },
+    {
+        "name": "Glitter of the Water's Surface, Alice",
+        "code": "SAO/S65-E102",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Fluctlight》 characters.",
+            "【AUTO】 Encore [Put 1 《Fluctlight》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Right back at you!",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E102.png"
+    },
+    {
+        "name": "How a Noble Should Be, Tiese & Ronie",
+        "code": "SAO/S65-E103",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Noble"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fluctlight》 characters get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Tiese: \"If war ever breaks out, we must be the first to take up our swords.\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E103.png"
+    },
+    {
+        "name": "\"The Other Pontifex\" Cardinal",
+        "code": "SAO/S65-E104",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Fluctlight》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "You're familiar with my original version, are you not?",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E104.png"
+    },
+    {
+        "name": "Willowy Body, Administrator",
+        "code": "SAO/S65-E105",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fluctlight・Sacred Arts"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "No metal object of any kind can damage my skin now.",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E105.png"
+    },
+    {
+        "name": "Glitter of the Water's Surface, Eugeo & Kirito",
+        "code": "SAO/S65-E106",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Woodcutter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Fluctlight》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Eugeo: \"Let's see how you like it!\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_E106.png"
+    },
+    {
+        "name": "\"Because We Were Together\" Kirito & Eugeo",
+        "code": "SAO/S65-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fluctlight・Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Fluctlight》, this card gets +1000 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "Eugeo: \"I know already. Stay cool, right?\"",
+        "set": "SAO",
+        "release": "65",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S65_PE03.png"
+    }
+]
