@@ -3827,5 +3827,355 @@
         "release": "CS2019",
         "sid": "02",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_BCS2019_02.png"
+    },
+    {
+        "name": "Robin: Reluctant Adieu",
+        "code": "BNJ/SX01-A01",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, you may draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A01.png"
+    },
+    {
+        "name": "Red Hood",
+        "code": "BNJ/SX01-A02",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A02.png"
+    },
+    {
+        "name": "Red Robin: Battle on the Big Boat",
+        "code": "BNJ/SX01-A03",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A03.png"
+    },
+    {
+        "name": "Gunslinger",
+        "code": "BNJ/SX01-A04",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A04.png"
+    },
+    {
+        "name": "Batman: Missionary Disguise",
+        "code": "BNJ/SX01-A05",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A05.png"
+    },
+    {
+        "name": "Nightwing: Coordinated Assault",
+        "code": "BNJ/SX01-A06",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Catwoman: Battle on the Big Boat\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 card named \"Catwoman: Battle on the Big Boat\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A06.png"
+    },
+    {
+        "name": "Batman: Ancient Armor",
+        "code": "BNJ/SX01-A07",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 CXCOMBO@ When this card attacks, if \"Unleash the Bat!\" is in your climax area, you may draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A07.png"
+    },
+    {
+        "name": "Catwoman: Unimpressed",
+        "code": "BNJ/SX01-A08",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A08.png"
+    },
+    {
+        "name": "Batman: Information Extraction",
+        "code": "BNJ/SX01-A09",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A09.png"
+    },
+    {
+        "name": "Catwoman: Battle on the Big Boat",
+        "code": "BNJ/SX01-A10",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A10.png"
+    },
+    {
+        "name": "Batman: Infiltration",
+        "code": "BNJ/SX01-A11",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A11.png"
+    },
+    {
+        "name": "Donning the Mask",
+        "code": "BNJ/SX01-A12",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A12.png"
+    },
+    {
+        "name": "Unleash the Bat!",
+        "code": "BNJ/SX01-A13",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A13.png"
     }
 ]
