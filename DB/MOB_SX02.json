@@ -1,0 +1,3535 @@
+[
+    {
+        "name": "Reigen: Crossdressing",
+        "code": "MOB/SX02-T01",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not become a direct attack)",
+            "【AUTO】 Bond/\"MOB: Crossdressing\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"MOB: Crossdressing\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I'm a student here.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T01",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T01.png"
+    },
+    {
+        "name": "Reigen: Banishing Salt Punch!",
+        "code": "MOB/SX02-T02",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 2 or higher, this card gets +4000 power.",
+            "【ACT】 [【REST】 2 of your characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them."
+        ],
+        "flavor_text": "Banishing Salt Punch!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T02",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T02.png"
+    },
+    {
+        "name": "Reigen: Accepting a Client's Request",
+        "code": "MOB/SX02-T03",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [(3) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "As for my fees…",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T03",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T03.png"
+    },
+    {
+        "name": "Reigen: Salt Splash!",
+        "code": "MOB/SX02-T04",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Salt Splash!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T04",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T04.png"
+    },
+    {
+        "name": "Reigen: Letting His Disciple Work",
+        "code": "MOB/SX02-T05",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+            "【ACT】 [【REST】 this card] Draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T05",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T05.png"
+    },
+    {
+        "name": "Tome Kurata",
+        "code": "MOB/SX02-T06",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Club Activities",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "I'm not going to let you abolish the Telepathy Club!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T06",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T06.png"
+    },
+    {
+        "name": "Ceiling Crasher",
+        "code": "MOB/SX02-T07",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room. If there is a climax among those cards, put this card into your stock."
+        ],
+        "flavor_text": "Want me to crash you through the ceiling with my curse?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T07",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T07.png"
+    },
+    {
+        "name": "Boss",
+        "code": "MOB/SX02-T08",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each character on your opponent's back stage."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T08",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T08.png"
+    },
+    {
+        "name": "Tsubomi",
+        "code": "MOB/SX02-T09",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "First Love",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 character in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Morning!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T09",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T09.png"
+    },
+    {
+        "name": "Club Recruitment",
+        "code": "MOB/SX02-T10",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "2SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T10",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T10.png"
+    },
+    {
+        "name": "MOB: Natural Psychic",
+        "code": "MOB/SX02-T11",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T11",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T11.png"
+    },
+    {
+        "name": "Mr. Kageyama: Dinnertime",
+        "code": "MOB/SX02-T12",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Family",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Shigeo's going through puberty. Let him bend some spoons.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T12",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T12.png"
+    },
+    {
+        "name": "Ritsu: Dinnertime",
+        "code": "MOB/SX02-T13",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage."
+        ],
+        "flavor_text": "If there's anything troubling you, let me know, Nii-san.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T13",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T13.png"
+    },
+    {
+        "name": "Mrs. Kageyama: Dinnertime",
+        "code": "MOB/SX02-T14",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Family",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "There you go again, bending spoons.\nYou really need to drop that habit.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T14",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T14.png"
+    },
+    {
+        "name": "Goda: New Club Room",
+        "code": "MOB/SX02-T15",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Club Activities",
+            "Muscles"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】 ability, this card gets +1500 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Tokugawa: \"This will become the club room of the newly formed Body Improvement Club.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T15",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T15.png"
+    },
+    {
+        "name": "MOB: Psychic Powers",
+        "code": "MOB/SX02-T16",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 Experience When this card's battle opponent becomes 【REVERSE】, if \"Fulfilling a Client's Request\" is in your climax area, and the total level of the cards in your level is 2 or higher, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T16",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T16.png"
+    },
+    {
+        "name": "Tenga Onigawara",
+        "code": "MOB/SX02-T17",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Delinquent",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +2000 power."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T17",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T17.png"
+    },
+    {
+        "name": "MOB: Crossdressing",
+        "code": "MOB/SX02-T18",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T18",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T18.png"
+    },
+    {
+        "name": "Part-Time Pay",
+        "code": "MOB/SX02-T19",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of the following effects and perform it.",
+            "\"Draw 1 card, choose 1 card in your hand, and put it into your waiting room. Put this card into your stock.\"",
+            "\"Choose 1 level 2 or higher character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Reigen: \"Here. Your pay for the day.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T19",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T19.png"
+    },
+    {
+        "name": "Fulfilling a Client's Request",
+        "code": "MOB/SX02-T20",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "It's over.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T20",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T20.png"
+    },
+    {
+        "name": "Club Recruitment",
+        "code": "MOB/SX02-T21",
+        "rarity": "TD",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "T21",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_T21.png"
+    },
+    {
+        "name": "Arataka Reigen",
+        "code": "MOB/SX02-001",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each of your other 《Esper》 or 《Master》 characters on your back stage.",
+            "【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"It's Okay to Run Away!\" is in your climax area, you may pay the cost. If you do, choose 1 of your other \"MOB: Gratitude Towards His Master\", and deal X damage to your opponent. X is equal to the number of markers underneath the character chosen by this card's effect. (Damage may be canceled)"
+        ],
+        "flavor_text": "Leave this to the adult here.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "001",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_001.png"
+    },
+    {
+        "name": "Reigen: Empathy",
+        "code": "MOB/SX02-002",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters and 1 trait of that character, and that character loses all of that chosen trait until end of turn.",
+            "【AUTO】 [(3)] When this card is placed on the stage from your hand, you may pay the cost. If you do, put all cards in your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of your opponent's deck into his or her stock."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "002",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_002.png"
+    },
+    {
+        "name": "Teruki Hanazawa",
+        "code": "MOB/SX02-003",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Hair"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Esper》 or 《Spirit》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Esper》 or 《Spirit》 characters you have."
+        ],
+        "flavor_text": "I'm Hanazawa Teruki. A pleasure.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "003",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_003.png"
+    },
+    {
+        "name": "Teruki: Challenged Beliefs",
+        "code": "MOB/SX02-004",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Delinquent"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"A Huge Accident\" is in your climax area, and you have another 《Esper》 character, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\""
+        ],
+        "flavor_text": "Don't compare me to those average people.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "004",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_004.png"
+    },
+    {
+        "name": "Reigen: Calling for Reinforcements",
+        "code": "MOB/SX02-005",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Shigeo \"MOB\" Kageyama\" on your back stage, this card gets +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 cost 0 or lower character with \"MOB\" in its card name in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "Oh Mob? Sorry, but could you come by?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "005",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_005.png"
+    },
+    {
+        "name": "Teruki: Awakening Lab",
+        "code": "MOB/SX02-006",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Hair"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 yellow or 《Esper》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Mitsuura: \"He's Hanazawa-kun, one of the guys who fought that organization that day.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_006.png"
+    },
+    {
+        "name": "Reigen: Life Advice",
+        "code": "MOB/SX02-007",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into your opponent's memory, and your opponent puts that character from your opponent's memory on any position of his or her stage.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Esper》 or 《Spirit》 or 《Master》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Become a good person. That is all.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_007.png"
+    },
+    {
+        "name": "Reigen: Searching for a Tsuchinoko",
+        "code": "MOB/SX02-008",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 1 of your other 《Esper》 or 《Spirit》 or 《Master》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Esper》 or 《Spirit》 or 《Master》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_008.png"
+    },
+    {
+        "name": "Teruki: Delinquent",
+        "code": "MOB/SX02-009",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Delinquent"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Esper》 characters, this card gets +1 level, +1500 power and the following ability. \"【CONT】 The character facing this card and this card cannot side attack.\"",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "Apparently you need to be disciplined.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_009.png"
+    },
+    {
+        "name": "Teruki: On a Rescue Mission",
+        "code": "MOB/SX02-010",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Hair"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have an 《Esper》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_010.png"
+    },
+    {
+        "name": "Reigen: Adult Tactics",
+        "code": "MOB/SX02-011",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Ultimate Technique: Esper Kick!\" is in your climax area, and you have another 《Esper》 or 《Master》 character, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to his or her hand."
+        ],
+        "flavor_text": "The greatest psychic in modern history, Reigen Arataka-sama. Look me up.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_011.png"
+    },
+    {
+        "name": "Teruki: A Close Shave",
+        "code": "MOB/SX02-012",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Hair"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +1000 power.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Sakurai: \"You look better that way.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_012.png"
+    },
+    {
+        "name": "Reigen: Creepy Warning",
+        "code": "MOB/SX02-013",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Be careful at night.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_013.png"
+    },
+    {
+        "name": "Takeshi Hoshino",
+        "code": "MOB/SX02-014",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while on the stage.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a climax, choose up to 2 of your opponent's characters, and return them to his or her hand. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I'm going all out!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_014.png"
+    },
+    {
+        "name": "Rei Kurosaki",
+        "code": "MOB/SX02-015",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Esper》 characters get +500 power.",
+            "【AUTO】 When this card or your other 《Esper》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)"
+        ],
+        "flavor_text": "Yay! I was right again!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_015.png"
+    },
+    {
+        "name": "Go Asahi",
+        "code": "MOB/SX02-016",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while on the stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, you may deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Ignite! Ig—There we go! Oh, it went out.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_016.png"
+    },
+    {
+        "name": "Daichi Shiratori",
+        "code": "MOB/SX02-017",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level while on the stage.",
+            "【AUTO】 Resonate [Reveal a card named \"Kaito Shiratori\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_017.png"
+    },
+    {
+        "name": "Kaito Shiratori",
+        "code": "MOB/SX02-018",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level while on the stage.",
+            "【AUTO】 Resonate [Reveal a card named \"Daichi Shiratori\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_018.png"
+    },
+    {
+        "name": "Wig",
+        "code": "MOB/SX02-019",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Teruki\" in its card name, this card cannot be played from your hand.",
+            "Choose up to 2 of your characters, and those characters get +2000 power and the following 2 abilities until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\" \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_019.png"
+    },
+    {
+        "name": "Takoyaki",
+        "code": "MOB/SX02-020",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "All players return all cards in their waiting rooms to their decks, and shuffle their decks."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_020.png"
+    },
+    {
+        "name": "A Huge Accident",
+        "code": "MOB/SX02-021",
+        "rarity": "CR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_021.png"
+    },
+    {
+        "name": "It's Okay to Run Away!",
+        "code": "MOB/SX02-022",
+        "rarity": "CR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "When things go south, it's okay to run away!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_022.png"
+    },
+    {
+        "name": "Ultimate Technique: Esper Kick!",
+        "code": "MOB/SX02-023",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_023.png"
+    },
+    {
+        "name": "Dimple",
+        "code": "MOB/SX02-024",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have 5 or more cards in your hand, this card gets +2000 power.",
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "You can become big! I guarantee it!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_024.png"
+    },
+    {
+        "name": "Dimple: (LOL) Cult Leader",
+        "code": "MOB/SX02-025",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Religion",
+            "(LOL)"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Religion》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 \"(LOL) Cult Member\" from your hand into your waiting room] When this card attacks, if \"What a Wonderful Smile!\" is in your climax area, and you have another 《Religion》 character, you may pay the cost. If you do, search your deck for up to 2 green or 《Esper》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_025.png"
+    },
+    {
+        "name": "Tome: Desperate for a New Member",
+        "code": "MOB/SX02-026",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Club Activities",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to his or her hand.",
+            "【ACT】 [(2)] Choose 1 of your other characters and this card, and those cards get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_026.png"
+    },
+    {
+        "name": "Dimple: High-Level Evil Spirit",
+        "code": "MOB/SX02-027",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "(LOL)"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each marker underneath it.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 3 \"(LOL) Cult Member\" or \"Dimple: Innocent Introduction\" in your waiting room, and put them face down in any order underneath this card as markers.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Get a Clue!\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "You're in my way, brat.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_027.png"
+    },
+    {
+        "name": "Chocolate-chan",
+        "code": "MOB/SX02-028",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Esper》 or 《Claw》 characters, this card gets +4000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_028.png"
+    },
+    {
+        "name": "Dimple: Output Assistant",
+        "code": "MOB/SX02-029",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 When \"Wha!!?\" is placed on your climax area, choose up to 2 of your characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 green or 《Esper》 character in your waiting room, and put it into your stock.\"",
+            "【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top or at the bottom of your deck."
+        ],
+        "flavor_text": "It's because I'm controlling the output, but you've always had latent psychic powers, Ritsu.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_029.png"
+    },
+    {
+        "name": "Ichi Mezato",
+        "code": "MOB/SX02-030",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Religion",
+            "Club Activities"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 card in your clock, return it to your hand, put the top card of your deck into your clock, choose 1 of your characters, and that character gets +1 level until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 2 \"(LOL) Cult Member\" in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "I'm Mezato from your class.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_030.png"
+    },
+    {
+        "name": "Tsubomi: Childhood Memories",
+        "code": "MOB/SX02-031",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "First Love",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "Wow, how cute.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_031.png"
+    },
+    {
+        "name": "Dimple: Innocent Introduction",
+        "code": "MOB/SX02-032",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your \"Dimple: High-Level Evil Spirit\" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】."
+        ],
+        "flavor_text": "Good morning. Isn't it a lovely morning, Partner?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_032.png"
+    },
+    {
+        "name": "Cookie-chan",
+        "code": "MOB/SX02-033",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_033.png"
+    },
+    {
+        "name": "Gum-chan",
+        "code": "MOB/SX02-034",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Esper》 or 《Claw》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_034.png"
+    },
+    {
+        "name": "Candy-chan",
+        "code": "MOB/SX02-035",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If this card is on your center stage, all of your 《Esper》 or 《Claw》 characters get +1500 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_035.png"
+    },
+    {
+        "name": "Shirihiko Saruta",
+        "code": "MOB/SX02-036",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Club Activities",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "Hey.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_036.png"
+    },
+    {
+        "name": "Mameta Inukawa",
+        "code": "MOB/SX02-037",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Club Activities",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to the soul of that character ×1000."
+        ],
+        "flavor_text": "I've brought him!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_037.png"
+    },
+    {
+        "name": "Haruto Kijibayashi",
+        "code": "MOB/SX02-038",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Club Activities",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_038.png"
+    },
+    {
+        "name": "Scent-Ghoul",
+        "code": "MOB/SX02-039",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power."
+        ],
+        "flavor_text": "You're playing the loser role in youth just like me, aren't you?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_039.png"
+    },
+    {
+        "name": "Dimple: Super Smug",
+        "code": "MOB/SX02-040",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Spoon\" in your waiting room, and return it to your hand.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Calm down.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_040.png"
+    },
+    {
+        "name": "Dimple: Possessing a Claw Minion",
+        "code": "MOB/SX02-041",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +4000 power and 《Spirit》.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Dimple\" in your waiting room, and put it face down underneath this card as a marker."
+        ],
+        "flavor_text": "It's easier to possess someone when they're in shock.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_041.png"
+    },
+    {
+        "name": "Caramel-chan",
+        "code": "MOB/SX02-042",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Spirit",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Spirit》 or 《Claw》 characters and this card, and exchange them as 【STAND】.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_042.png"
+    },
+    {
+        "name": "(LOL) Cult Member",
+        "code": "MOB/SX02-043",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Religion",
+            "(LOL)"
+        ],
+        "ability": [
+            "【CONT】 You can put any number of cards with the same card name as this card into your deck.",
+            "【CONT】 This card gets +1000 power for each of your other \"(LOL) Cult Member\".",
+            "【AUTO】 Resonate [Reveal a card named \"Dimple: (LOL) Cult Leader\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_043.png"
+    },
+    {
+        "name": "(LOL) Mask",
+        "code": "MOB/SX02-044",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your 【STAND】 《(LOL)》 characters, and 【REST】 it. If you do, search your deck for up to 2 \"(LOL) Cult Member\", put them on separate positions of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_044.png"
+    },
+    {
+        "name": "Psycho Helmet Cult Flyer",
+        "code": "MOB/SX02-045",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your characters, and put it into your waiting room. If you do, search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_045.png"
+    },
+    {
+        "name": "What a Wonderful Smile!",
+        "code": "MOB/SX02-046",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_046.png"
+    },
+    {
+        "name": "Get a Clue!",
+        "code": "MOB/SX02-047",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_047.png"
+    },
+    {
+        "name": "Wha!!?",
+        "code": "MOB/SX02-048",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 2 of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_048.png"
+    },
+    {
+        "name": "Sho: Inspection",
+        "code": "MOB/SX02-049",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Esper》 or 《Claw》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +1000 power for each character on your opponent's back stage.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "They're great brothers.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_049.png"
+    },
+    {
+        "name": "Ishiguro",
+        "code": "MOB/SX02-050",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When \"Claw Organization\" is placed on your climax area, if this card is on your center stage, and you have 2 or more other 《Esper》 or 《Claw》 characters, choose up to 2 cards in your opponent's waiting room, return them to your opponent's deck, your opponent shuffles his or her deck, and this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Did you wait long?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_050.png"
+    },
+    {
+        "name": "Matsuo",
+        "code": "MOB/SX02-051",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1)] When \"Matsuo's Petshop of Horrors\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1 of your other 《Spirit》 or 《Claw》 characters, and 【STAND】 it.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_051.png"
+    },
+    {
+        "name": "Muto",
+        "code": "MOB/SX02-052",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 of your other 《Esper》 or 《Claw》 characters from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Esper》 or 《Claw》 character, put it into your hand. (Otherwise, return the revealed card to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if you have 1 or less other 《Esper》 or 《Claw》 characters, put this card into your clock."
+        ],
+        "flavor_text": "You, come out here.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_052.png"
+    },
+    {
+        "name": "Mukai",
+        "code": "MOB/SX02-053",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You were thirty minutes late.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_053.png"
+    },
+    {
+        "name": "Yusuke Sakurai",
+        "code": "MOB/SX02-054",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_054.png"
+    },
+    {
+        "name": "Matsuo: Ritual Completion",
+        "code": "MOB/SX02-055",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Come out, my ultimate evil spirit, Marshmallow-chan!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_055.png"
+    },
+    {
+        "name": "Muraki: Having to Face Reality",
+        "code": "MOB/SX02-056",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another 《Esper》 or 《Claw》 character, this card cannot 【STAND】 during your stand phase.",
+            "【CONT】 This card gets +2000 power for each of your other \"Muraki: Having to Face Reality\" on your center stage."
+        ],
+        "flavor_text": "Reigen: \"Which means they're just accessories and have no purpose, right?\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_056.png"
+    },
+    {
+        "name": "Miyagawa",
+        "code": "MOB/SX02-057",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 When damage dealt by this card is not canceled, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "I'll turn you to ash.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_057.png"
+    },
+    {
+        "name": "Yusuke: Having to Face Reality",
+        "code": "MOB/SX02-058",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Esper》 or 《Claw》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "What? What's with that look?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_058.png"
+    },
+    {
+        "name": "Takeuchi",
+        "code": "MOB/SX02-059",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Ishiguro: \"His face changes when he's in battle mode.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_059.png"
+    },
+    {
+        "name": "Tsuchiya",
+        "code": "MOB/SX02-060",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character on your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_060.png"
+    },
+    {
+        "name": "Terada",
+        "code": "MOB/SX02-061",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card cannot move to another position of the stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's waiting room has 5 or more climax, 【REST】 this card."
+        ],
+        "flavor_text": "You'll pay with your lives for trampling all over my pride!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_061.png"
+    },
+    {
+        "name": "Megumu Koyama",
+        "code": "MOB/SX02-062",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Esper》 or 《Claw》 characters among those cards ×1000."
+        ],
+        "flavor_text": "My powers rip through your barrier like an excavator.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_062.png"
+    },
+    {
+        "name": "Muraki",
+        "code": "MOB/SX02-063",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Muraki\", put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_063.png"
+    },
+    {
+        "name": "Takeuchi: Serious Mode",
+        "code": "MOB/SX02-064",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Claw"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Esper》 or 《Claw》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "No one is a match for my super qigong.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_064.png"
+    },
+    {
+        "name": "Matsuo's Poison Jar",
+        "code": "MOB/SX02-065",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have an 《Esper》 character, this card cannot be played from your hand.",
+            "You may choose 2 of your characters, and put them into your waiting room. If you do, choose 1 level 2 or lower 《Spirit》 character in your waiting room, put it on any position of your stage, choose 1 of your opponent's level 0 or lower characters, and put it into his or her waiting room. Put this card into your memory."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_065.png"
+    },
+    {
+        "name": "Claw Organization",
+        "code": "MOB/SX02-066",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Teruki: \"They want a revolution and aim to turn the world on its head.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_066.png"
+    },
+    {
+        "name": "Matsuo's Petshop of Horrors",
+        "code": "MOB/SX02-067",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
+            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_067.png"
+    },
+    {
+        "name": "Shigeo \"MOB\" Kageyama",
+        "code": "MOB/SX02-068",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Reigen\" in its card name get 《Esper》.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You're not supposed to use psychic powers against people.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_068.png"
+    },
+    {
+        "name": "MOB: Explosion",
+        "code": "MOB/SX02-069",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If you have 3 or more \"Explosion Counter\" in your memory, this card gets +2000 power and cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, and put up to 1 card from the top of your deck into your stock.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"100%\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Come at me with everything you've got.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_069.png"
+    },
+    {
+        "name": "Ritsu Kageyama",
+        "code": "MOB/SX02-070",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "MOB: \"Unlike me, who can't do anything without psychic powers, he can figure anything out and solve any problem.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_070.png"
+    },
+    {
+        "name": "Ritsu: Psychic Powers",
+        "code": "MOB/SX02-071",
+        "rarity": "RR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 If \"Ritsu Kageyama\" is in your clock, this card gets -1 level while in your hand.",
+            "【CONT】 If this card is on your center stage, all of your 《Esper》 or 《Spirit》 characters get +1500 power.",
+            "【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"Together With These Guys...\" is in your climax area, and the total level of the cards in your level is 6 or higher, this card gets +1000 power and the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose up to 2 of your opponent's characters, and those characters get -1 soul until end of turn.\""
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_071.png"
+    },
+    {
+        "name": "Musashi Goda",
+        "code": "MOB/SX02-072",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hand.\"",
+            "【AUTO】 【CXCOMBO】 When \"Urgent Club Mission\" is placed on your climax area, if this card is on your center stage, choose up to X cards in your opponent's waiting room, return them to your opponent's deck, and your opponent shuffles his or her deck. X is equal to the number of 《Muscles》 characters you have."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_072.png"
+    },
+    {
+        "name": "Ritsu: Concentrating",
+        "code": "MOB/SX02-073",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When a blue climax is placed on your climax area, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_073.png"
+    },
+    {
+        "name": "MOB: Puppy Love",
+        "code": "MOB/SX02-074",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "First Love"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +1000 power.",
+            "【CONT】 Memory If \"Explosion Counter\" is in your memory, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_074.png"
+    },
+    {
+        "name": "Ritsu: Guilty Conscience",
+        "code": "MOB/SX02-075",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 Experience When this card attacks, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if you have another blue or 《Esper》 character, you may look at the top card of your deck. If you do, put that card underneath 1 of your other \"MOB: Gratitude Towards His Master\" as a marker."
+        ],
+        "flavor_text": "Kamuro: \"You open up Onigawara's desk.\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_075.png"
+    },
+    {
+        "name": "MOB: Searching for a Tsuchinoko",
+        "code": "MOB/SX02-076",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return the revealed card to its original position. Climax are regarded as level 0)",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Have you ever seen a tsuchinoko, Master?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_076.png"
+    },
+    {
+        "name": "Ritsu: Fateful Meeting",
+        "code": "MOB/SX02-077",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "I have to exorcise it!",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_077.png"
+    },
+    {
+        "name": "MOB: Childhood Memories",
+        "code": "MOB/SX02-078",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other blue or 《Esper》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_078.png"
+    },
+    {
+        "name": "MOB: Gratitude Towards His Master",
+        "code": "MOB/SX02-079",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Arataka Reigen\" get +500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 【CXCOMBO】 When \"It's Okay to Run Away!\" is placed on your climax area, if there are 4 or more markers underneath this card, choose 1 of your other \"Arataka Reigen\", and that character gets +2500 power and \"【CONT】 Great Performance\" until the end of your opponent's next turn.",
+            "【AUTO】 When your other blue or 《Esper》 character becomes 【REVERSE】 in battle, if there are 3 or less markers underneath this card, put that character face down underneath this card as a marker."
+        ],
+        "flavor_text": "Master really is amazing.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_079.png"
+    },
+    {
+        "name": "MOB: Together With Ritsu",
+        "code": "MOB/SX02-080",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other blue or 《Esper》 characters get +500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is gate.gif, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I envy you, Ritsu.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_080.png"
+    },
+    {
+        "name": "Ritsu: Newfound Powers",
+        "code": "MOB/SX02-081",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Want me to fold your car in half, Mitsuura-san?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_081.png"
+    },
+    {
+        "name": "Hikaru Tokugawa",
+        "code": "MOB/SX02-082",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other blue or 《Club Activities》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "Don't try to act like your brother.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_082.png"
+    },
+    {
+        "name": "Shinji Kamuro",
+        "code": "MOB/SX02-083",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Ritsu: Concentrating\" on your back stage, this card gets +500 power and the following ability. \"【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.\""
+        ],
+        "flavor_text": "I see... a peaceful school, eh?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_083.png"
+    },
+    {
+        "name": "Jun Sagawa",
+        "code": "MOB/SX02-084",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +2000 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Captain! Kageyama-kun is…",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_084.png"
+    },
+    {
+        "name": "Hiroshi Kumagawa",
+        "code": "MOB/SX02-085",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your blue or 《Club Activities》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is [[soul.gif]][[soul.gif]], you may pay the cost. If you do, choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_085.png"
+    },
+    {
+        "name": "Onigawara: Body Building Club",
+        "code": "MOB/SX02-086",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other blue or 《Club Activities》 characters you have ×1000.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "I'm still going to grow, just like White T Poison.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_086.png"
+    },
+    {
+        "name": "Ritsu: Falling From Grace",
+        "code": "MOB/SX02-087",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Corruption and Guilt\" is in your climax area, search your deck for up to 1 blue or 《Esper》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Even I…",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_087.png"
+    },
+    {
+        "name": "MOB: Part-Time Job",
+        "code": "MOB/SX02-088",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Explosion Counter\", reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Er, the massage fee for the 4--minute course is 3,8-- yen.",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_088.png"
+    },
+    {
+        "name": "Ritsu: Childhood Memories",
+        "code": "MOB/SX02-089",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Family",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Explosion Counter\" in your waiting room, and return it to your hand.",
+            "【AUTO】 Bond/\"MOB: Explosion\" [Put the top card of your deck into your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"MOB: Explosion\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "089",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_089.png"
+    },
+    {
+        "name": "Hideki Yamamura",
+        "code": "MOB/SX02-090",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of blue or 《Club Activities》 characters you have ×500.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "090",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_090.png"
+    },
+    {
+        "name": "Ryohei Shimura",
+        "code": "MOB/SX02-091",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Muscles",
+            "Club Activities"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 \"Ryohei Shimura\" in your waiting room, and return it to your hand.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "091",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_091.png"
+    },
+    {
+        "name": "Ritsu: Together With MOB",
+        "code": "MOB/SX02-092",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put this card face down underneath a card with \"Ritsu\" in its card name as a marker] Look at up to 4 cards from the top of your deck, choose up to 1 《Student Council》 character or \"Dimple: Super Smug\" or \"Spoon\" from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Are there things that you can't have, even if you use your powers?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "092",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_092.png"
+    },
+    {
+        "name": "MOB: Club Activities",
+        "code": "MOB/SX02-093",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Club Activities"
+        ],
+        "ability": [
+            "【CONT】 Memory If this card is in your memory, all of your \"Shigeo \"MOB\" Kageyama\" get 《Muscles》.",
+            "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory."
+        ],
+        "flavor_text": "Fight... on... Fight... on…",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "093",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_093.png"
+    },
+    {
+        "name": "Ritsu: Awakening Lab",
+        "code": "MOB/SX02-094",
+        "rarity": "C",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Student Council",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During the attack phase, you cannot return characters from your waiting room to your hand by your cards' effects.",
+            "【CONT】 This card gets +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 blue or 《Esper》 character in your waiting room, and put it face down underneath this card as a marker."
+        ],
+        "flavor_text": "Awakening Lab?",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "094",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_094.png"
+    },
+    {
+        "name": "Explosion Counter",
+        "code": "MOB/SX02-095a",
+        "rarity": "R",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Look at up to 4 cards from the top of your deck, choose up to 1 《Esper》 or 《Master》 or 《Muscles》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "Put this card into your memory or put this card face down underneath your \"MOB: Gratitude Towards His Master\" as a marker."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "095a",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_095a.png"
+    },
+    {
+        "name": "Spoon",
+        "code": "MOB/SX02-096",
+        "rarity": "U",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a character with \"Ritsu\" in its card name, this card cannot be played from your hand.",
+            "Choose up to 1 of your 《Esper》 or characters with \"Ritsu\" in its card name, 【REST】 it, choose up to 1 《Esper》 character in your waiting room, and put it face down underneath your \"Ritsu: Falling From Grace\" or \"Ritsu: Awakening Lab\" as a marker."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_096.png"
+    },
+    {
+        "name": "Together With These Guys…",
+        "code": "MOB/SX02-097",
+        "rarity": "CR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_097.png"
+    },
+    {
+        "name": "Corruption and Guilt",
+        "code": "MOB/SX02-098",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Dimple: \"Did you do something bad?\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "098",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_098.png"
+    },
+    {
+        "name": "Urgent Club Mission",
+        "code": "MOB/SX02-099",
+        "rarity": "CC",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with level equal to or lower than your level in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Musashi: \"We're going to get Kageyama back!\"",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "099",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_099.png"
+    },
+    {
+        "name": "100%",
+        "code": "MOB/SX02-100",
+        "rarity": "CR",
+        "expansion": "Mob Psycho 100",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "100",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_100.png"
+    },
+    {
+        "name": "Petit Reigen",
+        "code": "MOB/SX02-101",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Esper》 or 《Master》 character in your clock, and put it at the bottom of your deck.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_101.png"
+    },
+    {
+        "name": "Petit Teruki",
+        "code": "MOB/SX02-102",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Esper",
+            "Hair"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Esper》 character, this card gets +3000 power.",
+            "【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +500 power for each of your other 《Esper》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_102.png"
+    },
+    {
+        "name": "Petit Dimple",
+        "code": "MOB/SX02-103",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Spirit",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character among those cards, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Esper》 or 《Spirit》 character in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_103.png"
+    },
+    {
+        "name": "Petit Ritsu",
+        "code": "MOB/SX02-104",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_104.png"
+    },
+    {
+        "name": "Petit MOB",
+        "code": "MOB/SX02-105",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Esper",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Esper》 or 《Spirit》 or 《Master》 character in the middle position of your center stage gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of characters on your opponent's center stage is 1 or less, choose 1 cost 0 or lower character on your opponent's center stage, and put it at the bottom of his or her deck."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "105",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_105.png"
+    },
+    {
+        "name": "Reigen: Eating Takoyaki",
+        "code": "MOB/SX02-P01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of your opponent's stock into his or her waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MOB",
+        "release": "X02",
+        "sid": "P01",
+        "image": "https://en.ws-tcg.com/cardlistp/wp-content/images/cardimages/MOB/MOB_SX02_P01.png"
+    }
+]
