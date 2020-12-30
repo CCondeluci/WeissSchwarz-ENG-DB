@@ -3456,7 +3456,7 @@
     {
         "name": "Finn & Jake: Adventure Time!",
         "code": "AT/WX02-P01A",
-        "rarity": "DD",
+        "rarity": "PR",
         "expansion": "PR Card 【Weiẞ Side】",
         "side": "W",
         "type": "Character",
@@ -3480,5 +3480,34 @@
         "release": "X02",
         "sid": "P01A",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P01A.png"
+    },
+    {
+        "name": "Princess Bubblegum: Gauntleted Fists",
+        "code": "AT/WX02-P02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "And now, Ice King, prepare to howl with… pain?",
+        "set": "AT",
+        "release": "X02",
+        "sid": "P02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P02.png"
     }
 ]
