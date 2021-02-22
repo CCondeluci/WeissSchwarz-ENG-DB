@@ -3509,5 +3509,356 @@
         "release": "X02",
         "sid": "P02",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P02.png"
+    },
+     {
+        "name": "Finn: Everything In!",
+        "code": "AT/WX02-A01",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "－"
+        ],
+        "flavor_text": "And then we can\n♪ get down ♫!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A01.png"
+    },
+    {
+        "name": "Jake: Bacon Pancakes",
+        "code": "AT/WX02-A02",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Bacon pancakes, makin' bacon pancakes,\nTake some bacon and I'll put it in a pancake,\nBacon pancakes, that's what it's gonna make,\nBacon pancaaake!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A02.png"
+    },
+    {
+        "name": "Finn: Puncha Yo Buns!",
+        "code": "AT/WX02-A03",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Memory of a Memory\" is in your climax area, you may draw 1 card."
+        ],
+        "flavor_text": "I’m a tough tooting baby, I can punch-ah your buns,\npunch-ah your buns, I can punch all your buns!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A03.png"
+    },
+    {
+        "name": "Jake: Date at Sunset",
+        "code": "AT/WX02-A04",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Anyway, I’m here now, my lady, and I have brought to you half an orange.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A04.png"
+    },
+    {
+        "name": "BMO: Conversation Parade",
+        "code": "AT/WX02-A05",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "#9834; What do you think about the stars in the sky? ♫",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A05.png"
+    },
+    {
+        "name": "Finn & Jake: Rainy Day Daydream",
+        "code": "AT/WX02-A06",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500."
+        ],
+        "flavor_text": "I'll kill you, troll!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A06.png"
+    },
+    {
+        "name": "Quest Received!",
+        "code": "AT/WX02-A07",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Finn: \"You know what time it is, buddy?\"\nJake: \"Adventure Time?!\"\nFinn: \"Yeah, man!\"",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A07.png"
+    },
+    {
+        "name": "Memory of a Memory",
+        "code": "AT/WX02-A08",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Marceline: \"Finn, what’s going on? What is this place?\"\nFinn: \"It’s my old house. That magic powder put you in my memories.\"",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A08.png"
+    },
+    {
+        "name": "Lumpy Space Princess: Unimpressed",
+        "code": "AT/WX02-A09",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Yah, there’s an antidote. But you have to go all the way to lumpy space to get it.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A09.png"
+    },
+    {
+        "name": "Princess Bubblegum: Tea Ceremony Adept",
+        "code": "AT/WX02-A10",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Marceline: Party Crasher\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Marceline: Party Crasher\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Oh, don’t worry, Finn.\nThe mallow tea ceremony takes years to master.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A10.png"
+    },
+    {
+        "name": "Lady Rainicorn: Date at Sunset",
+        "code": "AT/WX02-A11",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "고마워♥",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A11.png"
+    },
+    {
+        "name": "Marceline: Party Crasher",
+        "code": "AT/WX02-A12",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Vampire"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Ooo》 characters."
+        ],
+        "flavor_text": "Thanks for fixing the place up for me.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A12.png"
+    },
+    {
+        "name": "Adventure Time!",
+        "code": "AT/WX02-A13",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】 Adventure Time",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "A13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A13.png"
     }
 ]
