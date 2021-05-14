@@ -1,0 +1,3746 @@
+[
+    {
+        "name": "Battle Craftswoman, Iz",
+        "code": "BFR/S78-E001",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E001.png"
+    },
+    {
+        "name": "Loving Sacrifice, Maple",
+        "code": "BFR/S78-E002",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Loving Sacrifice\" is in your climax area, and you have 4 or more other 《Game》 characters, this card gets +2500 power and the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -2 soul.\""
+        ],
+        "flavor_text": "[Loving Sacrifice]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E002.png"
+    },
+    {
+        "name": "Giant Killing, May & Yui",
+        "code": "BFR/S78-E003",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Game》 characters, you may choose 1 《Game》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E003.png"
+    },
+    {
+        "name": "Moment Between the Two, Maple",
+        "code": "BFR/S78-E004",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +4000 power.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I think I'll keep it and treasure it!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E004.png"
+    },
+    {
+        "name": "Newbie Players, May & Yui",
+        "code": "BFR/S78-E005",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E005.png"
+    },
+    {
+        "name": "Endless Exploration, Iz",
+        "code": "BFR/S78-E006",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000.",
+            "【ACT】 [(1)] Choose 1 of your 《Game》 characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E006.png"
+    },
+    {
+        "name": "Guild Master, Maple",
+        "code": "BFR/S78-E007",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Maple Tree\" is placed on your climax area, if this card is in your center stage, you may choose 1 level X or lower 《Game》 character in your waiting room, and return it to your hand. X is equal to the number of \"Maple Tree\" in your waiting room.",
+            "【AUTO】 Resonate [Reveal any number of \"Loving Sacrifice, Maple\" in your hand] When this card attacks, you may pay the cost. If you do, this card gets +X power until the end of your opponent's next turn. X is equal to the number of cards you revealed ×1500."
+        ],
+        "flavor_text": "Here we go!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E007.png"
+    },
+    {
+        "name": "Battle-Ready Force, May",
+        "code": "BFR/S78-E008",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Game》 characters.",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Destroyer\" is in your climax area, choose up to 1 《Game》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E008.png"
+    },
+    {
+        "name": "Battle-Ready Force, Yui",
+        "code": "BFR/S78-E009",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Game》 characters.",
+            "【AUTO】 【CXCOMBO】 When your opponent levels up, if \"Destroyer\" is in your climax area, and this card is in your center stage, choose up to 1 《Game》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E009.png"
+    },
+    {
+        "name": "Snow White, Maple",
+        "code": "BFR/S78-E010",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it on any position of your stage, and that character gets +2000 power until end of turn.",
+            "【AUTO】 [(2)] When this card attacks, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "I wanted everyone to see a new skill of mine!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E010.png"
+    },
+    {
+        "name": "Swimsuit, Yui",
+        "code": "BFR/S78-E011",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+            "【AUTO】 When damage dealt by this card is canceled, you may return the top card of your stock to your hand."
+        ],
+        "flavor_text": "Don't forget us! Splash!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E011.png"
+    },
+    {
+        "name": "Third Place in the Event, Maple",
+        "code": "BFR/S78-E012",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or higher, choose 1 of your other characters, 【REST】 it, and move it to an open position of your back stage. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Yippie! I'm in third!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E012.png"
+    },
+    {
+        "name": "Swimsuit, May",
+        "code": "BFR/S78-E013",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 《Game》 characters from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your stock in any order."
+        ],
+        "flavor_text": "Don't forget us! Splash!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E013.png"
+    },
+    {
+        "name": "Solid Fighting Style, Kuromu",
+        "code": "BFR/S78-E014",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Game》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Game》 characters, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E014.png"
+    },
+    {
+        "name": "Twin Younger Sister, Yui",
+        "code": "BFR/S78-E015",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "But we believed in you the whole time!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E015.png"
+    },
+    {
+        "name": "Unbalanced, Maple",
+        "code": "BFR/S78-E016",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1) When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+            "【ACT】 [【REST】 this card] Choose 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage."
+        ],
+        "flavor_text": "Wicked monsters are simply no match against my wits and bravery!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E016.png"
+    },
+    {
+        "name": "Twin Elder Sister, May",
+        "code": "BFR/S78-E017",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power."
+        ],
+        "flavor_text": "Thank goodness! You had us so worried!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E017.png"
+    },
+    {
+        "name": "Alchemist's Long Coat, Iz",
+        "code": "BFR/S78-E018",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Game》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Iz's Workshop\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose up to 2 《Game》 characters in your waiting room, and put them into your stock in any order."
+        ],
+        "flavor_text": "This lets me make items anywhere!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E018.png"
+    },
+    {
+        "name": "One of the Twins, May",
+        "code": "BFR/S78-E019",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "… The best we could!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E019.png"
+    },
+    {
+        "name": "Mature Response, Iz",
+        "code": "BFR/S78-E020",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -3000 power until end of turn."
+        ],
+        "flavor_text": "I guess it's okay… As long as she's a friend…",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E020.png"
+    },
+    {
+        "name": "One of the Twins, Yui",
+        "code": "BFR/S78-E021",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +3500 power and +1 soul.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"One of the Twins, May\" in your waiting room, and put it face up underneath this card as a marker."
+        ],
+        "flavor_text": "We all did…",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E021.png"
+    },
+    {
+        "name": "Counter, Maple",
+        "code": "BFR/S78-E022",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "[Counter]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E022.png"
+    },
+    {
+        "name": "Maxing Out, May",
+        "code": "BFR/S78-E023",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Maxing Out, Yui\" get +3000 power."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E023.png"
+    },
+    {
+        "name": "Maxing Out, Yui",
+        "code": "BFR/S78-E024",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Maxing Out, May\" get +3000 power."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E024.png"
+    },
+    {
+        "name": "Bloodstained Plate, Kuromu",
+        "code": "BFR/S78-E025",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "It'd be perfect if it didn't seem like it's gonna curse me.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E025.png"
+    },
+    {
+        "name": "Unexpected Bonus",
+        "code": "BFR/S78-E026",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "All of your characters get the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "It's not so bad if I close my eyes!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E026.png"
+    },
+    {
+        "name": "Loving Sacrifice",
+        "code": "BFR/S78-E027",
+        "rarity": "CR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E027.png"
+    },
+    {
+        "name": "Maple Tree",
+        "code": "BFR/S78-E028",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E028.png"
+    },
+    {
+        "name": "Destroyer",
+        "code": "BFR/S78-E029",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E029.png"
+    },
+    {
+        "name": "Iz's Workshop",
+        "code": "BFR/S78-E030",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E030.png"
+    },
+    {
+        "name": "Multi-Colored, Sally",
+        "code": "BFR/S78-E031",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Your climax can be played from your hand without fulfilling color requirements.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your climax is placed on your climax area, you may pay the cost. If you do, draw 1 card.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "It says, \"Please enjoy your meal\".",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E031.png"
+    },
+    {
+        "name": "Longsword, Kasumi",
+        "code": "BFR/S78-E032",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"No Longer Normal\" is in your climax area, and your hand has 6 or less cards, look at up to X cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has."
+        ],
+        "flavor_text": "I would've been asking to join it.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E032.png"
+    },
+    {
+        "name": "Event Bonus, Kasumi",
+        "code": "BFR/S78-E033",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "But… This is simply too cute!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E033.png"
+    },
+    {
+        "name": "Strongest Newbie, Maple",
+        "code": "BFR/S78-E034",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 \"Loving Sacrifice, Maple\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 [(1) Put this card into your waiting room] If your level is 3 or higher, choose up to 1 character with \"Maple(メイプル)\" in its card name in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I'm the only person to have this!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E034.png"
+    },
+    {
+        "name": "Event Bonus, Maple",
+        "code": "BFR/S78-E035",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Game》 character from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "It's adorable!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E035.png"
+    },
+    {
+        "name": "Event Bonus, Sally",
+        "code": "BFR/S78-E036",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 You cannot play event cards or \"Backup\" from your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Game》 characters among those cards ×1000."
+        ],
+        "flavor_text": "Yeah! Not to mention warm!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E036.png"
+    },
+    {
+        "name": "A Wild Adventure, Maple & Sally",
+        "code": "BFR/S78-E037",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put X cards from the bottom of your opponent's deck into their waiting room. X is equal to the number of 《Game》 characters you have.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E037.png"
+    },
+    {
+        "name": "Rumored Player in Blue, Sally",
+        "code": "BFR/S78-E038",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Azure Gleam of Her Eyes\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the level of the card put into your waiting room by this ability's cost. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "Goodnight.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E038.png"
+    },
+    {
+        "name": "Super Speed, Sally",
+        "code": "BFR/S78-E039",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Game》 character, you may move this card to an open position of your center stage.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "[Super Speed]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E039.png"
+    },
+    {
+        "name": "Hibernate and Awaken, Maple",
+        "code": "BFR/S78-E040",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Awaken, Syrup\" in your waiting room, and put it face up underneath this card as a marker.",
+            "【ACT】 [(1) Put 1 character from your hand into your waiting room] Choose 1 \"Awaken, Syrup\" marker underneath this card, and put it on any position of your stage. At the end of the turn, you may put that character face up underneath this card as a marker."
+        ],
+        "flavor_text": "Syrup! Bite!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E040.png"
+    },
+    {
+        "name": "Awaken, Syrup",
+        "code": "BFR/S78-E041",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Monster"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1 level and cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×1000."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E041.png"
+    },
+    {
+        "name": "Guardian Angel, Maple",
+        "code": "BFR/S78-E042",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 If \"Super Speed, Sally\" is in your clock, this card gets -1 level while in your hand.",
+            "【CONT】 If all of your characters are 《Game》, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Game》 character in your clock, and put it at the bottom of your deck."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E042.png"
+    },
+    {
+        "name": "Multi-Colored Bloom, Kasumi",
+        "code": "BFR/S78-E043",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of your opponent's level 3 or lower characters, and put it into their waiting room. If you do, your opponent chooses up to 1 cost 0 or lower character in their waiting room, and puts it on the stage position that their character was on."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E043.png"
+    },
+    {
+        "name": "Newbie Adventurer, Maple",
+        "code": "BFR/S78-E044",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"When in Trouble, Eating Could Be a Solution\" is placed on your climax area, if your stock has 5 or less cards, all of your characters get the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【ACT】 [【REST】 this card] Choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "It's just like candy that pops in your mouth!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E044.png"
+    },
+    {
+        "name": "Real Skills, Sally",
+        "code": "BFR/S78-E045",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Game》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
+            "【AUTO】 During your turn, when this card's battle opponent becomes 【REVERSE】, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E045.png"
+    },
+    {
+        "name": "Shadow Clone, Sally",
+        "code": "BFR/S78-E046a",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 You can put any number of cards with the same card name as this card into your deck.",
+            "【CONT】 This card gets +2000 power for each other \"Shadow Clone, Sally\" in your center stage."
+        ],
+        "flavor_text": "Oboro! Shadow Clone!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E046a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E046a.png"
+    },
+    {
+        "name": "Collecting Medals, Maple",
+        "code": "BFR/S78-E047",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your waiting room] When your other 《Game》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E047.png"
+    },
+    {
+        "name": "Relaxation, Maple",
+        "code": "BFR/S78-E048",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Relaxation, Sally\" in your waiting room, and put it on the stage position that this card was on as 【REST】."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E048.png"
+    },
+    {
+        "name": "Too Early, Kasumi",
+        "code": "BFR/S78-E049",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "It's too early to celebrate.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E049.png"
+    },
+    {
+        "name": "Relaxation, Sally",
+        "code": "BFR/S78-E050",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E050.png"
+    },
+    {
+        "name": "Cloudless Azure Skies, Kasumi",
+        "code": "BFR/S78-E051",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Game》 characters, you may choose 1 《Game》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "I could just watch this forever.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E051.png"
+    },
+    {
+        "name": "Wooly",
+        "code": "BFR/S78-E052",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Perform the following action 2 times. \"Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 The character facing this card gets -1 soul.\"",
+            "Put this card into your memory."
+        ],
+        "flavor_text": "By next time, she'll uncover even weirder skills.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E052.png"
+    },
+    {
+        "name": "No Longer Normal",
+        "code": "BFR/S78-E053",
+        "rarity": "CR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E053.png"
+    },
+    {
+        "name": "Azure Gleam of Her Eyes",
+        "code": "BFR/S78-E054",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with in its trigger icon in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Aww, not even a single medal.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E054.png"
+    },
+    {
+        "name": "When in Trouble, Eating Could Be a Solution",
+        "code": "BFR/S78-E055",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "That's an unexpected bonus!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E055.png"
+    },
+    {
+        "name": "Two Faces Within, Mii",
+        "code": "BFR/S78-E056",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Your other level 0 or lower character in the middle position of your center stage gets +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "[Flame]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E056.png"
+    },
+    {
+        "name": "Walking Fortress, Maple",
+        "code": "BFR/S78-E057",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Walking Fortress, Maple\" from your hand into your waiting room & Put 1 \"Showdown Between Guild Masters\" from your climax area into your waiting room] At the beginning of your attack phase, if this card is in your center stage, you may pay the cost. If you do, choose up to 1 of your other 《Game》 characters, 【STAND】 it, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "All right, let's go!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E057.png"
+    },
+    {
+        "name": "Saint Misery",
+        "code": "BFR/S78-E058",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Game》, this card gets +3000 power.",
+            "【AUTO】 When this card direct attacks, you may choose 1 《Game》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "[Heal]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E058.png"
+    },
+    {
+        "name": "Securing a Crucial Position, Maple",
+        "code": "BFR/S78-E059",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+            "【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】."
+        ],
+        "flavor_text": "This is way too far to use [Hydra]…",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E059.png"
+    },
+    {
+        "name": "Flare Accel, Mii",
+        "code": "BFR/S78-E060",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "[Flare Accel]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E060.png"
+    },
+    {
+        "name": "Change in Strategy, Misery",
+        "code": "BFR/S78-E061",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] If there are no markers underneath this card, reveal the top card of your deck. If that card is level 1 or higher, put it face down underneath this card as a marker. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+            "【ACT】 [【REST】 this card] Put 1 marker underneath this card into your stock."
+        ],
+        "flavor_text": "[Holy Javelin]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E061.png"
+    },
+    {
+        "name": "Chomping Down, Maple",
+        "code": "BFR/S78-E062",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "It gave it some spice and toned down the pepper flavor!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E062.png"
+    },
+    {
+        "name": "Atrocity, Maple",
+        "code": "BFR/S78-E063",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 【CXCOMBO】 [(6) Put 2 cards from your hand into your waiting room & Put 1 \"Boss Monster\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent, deal 2 damage to your opponent, and deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "[Atrocity]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E063.png"
+    },
+    {
+        "name": "Flame Emperor, Mii",
+        "code": "BFR/S78-E064",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [Put 3 《Game》 characters from your hand into your waiting room] When this card is placed on the stage by the effect of \"Guild Master of Flame Emperors\", you may pay the cost. If you do, 【STAND】 this card. (This ability can also be used when this card is placed on the stage by the effect of \"Guild Master of Flame Emperors\" that was revealed during trigger check)"
+        ],
+        "flavor_text": "As long as you're with me, you will taste only victory!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E064.png"
+    },
+    {
+        "name": "Markus the Trapper",
+        "code": "BFR/S78-E065",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Trap"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "[Remote Trap]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E065.png"
+    },
+    {
+        "name": "Shin the Split-Sword",
+        "code": "BFR/S78-E066",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "This time, victory is mine!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E066.png"
+    },
+    {
+        "name": "Each One's Roles, Misery",
+        "code": "BFR/S78-E067",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your 《Game》 characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 Brainstorm [(2) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You and your traps are impressive as always, Markus.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E067.png"
+    },
+    {
+        "name": "No Damage, Maple",
+        "code": "BFR/S78-E068",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their memory.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E068.png"
+    },
+    {
+        "name": "Entrusted Lives, Mii",
+        "code": "BFR/S78-E069",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card frontal attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 level until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Maple!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E069.png"
+    },
+    {
+        "name": "Armor of the Black Rose, Maple",
+        "code": "BFR/S78-E070",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more \"Oceanic Coat, Sally\" in your waiting room, this card gets -1 level while in your hand.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Oceanic Coat, Sally\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E070.png"
+    },
+    {
+        "name": "Guild Master, Mii",
+        "code": "BFR/S78-E071",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "Get healed by Misery if you take damage!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E071.png"
+    },
+    {
+        "name": "Prison of Flame, Mii",
+        "code": "BFR/S78-E072",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Game》 characters you have ×500.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\""
+        ],
+        "flavor_text": "Flames of creation, origin of all.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E072.png"
+    },
+    {
+        "name": "Stout Guardian, Maple",
+        "code": "BFR/S78-E073",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Uwaaah!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E073.png"
+    },
+    {
+        "name": "[Hydra] Maple",
+        "code": "BFR/S78-E074",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all of your opponent's characters get -1000 power until end of turn."
+        ],
+        "flavor_text": "[Hydra]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E074.png"
+    },
+    {
+        "name": "Unique Series",
+        "code": "BFR/S78-E075",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose 1 of your 《Game》 characters, and that character gets +2500 power until end of turn. Put this card into your memory.",
+            "【AUTO】 Memory [Put 1 《Game》 character from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand."
+        ],
+        "flavor_text": "If it's broken, it gets stronger and goes back to normal!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E075.png"
+    },
+    {
+        "name": "Showdown Between Guild Masters",
+        "code": "BFR/S78-E076",
+        "rarity": "CR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
+            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E076.png"
+    },
+    {
+        "name": "Boss Monster",
+        "code": "BFR/S78-E077",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E077.png"
+    },
+    {
+        "name": "Guild Master of Flame Emperors",
+        "code": "BFR/S78-E078",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
+            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E078.png"
+    },
+    {
+        "name": "Multi-Chant, Frederica",
+        "code": "BFR/S78-E079",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, look at up to 3 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E079.png"
+    },
+    {
+        "name": "Moment Between the Two, Sally",
+        "code": "BFR/S78-E080",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, this card gets +3000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Never-Ending Sunset Area\" is in your climax area, and you have another 《Game》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Game》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "You'll have to look forward to it.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E080.png"
+    },
+    {
+        "name": "Young Genius, Kanade",
+        "code": "BFR/S78-E081",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Game》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Game》 character, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "I really appreciate the invite.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E081.png"
+    },
+    {
+        "name": "Machine God, Maple",
+        "code": "BFR/S78-E082",
+        "rarity": "RR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"[Deploy] Left Arm\" is in your climax area, put the bottom 4 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "[Deploy Armaments]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E082.png"
+    },
+    {
+        "name": "Information Warfare, Sally",
+        "code": "BFR/S78-E083",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Put the top card of your deck into your waiting room, and if that card's level is the number your opponent declared, draw up to X cards. X is equal to the number your opponent declared +1. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Would you like to have a little duel?",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E083.png"
+    },
+    {
+        "name": "Maxing Out, Sally",
+        "code": "BFR/S78-E084",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E084.png"
+    },
+    {
+        "name": "Multi-Colored, Kanade",
+        "code": "BFR/S78-E085",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 6 cards from the top of your deck, and put them into your waiting room. If there is a climax with in its trigger icon among those cards, choose 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E085.png"
+    },
+    {
+        "name": "Versatile, Frederica",
+        "code": "BFR/S78-E086",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Game》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "No way she can use it back to back!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E086.png"
+    },
+    {
+        "name": "Shield and Buckler, Maple & Sally",
+        "code": "BFR/S78-E087",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E087.png"
+    },
+    {
+        "name": "Information Warfare, Frederica",
+        "code": "BFR/S78-E088",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Duel System\" is placed on your climax area, if this card is in your center stage, and you have another \"Information Warfare, Frederica\", reveal the top card of your deck. If that card is a 《Game》 character, choose up to 1 of your opponent's level 3 or lower characters, return it to your opponent's deck, and your opponent shuffles their deck. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "And what would be the point of me doing that?",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E088.png"
+    },
+    {
+        "name": "Best Friends, Maple & Sally",
+        "code": "BFR/S78-E089",
+        "rarity": "R",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each character in your opponent's back stage.",
+            "【AUTO】 [(1) Put 1 《Game》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card cannot become 【REVERSE】 until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E089.png"
+    },
+    {
+        "name": "Berserk, Drag",
+        "code": "BFR/S78-E090",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all characters in your opponent's center stage get -500 power until end of turn.",
+            "【AUTO】 [Put 1 《Game》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "[Berserk]!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E090.png"
+    },
+    {
+        "name": "Tranquil Waters, Maple",
+        "code": "BFR/S78-E091",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "It's so peaceful and calming here!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E091.png"
+    },
+    {
+        "name": "Spell Stash, Kanade",
+        "code": "BFR/S78-E092",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Akashic Record\" is placed on your climax area, if this card is in your center stage, and you have another 《Game》 character, choose 1 of the following effects, and perform it. \"Choose 1 \"Spell Stash\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"Spell Stash\", reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+            "【AUTO】 When this card attacks, choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E092.png"
+    },
+    {
+        "name": "Awaken, Oboro",
+        "code": "BFR/S78-E093",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Monster"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Game》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E093.png"
+    },
+    {
+        "name": "Devour, Maple",
+        "code": "BFR/S78-E094",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory."
+        ],
+        "flavor_text": "Great shields might be stronger than I thought!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E094.png"
+    },
+    {
+        "name": "Guild Master, Payne",
+        "code": "BFR/S78-E095",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Holy Sword"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "That's nothing!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E095.png"
+    },
+    {
+        "name": "Oceanic Coat, Sally",
+        "code": "BFR/S78-E096",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each other 《Game》 character in your back stage.",
+            "【AUTO】 At the beginning of your opponent's attack phase, if this card is in your center stage, choose up to 1 of your opponent's characters, and that character gets +4 soul and the following ability until end of turn. \"【CONT】 This card cannot side attack.\""
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E096.png"
+    },
+    {
+        "name": "Super Speed, Dread",
+        "code": "BFR/S78-E097",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Game》 character, this card gets +1 level and +1500 power until end of turn.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Game》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I won't be holding back.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E097.png"
+    },
+    {
+        "name": "Fake Skill, Sally",
+        "code": "BFR/S78-E098",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character, this card gets +2000 power.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may declare \"[Cascade]\"."
+        ],
+        "flavor_text": "I can't believe she made me resort to [Cascade].",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E098.png"
+    },
+    {
+        "name": "Curiosity, Maple",
+        "code": "BFR/S78-E099",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck."
+        ],
+        "flavor_text": "My eyes! They won't stop spinning!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E099.png"
+    },
+    {
+        "name": "Hex, Maple",
+        "code": "BFR/S78-E100",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 This card cannot move to another position of the stage.",
+            "【CONT】 All of your characters get the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.\""
+        ],
+        "flavor_text": "Never heard of that status effect.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E100.png"
+    },
+    {
+        "name": "Hibernate and Awaken, Sally",
+        "code": "BFR/S78-E101",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Game》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Awaken, Oboro\" in your waiting room, and put it face up underneath this card as a marker.",
+            "【ACT】 [Put 1 character from your hand into your waiting room] Choose 1 \"Awaken, Oboro\" marker underneath this card, and put it on any position of your stage. At the end of the turn, you may put that character face up underneath this card as a marker."
+        ],
+        "flavor_text": "Oboro!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E101.png"
+    },
+    {
+        "name": "Winning Formula, Maple",
+        "code": "BFR/S78-E102",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Game》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Don't worry, it's non-piercing!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E102.png"
+    },
+    {
+        "name": "For the Win, Kanade",
+        "code": "BFR/S78-E103",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Loving Sacrifice, Maple\" and \"Atrocity, Maple\" get the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【ACT】 [Put 2 cards from your hand into your waiting room & 【REST】 this card] Choose 1 card in your waiting room with the same card name as a character on your stage, and put it on any position of your stage."
+        ],
+        "flavor_text": "Nobody's getting our orb!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E103.png"
+    },
+    {
+        "name": "Maxing Out, Maple",
+        "code": "BFR/S78-E104",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Game》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E104.png"
+    },
+    {
+        "name": "Sword Dance, Sally",
+        "code": "BFR/S78-E105",
+        "rarity": "C",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 5 or higher, this card gets +6000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards except those cards into your waiting room.\""
+        ],
+        "flavor_text": "Dodging attacks gives me bonus strength.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E105.png"
+    },
+    {
+        "name": "Spell Stash",
+        "code": "BFR/S78-E106",
+        "rarity": "U",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I am such a lucky duck!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E106.png"
+    },
+    {
+        "name": "[Deploy] Left Arm",
+        "code": "BFR/S78-E107",
+        "rarity": "CR",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Here we go!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E107.png"
+    },
+    {
+        "name": "Never-Ending Sunset Area",
+        "code": "BFR/S78-E108",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E108.png"
+    },
+    {
+        "name": "Duel System",
+        "code": "BFR/S78-E109",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "He who controls information controls the battle!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E109",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E109.png"
+    },
+    {
+        "name": "Akashic Record",
+        "code": "BFR/S78-E110",
+        "rarity": "CC",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E110",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E110.png"
+    },
+    {
+        "name": "Fun Times, Maple",
+        "code": "BFR/S78-E111",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other characters get +500 power.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "It's our own exciting adventure into the wild!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E111",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E111.png"
+    },
+    {
+        "name": "Giving Thanks, Kasumi",
+        "code": "BFR/S78-E112",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your 《Game》 characters, and exchange them as 【STAND】."
+        ],
+        "flavor_text": "Thank you.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E112",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E112.png"
+    },
+    {
+        "name": "Charisma, Mii",
+        "code": "BFR/S78-E113",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Game》 character, 【REST】 this card. (Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Game》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E113",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E113.png"
+    },
+    {
+        "name": "New Equipment, Sally",
+        "code": "BFR/S78-E114",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"New Equipment, Sally\" in your memory, and put it on any position of your stage."
+        ],
+        "flavor_text": "I can party with you!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "E114",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_E114.png"
+    },
+    {
+        "name": "Friendly Duo, Maple & Sally",
+        "code": "BFR/S78-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_PE01.png"
+    },
+    {
+        "name": "Face of the Game, Maple",
+        "code": "BFR/S78-TE01",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Provocation!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE01.png"
+    },
+    {
+        "name": "Conqueror, Yui",
+        "code": "BFR/S78-TE02",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE02.png"
+    },
+    {
+        "name": "Conqueror, May",
+        "code": "BFR/S78-TE03",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE03.png"
+    },
+    {
+        "name": "Superb Memory, Kanade",
+        "code": "BFR/S78-TE04",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "No way. You've gotta think and figure it out.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE04.png"
+    },
+    {
+        "name": "Brotherly Figure, Kuromu",
+        "code": "BFR/S78-TE05",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Game》 characters."
+        ],
+        "flavor_text": "That's max strength for you.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE05.png"
+    },
+    {
+        "name": "Assertive, Yui",
+        "code": "BFR/S78-TE06",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each other 《Game》 character in your back stage."
+        ],
+        "flavor_text": "What a nice place this is.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE06.png"
+    },
+    {
+        "name": "Worrier, May",
+        "code": "BFR/S78-TE07",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Game》 characters you have ×1000."
+        ],
+        "flavor_text": "It's yummy!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE07.png"
+    },
+    {
+        "name": "Replica of the Dark Night, Maple",
+        "code": "BFR/S78-TE08",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Game》 characters you have."
+        ],
+        "flavor_text": "I'm sorry that didn't work.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE08.png"
+    },
+    {
+        "name": "The Curtains Rise On Maxing Out",
+        "code": "BFR/S78-TE09",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE09.png"
+    },
+    {
+        "name": "Non-Stressful Adventure",
+        "code": "BFR/S78-TE10",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character in your waiting room with level equal to or lower than your level, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE10.png"
+    },
+    {
+        "name": "Consistently Flawless, Risa Shiromine",
+        "code": "BFR/S78-TE11",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other \"I Don't Want to Get Hurt, Kaede Honjo\" get +2000 power.",
+            "【AUTO】 Bond/\"I Don't Want to Get Hurt, Kaede Honjo\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"I Don't Want to Get Hurt, Kaede Honjo\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I'm gonna be a swashbuckler!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE11.png"
+    },
+    {
+        "name": "Cool and Collected, Kasumi",
+        "code": "BFR/S78-TE12",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(1)] Choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "Two against one is bad odds.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE12.png"
+    },
+    {
+        "name": "Focused, Sally",
+        "code": "BFR/S78-TE13",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Focus!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE13.png"
+    },
+    {
+        "name": "Imposing and Majestic, Kasumi",
+        "code": "BFR/S78-TE14",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if your hand has 4 or more cards, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "You have one, don't you? A gold medal.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE14.png"
+    },
+    {
+        "name": "I Don't Want to Get Hurt, Kaede Honjo",
+        "code": "BFR/S78-TE15",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "A great shielder focused on defense.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE15.png"
+    },
+    {
+        "name": "Passion for Crafting, Iz",
+        "code": "BFR/S78-TE16",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Game》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "But I mostly specialize in smithing.",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE16.png"
+    },
+    {
+        "name": "Supportive Role, Iz",
+        "code": "BFR/S78-TE17",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Blacksmith"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [(2) 【REST】 this card] Choose 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm rather proud of it myself!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE17.png"
+    },
+    {
+        "name": "Marble Muffler, Sally",
+        "code": "BFR/S78-TE18",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if you have another 《Game》 character, this card gets +1500 power until end of turn.",
+            "【AUTO】【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Path to the Second Level\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "I'm gonna go investigate!",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE18.png"
+    },
+    {
+        "name": "Quest Activated",
+        "code": "BFR/S78-TE19",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "All of your 《Game》 characters get the following ability until end of turn.",
+            "\"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "I'd feel awful if I didn't, so…",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE19.png"
+    },
+    {
+        "name": "Path to the Second Level",
+        "code": "BFR/S78-TE20",
+        "rarity": "TD",
+        "expansion": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "-",
+        "set": "BFR",
+        "release": "78",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BFR/BFR_S78_TE20.png"
+    }
+]
