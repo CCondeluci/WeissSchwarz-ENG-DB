@@ -3450,5 +3450,34 @@
         "release": "59",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_TE20.png"
+    },
+    {
+        "name": "\"Rehearsal Continues\" Karin & Kyoko & Felicia",
+        "code": "MR/W59-PE02",
+        "rarity": "PR",
+        "expansion": "Magia Record: Puella Magi Madoka Magica Side Story",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Practicing lines with everyone was really refreshing... and fun!",
+        "set": "MR",
+        "release": "59",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_PE02.png"
     }
 ]

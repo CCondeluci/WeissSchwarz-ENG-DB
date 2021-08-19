@@ -3491,5 +3491,34 @@
         "release": "80",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE20.png"
+    },
+    {
+        "name": "Promising Growth, Iroha",
+        "code": "MR/W80-PE01",
+        "rarity": "PR",
+        "expansion": "TV Anime \"Magia Record: Puella Magi Madoka Magica Side Story\"",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Cooking"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "If your wish has become twisted, I'll brush it aside. I can do that at least.",
+        "set": "MR",
+        "release": "80",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_PE01.png"
     }
 ]
