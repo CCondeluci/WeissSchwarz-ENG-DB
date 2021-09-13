@@ -3505,5 +3505,32 @@
         "release": "63",
         "sid": "PE01",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/GBS_S63_PE01.png"
+    },
+    {
+        "name": "Holy Dance, Priestess",
+        "code": "GBS/BSF2020-01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Order",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GBS",
+        "release": "63",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gbs_s63/GBS_BSF2020_01.png"
     }
 ]
