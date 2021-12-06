@@ -1,0 +1,1387 @@
+[
+    {
+        "name": "\"Nightmare or Queen\" Kurumi",
+        "code": "DAL/WE33-E001",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Date》 or 《Celestial Spirit》 character from your waiting room at the bottom of your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E001.png"
+    },
+    {
+        "name": "Girl Entwined With Nightmares, Kurumi",
+        "code": "DAL/WE33-E002",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Date》 or 《Celestial Spirit》, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Confrontation of Black and White\" is placed on your climax area, if you have another 《Date》 or 《Celestial Spirit》 character, this card gets the following 2 abilities until end of turn. \"【CONT】 The character facing this card cannot be returned to hand, move to another stage position, or be put into memory.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Regardless of dying once or twice... I will always... over and over again...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E002.png"
+    },
+    {
+        "name": "Spirit in Black, Kurumi",
+        "code": "DAL/WE33-E003",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Date》 or 《Celestial Spirit》 character in your back stage.",
+            "【CONT】 【CLOCK】 Alarm If this card is the top card of your clock, your level is 2 or higher, and you have 4 or more 《Date》 or 《Celestial Spirit》 characters, this card gets the following ability. \"【ACT】 [(2) Put 1 card from your hand into your waiting room] Put this card on any position of your stage, and put the top card of your deck into your clock.\"",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Spirit in Black, Kurumi\", you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E003.png"
+    },
+    {
+        "name": "\"〈Zafkiel〉\" Kurumi",
+        "code": "DAL/WE33-E004",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of the encore step, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"〈Zafkiel〉\" is in your climax area, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 [(2) Put 1 card from your hand into your waiting room] At the end of this card's attack, you may pay the cost. If you do, choose 1 card in your clock, and deal X damage to your opponent. X is equal to that card's level +1.\" (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E004.png"
+    },
+    {
+        "name": "Holding at Gun Point, Kurumi",
+        "code": "DAL/WE33-E005",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 【CLOCK】 Alarm At the beginning of your opponent's climax phase, if this card is the top card of your clock, all of your 《Date》 or 《Celestial Spirit》 characters get the following ability until end of turn. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2000 power until end of turn.\""
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E005.png"
+    },
+    {
+        "name": "Visitor, Kurumi",
+        "code": "DAL/WE33-E006",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When your climax with [[choice.gif]] in its trigger icon is placed on your climax area, all of your characters get +500 power until end of turn.",
+            "【ACT】 【CXCOMBO】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each \"Confrontation of Black and White\" or \"〈Zafkiel〉\" revealed among those cards, choose up to 1 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E006.png"
+    },
+    {
+        "name": "Difference in Status, Kurumi",
+        "code": "DAL/WE33-E007",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Date》 or 《Celestial Spirit》 characters get +500 power.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"\"〈Zafkiel〉\" Kurumi\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 Resonate [Reveal 1 \"\"〈Zafkiel〉\" Kurumi\" in your hand & 【REST】 this card] Choose 1 card in your clock, return it to your hand, choose 1 card in your hand, and put it into your clock."
+        ],
+        "flavor_text": "Well then, Doll Master.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E007.png"
+    },
+    {
+        "name": "Original Appearance, Hibiki",
+        "code": "DAL/WE33-E008",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if there is a card in your memory, this card gets +2500 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\""
+        ],
+        "flavor_text": "Oh man~",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E008.png"
+    },
+    {
+        "name": "Imperturbable, Kurumi",
+        "code": "DAL/WE33-E009",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put into your waiting room from the stage, look at up to 4 cards from the top of your deck, choose up to 1 yellow climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [Put this card into your waiting room] Choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Then tell me...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E009.png"
+    },
+    {
+        "name": "Logical Judgement, Kurumi",
+        "code": "DAL/WE33-E010",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, and put it on the top or at the bottom of your clock. If you put 1 card into your clock, at the end of the turn, put the bottom card of your clock into your waiting room."
+        ],
+        "flavor_text": "But if you betray me, I will show no mercy.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E010.png"
+    },
+    {
+        "name": "A New Story, Kurumi & Hibiki",
+        "code": "DAL/WE33-E011",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other characters with \"Kurumi(狂三)\" or \"Hibiki(響)\" in its card name.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock."
+        ],
+        "flavor_text": "Hibiki: \"Then, I shall come along with you!\"",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E011.png"
+    },
+    {
+        "name": "“【Aleph】” Kurumi",
+        "code": "DAL/WE33-E012",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [Return 2 characters from your waiting room to your deck, and shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Aleph.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E012.png"
+    },
+    {
+        "name": "Fight Between Equals, Kurumi",
+        "code": "DAL/WE33-E013",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E013.png"
+    },
+    {
+        "name": "Precise Firing, Kurumi",
+        "code": "DAL/WE33-E014",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E014.png"
+    },
+    {
+        "name": "Brief Truce, Hibiki",
+        "code": "DAL/WE33-E015",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of your opponent's characters, and return it to their hand.",
+            "【AUTO】 [(1) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 \"\"〈Lucifugus〉\" Queen\" in your waiting room, and put it on the stage position that this card was on as 【REST】."
+        ],
+        "flavor_text": "It was pretty fun to pretend to be friends...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E015.png"
+    },
+    {
+        "name": "Unfading Memories, Kurumi",
+        "code": "DAL/WE33-E016",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Unfading Memories, Sawa\" is in your memory, this card gets +2000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"\"〈Zafkiel〉\" Kurumi\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E016.png"
+    },
+    {
+        "name": "In Recollections, Hibiki",
+        "code": "DAL/WE33-E017",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Your climax can be played from your hand without fulfilling color requirements.",
+            "【CONT】 All of your other 《Date》 or 《Celestial Spirit》 characters get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E017.png"
+    },
+    {
+        "name": "No Questions Asked, Kurumi",
+        "code": "DAL/WE33-E018",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them)",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "If you are going to stand in my way...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E018.png"
+    },
+    {
+        "name": "Carrying a White Cat, Kurumi",
+        "code": "DAL/WE33-E019",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a 《Cat》 character, this card cannot attack.",
+            "【CONT】 Memory If \"Unfading Memories, Kurumi\" is in your memory, this card gets +3000 power.",
+            "【CONT】 Memory If \"Unfading Memories, Sawa\" is in your memory, this card gets the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "Killing each other...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E019.png"
+    },
+    {
+        "name": "Trade, Kurumi",
+        "code": "DAL/WE33-E020",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 2 times per turn. When your character is put into your clock from your hand, this card gets +3000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Then, let's have a trade.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E020.png"
+    },
+    {
+        "name": "Penetrating Bullet, Kurumi",
+        "code": "DAL/WE33-E021",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E021.png"
+    },
+    {
+        "name": "Shadow That Should Not Exist, Kurumi",
+        "code": "DAL/WE33-E022",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +4000 power.",
+            "【AUTO】 【CLOCK】 Alarm At the beginning of your climax phase, if this card is the top card of your clock, and you have a 《Date》 or 《Celestial Spirit》 character, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\""
+        ],
+        "flavor_text": "Yes...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E022.png"
+    },
+    {
+        "name": "Released Chains",
+        "code": "DAL/WE33-E023",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "You may choose 1 card in your hand, and put it at the bottom of your clock. If you do, search your deck for up to 2 characters with \"Kurumi(狂三)\" in their card names, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E023.png"
+    },
+    {
+        "name": "Confrontation of Black and White",
+        "code": "DAL/WE33-E024",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "([[choice.gif]]: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E024.png"
+    },
+    {
+        "name": "〈Zafkiel〉",
+        "code": "DAL/WE33-E025",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "([[choice.gif]]: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E025.png"
+    },
+    {
+        "name": "Spirit in White, Queen",
+        "code": "DAL/WE33-E026",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Clashing Emotions\" is in your climax area, and you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, look at up to 3 cards from the top of your deck, choose up to 1 《Date》 or 《Celestial Spirit》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your other 《Date》 or 《Celestial Spirit》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E026.png"
+    },
+    {
+        "name": "\"〈Lucifugus〉\" Queen",
+        "code": "DAL/WE33-E027",
+        "rarity": "RR",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Brief Truce, Hibiki\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"〈Lucifugus〉\" is in your climax area, and you have another 《Date》 or 《Celestial Spirit》 character, choose 1 of the following effects, and perform it. \"Choose up to 2 cards in your opponent's waiting room, return them to their deck, your opponent shuffles their deck, and this card gets +2 soul until end of turn.\" \"You may put the top 2 cards of your stock into your waiting room. If you do, deal 2 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E027.png"
+    },
+    {
+        "name": "Declaration of War, Queen",
+        "code": "DAL/WE33-E028",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, and move it to another open position of their stage.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You're a sacrifice.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E028.png"
+    },
+    {
+        "name": "Predetermined Conclusion, Queen",
+        "code": "DAL/WE33-E029",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Queen(白の女王)\" in their card names get the following ability. \"【AUTO】 [Put 1 《Date》 or 《Celestial Spirit》 character from your memory into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your 《Date》 or 《Celestial Spirit》 characters, and exchange them as 【STAND】.\"",
+            "【CONT】 All of your other level 0 or lower characters get +500 power and the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.\""
+        ],
+        "flavor_text": "It was set to happen eventually.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E029.png"
+    },
+    {
+        "name": "Sinking White Shadow, Queen",
+        "code": "DAL/WE33-E030",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 If you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Don't you get it, Kurumi Tokisaki?",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E030.png"
+    },
+    {
+        "name": "\"Doll Master\" Pannier",
+        "code": "DAL/WE33-E031",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your stage, this card gets 《Puppet》.",
+            "【CONT】 All of your other level 0 or lower characters get \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【ACT】 [【REST】 2 of your 《Date》 or 《Celestial Spirit》 characters] Choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Sorry.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E031.png"
+    },
+    {
+        "name": "Blissful Days, Sawa",
+        "code": "DAL/WE33-E032",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Unfading Memories, Kurumi\" or \"Unfading Memories, Sawa\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E032.png"
+    },
+    {
+        "name": "Kunoichi, Yui",
+        "code": "DAL/WE33-E033",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When this card is put into your waiting room or memory from the stage, if all your characters are 《Date》 or 《Celestial Spirit》, you may pay the cost. If you do, search your deck for up to 1 \"Kunoichi, Yui\", put it on any position of your stage as 【REST】, and shuffle your deck."
+        ],
+        "flavor_text": "Haah!!",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E033.png"
+    },
+    {
+        "name": "Holding at Gun Point, Queen",
+        "code": "DAL/WE33-E034",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Date》 or 《Celestial Spirit》 character in the middle position of your center stage gets +1000 power.",
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "All I need is for you to live and be by my side.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E034.png"
+    },
+    {
+        "name": "Unfading Memories, Sawa",
+        "code": "DAL/WE33-E035",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [(1)] If your memory has 2 or less cards, look at up to 3 cards from the top of your deck, choose up to 1 《Date》 or 《Celestial Spirit》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and put this card into your memory."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E035.png"
+    },
+    {
+        "name": "Repelling Bullets, Queen",
+        "code": "DAL/WE33-E036",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Unfading Memories, Sawa\" is in your memory, this card gets +2000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Date》 or 《Celestial Spirit》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Nonsense!!",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E036.png"
+    },
+    {
+        "name": "In Recollections, Tsang",
+        "code": "DAL/WE33-E037",
+        "rarity": "U",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level while in the stage.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have a climax in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E037.png"
+    },
+    {
+        "name": "“【Moznaim】” Queen",
+        "code": "DAL/WE33-E038",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Date》 or 《Celestial Spirit》 character in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Moznaim.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E038.png"
+    },
+    {
+        "name": "Traces of a Best Friend, Queen",
+        "code": "DAL/WE33-E039",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Date》 or 《Celestial Spirit》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Hey, Kurumi...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E039.png"
+    },
+    {
+        "name": "Fatal Move, Queen",
+        "code": "DAL/WE33-E040",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 You cannot play event cards or \"Backup\" from your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E040.png"
+    },
+    {
+        "name": "In Recollections, Isami",
+        "code": "DAL/WE33-E041",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, your opponent may put the top 2 cards of their stock into their waiting room. If they do, this card cannot frontal attack until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E041.png"
+    },
+    {
+        "name": "White Space, Queen",
+        "code": "DAL/WE33-E042",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Memory If you have a card in your memory, this card gets +3000 power.",
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw 1 card.\""
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E042.png"
+    },
+    {
+        "name": "True Swordsmanship, Isami",
+        "code": "DAL/WE33-E043",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level while in the stage.",
+            "【CONT】 During your turn, this card gets +4000 power."
+        ],
+        "flavor_text": "Now, by the name of Isami Hijikata...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E043.png"
+    },
+    {
+        "name": "In Recollections, Pannier",
+        "code": "DAL/WE33-E044",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your stage, this card gets -1 level and 《Puppet》.",
+            "【CONT】 This card gets +500 power for each of your other level 0 or lower characters."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E044.png"
+    },
+    {
+        "name": "Lonely World, Queen",
+        "code": "DAL/WE33-E045",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 2 cards. If you do, choose 2 cards in your hand, and put them into your waiting room."
+        ],
+        "flavor_text": "I don't care about the others...",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E045.png"
+    },
+    {
+        "name": "Overwhelming Difference, Queen",
+        "code": "DAL/WE33-E046",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Date》 or 《Celestial Spirit》 character in your back stage.",
+            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Date》 or 《Celestial Spirit》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Date》 or 《Celestial Spirit》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Ah.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E046.png"
+    },
+    {
+        "name": "In Recollections, Yui",
+        "code": "DAL/WE33-E047",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while in the stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E047.png"
+    },
+    {
+        "name": "Battle Stance, Tsang",
+        "code": "DAL/WE33-E048",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while in the stage.",
+            "【AUTO】 Memory When this card attacks, if your memory has 2 or more 《Date》 or 《Celestial Spirit》 characters, this card gets +X power until end of turn. X is equal to the level of the character facing this card ×2000."
+        ],
+        "flavor_text": "A match to settle before Kurumi Tokisaki.",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E048.png"
+    },
+    {
+        "name": "Clashing Emotions",
+        "code": "DAL/WE33-E049",
+        "rarity": "R",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E049.png"
+    },
+    {
+        "name": "〈Lucifugus〉",
+        "code": "DAL/WE33-E050",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E050.png"
+    }
+]
