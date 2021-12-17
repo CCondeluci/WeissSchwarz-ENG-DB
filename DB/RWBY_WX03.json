@@ -1,0 +1,3494 @@
+[
+    {
+        "name": "Yang Xiao Long",
+        "code": "RWBY/WX03-001",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Remnant》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Remnant》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "Yes!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_001.png"
+    },
+    {
+        "name": "Jaune: School Dance",
+        "code": "RWBY/WX03-002",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"School Dance\" is placed on your climax area, if you have another 《Remnant》 character, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+            "【AUTO】 When this card attacks, if all of your characters are 《Remnant》, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Hold my punch.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_002.png"
+    },
+    {
+        "name": "Sun Wukong",
+        "code": "RWBY/WX03-003",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Remnant》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Remnant》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_003.png"
+    },
+    {
+        "name": "Jaune Arc",
+        "code": "RWBY/WX03-004",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Pyrrha Nikos\" get +500 power and \"【AUTO】 Encore [Put 1 《Remnant》 character from your hand into your waiting room]\".",
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"School Dance\" or \"A Kiss to Remember By\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"School Dance\" or \"A Kiss to Remember By\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "How can I help?",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_004.png"
+    },
+    {
+        "name": "Yang: Vytal Festival",
+        "code": "RWBY/WX03-005",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When \"Falling Into a Trap\" is placed on your climax area, if this card is in your center stage, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 2 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_005.png"
+    },
+    {
+        "name": "Neon Katt",
+        "code": "RWBY/WX03-006",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "FNKI"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck.",
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Never miss a beat.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_006.png"
+    },
+    {
+        "name": "Uniform Jaune",
+        "code": "RWBY/WX03-007",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Remnant》 characters get +500 power.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "You think I need help?",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_007.png"
+    },
+    {
+        "name": "Yang: Framed",
+        "code": "RWBY/WX03-008",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Remnant》 characters, this card gets +1000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_008.png"
+    },
+    {
+        "name": "Uniform Yang",
+        "code": "RWBY/WX03-009",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Remnant》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place)",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_009.png"
+    },
+    {
+        "name": "Taiyang Xiao Long",
+        "code": "RWBY/WX03-010",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "STRQ"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Remnant》 characters get +1000 power.",
+            "【ACT】 [(1) Put 1 card from your hand into your waiting room & 【REST】 this card] Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I'm just glad to have my girls back home.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_010.png"
+    },
+    {
+        "name": "Yang: Warm Welcome",
+        "code": "RWBY/WX03-011",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Remnant》 characters, this card gets +3000 power.",
+            "【AUTO】 Encore [Put 1 《Remnant》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Guess who's back!?",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_011.png"
+    },
+    {
+        "name": "Glynda Goodwitch",
+        "code": "RWBY/WX03-012",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_012.png"
+    },
+    {
+        "name": "Arslan Altan",
+        "code": "RWBY/WX03-013",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "ABRN"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another 《Remnant》 character, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《Remnant》 character, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_013.png"
+    },
+    {
+        "name": "Brawnz Ni",
+        "code": "RWBY/WX03-014",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "BRNZ"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_014.png"
+    },
+    {
+        "name": "Sun: Vytal Festival",
+        "code": "RWBY/WX03-015",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Remnant》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Team SSSN\" from your climax area into your waiting room] At the end of this card's attack, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《Remnant》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_015.png"
+    },
+    {
+        "name": "A Childhood Memory",
+        "code": "RWBY/WX03-016",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Remnant》 character, this card cannot be played from your hand.",
+            "You may choose 1 《Remnant》 character in your hand, and put it into your waiting room. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_016.png"
+    },
+    {
+        "name": "School Dance",
+        "code": "RWBY/WX03-017",
+        "rarity": "CR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_017.png"
+    },
+    {
+        "name": "Falling Into a Trap",
+        "code": "RWBY/WX03-018",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_018.png"
+    },
+    {
+        "name": "Team SSSN",
+        "code": "RWBY/WX03-019",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_019.png"
+    },
+    {
+        "name": "Lie Ren",
+        "code": "RWBY/WX03-020",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if you have another 《Remnant》 character, and this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+            "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your clock, and put the rest into your waiting room. If you put 1 card into your clock, choose 1 《Remnant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_020.png"
+    },
+    {
+        "name": "Emerald Sustrai",
+        "code": "RWBY/WX03-021",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of your center stage gets +500 power.",
+            "【ACT】 【CXCOMBO】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each \"Fall Maiden's Downfall\" or \"Grimm Invasion\" revealed among those cards, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_021.png"
+    },
+    {
+        "name": "Ozpin",
+        "code": "RWBY/WX03-022",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put it on any position of your back stage."
+        ],
+        "flavor_text": "I hope they never have to.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_022.png"
+    },
+    {
+        "name": "Penny Polendina",
+        "code": "RWBY/WX03-023",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Military Weapon\" is in your climax area, and you have another 《Remnant》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Remnant》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_023.png"
+    },
+    {
+        "name": "Oobleck: Field Trip",
+        "code": "RWBY/WX03-024",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_024.png"
+    },
+    {
+        "name": "Ren: Winning Advice",
+        "code": "RWBY/WX03-025",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "This blend of herbs and vegetables is filled with nutrients vital to your body's well-being.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_025.png"
+    },
+    {
+        "name": "Uniform Ren",
+        "code": "RWBY/WX03-026",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Remnant》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 [Put 2 characters from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_026.png"
+    },
+    {
+        "name": "Ozpin: Fighting Off Cinder",
+        "code": "RWBY/WX03-027",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If \"Ozpin\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Defending the School\" is in your climax area, and you have 4 or more other 《Remnant》 characters, this card gets +1000 power and the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn.\""
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_027.png"
+    },
+    {
+        "name": "Roy Stallion",
+        "code": "RWBY/WX03-028",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "BRNZ"
+        ],
+        "ability": [
+            "【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_028.png"
+    },
+    {
+        "name": "Sage Ayana",
+        "code": "RWBY/WX03-029",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Remnant》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_029.png"
+    },
+    {
+        "name": "Yatsuhashi Daichi",
+        "code": "RWBY/WX03-030",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "CFVY"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 Encore [(1) Put 1 character from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_030.png"
+    },
+    {
+        "name": "Bartholomew Oobleck",
+        "code": "RWBY/WX03-031",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Remnant》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Remember, students, it is precisely this kind of ignorance that breeds violence!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_031.png"
+    },
+    {
+        "name": "Flynt Coal",
+        "code": "RWBY/WX03-032",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "FNKI"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Remnant》 character, this card gets +1500 power.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Flynt Coal\", put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_032.png"
+    },
+    {
+        "name": "Coco Adel",
+        "code": "RWBY/WX03-033",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "CFVY"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card gets +1 level and +3500 power.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_033.png"
+    },
+    {
+        "name": "Emerald & Mercury: Infiltrating Beacon Academy",
+        "code": "RWBY/WX03-034",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Remnant》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Emerald: \"Just watch where you're going.\"",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_034.png"
+    },
+    {
+        "name": "Emerald: Scouted",
+        "code": "RWBY/WX03-035",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1500 power for each of your other 《Remnant》 characters.",
+            "【AUTO】 When your climax with in its trigger icon is placed on your climax area, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Remnant》 character in your waiting room, and put it into your stock.\""
+        ],
+        "flavor_text": "Who are you?",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_035.png"
+    },
+    {
+        "name": "Reese Chloris",
+        "code": "RWBY/WX03-036",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "ABRN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_036.png"
+    },
+    {
+        "name": "Cardin Winchester",
+        "code": "RWBY/WX03-037",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "CRDL"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each character in your opponent's back stage.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_037.png"
+    },
+    {
+        "name": "Beacon Academy",
+        "code": "RWBY/WX03-038",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "Reveal the top card of your deck. If that card is an event or a 《Remnant》 character, put it into your hand. (Otherwise, return it to its original place)",
+            "【CONT】 Memory During your turn, if this card is in your memory, all of your 《Remnant》 characters get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_038.png"
+    },
+    {
+        "name": "Military Weapon",
+        "code": "RWBY/WX03-039",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_039.png"
+    },
+    {
+        "name": "Defending the School",
+        "code": "RWBY/WX03-040",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_040.png"
+    },
+    {
+        "name": "Pyrrha: Fall Maiden's Vessel Candidate",
+        "code": "RWBY/WX03-041",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Remnant》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_041.png"
+    },
+    {
+        "name": "Nora Valkyrie",
+        "code": "RWBY/WX03-042",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Remnant》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Remnant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_042.png"
+    },
+    {
+        "name": "Cinder: Complete Maiden Powers",
+        "code": "RWBY/WX03-043",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Amber: Fall Maiden\" is in your memory, this card gets +3000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Fall Maiden's Downfall\" is in your climax area, deal 1 damage to your opponent, and put that character on the top of your opponent's deck. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_043.png"
+    },
+    {
+        "name": "Ruby Rose",
+        "code": "RWBY/WX03-044",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Remnant》, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Memory [【REST】 this card] When \"Ruby's Awakening\" is placed on your climax area, if this card is in your center stage, and your memory has 2 or more \"Pyrrha: Fall Maiden's Vessel Candidate\", you may pay the cost. If you do, deal 3 damage to your opponent, choose 1 level 3 or lower character facing this card, and put it into your opponent's clock. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_044.png"
+    },
+    {
+        "name": "Salem",
+        "code": "RWBY/WX03-045",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each character in your opponent's back stage.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of the following effects and perform it. \"Your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.\" \"Put the bottom 5 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_045.png"
+    },
+    {
+        "name": "Raven Branwen",
+        "code": "RWBY/WX03-046",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "STRQ"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Remnant》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Remnant》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_046.png"
+    },
+    {
+        "name": "Adam Taurus",
+        "code": "RWBY/WX03-047",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 other 《Remnant》 character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Remnant》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "I will make it my mission to destroy everything you love.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_047.png"
+    },
+    {
+        "name": "Amber: Fall Maiden",
+        "code": "RWBY/WX03-048",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Remnant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_048.png"
+    },
+    {
+        "name": "Zwei",
+        "code": "RWBY/WX03-049",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Remnant》 character in your waiting room, return it to your hand, choose 1 of your other 《Remnant》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_049.png"
+    },
+    {
+        "name": "Qrow Branwen",
+        "code": "RWBY/WX03-050",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "STRQ"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_050.png"
+    },
+    {
+        "name": "Cinder: Infiltrating Beacon Academy",
+        "code": "RWBY/WX03-051",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if your memory has 2 or less cards, you may choose 1 \"Amber: Fall Maiden\" in your waiting room, and put it into your memory.",
+            "【AUTO】 Memory At the beginning of your climax phase, if \"Amber: Fall Maiden\" is in your memory, choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_051.png"
+    },
+    {
+        "name": "Ruby: Embarking on a New Journey",
+        "code": "RWBY/WX03-052",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Remnant》 character in your back stage.",
+            "【AUTO】 When this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_052.png"
+    },
+    {
+        "name": "Pyrrha Nikos",
+        "code": "RWBY/WX03-053",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage, all of your 《Remnant》 characters get +1500 power.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 1 \"A Kiss to Remember By\" from your climax area into your waiting room] During your climax phase, when this card is placed on the stage by the effect of \"A Kiss to Remember By\", you may pay the cost. If you do, 【STAND】 this card, choose up to X cards in your opponent's waiting room, return them to their deck, and your opponent shuffles their deck. X is equal to the number of 《Remnant》 characters you have."
+        ],
+        "flavor_text": "You're already doing it.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_053.png"
+    },
+    {
+        "name": "Ruby: Vytal Festival",
+        "code": "RWBY/WX03-054",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Remnant》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] At the end of this card's attack, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_054.png"
+    },
+    {
+        "name": "Cinder: Scouting",
+        "code": "RWBY/WX03-055",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Remnant》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Follow me, and you'll never be hungry again.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_055.png"
+    },
+    {
+        "name": "Ruby: Life-Changing Scene",
+        "code": "RWBY/WX03-056",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_056.png"
+    },
+    {
+        "name": "Cinder: Leading a Grimm Invasion",
+        "code": "RWBY/WX03-057",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if your memory has 2 or less cards, you may choose 1 \"Amber: Fall Maiden\" in your waiting room, and put it into your memory.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Grimm Invasion\" is in your climax area, put the top card of your deck into your waiting room, choose up to 1 level X or lower 《Remnant》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_057.png"
+    },
+    {
+        "name": "Uniform Pyrrha",
+        "code": "RWBY/WX03-058",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Remnant》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if you have 2 or more other 《Remnant》 characters, and this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+            "【AUTO】 When this card is put into your waiting room from the stage, if your memory has 2 or less cards, you may choose 1 \"Pyrrha: Fall Maiden's Vessel Candidate\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "Jaune, everybody needs a little push from time to time.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_058.png"
+    },
+    {
+        "name": "Uniform Ruby",
+        "code": "RWBY/WX03-059",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Remnant》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.Which is why I’ve taken the time to\nschedule a series of wonderful\nevents for us today.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_059.png"
+    },
+    {
+        "name": "Uniform Nora",
+        "code": "RWBY/WX03-060",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Remnant》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\""
+        ],
+        "flavor_text": "Ahahahaha!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_060.png"
+    },
+    {
+        "name": "Qrow: Priorities",
+        "code": "RWBY/WX03-061",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "STRQ"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock."
+        ],
+        "flavor_text": "I was defeated... By the mere sight of the inn-keeper's skirt length!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_061.png"
+    },
+    {
+        "name": "Scarlet David",
+        "code": "RWBY/WX03-062",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card cannot move to another position of the stage.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Remnant》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_062.png"
+    },
+    {
+        "name": "Nadir Shiko",
+        "code": "RWBY/WX03-063",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "ABRN"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Remnant》 character in the middle position of your center stage gets +1500 power.",
+            "【AUTO】 When your opponent's climax is placed on their climax area, you may put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_063.png"
+    },
+    {
+        "name": "May Zedong",
+        "code": "RWBY/WX03-064",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "BRNZ"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Remnant》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_064.png"
+    },
+    {
+        "name": "Fox Alistair",
+        "code": "RWBY/WX03-065",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "CFVY"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card frontal attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 level until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_065.png"
+    },
+    {
+        "name": "Junior Xiong",
+        "code": "RWBY/WX03-066",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Remnant》 characters get +500 power.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_066.png"
+    },
+    {
+        "name": "Nora: Winning Advice",
+        "code": "RWBY/WX03-067",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Remnant》 character, this card gets +3000 power.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 climax with the same card name as a climax in your waiting room, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "We gotta get your butt in shape for the big fight!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_067.png"
+    },
+    {
+        "name": "Peter Port",
+        "code": "RWBY/WX03-068",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Remnant》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】 , if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_068.png"
+    },
+    {
+        "name": "Velvet Scarlatina",
+        "code": "RWBY/WX03-069",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "CFVY"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Remnant》 characters get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_069.png"
+    },
+    {
+        "name": "Salem's Glove",
+        "code": "RWBY/WX03-070",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to 2 characters in your waiting room, return them to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_070.png"
+    },
+    {
+        "name": "Maidens",
+        "code": "RWBY/WX03-071",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you have 5 or more 《Remnant》 characters, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_071.png"
+    },
+    {
+        "name": "Ruby's Awakening",
+        "code": "RWBY/WX03-072",
+        "rarity": "CR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
+            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_072.png"
+    },
+    {
+        "name": "Fall Maiden's Downfall",
+        "code": "RWBY/WX03-073",
+        "rarity": "CR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_073.png"
+    },
+    {
+        "name": "A Kiss to Remember By",
+        "code": "RWBY/WX03-074",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
+            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_074.png"
+    },
+    {
+        "name": "Grimm Invasion",
+        "code": "RWBY/WX03-075",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_075.png"
+    },
+    {
+        "name": "Weiss Schnee",
+        "code": "RWBY/WX03-076",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Remnant》 characters, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Team RWBY\" is in your climax area, and all of your characters are 《Remnant》, reveal the top 3 cards of your deck, your opponent chooses 1 character or event card from among them, you put it into your hand, you choose up to 1 of the revealed cards except the card put into your hand, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "How can you not smile?",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_076.png"
+    },
+    {
+        "name": "Blake Belladonna",
+        "code": "RWBY/WX03-077",
+        "rarity": "RR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +1000 power for each other 《Remnant》 character in your back stage.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_077.png"
+    },
+    {
+        "name": "Roman Torchwick",
+        "code": "RWBY/WX03-078",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Hijacking the Control Ship\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《Remnant》 character in your waiting room, and return it to your hand.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_078.png"
+    },
+    {
+        "name": "James Ironwood",
+        "code": "RWBY/WX03-079",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Remnant》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_079.png"
+    },
+    {
+        "name": "Mercury Black",
+        "code": "RWBY/WX03-080",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Remnant》 characters get +500 power.",
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_080.png"
+    },
+    {
+        "name": "Winter Schnee",
+        "code": "RWBY/WX03-081",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Remnant》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Remnant》 characters, and the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_081.png"
+    },
+    {
+        "name": "Weiss: Summoning",
+        "code": "RWBY/WX03-082",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Remnant》 characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "Winter: \"Stop doubting yourself.\"",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_082.png"
+    },
+    {
+        "name": "Neopolitan",
+        "code": "RWBY/WX03-083",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put 1 《Remnant》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to 2 characters in your opponent's waiting room, and put them on separate open positions of their stage."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_083.png"
+    },
+    {
+        "name": "Blake: Going Undercover",
+        "code": "RWBY/WX03-084",
+        "rarity": "R",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Remnant》 characters you have.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Activist Childhood\" is in your climax area, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on the top of their deck in any order, put the rest into their waiting room, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, put them on the top of your deck in any order, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_084.png"
+    },
+    {
+        "name": "Weiss: Focusing",
+        "code": "RWBY/WX03-085",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Remnant》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Remnant》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_085.png"
+    },
+    {
+        "name": "Blake: Focusing Her Sights",
+        "code": "RWBY/WX03-086",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Remnant》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 《Remnant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_086.png"
+    },
+    {
+        "name": "Neptune Vasilias",
+        "code": "RWBY/WX03-087",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Remnant》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Cool.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_087.png"
+    },
+    {
+        "name": "Jacques Schnee",
+        "code": "RWBY/WX03-088",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_088.png"
+    },
+    {
+        "name": "Mercury: Scouted",
+        "code": "RWBY/WX03-089",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Remnant》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Remnant》 characters, you may choose 1 《Remnant》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Cinder: \"What's your name?\"",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_089.png"
+    },
+    {
+        "name": "James: Half-Cyborg",
+        "code": "RWBY/WX03-090",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to their hand.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Remnant》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Remnant》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_090.png"
+    },
+    {
+        "name": "Uniform Blake",
+        "code": "RWBY/WX03-091",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Remnant》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_091.png"
+    },
+    {
+        "name": "Neptune: Vytal Festival",
+        "code": "RWBY/WX03-092",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "SSSN"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Remnant》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "Ladies.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_092.png"
+    },
+    {
+        "name": "Shopkeep",
+        "code": "RWBY/WX03-093",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "P-please! Just take my Lien and leave!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_093.png"
+    },
+    {
+        "name": "Nolan Porfirio",
+        "code": "RWBY/WX03-094",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "BRNZ"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_094.png"
+    },
+    {
+        "name": "Bolin Hori",
+        "code": "RWBY/WX03-095",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "ABRN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Remnant》 characters you have ×1000.",
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_095.png"
+    },
+    {
+        "name": "Uniform Weiss",
+        "code": "RWBY/WX03-096",
+        "rarity": "C",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each other 《Remnant》 character in your back stage.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_096.png"
+    },
+    {
+        "name": "Dust",
+        "code": "RWBY/WX03-097",
+        "rarity": "U",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of the following effects, and perform it.",
+            "\"You may put the top 2 cards of your stock into your waiting room. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《Remnant》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.\"",
+            "\"You may choose 1 \"Shopkeep\" in your hand, and put it into your waiting room. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《Remnant》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_097.png"
+    },
+    {
+        "name": "Team RWBY",
+        "code": "RWBY/WX03-098",
+        "rarity": "CR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_098.png"
+    },
+    {
+        "name": "Activist Childhood",
+        "code": "RWBY/WX03-099",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_099.png"
+    },
+    {
+        "name": "Hijacking the Control Ship",
+        "code": "RWBY/WX03-100",
+        "rarity": "CC",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_100.png"
+    },
+    {
+        "name": "Yang: Team RWBY",
+        "code": "RWBY/WX03-101",
+        "rarity": "PR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power for each of your other 《Remnant》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_101.png"
+    },
+    {
+        "name": "Ruby: Team RWBY",
+        "code": "RWBY/WX03-102",
+        "rarity": "PR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 If you do not have another character, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_102.png"
+    },
+    {
+        "name": "Weiss: Team RWBY",
+        "code": "RWBY/WX03-103",
+        "rarity": "PR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have a climax in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_103.png"
+    },
+    {
+        "name": "Blake: Team RWBY",
+        "code": "RWBY/WX03-104",
+        "rarity": "PR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Remnant》 characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_104.png"
+    },
+    {
+        "name": "Blake & Yang: New Uniforms",
+        "code": "RWBY/WX03-P02",
+        "rarity": "PR",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if all of your characters are 《Remnant》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "P02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_P02P.png"
+    },
+    {
+        "name": "Ruby: Running",
+        "code": "RWBY/WX03-T01",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Remnant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T01.png"
+    },
+    {
+        "name": "Yang: Free-Falling",
+        "code": "RWBY/WX03-T02",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "Woo-hoo!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T02.png"
+    },
+    {
+        "name": "Pyrrha: Lending a Helping Hand",
+        "code": "RWBY/WX03-T03",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Jaune: Having His Aura Unlocked\" get +1000 power.",
+            "【AUTO】 Bond/\"Jaune: Having His Aura Unlocked\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Jaune: Having His Aura Unlocked\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T03.png"
+    },
+    {
+        "name": "Ruby: Huntress Wannabe",
+        "code": "RWBY/WX03-T04",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Remnant》 characters among those cards ×1000.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Remnant》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T04.png"
+    },
+    {
+        "name": "Jaune: Having His Aura Unlocked",
+        "code": "RWBY/WX03-T05",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T05.png"
+    },
+    {
+        "name": "Glynda: Huntress to the Rescue",
+        "code": "RWBY/WX03-T06",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Remnant》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Remnant》 characters you have ×500.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T06.png"
+    },
+    {
+        "name": "Ruby: Teamwork",
+        "code": "RWBY/WX03-T07",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Remnant》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Initiation\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Remnant》 character from among them, reveal it to your opponent, put it into your hand, put the remaining cards into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T07.png"
+    },
+    {
+        "name": "Ren: Hunted",
+        "code": "RWBY/WX03-T08",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Remnant》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T08.png"
+    },
+    {
+        "name": "Nora: Free-Falling",
+        "code": "RWBY/WX03-T09",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Remnant》 characters you have ×1000.",
+            "【AUTO】 Encore [Put 1 《Remnant》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Woohoohoohoo",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T09.png"
+    },
+    {
+        "name": "Pyrrha: Spectating",
+        "code": "RWBY/WX03-T10",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "JNPR"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to that character's level ×500.",
+            "【ACT】 [(2) 【REST】 this card] Choose 1 《Remnant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T10.png"
+    },
+    {
+        "name": "Yang: Enraged",
+        "code": "RWBY/WX03-T11",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, all of your 《Remnant》 characters get +500 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "I can't take it anymore!",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T11.png"
+    },
+    {
+        "name": "Initiation Relic",
+        "code": "RWBY/WX03-T12",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Remnant》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T12.png"
+    },
+    {
+        "name": "Initiation",
+        "code": "RWBY/WX03-T13",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Weiss: \"Of course you would come up with this idea.\"",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T13.png"
+    },
+    {
+        "name": "Blake: Bookworm",
+        "code": "RWBY/WX03-T14",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Remnant》 character in the middle position of your center stage gets \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T14.png"
+    },
+    {
+        "name": "Ozpin: Monitoring",
+        "code": "RWBY/WX03-T15",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card gets +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Remnant》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Hmm.",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T15.png"
+    },
+    {
+        "name": "Roman: Towards a Heist",
+        "code": "RWBY/WX03-T16",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Remnant",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Remnant》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Remnant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T16.png"
+    },
+    {
+        "name": "Weiss: Teamwork",
+        "code": "RWBY/WX03-T17",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Remnant》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Remnant》 characters you have ×500.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Initiation\" is in your climax area, choose this card and 1 of your other characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 2 cards from the top of your deck, choose up to 2 《Remnant》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T17.png"
+    },
+    {
+        "name": "Blake: Battle Stance",
+        "code": "RWBY/WX03-T18",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Remnant》 characters, this card gets +3000 power."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T18.png"
+    },
+    {
+        "name": "Weiss: Battle Stance",
+        "code": "RWBY/WX03-T19",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Remnant",
+            "RWBY"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Remnant》 characters you have ×1000.",
+            "【AUTO】 [(2) Put 2 《Remnant》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, at the end of this card's attack, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T19.png"
+    },
+    {
+        "name": "Assignment of Teams",
+        "code": "RWBY/WX03-T20",
+        "rarity": "TD",
+        "expansion": "RWBY",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "([[draw.gif]]: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "Ozpin: \"From this day forward, you will work together as Team JNPR.\"",
+        "set": "RWBY",
+        "release": "X03",
+        "sid": "T20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RWBY/RWBY_WX03_T20.png"
+    }
+]
