@@ -1398,555 +1398,553 @@
         "sid": "E50",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E50.png"
     },
-    [
-        {
-            "name": "\"Widening Horizon\" Nanami Hiromachi",
-            "code": "BD/WE34-TE01",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "0",
-            "cost": "0",
-            "power": "1000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【CONT】 Assist All of your characters in front of this card get +500 power.",
-                "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-            ],
-            "flavor_text": "Really? That's a relief~...",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE01",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE01.png"
-        },
-        {
-            "name": "\"Trusted Class President\" Toko Kirigaya",
-            "code": "BD/WE34-TE02",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "0",
-            "cost": "0",
-            "power": "2500",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card attacks, if all of your characters are 《Music》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
-            ],
-            "flavor_text": "Tsukushi: \"Fufu, of course!\"",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE02",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE02.png"
-        },
-        {
-            "name": "\"Normalcy Comes First\" Nanami Hiromachi",
-            "code": "BD/WE34-TE03",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "0",
-            "cost": "0",
-            "power": "4000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【CONT】 You cannot play event cards or \"Backup\" from your hand."
-            ],
-            "flavor_text": "If I had to pick a word to describe myself, it would be, uhm... Normal! I'm just a regular high school student!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE03",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE03.png"
-        },
-        {
-            "name": "\"Popular Girl\" Toko Kirigaya",
-            "code": "BD/WE34-TE04",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "1",
-            "cost": "0",
-            "power": "2000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
-                "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-            ],
-            "flavor_text": "I'm the star of Tsukinomori, and don't you forget it!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE04",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE04.png"
-        },
-        {
-            "name": "\"Behold My Masterpiece!\" Nanami Hiromachi",
-            "code": "BD/WE34-TE05",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "2",
-            "cost": "1",
-            "power": "4500",
-            "soul": 1,
-            "trigger": [
-                "SOUL"
-            ],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
-                "【ACT】 [【REST】 this card] Choose 1 card in your hand, and put it into your stock."
-            ],
-            "flavor_text": "Toko: \"Maybe I'm just that charismatic.\"",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE05",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE05.png"
-        },
-        {
-            "name": "\"Special Announcement!\" Toko Kirigaya",
-            "code": "BD/WE34-TE06",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "YELLOW",
-            "level": "3",
-            "cost": "2",
-            "power": "9500",
-            "soul": 2,
-            "trigger": [
-                "SOUL"
-            ],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-                "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×1000."
-            ],
-            "flavor_text": "But you know, it's different when\nyou give a killer performance at a concert.\nIt's super fun for us, and the crowd gets totally fired up, too!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE06",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE06.png"
-        },
-        {
-            "name": "Behold My Masterpiece!",
-            "code": "BD/WE34-TE07",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Climax",
-            "color": "YELLOW",
-            "level": "-",
-            "cost": "-",
-            "power": "-",
-            "soul": 0,
-            "trigger": [
-                "SOUL",
-                "RETURN"
-            ],
-            "attributes": [
-                "-",
-                "-"
-            ],
-            "ability": [
-                "【CONT】 All of your characters get +1000 power and +1 soul.",
-                "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)"
-            ],
-            "flavor_text": "I probably just have good taste!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE07",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE07.png"
-        },
-        {
-            "name": "\"Trusted Class President\" Tsukushi Futaba",
-            "code": "BD/WE34-TE08",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "0",
-            "cost": "0",
-            "power": "500",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【CONT】 All of your other \"\"Trusted Class President\" Toko Kirigaya\" and \"\"Trusted Class President\" Mashiro Kurata\" get +1000 power.",
-                "【AUTO】 Bond/\"\"Trusted Class President\" Toko Kirigaya\" \"\"Trusted Class President\" Mashiro Kurata\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Trusted Class President\" Toko Kirigaya\" or \"\"Trusted Class President\" Mashiro Kurata\" in your waiting room, and return it to your hand)"
-            ],
-            "flavor_text": "Fufu... I am the class president, after all!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE08",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE08.png"
-        },
-        {
-            "name": "\"Gaining Recognition\" Rui Yashio",
-            "code": "BD/WE34-TE09",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "0",
-            "cost": "0",
-            "power": "1000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
-                "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
-            ],
-            "flavor_text": "If our goal is to introduce our band, I do not believe we should be making videos. Having people listen to our music would be far more effective.",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE09",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE09.png"
-        },
-        {
-            "name": "\"Fufu, Leave It to Me!\" Tsukushi Futaba",
-            "code": "BD/WE34-TE10",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "0",
-            "cost": "0",
-            "power": "2000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
-            ],
-            "flavor_text": "Morfonica is still a new band, but I hope we'll be able to shine as brightly as Tsukinomori students should.",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE10",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE10.png"
-        },
-        {
-            "name": "\"Rejected Path\" Rui Yashio",
-            "code": "BD/WE34-TE11",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "1",
-            "cost": "0",
-            "power": "2500",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
-                "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-            ],
-            "flavor_text": "... You are free to think whatever you wish.",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE11",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE11.png"
-        },
-        {
-            "name": "\"Full of Confidence\" Tsukushi Futaba",
-            "code": "BD/WE34-TE12",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "1",
-            "cost": "0",
-            "power": "4500",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card attacks, if your hand has 4 or more cards, this card gets +3000 power until end of turn."
-            ],
-            "flavor_text": "Fufu, did you see how confident and leader-like I was?",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE12",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE12.png"
-        },
-        {
-            "name": "\"Pessimistic Girl\" Mashiro Kurata",
-            "code": "BD/WE34-TE13",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "1",
-            "cost": "0",
-            "power": "5000",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 【CXCOMBO】 When this card attacks, if \"Shine Once More\" is in your climax area, and you have another 《Music》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
-            ],
-            "flavor_text": "I'll do my best, so I look forward to your support...!",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE13",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE13.png"
-        },
-        {
-            "name": "\"Trusted Class President\" Mashiro Kurata",
-            "code": "BD/WE34-TE14",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "1",
-            "cost": "0",
-            "power": "5500",
-            "soul": 1,
-            "trigger": [],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "-"
-            ],
-            "flavor_text": "Tsukushi: \"Darn it! I wasn't any help again!\"",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE14",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE14.png"
-        },
-        {
-            "name": "\"Forsaking Talent\" Rui Yashio",
-            "code": "BD/WE34-TE15",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "2",
-            "cost": "1",
-            "power": "7000",
-            "soul": 1,
-            "trigger": [
-                "SOUL"
-            ],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Music》 characters among those cards ×3000."
-            ],
-            "flavor_text": "I have always aimed for first place, and I intend to keep getting first place.",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE15",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE15.png"
-        },
-        {
-            "name": "\"Forsaking Talent\" Mashiro Kurata",
-            "code": "BD/WE34-TE16",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "3",
-            "cost": "2",
-            "power": "10000",
-            "soul": 2,
-            "trigger": [
-                "SOUL"
-            ],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards or \"Backup\" from your hand.\"",
-                "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Blue Sky Full of Stars\" Mashiro Kurata\" in your waiting room, and put it on the stage position that this card was on."
-            ],
-            "flavor_text": "I can't imagine you ever getting a failing grade, Yashio-san. I heard you've always been ranked first in our grade ever since middle school...",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE16",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE16.png"
-        },
-        {
-            "name": "\"Blue Sky Full of Stars\" Mashiro Kurata",
-            "code": "BD/WE34-TE17",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Character",
-            "color": "BLUE",
-            "level": "3",
-            "cost": "2",
-            "power": "10500",
-            "soul": 2,
-            "trigger": [
-                "SOUL"
-            ],
-            "attributes": [
-                "Music",
-                "Morfonica"
-            ],
-            "ability": [
-                "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 3 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
-                "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-            ],
-            "flavor_text": "But I can keep trying no matter the hardships or challenges because everyone's there...",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE17",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE17.png"
-        },
-        {
-            "name": "Normal Camouflage",
-            "code": "BD/WE34-TE18",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Event",
-            "color": "BLUE",
-            "level": "1",
-            "cost": "0",
-            "power": "-",
-            "soul": 0,
-            "trigger": [],
-            "attributes": [
-                "-",
-                "-"
-            ],
-            "ability": [
-                "Choose 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the number of \"\"Pessimistic Girl\" Mashiro Kurata\" in your waiting room."
-            ],
-            "flavor_text": "Nanami: \"Okay, I'll give it a shot~\"",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE18",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE18.png"
-        },
-        {
-            "name": "Shine Once More",
-            "code": "BD/WE34-TE19",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Climax",
-            "color": "BLUE",
-            "level": "-",
-            "cost": "-",
-            "power": "-",
-            "soul": 0,
-            "trigger": [
-                "DRAW"
-            ],
-            "attributes": [
-                "-",
-                "-"
-            ],
-            "ability": [
-                "【CONT】 All of your characters get +1000 power and +1 soul.",
-                "(: When this card triggers, you may draw a card)"
-            ],
-            "flavor_text": "Mashiro: \"Until recently, I would've never dreamed of joining a band.\"",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE19",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE19.png"
-        },
-        {
-            "name": "Morfonica",
-            "code": "BD/WE34-TE20",
-            "rarity": "TD",
-            "expansion": "BanG Dream! Girls Band Party [Morfonica]",
-            "side": "W",
-            "type": "Climax",
-            "color": "BLUE",
-            "level": "-",
-            "cost": "-",
-            "power": "-",
-            "soul": 0,
-            "trigger": [
-                "SOUL",
-                "SOUL"
-            ],
-            "attributes": [
-                "-",
-                "-"
-            ],
-            "ability": [
-                "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with in its trigger icon in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
-            ],
-            "flavor_text": "-",
-            "set": "BD",
-            "release": "E34",
-            "sid": "TE20",
-            "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE20.png"
-        }
-    ]
+    {
+        "name": "\"Widening Horizon\" Nanami Hiromachi",
+        "code": "BD/WE34-TE01",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Really? That's a relief~...",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE01.png"
+    },
+    {
+        "name": "\"Trusted Class President\" Toko Kirigaya",
+        "code": "BD/WE34-TE02",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if all of your characters are 《Music》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Tsukushi: \"Fufu, of course!\"",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE02.png"
+    },
+    {
+        "name": "\"Normalcy Comes First\" Nanami Hiromachi",
+        "code": "BD/WE34-TE03",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【CONT】 You cannot play event cards or \"Backup\" from your hand."
+        ],
+        "flavor_text": "If I had to pick a word to describe myself, it would be, uhm... Normal! I'm just a regular high school student!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE03.png"
+    },
+    {
+        "name": "\"Popular Girl\" Toko Kirigaya",
+        "code": "BD/WE34-TE04",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "I'm the star of Tsukinomori, and don't you forget it!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE04.png"
+    },
+    {
+        "name": "\"Behold My Masterpiece!\" Nanami Hiromachi",
+        "code": "BD/WE34-TE05",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Choose 1 card in your hand, and put it into your stock."
+        ],
+        "flavor_text": "Toko: \"Maybe I'm just that charismatic.\"",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE05.png"
+    },
+    {
+        "name": "\"Special Announcement!\" Toko Kirigaya",
+        "code": "BD/WE34-TE06",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×1000."
+        ],
+        "flavor_text": "But you know, it's different when\nyou give a killer performance at a concert.\nIt's super fun for us, and the crowd gets totally fired up, too!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE06.png"
+    },
+    {
+        "name": "Behold My Masterpiece!",
+        "code": "BD/WE34-TE07",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)"
+        ],
+        "flavor_text": "I probably just have good taste!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE07.png"
+    },
+    {
+        "name": "\"Trusted Class President\" Tsukushi Futaba",
+        "code": "BD/WE34-TE08",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"Trusted Class President\" Toko Kirigaya\" and \"\"Trusted Class President\" Mashiro Kurata\" get +1000 power.",
+            "【AUTO】 Bond/\"\"Trusted Class President\" Toko Kirigaya\" \"\"Trusted Class President\" Mashiro Kurata\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Trusted Class President\" Toko Kirigaya\" or \"\"Trusted Class President\" Mashiro Kurata\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Fufu... I am the class president, after all!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE08.png"
+    },
+    {
+        "name": "\"Gaining Recognition\" Rui Yashio",
+        "code": "BD/WE34-TE09",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "If our goal is to introduce our band, I do not believe we should be making videos. Having people listen to our music would be far more effective.",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE09.png"
+    },
+    {
+        "name": "\"Fufu, Leave It to Me!\" Tsukushi Futaba",
+        "code": "BD/WE34-TE10",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Morfonica is still a new band, but I hope we'll be able to shine as brightly as Tsukinomori students should.",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE10.png"
+    },
+    {
+        "name": "\"Rejected Path\" Rui Yashio",
+        "code": "BD/WE34-TE11",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "... You are free to think whatever you wish.",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE11.png"
+    },
+    {
+        "name": "\"Full of Confidence\" Tsukushi Futaba",
+        "code": "BD/WE34-TE12",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if your hand has 4 or more cards, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Fufu, did you see how confident and leader-like I was?",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE12.png"
+    },
+    {
+        "name": "\"Pessimistic Girl\" Mashiro Kurata",
+        "code": "BD/WE34-TE13",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Shine Once More\" is in your climax area, and you have another 《Music》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "I'll do my best, so I look forward to your support...!",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE13.png"
+    },
+    {
+        "name": "\"Trusted Class President\" Mashiro Kurata",
+        "code": "BD/WE34-TE14",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Tsukushi: \"Darn it! I wasn't any help again!\"",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE14.png"
+    },
+    {
+        "name": "\"Forsaking Talent\" Rui Yashio",
+        "code": "BD/WE34-TE15",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Music》 characters among those cards ×3000."
+        ],
+        "flavor_text": "I have always aimed for first place, and I intend to keep getting first place.",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE15.png"
+    },
+    {
+        "name": "\"Forsaking Talent\" Mashiro Kurata",
+        "code": "BD/WE34-TE16",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards or \"Backup\" from your hand.\"",
+            "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Blue Sky Full of Stars\" Mashiro Kurata\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I can't imagine you ever getting a failing grade, Yashio-san. I heard you've always been ranked first in our grade ever since middle school...",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE16.png"
+    },
+    {
+        "name": "\"Blue Sky Full of Stars\" Mashiro Kurata",
+        "code": "BD/WE34-TE17",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Morfonica"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 3 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "But I can keep trying no matter the hardships or challenges because everyone's there...",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE17.png"
+    },
+    {
+        "name": "Normal Camouflage",
+        "code": "BD/WE34-TE18",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the number of \"\"Pessimistic Girl\" Mashiro Kurata\" in your waiting room."
+        ],
+        "flavor_text": "Nanami: \"Okay, I'll give it a shot~\"",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE18.png"
+    },
+    {
+        "name": "Shine Once More",
+        "code": "BD/WE34-TE19",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "Mashiro: \"Until recently, I would've never dreamed of joining a band.\"",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE19.png"
+    },
+    {
+        "name": "Morfonica",
+        "code": "BD/WE34-TE20",
+        "rarity": "TD",
+        "expansion": "BanG Dream! Girls Band Party [Morfonica]",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with in its trigger icon in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "E34",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE20.png"
+    }
 ]
