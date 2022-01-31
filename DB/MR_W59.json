@@ -729,7 +729,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
         ],
         "flavor_text": "Pass the ball to me, I'll score for sure!",
         "set": "MR",
@@ -759,7 +759,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "-… Their thoughts never quite coincide. But that's part of what makes their balance perfect. -",
         "set": "MR",
@@ -818,7 +818,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Um, Iroha!",
         "set": "MR",
@@ -1475,7 +1475,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -1533,7 +1533,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may put the top card of your deck into your stock)"
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
         ],
         "flavor_text": "-This photo is from a time when we were loved by someone...-",
         "set": "MR",
@@ -2085,7 +2085,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-Thank you for always coming here to see me-",
         "set": "MR",
@@ -2699,7 +2699,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -2728,7 +2728,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw 1 card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -2898,6 +2898,35 @@
         "release": "59",
         "sid": "E105",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_E105.png"
+    },
+    {
+        "name": "\"Rehearsal Continues\" Karin & Kyoko & Felicia",
+        "code": "MR/W59-PE02",
+        "rarity": "PR",
+        "expansion": "Magia Record: Puella Magi Madoka Magica Side Story",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Practicing lines with everyone was really refreshing... and fun!",
+        "set": "MR",
+        "release": "59",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_PE02.png"
     },
     {
         "name": "Kaede Akino",
@@ -3443,41 +3472,12 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "MR",
         "release": "59",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_TE20.png"
-    },
-    {
-        "name": "\"Rehearsal Continues\" Karin & Kyoko & Felicia",
-        "code": "MR/W59-PE02",
-        "rarity": "PR",
-        "expansion": "Magia Record: Puella Magi Madoka Magica Side Story",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "Practicing lines with everyone was really refreshing... and fun!",
-        "set": "MR",
-        "release": "59",
-        "sid": "PE02",
-        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W59_PE02.png"
     }
 ]

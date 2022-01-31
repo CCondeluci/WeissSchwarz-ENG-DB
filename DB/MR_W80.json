@@ -689,7 +689,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -747,7 +747,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
         ],
         "flavor_text": "That's why I crush Witches! All of them!",
         "set": "MR",
@@ -1308,7 +1308,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "To compensate me, you'll let me feed your body to the Witch, right?",
         "set": "MR",
@@ -1337,7 +1337,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may put the top card of your deck into your stock)"
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -1366,7 +1366,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "Tsukuyo: \"Isolate us from all noise!\"\nTsukasa: \"Disconnect us from all bonds!\"",
         "set": "MR",
@@ -2121,7 +2121,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -2738,7 +2738,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -2767,7 +2767,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Mifuyu: \"I can explain, but it'll take a long, long time.\"",
         "set": "MR",
@@ -2796,7 +2796,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "-",
         "set": "MR",
@@ -2939,6 +2939,35 @@
         "release": "80",
         "sid": "E105",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E105.png"
+    },
+    {
+        "name": "Promising Growth, Iroha",
+        "code": "MR/W80-PE01",
+        "rarity": "PR",
+        "expansion": "TV Anime \"Magia Record: Puella Magi Madoka Magica Side Story\"",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Cooking"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "If your wish has become twisted, I'll brush it aside. I can do that at least.",
+        "set": "MR",
+        "release": "80",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_PE01.png"
     },
     {
         "name": "Making Up, Kaede",
@@ -3235,7 +3264,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Kaede: \"Iroha, huh? Nice to meet you, Iroha.\"",
         "set": "MR",
@@ -3455,7 +3484,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Kyubey, please!",
         "set": "MR",
@@ -3491,34 +3520,5 @@
         "release": "80",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE20.png"
-    },
-    {
-        "name": "Promising Growth, Iroha",
-        "code": "MR/W80-PE01",
-        "rarity": "PR",
-        "expansion": "TV Anime \"Magia Record: Puella Magi Madoka Magica Side Story\"",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Cooking"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "If your wish has become twisted, I'll brush it aside. I can do that at least.",
-        "set": "MR",
-        "release": "80",
-        "sid": "PE01",
-        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_PE01.png"
     }
 ]

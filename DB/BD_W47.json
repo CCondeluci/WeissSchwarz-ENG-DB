@@ -1,5 +1,526 @@
 [
     {
+        "name": "Glitter*Green, Nanana Wanibe",
+        "code": "BD/W47-E001",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, if your level is 3 or higher, put up to one card from the top of your deck into your stock, and all of your characters get +500 power until end of turn.",
+            "【AUTO】 [(1)] This ability activates up to one time per turn. When your card is placed on the level area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one character with \"Yuri(ゆり)\" or \"Nanana(七菜)\" or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E001.png"
+    },
+    {
+        "name": "Glitter*Green, Hinako Nijikki",
+        "code": "BD/W47-E002",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Unexplained"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, if your level is 3 or higher, choose one of your characters, until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may draw a card.\"",
+            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, choose one of your green characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 [【REST】 two of your green characters] Choose a card on your level area and a card in your waiting room, and exchange them."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E002.png"
+    },
+    {
+        "name": "Glitter*Green, Rii Uzawa",
+        "code": "BD/W47-E003",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Puppet"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may put that character into your opponent's clock.\"",
+            "【AUTO】 This ability activates up to one time per turn. When a climax is put on your level area, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E003.png"
+    },
+    {
+        "name": "Glitter*Green, Yuri Ushigome",
+        "code": "BD/W47-E004",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When a card named \"Our Stage!\" is placed on your climax area, you may pay the cost. If you do, choose one of your other characters with “Nanana(七菜)” or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name and this card, until end of turn, those cards get +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may deal one damage to your opponent.\" (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E004.png"
+    },
+    {
+        "name": "Hinako Nijikki",
+        "code": "BD/W47-E005",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Unexplained"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room with \"Yuri(ゆり)\" or \"Nanana(七菜)\" or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name, and return it to your hand.",
+            "【AUTO】 Bond/\"Glitter*Green, Yuri Ushigome\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Glitter*Green, Yuri Ushigome\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "But I wanna squeeze you tighter!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E005.png"
+    },
+    {
+        "name": "Friend of Saya, Natsuki",
+        "code": "BD/W47-E006",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Under the Night Sky\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E006.png"
+    },
+    {
+        "name": "Gentle Stare, Yuri",
+        "code": "BD/W47-E007",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】 , choose one of your other green characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E007.png"
+    },
+    {
+        "name": "On the Stage, Rii",
+        "code": "BD/W47-E008",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Puppet"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E008.png"
+    },
+    {
+        "name": "Student Council President, Nanana",
+        "code": "BD/W47-E009",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", you may choose a card on your level area and a green card in your waiting room, and exchange them.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "I'll get you an application form.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E009.png"
+    },
+    {
+        "name": "Yuri Ushigome",
+        "code": "BD/W47-E010",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into his or her stock.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a green character in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Okay, here we go!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E010.png"
+    },
+    {
+        "name": "Senior of Kasumi and Gang, Hinako",
+        "code": "BD/W47-E011",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Unexplained"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your green characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E011.png"
+    },
+    {
+        "name": "Reliable Elder Sister, Yuri",
+        "code": "BD/W47-E012",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When a card named \"Moment Between Sisters\" is placed on your climax area, if this card is in your center stage, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Good evening.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E012.png"
+    },
+    {
+        "name": "Together with Debeko, Rii",
+        "code": "BD/W47-E013",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Puppet"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Rii's so bored…",
+        "set": "BD",
+        "release": "47",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E013.png"
+    },
+    {
+        "name": "On Keyboards, Nanana",
+        "code": "BD/W47-E014",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Recognize me now?",
+        "set": "BD",
+        "release": "47",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E014.png"
+    },
+    {
+        "name": "\"Club Show\" Yuri",
+        "code": "BD/W47-E015",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E015.png"
+    },
+    {
+        "name": "Rii Uzawa",
+        "code": "BD/W47-E016",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Puppet"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Sorry we're late!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E016.png"
+    },
+    {
+        "name": "Nanana Wanibe",
+        "code": "BD/W47-E017",
+        "rarity": "C",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of green characters you have.",
+            "【AUTO】 Encore [Put a green card from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】 )"
+        ],
+        "flavor_text": "If we just blunder through it,\nit won't feel like we accomplished anything. Where's the fun in that, right?",
+        "set": "BD",
+        "release": "47",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E017.png"
+    },
+    {
+        "name": "Our Stage!",
+        "code": "BD/W47-E018",
+        "rarity": "CR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E018.png"
+    },
+    {
+        "name": "Moment Between Sisters",
+        "code": "BD/W47-E019",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E019.png"
+    },
+    {
         "name": "Happy Christmas♪ Kasumi",
         "code": "BD/W47-E020",
         "rarity": "RR",
@@ -173,239 +694,6 @@
         "release": "47",
         "sid": "E025",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E025.png"
-    },
-    {
-        "name": "Tae Staring at the Stage",
-        "code": "BD/W47-E081",
-        "rarity": "RR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】 , if a card named \"Real Intentions\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, and up to one card named \"Hearing a Guitar for the First Time\", reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Someday I'd like to play here too, but I've still got a long way to go…",
-        "set": "BD",
-        "release": "47",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E081.png"
-    },
-    {
-        "name": "Arisa Ichigaya",
-        "code": "BD/W47-E082",
-        "rarity": "RR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "7500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +1500 power.",
-            "【AUTO】 [【REST】 one of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses a climax in your opponent's waiting room, return all cards in your opponent's waiting room except those cards into your opponent's deck, and your opponent shuffles his or her deck.",
-            "【AUTO】 【CXCOMBO】 [(1) Put a card named \"Heart Pounding Star\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose up to two of your 《Music》 characters, and those characters get the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\""
-        ],
-        "flavor_text": "I was hoping you'd forget about it.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E082.png"
-    },
-    {
-        "name": "Swimsuit Arisa",
-        "code": "BD/W47-E083",
-        "rarity": "RR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [(2) Put a card from your hand into your waiting room] During this card's battle, when the damage you received is not canceled, you may pay the cost. If you do, deal the same damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E083.png"
-    },
-    {
-        "name": "Tae Hanazono",
-        "code": "BD/W47-E084",
-        "rarity": "RR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【CONT】 Experience If the total level of the cards in your level is five or higher, this card gets +2500 power.",
-            "【AUTO】 【CXCOMBO】 When a card named \"Moved With Everyone\" is placed on your climax area, if this card is in your center stage, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "Po pi pa pa pi po pa～",
-        "set": "BD",
-        "release": "47",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E084.png"
-    },
-    {
-        "name": "Glitter*Green, Nanana Wanibe",
-        "code": "BD/W47-E001",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Student Council"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, if your level is 3 or higher, put up to one card from the top of your deck into your stock, and all of your characters get +500 power until end of turn.",
-            "【AUTO】 [(1)] This ability activates up to one time per turn. When your card is placed on the level area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one character with \"Yuri(ゆり)\" or \"Nanana(七菜)\" or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E001",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E001.png"
-    },
-    {
-        "name": "Glitter*Green, Hinako Nijikki",
-        "code": "BD/W47-E002",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Unexplained"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, if your level is 3 or higher, choose one of your characters, until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may draw a card.\"",
-            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, choose one of your green characters, and that character gets +2000 power until end of turn.",
-            "【ACT】 [【REST】 two of your green characters] Choose a card on your level area and a card in your waiting room, and exchange them."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E002",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E002.png"
-    },
-    {
-        "name": "Glitter*Green, Rii Uzawa",
-        "code": "BD/W47-E003",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Puppet"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
-            "【AUTO】 【CXCOMBO】 When a card named \"Our Stage!\" is placed on your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may put that character into your opponent's clock.\"",
-            "【AUTO】 This ability activates up to one time per turn. When a climax is put on your level area, this card gets +2500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E003",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E003.png"
-    },
-    {
-        "name": "Glitter*Green, Yuri Ushigome",
-        "code": "BD/W47-E004",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When a card named \"Our Stage!\" is placed on your climax area, you may pay the cost. If you do, choose one of your other characters with “Nanana(七菜)” or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name and this card, until end of turn, those cards get +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may deal one damage to your opponent.\" (This damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E004",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E004.png"
     },
     {
         "name": "Starrin'PARTY, Saya Yamabuki",
@@ -737,360 +1025,6 @@
         "release": "47",
         "sid": "E037",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E037.png"
-    },
-    {
-        "name": "Way Home, Arisa",
-        "code": "BD/W47-E085",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your climax phase, you may put the top card of your deck into your waiting room. If that card is a climax, all of your characters get +500 power until the end of your opponent's next turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Shut up! I'm not a loose woman like that, all right?!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E085.png"
-    },
-    {
-        "name": "A Scene in the Morning, Tae",
-        "code": "BD/W47-E086",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. This card gets +X power until end of turn. X is equal to 1000 multiplied by the number of characters with \"Kasumi(香澄)\" or \"Tae(たえ)\" or \"Rimi(りみ)\" or \"Saya(沙綾)\" or \"Arisa(有咲)\" in its card name revealed among those cards."
-        ],
-        "flavor_text": "Weirdo……",
-        "set": "BD",
-        "release": "47",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E086.png"
-    },
-    {
-        "name": "Sprin'PARTY, Tae Hanazono",
-        "code": "BD/W47-E087",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【CONT】 If there is a marker underneath this card, this card gets +4500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"Hearing a Guitar for the First Time\" in your waiting room, and put it face down underneath this card as a marker.",
-            "【AUTO】 When this card attacks, if this card is in the right position of your center stage, choose one of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Great expressions, everyone.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E087.png"
-    },
-    {
-        "name": "Bonsai Girl, Arisa",
-        "code": "BD/W47-E088",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】 , if a card named \"Arisa Selling Off Tonegawa\" is in your climax area, search your deck for up to one card named \"That Irritating Girl\", reveal it to your opponent, put it into your hand, shuffle your deck, and put up to one card from the top of your deck into your stock."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E088.png"
-    },
-    {
-        "name": "\"Club Show\" Tae",
-        "code": "BD/W47-E089",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Music》 characters."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E089.png"
-    },
-    {
-        "name": "Arisa Trying Not to Laugh",
-        "code": "BD/W47-E090",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 If there is a marker underneath this card, all of your other 《Music》 characters get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"That Irritating Girl\" in your waiting room, and put it face down underneath this card as a marker.",
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest on the bottom of your deck in any order."
-        ],
-        "flavor_text": "P-poo…",
-        "set": "BD",
-        "release": "47",
-        "sid": "E090",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E090.png"
-    },
-    {
-        "name": "Starrin'PARTY, Arisa Ichigaya",
-        "code": "BD/W47-E091",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 【CXCOMBO】 When a card named \"We Are Poppin'Party\" is placed on your climax area, if your level is 3 or higher, choose one of your other characters, 【STAND】 it, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "……Y-Yay.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E091",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E091.png"
-    },
-    {
-        "name": "Starrin'PARTY, Tae Hanazono",
-        "code": "BD/W47-E092",
-        "rarity": "R",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.",
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 At the beginning of your attack phase, if a card named \"We Are Poppin'Party\" is in your climax area and this card is in your center stage, put up to two cards from the top of your deck into your stock, and this card gets +3000 power until end of turn."
-        ],
-        "flavor_text": "Yay♪",
-        "set": "BD",
-        "release": "47",
-        "sid": "E092",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E092.png"
-    },
-    {
-        "name": "Hinako Nijikki",
-        "code": "BD/W47-E005",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Unexplained"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room with \"Yuri(ゆり)\" or \"Nanana(七菜)\" or \"Rii(リィ)\" or \"Hinako(ひなこ)\" in its card name, and return it to your hand.",
-            "【AUTO】 Bond/\"Glitter*Green, Yuri Ushigome\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Glitter*Green, Yuri Ushigome\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "But I wanna squeeze you tighter!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E005",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E005.png"
-    },
-    {
-        "name": "Friend of Saya, Natsuki",
-        "code": "BD/W47-E006",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Under the Night Sky\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E006",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E006.png"
-    },
-    {
-        "name": "Gentle Stare, Yuri",
-        "code": "BD/W47-E007",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】 , choose one of your other green characters, 【REST】 it, and move it to an open position of your back stage."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E007",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E007.png"
-    },
-    {
-        "name": "On the Stage, Rii",
-        "code": "BD/W47-E008",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Puppet"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E008.png"
-    },
-    {
-        "name": "Student Council President, Nanana",
-        "code": "BD/W47-E009",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Student Council"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", you may choose a card on your level area and a green card in your waiting room, and exchange them.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "I'll get you an application form.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E009.png"
     },
     {
         "name": "Suggestion, Rimi",
@@ -1475,632 +1409,6 @@
         "release": "47",
         "sid": "E051",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E051.png"
-    },
-    {
-        "name": "Something in the Warehouse",
-        "code": "BD/W47-E071",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. Choose a level X or lower character in your waiting room with 《Music》 or \"Asuka(明日香)\" in its card name, and return it to your hand. X is equal to the number of characters with 《Music》 or \"Asuka(明日香)\" in its card name revealed among those cards."
-        ],
-        "flavor_text": "Trash? That too?",
-        "set": "BD",
-        "release": "47",
-        "sid": "E071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E071.png"
-    },
-    {
-        "name": "Under the Night Sky",
-        "code": "BD/W47-E072",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
-            "Choose one of your characters, until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 [(1)] When this card's level 1 or higher battle opponent becomes 【REVERSE】 , you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E072.png"
-    },
-    {
-        "name": "Letter from Kasumi",
-        "code": "BD/W47-E073",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose up to one character in your waiting room with \"Rimi(りみ)\" in its card name, return it to your hand, choose a card in your hand, put it into your waiting room, choose one of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】 .\""
-        ],
-        "flavor_text": "I'm sorry.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E073.png"
-    },
-    {
-        "name": "Lunch Break, Tae",
-        "code": "BD/W47-E093",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】 ."
-        ],
-        "flavor_text": "♪～～",
-        "set": "BD",
-        "release": "47",
-        "sid": "E093",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E093.png"
-    },
-    {
-        "name": "Sprin'PARTY, Arisa Ichigaya",
-        "code": "BD/W47-E094",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "That was so crazy!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E094",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E094.png"
-    },
-    {
-        "name": "\"SPACE\" Owner, Shizen Tsuzuki",
-        "code": "BD/W47-E095",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose and perform one of the following effects. \"You may put the top two cards of your stock into your waiting room. If you do, choose a level 1 or lower character in your waiting room, and put it on any position of your stage.\" \"You may put the top card of your stock into your waiting room. If you do, choose a level 0 or lower character in your waiting room, and put it on any position of your stage.\""
-        ],
-        "flavor_text": "This isn't a rehearsal studio.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E095",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E095.png"
-    },
-    {
-        "name": "Full of Sparkles, Arisa",
-        "code": "BD/W47-E096",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have."
-        ],
-        "flavor_text": "♪",
-        "set": "BD",
-        "release": "47",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E096.png"
-    },
-    {
-        "name": "First Live, Arisa",
-        "code": "BD/W47-E097",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E097.png"
-    },
-    {
-        "name": "Part Time Job at SPACE, Tae",
-        "code": "BD/W47-E098",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When you use this card's \"Backup\", you may pay the cost. If you do, choose a card named \"Part Time Job at SPACE, Tae\" in your waiting room, and return it to your hand.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E098.png"
-    },
-    {
-        "name": "\"Club Show\" Arisa",
-        "code": "BD/W47-E099",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E099",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E099.png"
-    },
-    {
-        "name": "Tsundere, Arisa",
-        "code": "BD/W47-E100",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Just touch the thing and get out of here already.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E100",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E100.png"
-    },
-    {
-        "name": "Well-prepared, Tae",
-        "code": "BD/W47-E101",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "～♪",
-        "set": "BD",
-        "release": "47",
-        "sid": "E101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E101.png"
-    },
-    {
-        "name": "Explosive Summer♪ Tae & Arisa & Kasumi",
-        "code": "BD/W47-E102",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 , if the level of this card's battle opponent is higher than your opponent's level, you may put that character on the bottom of your opponent's deck."
-        ],
-        "flavor_text": "Let's go swimming together.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E102.png"
-    },
-    {
-        "name": "That Irritating Girl",
-        "code": "BD/W47-E114",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
-            "Choose up to one 《Music》 character in your waiting room, and put it into your stock.",
-            "Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand.\" (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "What is UP with that girl!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E114",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E114.png"
-    },
-    {
-        "name": "Hearing a Guitar for the First Time",
-        "code": "BD/W47-E115",
-        "rarity": "U",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
-            "Choose up to one card named \"Tae Hanazono\" in your hand, and put it on any position of your stage."
-        ],
-        "flavor_text": "Wah～!!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E115",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E115.png"
-    },
-    {
-        "name": "Yuri Ushigome",
-        "code": "BD/W47-E010",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into his or her stock.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a green character in your clock, return it to your hand, and put the top card of your deck into your clock."
-        ],
-        "flavor_text": "Okay, here we go!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E010.png"
-    },
-    {
-        "name": "Senior of Kasumi and Gang, Hinako",
-        "code": "BD/W47-E011",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Unexplained"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose one of your green characters, and that character gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E011.png"
-    },
-    {
-        "name": "Reliable Elder Sister, Yuri",
-        "code": "BD/W47-E012",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When a card named \"Moment Between Sisters\" is placed on your climax area, if this card is in your center stage, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may put the top card of your deck into your stock.\""
-        ],
-        "flavor_text": "Good evening.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E012.png"
-    },
-    {
-        "name": "Together with Debeko, Rii",
-        "code": "BD/W47-E013",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Puppet"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Rii's so bored…",
-        "set": "BD",
-        "release": "47",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E013.png"
-    },
-    {
-        "name": "On Keyboards, Nanana",
-        "code": "BD/W47-E014",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Student Council"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "Recognize me now?",
-        "set": "BD",
-        "release": "47",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E014.png"
-    },
-    {
-        "name": "\"Club Show\" Yuri",
-        "code": "BD/W47-E015",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E015.png"
-    },
-    {
-        "name": "Rii Uzawa",
-        "code": "BD/W47-E016",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Puppet"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "Sorry we're late!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E016.png"
-    },
-    {
-        "name": "Nanana Wanibe",
-        "code": "BD/W47-E017",
-        "rarity": "C",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Student Council"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When your card is placed on the level area, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of green characters you have.",
-            "【AUTO】 Encore [Put a green card from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】 )"
-        ],
-        "flavor_text": "If we just blunder through it,\nit won't feel like we accomplished anything. Where's the fun in that, right?",
-        "set": "BD",
-        "release": "47",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E017.png"
     },
     {
         "name": "\"Club Show\" Saya",
@@ -2618,6 +1926,905 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E070.png"
     },
     {
+        "name": "Something in the Warehouse",
+        "code": "BD/W47-E071",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. Choose a level X or lower character in your waiting room with 《Music》 or \"Asuka(明日香)\" in its card name, and return it to your hand. X is equal to the number of characters with 《Music》 or \"Asuka(明日香)\" in its card name revealed among those cards."
+        ],
+        "flavor_text": "Trash? That too?",
+        "set": "BD",
+        "release": "47",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E071.png"
+    },
+    {
+        "name": "Under the Night Sky",
+        "code": "BD/W47-E072",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+            "Choose one of your characters, until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 [(1)] When this card's level 1 or higher battle opponent becomes 【REVERSE】 , you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E072.png"
+    },
+    {
+        "name": "Letter from Kasumi",
+        "code": "BD/W47-E073",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose up to one character in your waiting room with \"Rimi(りみ)\" in its card name, return it to your hand, choose a card in your hand, put it into your waiting room, choose one of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】 .\""
+        ],
+        "flavor_text": "I'm sorry.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E073.png"
+    },
+    {
+        "name": "STAR BEAT!",
+        "code": "BD/W47-E074",
+        "rarity": "CR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E074.png"
+    },
+    {
+        "name": "Exchanged Promise",
+        "code": "BD/W47-E075",
+        "rarity": "CR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "…Promise!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E075.png"
+    },
+    {
+        "name": "Twinkle Twinkle Little Star",
+        "code": "BD/W47-E076",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E076.png"
+    },
+    {
+        "name": "A Big Step",
+        "code": "BD/W47-E077",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E077.png"
+    },
+    {
+        "name": "Aspired Stage",
+        "code": "BD/W47-E078",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E078.png"
+    },
+    {
+        "name": "Gentle Elder Sis",
+        "code": "BD/W47-E079",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Here I come!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E079.png"
+    },
+    {
+        "name": "We Are Poppin'Party",
+        "code": "BD/W47-E080",
+        "rarity": "CC",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E080.png"
+    },
+    {
+        "name": "Tae Staring at the Stage",
+        "code": "BD/W47-E081",
+        "rarity": "RR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】 , if a card named \"Real Intentions\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, and up to one card named \"Hearing a Guitar for the First Time\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Someday I'd like to play here too, but I've still got a long way to go…",
+        "set": "BD",
+        "release": "47",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E081.png"
+    },
+    {
+        "name": "Arisa Ichigaya",
+        "code": "BD/W47-E082",
+        "rarity": "RR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +1500 power.",
+            "【AUTO】 [【REST】 one of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses a climax in your opponent's waiting room, return all cards in your opponent's waiting room except those cards into your opponent's deck, and your opponent shuffles his or her deck.",
+            "【AUTO】 【CXCOMBO】 [(1) Put a card named \"Heart Pounding Star\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose up to two of your 《Music》 characters, and those characters get the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\""
+        ],
+        "flavor_text": "I was hoping you'd forget about it.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E082.png"
+    },
+    {
+        "name": "Swimsuit Arisa",
+        "code": "BD/W47-E083",
+        "rarity": "RR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put a card from your hand into your waiting room] During this card's battle, when the damage you received is not canceled, you may pay the cost. If you do, deal the same damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E083.png"
+    },
+    {
+        "name": "Tae Hanazono",
+        "code": "BD/W47-E084",
+        "rarity": "RR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is five or higher, this card gets +2500 power.",
+            "【AUTO】 【CXCOMBO】 When a card named \"Moved With Everyone\" is placed on your climax area, if this card is in your center stage, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "Po pi pa pa pi po pa～",
+        "set": "BD",
+        "release": "47",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E084.png"
+    },
+    {
+        "name": "Way Home, Arisa",
+        "code": "BD/W47-E085",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, you may put the top card of your deck into your waiting room. If that card is a climax, all of your characters get +500 power until the end of your opponent's next turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Shut up! I'm not a loose woman like that, all right?!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E085.png"
+    },
+    {
+        "name": "A Scene in the Morning, Tae",
+        "code": "BD/W47-E086",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. This card gets +X power until end of turn. X is equal to 1000 multiplied by the number of characters with \"Kasumi(香澄)\" or \"Tae(たえ)\" or \"Rimi(りみ)\" or \"Saya(沙綾)\" or \"Arisa(有咲)\" in its card name revealed among those cards."
+        ],
+        "flavor_text": "Weirdo……",
+        "set": "BD",
+        "release": "47",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E086.png"
+    },
+    {
+        "name": "Sprin'PARTY, Tae Hanazono",
+        "code": "BD/W47-E087",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +4500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"Hearing a Guitar for the First Time\" in your waiting room, and put it face down underneath this card as a marker.",
+            "【AUTO】 When this card attacks, if this card is in the right position of your center stage, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Great expressions, everyone.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E087.png"
+    },
+    {
+        "name": "Bonsai Girl, Arisa",
+        "code": "BD/W47-E088",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】 , if a card named \"Arisa Selling Off Tonegawa\" is in your climax area, search your deck for up to one card named \"That Irritating Girl\", reveal it to your opponent, put it into your hand, shuffle your deck, and put up to one card from the top of your deck into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E088.png"
+    },
+    {
+        "name": "\"Club Show\" Tae",
+        "code": "BD/W47-E089",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E089.png"
+    },
+    {
+        "name": "Arisa Trying Not to Laugh",
+        "code": "BD/W47-E090",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, all of your other 《Music》 characters get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"That Irritating Girl\" in your waiting room, and put it face down underneath this card as a marker.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest on the bottom of your deck in any order."
+        ],
+        "flavor_text": "P-poo…",
+        "set": "BD",
+        "release": "47",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E090.png"
+    },
+    {
+        "name": "Starrin'PARTY, Arisa Ichigaya",
+        "code": "BD/W47-E091",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 【CXCOMBO】 When a card named \"We Are Poppin'Party\" is placed on your climax area, if your level is 3 or higher, choose one of your other characters, 【STAND】 it, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "……Y-Yay.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E091.png"
+    },
+    {
+        "name": "Starrin'PARTY, Tae Hanazono",
+        "code": "BD/W47-E092",
+        "rarity": "R",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 At the beginning of your attack phase, if a card named \"We Are Poppin'Party\" is in your climax area and this card is in your center stage, put up to two cards from the top of your deck into your stock, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Yay♪",
+        "set": "BD",
+        "release": "47",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E092.png"
+    },
+    {
+        "name": "Lunch Break, Tae",
+        "code": "BD/W47-E093",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】 ."
+        ],
+        "flavor_text": "♪～～",
+        "set": "BD",
+        "release": "47",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E093.png"
+    },
+    {
+        "name": "Sprin'PARTY, Arisa Ichigaya",
+        "code": "BD/W47-E094",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "That was so crazy!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E094.png"
+    },
+    {
+        "name": "\"SPACE\" Owner, Shizen Tsuzuki",
+        "code": "BD/W47-E095",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose and perform one of the following effects. \"You may put the top two cards of your stock into your waiting room. If you do, choose a level 1 or lower character in your waiting room, and put it on any position of your stage.\" \"You may put the top card of your stock into your waiting room. If you do, choose a level 0 or lower character in your waiting room, and put it on any position of your stage.\""
+        ],
+        "flavor_text": "This isn't a rehearsal studio.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E095.png"
+    },
+    {
+        "name": "Full of Sparkles, Arisa",
+        "code": "BD/W47-E096",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have."
+        ],
+        "flavor_text": "♪",
+        "set": "BD",
+        "release": "47",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E096.png"
+    },
+    {
+        "name": "First Live, Arisa",
+        "code": "BD/W47-E097",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E097.png"
+    },
+    {
+        "name": "Part Time Job at SPACE, Tae",
+        "code": "BD/W47-E098",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When you use this card's \"Backup\", you may pay the cost. If you do, choose a card named \"Part Time Job at SPACE, Tae\" in your waiting room, and return it to your hand.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E098.png"
+    },
+    {
+        "name": "\"Club Show\" Arisa",
+        "code": "BD/W47-E099",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E099.png"
+    },
+    {
+        "name": "Tsundere, Arisa",
+        "code": "BD/W47-E100",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Just touch the thing and get out of here already.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E100.png"
+    },
+    {
+        "name": "Well-prepared, Tae",
+        "code": "BD/W47-E101",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "～♪",
+        "set": "BD",
+        "release": "47",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E101.png"
+    },
+    {
+        "name": "Explosive Summer♪ Tae & Arisa & Kasumi",
+        "code": "BD/W47-E102",
+        "rarity": "U",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 , if the level of this card's battle opponent is higher than your opponent's level, you may put that character on the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Let's go swimming together.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E102.png"
+    },
+    {
         "name": "Remedial Classroom, Tae",
         "code": "BD/W47-E103",
         "rarity": "C",
@@ -2912,91 +3119,59 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E113.png"
     },
     {
-        "name": "Our Stage!",
-        "code": "BD/W47-E018",
-        "rarity": "CR",
+        "name": "That Irritating Girl",
+        "code": "BD/W47-E114",
+        "rarity": "U",
         "expansion": "BanG Dream!",
         "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
         "power": "",
         "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】 : When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+            "If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+            "Choose up to one 《Music》 character in your waiting room, and put it into your stock.",
+            "Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand.\" (If it is not, return the revealed card to its original place)"
         ],
-        "flavor_text": "-",
+        "flavor_text": "What is UP with that girl!",
         "set": "BD",
         "release": "47",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E018.png"
+        "sid": "E114",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E114.png"
     },
     {
-        "name": "STAR BEAT!",
-        "code": "BD/W47-E074",
-        "rarity": "CR",
+        "name": "Hearing a Guitar for the First Time",
+        "code": "BD/W47-E115",
+        "rarity": "U",
         "expansion": "BanG Dream!",
         "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
         "power": "",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+            "Choose up to one card named \"Tae Hanazono\" in your hand, and put it on any position of your stage."
         ],
-        "flavor_text": "-",
+        "flavor_text": "Wah～!!",
         "set": "BD",
         "release": "47",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E074.png"
-    },
-    {
-        "name": "Exchanged Promise",
-        "code": "BD/W47-E075",
-        "rarity": "CR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "…Promise!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E075.png"
+        "sid": "E115",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E115.png"
     },
     {
         "name": "Heart Pounding Star",
@@ -3020,188 +3195,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】 : When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
         "release": "47",
         "sid": "E116",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E116.png"
-    },
-    {
-        "name": "Moment Between Sisters",
-        "code": "BD/W47-E019",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】 : When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E019.png"
-    },
-    {
-        "name": "Twinkle Twinkle Little Star",
-        "code": "BD/W47-E076",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E076.png"
-    },
-    {
-        "name": "A Big Step",
-        "code": "BD/W47-E077",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E077.png"
-    },
-    {
-        "name": "Aspired Stage",
-        "code": "BD/W47-E078",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】 : When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E078.png"
-    },
-    {
-        "name": "Gentle Elder Sis",
-        "code": "BD/W47-E079",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Here I come!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E079.png"
-    },
-    {
-        "name": "We Are Poppin'Party",
-        "code": "BD/W47-E080",
-        "rarity": "CC",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】 : When this card triggers, you may choose a character with a level equal to or less than your level+1 in your waiting room, and put it on any position of your stage as 【REST】 )"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E080.png"
     },
     {
         "name": "Moved With Everyone",
@@ -3225,7 +3225,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】 : When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -3313,13 +3313,284 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】 : When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
         "release": "47",
         "sid": "E120",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E120.png"
+    },
+    {
+        "name": "Petit Kasumi",
+        "code": "BD/W47-E121",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Music》 character in the middle position of the center stage gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Exciting, right?",
+        "set": "BD",
+        "release": "47",
+        "sid": "E121",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E121.png"
+    },
+    {
+        "name": "Petit Rimi",
+        "code": "BD/W47-E122",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Choco Cornet"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is four or higher, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 When your other 《Music》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I-I'll do what I can!",
+        "set": "BD",
+        "release": "47",
+        "sid": "E122",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E122.png"
+    },
+    {
+        "name": "Petit Saya",
+        "code": "BD/W47-E123",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Bread"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When you play an event, this card gets +2000 power until end of turn.",
+            "【ACT】 [【REST】 one of your 《Music》 characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Okay. Can we pull it off?",
+        "set": "BD",
+        "release": "47",
+        "sid": "E123",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E123.png"
+    },
+    {
+        "name": "Petit Arisa",
+        "code": "BD/W47-E124",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Bonsai"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card."
+        ],
+        "flavor_text": "Hello there.",
+        "set": "BD",
+        "release": "47",
+        "sid": "E124",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E124.png"
+    },
+    {
+        "name": "Petit Tae",
+        "code": "BD/W47-E125",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rabbit"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, this card gets +1500 power until the end of your opponent's next turn.",
+            "(The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Heh heh… Okay♪",
+        "set": "BD",
+        "release": "47",
+        "sid": "E125",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E125.png"
+    },
+    {
+        "name": "Nice to Meet You Poppin'Party",
+        "code": "BD/W47-PE01",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "",
+        "set": "BD",
+        "release": "47",
+        "sid": "PE01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p01.png"
+    },
+    {
+        "name": "Winter Uniform Poppin’Party",
+        "code": "BD/W47-PE02",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into the waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "",
+        "set": "BD",
+        "release": "47",
+        "sid": "PE02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p02.png"
+    },
+    {
+        "name": "Winter Uniform, Kasumi Toyama",
+        "code": "BD/W47-PE03",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【AUTO】When another of your ≪Music≫ character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "BD",
+        "release": "47",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-PE03.png"
+    },
+    {
+        "name": "Sparkling Kasumi",
+        "code": "BD/W47-PE17",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character or card named \"Something in the Warehouse\", put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Well? Does this look good on me♪",
+        "set": "BD",
+        "release": "47",
+        "sid": "PE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-PE17.png"
+    },
+    {
+        "name": "Session at the Beach",
+        "code": "BD/W47-PE22",
+        "rarity": "PR",
+        "expansion": "BanG Dream!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "47",
+        "sid": "PE22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p22.png"
     },
     {
         "name": "Daughter of a Bakery, Saya",
@@ -4040,283 +4311,12 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "",
         "set": "BD",
         "release": "47",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W47_TE20.png"
-    },
-    {
-        "name": "Petit Kasumi",
-        "code": "BD/W47-E121",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【CONT】 Your other 《Music》 character in the middle position of the center stage gets +1500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Exciting, right?",
-        "set": "BD",
-        "release": "47",
-        "sid": "E121",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E121.png"
-    },
-    {
-        "name": "Petit Rimi",
-        "code": "BD/W47-E122",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Choco Cornet"
-        ],
-        "ability": [
-            "【CONT】 Experience If the total level of the cards in your level is four or higher, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【AUTO】 When your other 《Music》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "I-I'll do what I can!",
-        "set": "BD",
-        "release": "47",
-        "sid": "E122",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E122.png"
-    },
-    {
-        "name": "Petit Saya",
-        "code": "BD/W47-E123",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Bread"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When you play an event, this card gets +2000 power until end of turn.",
-            "【ACT】 [【REST】 one of your 《Music》 characters] This card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Okay. Can we pull it off?",
-        "set": "BD",
-        "release": "47",
-        "sid": "E123",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E123.png"
-    },
-    {
-        "name": "Petit Arisa",
-        "code": "BD/W47-E124",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Bonsai"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card."
-        ],
-        "flavor_text": "Hello there.",
-        "set": "BD",
-        "release": "47",
-        "sid": "E124",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E124.png"
-    },
-    {
-        "name": "Petit Tae",
-        "code": "BD/W47-E125",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rabbit"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, this card gets +1500 power until the end of your opponent's next turn.",
-            "(The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "Heh heh… Okay♪",
-        "set": "BD",
-        "release": "47",
-        "sid": "E125",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-E125.png"
-    },
-    {
-        "name": "Winter Uniform, Kasumi Toyama",
-        "code": "BD/W47-PE03",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【AUTO】When another of your ≪Music≫ character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "",
-        "set": "BD",
-        "release": "47",
-        "sid": "PE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-PE03.png"
-    },
-    {
-        "name": "Sparkling Kasumi",
-        "code": "BD/W47-PE17",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character or card named \"Something in the Warehouse\", put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "Well? Does this look good on me♪",
-        "set": "BD",
-        "release": "47",
-        "sid": "PE17",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD-W47-PE17.png"
-    },
-    {
-        "name": "Nice to Meet You Poppin'Party",
-        "code": "BD/W47-PE01",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "",
-        "set": "BD",
-        "release": "47",
-        "sid": "PE01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p01.png"
-    },
-    {
-        "name": "Winter Uniform Poppin’Party",
-        "code": "BD/W47-PE02",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into the waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "",
-        "set": "BD",
-        "release": "47",
-        "sid": "PE02",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p02.png"
-    },
-    {
-        "name": "Session at the Beach",
-        "code": "BD/W47-PE22",
-        "rarity": "PR",
-        "expansion": "BanG Dream!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】 : When this card triggers, you may choose a character with a level equal to or less than your level+1 in your waiting room, and put it on any position of your stage as 【REST】 )"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "47",
-        "sid": "PE22",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p22.png"
     }
 ]

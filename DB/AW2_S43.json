@@ -56,178 +56,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E002.png"
     },
     {
-        "name": "Seaside Vacation, Chiyuri",
-        "code": "AW/S43-E030",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "8500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sports",
-            "Net"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 Accelerate [(1) Put the top card of your deck into your clock] When this card is frontal attacked, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\""
-        ],
-        "flavor_text": "What's up with those airs you're putting on?!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E030.png"
-    },
-    {
-        "name": "Full of Vigor, Chiyuri",
-        "code": "AW/S43-E031",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "Aha!! So, this is where you're hiding!!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E031.png"
-    },
-    {
-        "name": "A Scene in the Summer, Niko",
-        "code": "AW/S43-E054",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card attacks, if a card named \"Having Fun in the Summer\" is in your climax area, choose up to one character in your waiting room, return it to your hand, and until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
-        ],
-        "flavor_text": "Oops, I said something cute♪",
-        "set": "AW",
-        "release": "43",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E054.png"
-    },
-    {
-        "name": "Ardor Maiden",
-        "code": "AW/S43-E055",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "11000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Shrine Maiden"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place.)",
-            "【ACT】 [(1)] This card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Now is your chance!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E055.png"
-    },
-    {
-        "name": "《Strato Shooter》 Sky Raker",
-        "code": "AW/S43-E078",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
-            "【AUTO】 [(3) Put another 《Avatar》 or 《Net》 character from your stage into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Combination?\" is in your climax area, you may pay the cost. If you do, choose up to one card named \"Ardor Maiden\" in your hand, put it on any position of your stage, and that character gets +4000 power until end of turn."
-        ],
-        "flavor_text": "We'll clear a path for you.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E078.png"
-    },
-    {
-        "name": "Intent-filled Eyes, Fuko",
-        "code": "AW/S43-E079",
-        "rarity": "RR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
-            "【AUTO】 When you use \"Accelerate\", choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "We'll just have to take our chances.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E079.png"
-    },
-    {
         "name": "Vacillating Memories, Kuroyukihime",
         "code": "AW/S43-E003",
         "rarity": "R",
@@ -388,388 +216,6 @@
         "release": "43",
         "sid": "E008",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E008.png"
-    },
-    {
-        "name": "Quiet Love, Rin",
-        "code": "AW/S43-E032",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Bike"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
-        ],
-        "flavor_text": "……",
-        "set": "AW",
-        "release": "43",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E032.png"
-    },
-    {
-        "name": "《Watch Witch》 Lime Bell",
-        "code": "AW/S43-E033",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Time"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose a level 1 or lower 《Avatar》 or 《Net》 character in your clock, put it on any position of your stage, and put the top card of your deck into your clock."
-        ],
-        "flavor_text": "That's all, thanks guys.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E033.png"
-    },
-    {
-        "name": "Green Grande",
-        "code": "AW/S43-E034",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Shield"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
-            "【ACT】 [【REST】 two of your characters] This card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
-        ],
-        "flavor_text": "Parsec Wall.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E034.png"
-    },
-    {
-        "name": "One Who Never Looks Back, Ash Roller",
-        "code": "AW/S43-E035",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Bike"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put up to two cards from the top of your deck into your stock.\""
-        ],
-        "flavor_text": "Never look back to the past.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E035.png"
-    },
-    {
-        "name": "Driving, Scarlet Rain",
-        "code": "AW/S43-E056",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you have another card named \"Calming Sight, Niko & Pado\", all of your other 《Avatar》 or 《Net》 characters get +500 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "A public service announcement from SR Traffic Safety Association.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E056.png"
-    },
-    {
-        "name": "Summer Festival, Utai",
-        "code": "AW/S43-E057",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E057.png"
-    },
-    {
-        "name": "Calming Sight, Niko & Pado",
-        "code": "AW/S43-E058",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Maid"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
-            "【AUTO】 When you use \"Accelerate\", choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E058.png"
-    },
-    {
-        "name": "Winter's Day Niko",
-        "code": "AW/S43-E059",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If you have another card named \"Calming Sight, Niko & Pado\", this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1 level and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return in to your hand.\""
-        ],
-        "flavor_text": "Big brother♪",
-        "set": "AW",
-        "release": "43",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E059.png"
-    },
-    {
-        "name": "A Scene in the Summer, Pado",
-        "code": "AW/S43-E060",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "Maid"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level three or higher characters in front of this card get +2000 power.",
-            "【AUTO】 Bond/\"Competitive, Scarlet Rain\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Competitive, Scarlet Rain\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "K",
-        "set": "AW",
-        "release": "43",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E060.png"
-    },
-    {
-        "name": "Competitive, Scarlet Rain",
-        "code": "AW/S43-E061",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "8500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +X power. X is equal to 1000 multiplied by the level of the character facing this card.",
-            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, deal X damage to your opponent. X is equal to that characters' level. (This damage may be canceled. The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "We better hustle, too.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E061.png"
-    },
-    {
-        "name": "Girl Who Aimed for the Skies, Fuko",
-        "code": "AW/S43-E080",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.\""
-        ],
-        "flavor_text": "But before long the desire to soar even higher had completely consumed me.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E080.png"
-    },
-    {
-        "name": "Akira Himi",
-        "code": "AW/S43-E081",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters."
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E081.png"
-    },
-    {
-        "name": "Summer Festival, Fuko",
-        "code": "AW/S43-E082",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Summer Night's Slumber\" is in your climax area, and you have another 《Avatar》 or 《Net》 character, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E082.png"
-    },
-    {
-        "name": "Traversing Through the Black Cloud, Sky Raker",
-        "code": "AW/S43-E083",
-        "rarity": "R",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, if you have another card named \"Intent-filled Eyes, Fuko\", this card gets +2000 power.",
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets the following ability until end of turn. \"【CONT】 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\" (The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "Hurry, Rain!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E083.png"
     },
     {
         "name": "Looking Flushed After a Bath, Kuroyukihime",
@@ -995,552 +441,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E016.png"
     },
     {
-        "name": "3D Icon",
-        "code": "AW/S43-E025",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "3",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose up to one level 3 or lower character in your opponent's center stage, return it to your opponent's hand, and deal X damage to your opponent. X is equal to that character's soul. (This damage may be canceled)"
-        ],
-        "flavor_text": "What's taking you so long?!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E025.png"
-    },
-    {
-        "name": "Humming, Lime Bell",
-        "code": "AW/S43-E036",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Time"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
-            "【AUTO】 When you use \"Accelerate\", choose one of your characters, that character gets +500 power until end of turn, and reveal the top card of your deck. If that card is level 0 or lower, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "Uwahhaー♪",
-        "set": "AW",
-        "release": "43",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E036.png"
-    },
-    {
-        "name": "Cat-like Behavior, Chiyuri",
-        "code": "AW/S43-E037",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Special Exception for a Childhood Friend\" is in your climax area, choose up to one 《Avatar》 or 《Net》 character in your waiting room, put it into your stock, choose one of your characters, and that character gets +1500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "That's pretty bold of you.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E037.png"
-    },
-    {
-        "name": "Traversing Through the Black Cloud, Lime Bell",
-        "code": "AW/S43-E038",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Time"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Famous 《Healer》 Skill\" in your waiting room, and return it to your hand.",
-            "【AUTO】 When a card named \"Citron Call\" is placed on your climax area, choose up to two of your characters, and those characters get +1500 power until end of turn."
-        ],
-        "flavor_text": "You could've told us that first, Grandy…",
-        "set": "AW",
-        "release": "43",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E038.png"
-    },
-    {
-        "name": "Nyx & Risa",
-        "code": "AW/S43-E039",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Enemy",
-            "Net"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"White Duel Avatar\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"White Duel Avatar\" in your waiting room, and return it to your hand.)",
-            "【ACT】 [(1) Put a card named \"White Duel Avatar\" and this card from the stage into your memory] Choose up to one card named \"Goddess of Night, Nyx\" in your hand, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Nyx: \"Don't wake us up.\"",
-        "set": "AW",
-        "release": "43",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E039.png"
-    },
-    {
-        "name": "Goddess of Night, Nyx",
-        "code": "AW/S43-E040",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "3",
-        "power": "12000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Enemy",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top seven cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of cards named \"Nox Core\" among those cards. (This damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E040.png"
-    },
-    {
-        "name": "Famous 《Healer》 Skill",
-        "code": "AW/S43-E049",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. During this card's battle, when the damage you received is not canceled, choose up to X cards in your waiting room, and put them into your memory. At the beginning of the encore step, put all the cards that were put in your memory by this effect into your waiting room, and put up to X cards from the top of your clock into your waiting room. X is equal to the damage received.\""
-        ],
-        "flavor_text": "Here we go nowー",
-        "set": "AW",
-        "release": "43",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E049.png"
-    },
-    {
-        "name": "Battle at the Jingu, Ardor Maiden",
-        "code": "AW/S43-E062",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Shrine Maiden"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Flame Torrents\" is placed on your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Fu!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E062.png"
-    },
-    {
-        "name": "Executing the Plan, Blood Leopard",
-        "code": "AW/S43-E063",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of characters on your opponent's center stage is two or less, choose one of your other characters, 【REST】 that character, and move it to an open position of your back stage."
-        ],
-        "flavor_text": "I have no time to explain.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E063.png"
-    },
-    {
-        "name": "《Bloody Kitty》 Blood Leopard",
-        "code": "AW/S43-E064",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Shape Change.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E064.png"
-    },
-    {
-        "name": "Matsunoki Elementary School, Utai",
-        "code": "AW/S43-E065",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have."
-        ],
-        "flavor_text": "UI > MY BB ICON IS ACTING WEIRD.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E065.png"
-    },
-    {
-        "name": "Cool Vibe, Pado",
-        "code": "AW/S43-E066",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "Maid"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of cards in your stock is three or less, you may put that character on the top of your opponent's deck."
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E066.png"
-    },
-    {
-        "name": "Armor Up Command, Scarlet Rain",
-        "code": "AW/S43-E067",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Heat Blast Saturation\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Come! Invincible!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E067.png"
-    },
-    {
-        "name": "《Foothold》",
-        "code": "AW/S43-E073",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "3",
-        "cost": "3",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal five damage to your opponent.\" (This damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E073.png"
-    },
-    {
-        "name": "Blue Knight",
-        "code": "AW/S43-E084",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, until end of turn, this card gets +4500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\""
-        ],
-        "flavor_text": "You should thank Grande.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E084.png"
-    },
-    {
-        "name": "《Aquamatic》 Aqua Current",
-        "code": "AW/S43-E085",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Water"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.",
-            "【AUTO】 When a climax is put on your opponent's climax area, you may put this card into your stock."
-        ],
-        "flavor_text": "Maelstrom.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E085.png"
-    },
-    {
-        "name": "Changing Clothes, Fuko",
-        "code": "AW/S43-E086",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
-        ],
-        "flavor_text": "That's kind of you.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E086.png"
-    },
-    {
-        "name": "《Nega Nebulas》 Submaster, Fuko",
-        "code": "AW/S43-E087",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【ACT】 [(1) Put a climax from your hand into your waiting room] Look at the top card of your deck, put it on the top or the bottom of your deck, and draw one card."
-        ],
-        "flavor_text": "And that black tornado, there's no effect like that\nin a Weathered Stage.And that black tornado, there's no effect like that\nin a Weathered Stage.And that black tornado, there's no effect like that\nin a Weathered Stage.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E087.png"
-    },
-    {
-        "name": "Melee Combat Form, Aqua Current",
-        "code": "AW/S43-E088",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Water"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Keen!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E088.png"
-    },
-    {
-        "name": "Marker of Mortification",
-        "code": "AW/S43-E096",
-        "rarity": "U",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 【STAND】 《Avatar》 or 《Net》 characters, and 【REST】 it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "At this rate, Taku will end up in Infinite EK.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E096.png"
-    },
-    {
         "name": "Acrimonious Advice, Metatron",
         "code": "AW/S43-E017",
         "rarity": "C",
@@ -1757,6 +657,32 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E024.png"
     },
     {
+        "name": "3D Icon",
+        "code": "AW/S43-E025",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "3",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to one level 3 or lower character in your opponent's center stage, return it to your opponent's hand, and deal X damage to your opponent. X is equal to that character's soul. (This damage may be canceled)"
+        ],
+        "flavor_text": "What's taking you so long?!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E025.png"
+    },
+    {
         "name": "Incident at the Summer Festival",
         "code": "AW/S43-E026",
         "rarity": "C",
@@ -1781,6 +707,402 @@
         "release": "43",
         "sid": "E026",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E026.png"
+    },
+    {
+        "name": "Nega Nebulas",
+        "code": "AW/S43-E027",
+        "rarity": "CR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E027.png"
+    },
+    {
+        "name": "Dual Flight",
+        "code": "AW/S43-E028",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Silver Crow: \"Laser Lance!\"\nBlack Lotus: \"Vorpal Strike!\"",
+        "set": "AW",
+        "release": "43",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E028.png"
+    },
+    {
+        "name": "Vorpal Strike",
+        "code": "AW/S43-E029",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Vorpal Strike!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E029.png"
+    },
+    {
+        "name": "Seaside Vacation, Chiyuri",
+        "code": "AW/S43-E030",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sports",
+            "Net"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 Accelerate [(1) Put the top card of your deck into your clock] When this card is frontal attacked, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\""
+        ],
+        "flavor_text": "What's up with those airs you're putting on?!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E030.png"
+    },
+    {
+        "name": "Full of Vigor, Chiyuri",
+        "code": "AW/S43-E031",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Aha!! So, this is where you're hiding!!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E031.png"
+    },
+    {
+        "name": "Quiet Love, Rin",
+        "code": "AW/S43-E032",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Bike"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
+        ],
+        "flavor_text": "……",
+        "set": "AW",
+        "release": "43",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E032.png"
+    },
+    {
+        "name": "《Watch Witch》 Lime Bell",
+        "code": "AW/S43-E033",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Time"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose a level 1 or lower 《Avatar》 or 《Net》 character in your clock, put it on any position of your stage, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "That's all, thanks guys.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E033.png"
+    },
+    {
+        "name": "Green Grande",
+        "code": "AW/S43-E034",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Shield"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
+            "【ACT】 [【REST】 two of your characters] This card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Parsec Wall.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E034.png"
+    },
+    {
+        "name": "One Who Never Looks Back, Ash Roller",
+        "code": "AW/S43-E035",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Bike"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put up to two cards from the top of your deck into your stock.\""
+        ],
+        "flavor_text": "Never look back to the past.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E035.png"
+    },
+    {
+        "name": "Humming, Lime Bell",
+        "code": "AW/S43-E036",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Time"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 When you use \"Accelerate\", choose one of your characters, that character gets +500 power until end of turn, and reveal the top card of your deck. If that card is level 0 or lower, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Uwahhaー♪",
+        "set": "AW",
+        "release": "43",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E036.png"
+    },
+    {
+        "name": "Cat-like Behavior, Chiyuri",
+        "code": "AW/S43-E037",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Special Exception for a Childhood Friend\" is in your climax area, choose up to one 《Avatar》 or 《Net》 character in your waiting room, put it into your stock, choose one of your characters, and that character gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "That's pretty bold of you.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E037.png"
+    },
+    {
+        "name": "Traversing Through the Black Cloud, Lime Bell",
+        "code": "AW/S43-E038",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Time"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Famous 《Healer》 Skill\" in your waiting room, and return it to your hand.",
+            "【AUTO】 When a card named \"Citron Call\" is placed on your climax area, choose up to two of your characters, and those characters get +1500 power until end of turn."
+        ],
+        "flavor_text": "You could've told us that first, Grandy…",
+        "set": "AW",
+        "release": "43",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E038.png"
+    },
+    {
+        "name": "Nyx & Risa",
+        "code": "AW/S43-E039",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Enemy",
+            "Net"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"White Duel Avatar\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"White Duel Avatar\" in your waiting room, and return it to your hand.)",
+            "【ACT】 [(1) Put a card named \"White Duel Avatar\" and this card from the stage into your memory] Choose up to one card named \"Goddess of Night, Nyx\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Nyx: \"Don't wake us up.\"",
+        "set": "AW",
+        "release": "43",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E039.png"
+    },
+    {
+        "name": "Goddess of Night, Nyx",
+        "code": "AW/S43-E040",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "3",
+        "power": "12000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Enemy",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top seven cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of cards named \"Nox Core\" among those cards. (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E040.png"
     },
     {
         "name": "Hometown Is Shibuya, Ash Roller",
@@ -2000,6 +1322,32 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E048.png"
     },
     {
+        "name": "Famous 《Healer》 Skill",
+        "code": "AW/S43-E049",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. During this card's battle, when the damage you received is not canceled, choose up to X cards in your waiting room, and put them into your memory. At the beginning of the encore step, put all the cards that were put in your memory by this effect into your waiting room, and put up to X cards from the top of your clock into your waiting room. X is equal to the damage received.\""
+        ],
+        "flavor_text": "Here we go nowー",
+        "set": "AW",
+        "release": "43",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E049.png"
+    },
+    {
         "name": "Return to Reality",
         "code": "AW/S43-E050",
         "rarity": "C",
@@ -2025,6 +1373,481 @@
         "release": "43",
         "sid": "E050",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E050.png"
+    },
+    {
+        "name": "Special Exception for a Childhood Friend",
+        "code": "AW/S43-E051",
+        "rarity": "CR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "\"Aging\" is gonna become an obsolete word soon, y'know. Well, that's what the news has been saying recently anyway.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E051.png"
+    },
+    {
+        "name": "Citron Call",
+        "code": "AW/S43-E052",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E052.png"
+    },
+    {
+        "name": "Older Brother's Punishment",
+        "code": "AW/S43-E053",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "You know how my younger sister feels, and yet you flirt with Lotus.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E053.png"
+    },
+    {
+        "name": "A Scene in the Summer, Niko",
+        "code": "AW/S43-E054",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"Having Fun in the Summer\" is in your climax area, choose up to one character in your waiting room, return it to your hand, and until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Oops, I said something cute♪",
+        "set": "AW",
+        "release": "43",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E054.png"
+    },
+    {
+        "name": "Ardor Maiden",
+        "code": "AW/S43-E055",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place.)",
+            "【ACT】 [(1)] This card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Now is your chance!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E055.png"
+    },
+    {
+        "name": "Driving, Scarlet Rain",
+        "code": "AW/S43-E056",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another card named \"Calming Sight, Niko & Pado\", all of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "A public service announcement from SR Traffic Safety Association.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E056.png"
+    },
+    {
+        "name": "Summer Festival, Utai",
+        "code": "AW/S43-E057",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E057.png"
+    },
+    {
+        "name": "Calming Sight, Niko & Pado",
+        "code": "AW/S43-E058",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 When you use \"Accelerate\", choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E058.png"
+    },
+    {
+        "name": "Winter's Day Niko",
+        "code": "AW/S43-E059",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another card named \"Calming Sight, Niko & Pado\", this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1 level and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return in to your hand.\""
+        ],
+        "flavor_text": "Big brother♪",
+        "set": "AW",
+        "release": "43",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E059.png"
+    },
+    {
+        "name": "A Scene in the Summer, Pado",
+        "code": "AW/S43-E060",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level three or higher characters in front of this card get +2000 power.",
+            "【AUTO】 Bond/\"Competitive, Scarlet Rain\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Competitive, Scarlet Rain\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "K",
+        "set": "AW",
+        "release": "43",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E060.png"
+    },
+    {
+        "name": "Competitive, Scarlet Rain",
+        "code": "AW/S43-E061",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +X power. X is equal to 1000 multiplied by the level of the character facing this card.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, deal X damage to your opponent. X is equal to that characters' level. (This damage may be canceled. The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "We better hustle, too.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E061.png"
+    },
+    {
+        "name": "Battle at the Jingu, Ardor Maiden",
+        "code": "AW/S43-E062",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Flame Torrents\" is placed on your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Fu!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E062.png"
+    },
+    {
+        "name": "Executing the Plan, Blood Leopard",
+        "code": "AW/S43-E063",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of characters on your opponent's center stage is two or less, choose one of your other characters, 【REST】 that character, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "I have no time to explain.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E063.png"
+    },
+    {
+        "name": "《Bloody Kitty》 Blood Leopard",
+        "code": "AW/S43-E064",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Shape Change.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E064.png"
+    },
+    {
+        "name": "Matsunoki Elementary School, Utai",
+        "code": "AW/S43-E065",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have."
+        ],
+        "flavor_text": "UI > MY BB ICON IS ACTING WEIRD.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E065.png"
+    },
+    {
+        "name": "Cool Vibe, Pado",
+        "code": "AW/S43-E066",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +2000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of cards in your stock is three or less, you may put that character on the top of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E066.png"
+    },
+    {
+        "name": "Armor Up Command, Scarlet Rain",
+        "code": "AW/S43-E067",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Heat Blast Saturation\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Come! Invincible!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E067.png"
     },
     {
         "name": "Enforced Logout, Niko",
@@ -2164,6 +1987,32 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E072.png"
     },
     {
+        "name": "《Foothold》",
+        "code": "AW/S43-E073",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal five damage to your opponent.\" (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E073.png"
+    },
+    {
         "name": "Dangerous Driving",
         "code": "AW/S43-E074",
         "rarity": "C",
@@ -2189,6 +2038,394 @@
         "release": "43",
         "sid": "E074",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E074.png"
+    },
+    {
+        "name": "Having Fun in the Summer",
+        "code": "AW/S43-E075",
+        "rarity": "CR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E075.png"
+    },
+    {
+        "name": "Heat Blast Saturation",
+        "code": "AW/S43-E076",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Take this!!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E076.png"
+    },
+    {
+        "name": "Flame Torrents",
+        "code": "AW/S43-E077",
+        "rarity": "CC",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Flame Torrents!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E077.png"
+    },
+    {
+        "name": "《Strato Shooter》 Sky Raker",
+        "code": "AW/S43-E078",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 [(3) Put another 《Avatar》 or 《Net》 character from your stage into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Combination?\" is in your climax area, you may pay the cost. If you do, choose up to one card named \"Ardor Maiden\" in your hand, put it on any position of your stage, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "We'll clear a path for you.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E078.png"
+    },
+    {
+        "name": "Intent-filled Eyes, Fuko",
+        "code": "AW/S43-E079",
+        "rarity": "RR",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 When you use \"Accelerate\", choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "We'll just have to take our chances.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E079.png"
+    },
+    {
+        "name": "Girl Who Aimed for the Skies, Fuko",
+        "code": "AW/S43-E080",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "But before long the desire to soar even higher had completely consumed me.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E080.png"
+    },
+    {
+        "name": "Akira Himi",
+        "code": "AW/S43-E081",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E081.png"
+    },
+    {
+        "name": "Summer Festival, Fuko",
+        "code": "AW/S43-E082",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Summer Night's Slumber\" is in your climax area, and you have another 《Avatar》 or 《Net》 character, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AW",
+        "release": "43",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E082.png"
+    },
+    {
+        "name": "Traversing Through the Black Cloud, Sky Raker",
+        "code": "AW/S43-E083",
+        "rarity": "R",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if you have another card named \"Intent-filled Eyes, Fuko\", this card gets +2000 power.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets the following ability until end of turn. \"【CONT】 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\" (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Hurry, Rain!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E083.png"
+    },
+    {
+        "name": "Blue Knight",
+        "code": "AW/S43-E084",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, until end of turn, this card gets +4500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "You should thank Grande.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E084.png"
+    },
+    {
+        "name": "《Aquamatic》 Aqua Current",
+        "code": "AW/S43-E085",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Water"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.",
+            "【AUTO】 When a climax is put on your opponent's climax area, you may put this card into your stock."
+        ],
+        "flavor_text": "Maelstrom.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E085.png"
+    },
+    {
+        "name": "Changing Clothes, Fuko",
+        "code": "AW/S43-E086",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
+        ],
+        "flavor_text": "That's kind of you.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E086.png"
+    },
+    {
+        "name": "《Nega Nebulas》 Submaster, Fuko",
+        "code": "AW/S43-E087",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【ACT】 [(1) Put a climax from your hand into your waiting room] Look at the top card of your deck, put it on the top or the bottom of your deck, and draw one card."
+        ],
+        "flavor_text": "And that black tornado, there's no effect like that\nin a Weathered Stage.And that black tornado, there's no effect like that\nin a Weathered Stage.And that black tornado, there's no effect like that\nin a Weathered Stage.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E087.png"
+    },
+    {
+        "name": "Melee Combat Form, Aqua Current",
+        "code": "AW/S43-E088",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Water"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Keen!",
+        "set": "AW",
+        "release": "43",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E088.png"
     },
     {
         "name": "Summer Festival, Akira",
@@ -2380,6 +2617,32 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E095.png"
     },
     {
+        "name": "Marker of Mortification",
+        "code": "AW/S43-E096",
+        "rarity": "U",
+        "expansion": "Accel・World -Infinite Burst-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 《Avatar》 or 《Net》 characters, and 【REST】 it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "At this rate, Taku will end up in Infinite EK.",
+        "set": "AW",
+        "release": "43",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E096.png"
+    },
+    {
         "name": "Gale Thruster",
         "code": "AW/S43-E097",
         "rarity": "C",
@@ -2406,94 +2669,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E097.png"
     },
     {
-        "name": "Nega Nebulas",
-        "code": "AW/S43-E027",
-        "rarity": "CR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E027.png"
-    },
-    {
-        "name": "Special Exception for a Childhood Friend",
-        "code": "AW/S43-E051",
-        "rarity": "CR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "\"Aging\" is gonna become an obsolete word soon, y'know. Well, that's what the news has been saying recently anyway.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E051.png"
-    },
-    {
-        "name": "Having Fun in the Summer",
-        "code": "AW/S43-E075",
-        "rarity": "CR",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E075.png"
-    },
-    {
         "name": "Summer Night's Slumber",
         "code": "AW/S43-E098",
         "rarity": "CR",
@@ -2515,188 +2690,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "AW",
         "release": "43",
         "sid": "E098",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E098.png"
-    },
-    {
-        "name": "Dual Flight",
-        "code": "AW/S43-E028",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Silver Crow: \"Laser Lance!\"\nBlack Lotus: \"Vorpal Strike!\"",
-        "set": "AW",
-        "release": "43",
-        "sid": "E028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E028.png"
-    },
-    {
-        "name": "Vorpal Strike",
-        "code": "AW/S43-E029",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
-        ],
-        "flavor_text": "Vorpal Strike!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E029.png"
-    },
-    {
-        "name": "Citron Call",
-        "code": "AW/S43-E052",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "-",
-        "set": "AW",
-        "release": "43",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E052.png"
-    },
-    {
-        "name": "Older Brother's Punishment",
-        "code": "AW/S43-E053",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "You know how my younger sister feels, and yet you flirt with Lotus.",
-        "set": "AW",
-        "release": "43",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E053.png"
-    },
-    {
-        "name": "Heat Blast Saturation",
-        "code": "AW/S43-E076",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Take this!!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E076.png"
-    },
-    {
-        "name": "Flame Torrents",
-        "code": "AW/S43-E077",
-        "rarity": "CC",
-        "expansion": "Accel・World -Infinite Burst-",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Flame Torrents!",
-        "set": "AW",
-        "release": "43",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AW_S43_E077.png"
     },
     {
         "name": "Combination?",
@@ -2719,7 +2719,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Ardor Maiden: \"Ahhhhhhhhh!\"",
         "set": "AW",

@@ -140,287 +140,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E005_RR.jpg"
     },
     {
-        "name": "Kanako Mimura",
-        "code": "IMC/W41-E041",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sweets"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "We'll do our best for \"CANDY ISLAND\"!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E041_RR.jpg"
-    },
-    {
-        "name": "Uzuki Shimamura",
-        "code": "IMC/W41-E042",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those card, 【REST】 this card.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
-        ],
-        "flavor_text": "Performing in a concert with everyone like this… It's like a dream!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E042_RR.jpg"
-    },
-    {
-        "name": "Anzu Futaba",
-        "code": "IMC/W41-E043",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Candy"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your deck is five or less, this card gets -1 level while in your hand.",
-            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Also, we're retiring!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E043_RR.jpg"
-    },
-    {
-        "name": "Miku Maekawa",
-        "code": "IMC/W41-E044",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Cat Character"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Our Lyrics, Miku\", choose up to one card named \"ΦωΦver!!\" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.",
-            "【AUTO】 [(1)] When this card attacks, if a card named \"ΦωΦver!!\" is in your climax area, you may pay the cost. If you do, put the top two cards of your deck into your waiting room. If there is a red card among those cards, deal one damage to your opponent. If there is a blue card among those cards, until the end of your opponent's next turn, this card gets +2000 power and the following ability. \"【CONT】 The character facing this card gets -1 soul.\" (This damage may be canceled)"
-        ],
-        "flavor_text": "I'll work hard like a cat,\nso please support me, nyan?",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E044_RR.jpg"
-    },
-    {
-        "name": "Chieri Ogata",
-        "code": "IMC/W41-E045",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Clover"
-        ],
-        "ability": [
-            "【CONT】 If the number of other red characters you have is three or more, this card gets +1000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place)",
-            "【AUTO】 When a card named \"Happy×2 Days\" is placed on your climax area, if this card is in your center stage, choose up to two of your red characters, until end of turn, those characters get +4000 power and the following ability. \"【CONT】 This card cannot become 【REVERSE】 from your opponent's character's 【AUTO】 effects.\""
-        ],
-        "flavor_text": "I don't have confidence in my smile… but you two gave me courage, so I want to do it together!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E045_RR.jpg"
-    },
-    {
-        "name": "Riina Tada",
-        "code": "IMC/W41-E077",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rock"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "If you think it's rock, then it is!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E077_RR.jpg"
-    },
-    {
-        "name": "Rin Shibuya",
-        "code": "IMC/W41-E078",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "But… it's not a dream.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E078_RR.jpg"
-    },
-    {
-        "name": "Minami Nitta",
-        "code": "IMC/W41-E079",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Everyone's Leader\" is in your climax area, look at up to four cards from the top of your deck, choose up to one 《Music》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose one of your characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "All right, everyone.\nLet's pull out all the stops!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E079_RR.jpg"
-    },
-    {
-        "name": "Ranko Kanzaki",
-        "code": "IMC/W41-E080",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Darkness"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card attacks, if a card named \"-LEGNE- Opposing Blade, Melody of Light\" is in your climax area, put the top five cards of your deck into your waiting room, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the number of climax among those cards. (This damage may be canceled)"
-        ],
-        "flavor_text": "As my soul takes me!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E080_RR.jpg"
-    },
-    {
-        "name": "Anastasia",
-        "code": "IMC/W41-E081",
-        "rarity": "RR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【CONT】 If the number of other blue characters you have is three or more, this card gets +1000 power.",
-            "【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card named \"My First Star, Minami\" in your waiting room, and put it on any position of your stage."
-        ],
-        "flavor_text": "Rukopozhatiye… Let us shake hands.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E081_RR.jpg"
-    },
-    {
         "name": "Team KBYD, Yuki",
         "code": "IMC/W41-E006",
         "rarity": "R",
@@ -613,416 +332,6 @@
         "release": "41",
         "sid": "E012",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E012_R.jpg"
-    },
-    {
-        "name": "Sae Kobayakawa",
-        "code": "IMC/W41-E046",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "How girlish.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E046_R.jpg"
-    },
-    {
-        "name": "Marketing Mode, Anzu",
-        "code": "IMC/W41-E047",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Candy"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card attacks, if a card named \"Result of Going All Out\" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "We're CANDY ISLAND?",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E047_R.jpg"
-    },
-    {
-        "name": "CANDY ISLAND, Chieri",
-        "code": "IMC/W41-E048",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Clover"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Let's sing to them together!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E048_R.jpg"
-    },
-    {
-        "name": "Sachiko Koshimizu",
-        "code": "IMC/W41-E049",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Cute"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1 level. 【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
-        ],
-        "flavor_text": "Although it was because I'm cute~?",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E049_R.jpg"
-    },
-    {
-        "name": "CANDY ISLAND, Kanako",
-        "code": "IMC/W41-E050",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Sweets"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 When a card named \"Happy×2 Days\" is placed on your climax area, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a card in your opponent's waiting room, and put it on the top of his or her deck.\""
-        ],
-        "flavor_text": "That's right,\nlet's do what we can!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E050_R.jpg"
-    },
-    {
-        "name": "Our Lyrics, Miku",
-        "code": "IMC/W41-E051",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Cat Character"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Our Lyrics, Riina\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Our Lyrics, Riina\" in your waiting room, and return it to your hand.)",
-            "【ACT】 [(1) Put a card named \"Our Lyrics, Riina\" from your stage and this card into your memory] Choose a card named \"Miku Maekawa\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "I want to see for myself why the producer put us together.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E051_R.jpg"
-    },
-    {
-        "name": "new generations, Uzuki",
-        "code": "IMC/W41-E052",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
-            "【AUTO】 [(3) Put a 《Music》 character from your hand into your waiting room] When this card attacks, if a card named \"Brand New Evo! Revo! Generation!\" is in your climax area, and you have other cards named \"new generations, Mio\" and \"new generations, Rin\" in your center stage, you may pay the cost. If you do, deal three damage to your opponent. If this damage is canceled, you may put up to three cards from the top of your clock into your waiting room. (This damage may be canceled)"
-        ],
-        "flavor_text": "Thank you for waiting!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E052_R.jpg"
-    },
-    {
-        "name": "My First Star, Anastasia",
-        "code": "IMC/W41-E082",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +500 power.",
-            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E082_R.jpg"
-    },
-    {
-        "name": "＊(Asterisk), Riina",
-        "code": "IMC/W41-E083",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Rock"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +500 power.",
-            "【AUTO】 When a card named \"ΦωΦver!!\" is placed on your climax area, look at up to three cards from the top of your deck, and put them on the top of your deck in any order."
-        ],
-        "flavor_text": "Follow us to the end, everyone!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E083_R.jpg"
-    },
-    {
-        "name": "My First Star, Rin",
-        "code": "IMC/W41-E084",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Taking a Step Forward\" is in your climax area, this card gets +1 level and +5500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E084_R.jpg"
-    },
-    {
-        "name": "Black Fallen Angel, Ranko",
-        "code": "IMC/W41-E085",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Darkness"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your waiting room, if the number of other 《Music》 characters you have is two or more, this card gets +2500 power until end of turn.",
-            "【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's draw phase, you may pay the cost. If you do, choose a card named \"White Angel, Ranko\" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E085_R.jpg"
-    },
-    {
-        "name": "White Angel, Ranko",
-        "code": "IMC/W41-E086",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Darkness"
-        ],
-        "ability": [
-            "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Black Fallen Angel, Ranko\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)"
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E086_R.jpg"
-    },
-    {
-        "name": "My First Star, Minami",
-        "code": "IMC/W41-E087",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Anastasia\", this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E087_R.jpg"
-    },
-    {
-        "name": "Mizuki Kawashima",
-        "code": "IMC/W41-E088",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top or the bottom of your deck.",
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "Hm?",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E088_R.jpg"
-    },
-    {
-        "name": "Kaede Takagaki",
-        "code": "IMC/W41-E089",
-        "rarity": "R",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Secretive"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power for each of your other 《Music》 characters.",
-            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in the center stage, look at the top card of　your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "Heh heh heh♪",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E089_R.jpg"
     },
     {
         "name": "Syoko Hoshi",
@@ -1264,500 +573,6 @@
         "release": "41",
         "sid": "E021",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E021_U.jpg"
-    },
-    {
-        "name": "Energy Drink",
-        "code": "IMC/W41-E035",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "4",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if this card is in the middle position of your center stage, you may 【STAND】 this card.\""
-        ],
-        "flavor_text": "Chihiro: \"Do your best?\"",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E035_U.jpg"
-    },
-    {
-        "name": "Miho Kohinata",
-        "code": "IMC/W41-E053",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [【REST】 one of your other 【STAND】 《Music》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.【【STAND】と 《Music》の間にスペースが空きすぎ】"
-        ],
-        "flavor_text": "Ah ha ha♪",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E053_U.jpg"
-    },
-    {
-        "name": "My First Star, Kanako",
-        "code": "IMC/W41-E054",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E054_U.jpg"
-    },
-    {
-        "name": "Full of Smiles, Uzuki",
-        "code": "IMC/W41-E055",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your opponent's characters."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E055_U.jpg"
-    },
-    {
-        "name": "Strike! Miku",
-        "code": "IMC/W41-E056",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Cat Character"
-        ],
-        "ability": [
-            "【AUTO】 When a card named \"Aspired Stage\" is placed on your climax area, if this card is in your center stage, you may choose a level 0 or lower character in your waiting room, and put it on any position of your stage."
-        ],
-        "flavor_text": "I want you to promise\nthat we'll make our debut, nya!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E056_U.jpg"
-    },
-    {
-        "name": "My First Star, Chieri",
-        "code": "IMC/W41-E057",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Clover"
-        ],
-        "ability": [
-            "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E057_U.jpg"
-    },
-    {
-        "name": "Mayu Sakuma",
-        "code": "IMC/W41-E058",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E058_U.jpg"
-    },
-    {
-        "name": "My First Star, Uzuki",
-        "code": "IMC/W41-E059",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When another of your red characters attacks, this card gets +1000 power until end of turn.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Star!!\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E059_U.jpg"
-    },
-    {
-        "name": "CANDY ISLAND, Anzu",
-        "code": "IMC/W41-E060",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Candy"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have other cards named \"CANDY ISLAND, Kanako\" and \"CANDY ISLAND, Chieri\", you may put the top card of your deck into your stock.",
-            "【AUTO】 When this card is placed on the stage from your hand, if the number of cards named \"Happy×2 Days\" in your waiting room is three or more, you may put the top card of your deck into your stock."
-        ],
-        "flavor_text": "Please support \"CANDY ISLAND\"!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E060_U.jpg"
-    },
-    {
-        "name": "Stamina Drink",
-        "code": "IMC/W41-E070",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of the following effects and perform it.",
-            "\"Choose one of your 《Music》 characters, and that character gets +3500 power until end of turn.\"",
-            "\"Choose a 《Music》 character in your waiting room, and return it to your hand.\"",
-            "\"Search your deck for up to one card named \"Energy Drink\", reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.\""
-        ],
-        "flavor_text": "Chihiro: \"It must be hard, working late every night.\"",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E070_U.jpg"
-    },
-    {
-        "name": "Cool High School Girl, Rin",
-        "code": "IMC/W41-E090",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E090",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E090_U.jpg"
-    },
-    {
-        "name": "Koume Shirasaka",
-        "code": "IMC/W41-E091",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Occult"
-        ],
-        "ability": [
-            "【ACT】 [(1) 【REST】 this card] Search your deck for up to one card named \"Koume Shirasaka\", put it on any position of your stage, shuffle your deck, and at the end of turn, put that character into your waiting room."
-        ],
-        "flavor_text": "So let's watch it?",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E091",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E091_U.jpg"
-    },
-    {
-        "name": "Camp with Everyone, Anastasia",
-        "code": "IMC/W41-E092",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Star"
-        ],
-        "ability": [
-            "【CONT】 If the number of characters your opponent has is four or more, this card gets +1000 power.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E092",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E092_U.jpg"
-    },
-    {
-        "name": "Karen Hojo",
-        "code": "IMC/W41-E093",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +1000 power.",
-            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】."
-        ],
-        "flavor_text": "That Rin Shibuya girl\ngoes to my old middle school.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E093",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E093_U.jpg"
-    },
-    {
-        "name": "new generations, Rin",
-        "code": "IMC/W41-E094",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +1000 power.",
-            "【AUTO】 When this card attacks, if a card named \"Brand New Evo! Revo! Generation!\" is in your climax area, and you have other cards named \"new generations, Mio\" and \"new generations, Uzuki\" in your center stage, choose one of your characters, and that character gets +5000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "It's hard out here in the rain,\nbut we'll chase those clouds away!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E094",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E094_U.jpg"
-    },
-    {
-        "name": "Our Lyrics, Riina",
-        "code": "IMC/W41-E095",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Rock"
-        ],
-        "ability": [
-            "【CONT】 If the number of red characters and blue characters you have is two or more for each color, this card gets -1 level while in your hand."
-        ],
-        "flavor_text": "And I feel the same way you do.",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E095",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E095_U.jpg"
-    },
-    {
-        "name": "LOVE LAIKA, Minami",
-        "code": "IMC/W41-E096",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named \"Memories\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room.\""
-        ],
-        "flavor_text": "Thank you!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E096_U.jpg"
-    },
-    {
-        "name": "Nao Kamiya",
-        "code": "IMC/W41-E097",
-        "rarity": "U",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "7000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Wasn't that fantastic, Karen!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E097_U.jpg"
     },
     {
         "name": "Dekoration, Kirari",
@@ -2113,6 +928,151 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E034_C.jpg"
     },
     {
+        "name": "Energy Drink",
+        "code": "IMC/W41-E035",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "4",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if this card is in the middle position of your center stage, you may 【STAND】 this card.\""
+        ],
+        "flavor_text": "Chihiro: \"Do your best?\"",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E035_U.jpg"
+    },
+    {
+        "name": "LET’S GO HAPPY!!",
+        "code": "IMC/W41-E036",
+        "rarity": "CR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "We will be sure to shine\nTowards the future with lots of energy!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E036_CR.jpg"
+    },
+    {
+        "name": "Brand New Evo! Revo! Generation!",
+        "code": "IMC/W41-E037",
+        "rarity": "CR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "The door to a path\nis right in front of me\nYou too! Me too!\nEveryone, C'mon!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E037_CR.jpg"
+    },
+    {
+        "name": "TOKIMEKI Escalate",
+        "code": "IMC/W41-E038",
+        "rarity": "CC",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "TOKIMEKI keeps on escalating\nI'm in a love mode that pops like cider",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E038_CC.jpg"
+    },
+    {
+        "name": "Fan Letter",
+        "code": "IMC/W41-E039",
+        "rarity": "CC",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I'm glad I didn't quit being an idol!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E039_CC.jpg"
+    },
+    {
         "name": "Chihiro Senkawa",
         "code": "IMC/W41-E040",
         "rarity": "C",
@@ -2138,6 +1098,559 @@
         "release": "41",
         "sid": "E040",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E040_C.jpg"
+    },
+    {
+        "name": "Kanako Mimura",
+        "code": "IMC/W41-E041",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "We'll do our best for \"CANDY ISLAND\"!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E041_RR.jpg"
+    },
+    {
+        "name": "Uzuki Shimamura",
+        "code": "IMC/W41-E042",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those card, 【REST】 this card.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "Performing in a concert with everyone like this… It's like a dream!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E042_RR.jpg"
+    },
+    {
+        "name": "Anzu Futaba",
+        "code": "IMC/W41-E043",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Candy"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your deck is five or less, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Also, we're retiring!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E043_RR.jpg"
+    },
+    {
+        "name": "Miku Maekawa",
+        "code": "IMC/W41-E044",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Cat Character"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Our Lyrics, Miku\", choose up to one card named \"ΦωΦver!!\" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"ΦωΦver!!\" is in your climax area, you may pay the cost. If you do, put the top two cards of your deck into your waiting room. If there is a red card among those cards, deal one damage to your opponent. If there is a blue card among those cards, until the end of your opponent's next turn, this card gets +2000 power and the following ability. \"【CONT】 The character facing this card gets -1 soul.\" (This damage may be canceled)"
+        ],
+        "flavor_text": "I'll work hard like a cat,\nso please support me, nyan?",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E044_RR.jpg"
+    },
+    {
+        "name": "Chieri Ogata",
+        "code": "IMC/W41-E045",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Clover"
+        ],
+        "ability": [
+            "【CONT】 If the number of other red characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place)",
+            "【AUTO】 When a card named \"Happy×2 Days\" is placed on your climax area, if this card is in your center stage, choose up to two of your red characters, until end of turn, those characters get +4000 power and the following ability. \"【CONT】 This card cannot become 【REVERSE】 from your opponent's character's 【AUTO】 effects.\""
+        ],
+        "flavor_text": "I don't have confidence in my smile… but you two gave me courage, so I want to do it together!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E045_RR.jpg"
+    },
+    {
+        "name": "Sae Kobayakawa",
+        "code": "IMC/W41-E046",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "How girlish.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E046_R.jpg"
+    },
+    {
+        "name": "Marketing Mode, Anzu",
+        "code": "IMC/W41-E047",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Candy"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Result of Going All Out\" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "We're CANDY ISLAND?",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E047_R.jpg"
+    },
+    {
+        "name": "CANDY ISLAND, Chieri",
+        "code": "IMC/W41-E048",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Clover"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Let's sing to them together!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E048_R.jpg"
+    },
+    {
+        "name": "Sachiko Koshimizu",
+        "code": "IMC/W41-E049",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Cute"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1 level. 【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "Although it was because I'm cute~?",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E049_R.jpg"
+    },
+    {
+        "name": "CANDY ISLAND, Kanako",
+        "code": "IMC/W41-E050",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When a card named \"Happy×2 Days\" is placed on your climax area, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a card in your opponent's waiting room, and put it on the top of his or her deck.\""
+        ],
+        "flavor_text": "That's right,\nlet's do what we can!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E050_R.jpg"
+    },
+    {
+        "name": "Our Lyrics, Miku",
+        "code": "IMC/W41-E051",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Cat Character"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Our Lyrics, Riina\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Our Lyrics, Riina\" in your waiting room, and return it to your hand.)",
+            "【ACT】 [(1) Put a card named \"Our Lyrics, Riina\" from your stage and this card into your memory] Choose a card named \"Miku Maekawa\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I want to see for myself why the producer put us together.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E051_R.jpg"
+    },
+    {
+        "name": "new generations, Uzuki",
+        "code": "IMC/W41-E052",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 [(3) Put a 《Music》 character from your hand into your waiting room] When this card attacks, if a card named \"Brand New Evo! Revo! Generation!\" is in your climax area, and you have other cards named \"new generations, Mio\" and \"new generations, Rin\" in your center stage, you may pay the cost. If you do, deal three damage to your opponent. If this damage is canceled, you may put up to three cards from the top of your clock into your waiting room. (This damage may be canceled)"
+        ],
+        "flavor_text": "Thank you for waiting!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E052_R.jpg"
+    },
+    {
+        "name": "Miho Kohinata",
+        "code": "IMC/W41-E053",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 one of your other 【STAND】 《Music》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.【【STAND】と 《Music》の間にスペースが空きすぎ】"
+        ],
+        "flavor_text": "Ah ha ha♪",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E053_U.jpg"
+    },
+    {
+        "name": "My First Star, Kanako",
+        "code": "IMC/W41-E054",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E054_U.jpg"
+    },
+    {
+        "name": "Full of Smiles, Uzuki",
+        "code": "IMC/W41-E055",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your opponent's characters."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E055_U.jpg"
+    },
+    {
+        "name": "Strike! Miku",
+        "code": "IMC/W41-E056",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Cat Character"
+        ],
+        "ability": [
+            "【AUTO】 When a card named \"Aspired Stage\" is placed on your climax area, if this card is in your center stage, you may choose a level 0 or lower character in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "I want you to promise\nthat we'll make our debut, nya!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E056_U.jpg"
+    },
+    {
+        "name": "My First Star, Chieri",
+        "code": "IMC/W41-E057",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Clover"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E057_U.jpg"
+    },
+    {
+        "name": "Mayu Sakuma",
+        "code": "IMC/W41-E058",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E058_U.jpg"
+    },
+    {
+        "name": "My First Star, Uzuki",
+        "code": "IMC/W41-E059",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When another of your red characters attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Star!!\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E059_U.jpg"
+    },
+    {
+        "name": "CANDY ISLAND, Anzu",
+        "code": "IMC/W41-E060",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Candy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have other cards named \"CANDY ISLAND, Kanako\" and \"CANDY ISLAND, Chieri\", you may put the top card of your deck into your stock.",
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of cards named \"Happy×2 Days\" in your waiting room is three or more, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "Please support \"CANDY ISLAND\"!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E060_U.jpg"
     },
     {
         "name": "Relaxation Time, Anzu",
@@ -2382,6 +1895,35 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E069_C.jpg"
     },
     {
+        "name": "Stamina Drink",
+        "code": "IMC/W41-E070",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of the following effects and perform it.",
+            "\"Choose one of your 《Music》 characters, and that character gets +3500 power until end of turn.\"",
+            "\"Choose a 《Music》 character in your waiting room, and return it to your hand.\"",
+            "\"Search your deck for up to one card named \"Energy Drink\", reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.\""
+        ],
+        "flavor_text": "Chihiro: \"It must be hard, working late every night.\"",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E070_U.jpg"
+    },
+    {
         "name": "Bond of new generations",
         "code": "IMC/W41-E071",
         "rarity": "C",
@@ -2406,6 +1948,728 @@
         "release": "41",
         "sid": "E071",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E071_C.jpg"
+    },
+    {
+        "name": "Happy×2 Days",
+        "code": "IMC/W41-E072",
+        "rarity": "CR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Happy×2Days\nThe story with you shall continue",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E072_CR.jpg"
+    },
+    {
+        "name": "ΦωΦver!!",
+        "code": "IMC/W41-E073",
+        "rarity": "CR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Now, the running dreams and miracles are flashing\nEmbrace the gushing beat and, Yeah! Sing out loud",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E073_CR.jpg"
+    },
+    {
+        "name": "Star!!",
+        "code": "IMC/W41-E074",
+        "rarity": "CC",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "SAY☆ Shine as much as you can\nShine just like a SUPER ST@R",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E074_CC.jpg"
+    },
+    {
+        "name": "Aspired Stage",
+        "code": "IMC/W41-E075",
+        "rarity": "CC",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I wanna become an idol too. I wanna make my debut!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E075_CC.jpg"
+    },
+    {
+        "name": "Result of Going All Out",
+        "code": "IMC/W41-E076",
+        "rarity": "CC",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "That's not what I was going for~!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E076_CC.jpg"
+    },
+    {
+        "name": "Riina Tada",
+        "code": "IMC/W41-E077",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rock"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "If you think it's rock, then it is!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E077_RR.jpg"
+    },
+    {
+        "name": "Rin Shibuya",
+        "code": "IMC/W41-E078",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "But… it's not a dream.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E078_RR.jpg"
+    },
+    {
+        "name": "Minami Nitta",
+        "code": "IMC/W41-E079",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Everyone's Leader\" is in your climax area, look at up to four cards from the top of your deck, choose up to one 《Music》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose one of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "All right, everyone.\nLet's pull out all the stops!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E079_RR.jpg"
+    },
+    {
+        "name": "Ranko Kanzaki",
+        "code": "IMC/W41-E080",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Darkness"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if a card named \"-LEGNE- Opposing Blade, Melody of Light\" is in your climax area, put the top five cards of your deck into your waiting room, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the number of climax among those cards. (This damage may be canceled)"
+        ],
+        "flavor_text": "As my soul takes me!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E080_RR.jpg"
+    },
+    {
+        "name": "Anastasia",
+        "code": "IMC/W41-E081",
+        "rarity": "RR",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【CONT】 If the number of other blue characters you have is three or more, this card gets +1000 power.",
+            "【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card named \"My First Star, Minami\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "Rukopozhatiye… Let us shake hands.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E081_RR.jpg"
+    },
+    {
+        "name": "My First Star, Anastasia",
+        "code": "IMC/W41-E082",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +500 power.",
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E082_R.jpg"
+    },
+    {
+        "name": "＊(Asterisk), Riina",
+        "code": "IMC/W41-E083",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Rock"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +500 power.",
+            "【AUTO】 When a card named \"ΦωΦver!!\" is placed on your climax area, look at up to three cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "Follow us to the end, everyone!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E083_R.jpg"
+    },
+    {
+        "name": "My First Star, Rin",
+        "code": "IMC/W41-E084",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Taking a Step Forward\" is in your climax area, this card gets +1 level and +5500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E084_R.jpg"
+    },
+    {
+        "name": "Black Fallen Angel, Ranko",
+        "code": "IMC/W41-E085",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Darkness"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your waiting room, if the number of other 《Music》 characters you have is two or more, this card gets +2500 power until end of turn.",
+            "【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's draw phase, you may pay the cost. If you do, choose a card named \"White Angel, Ranko\" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E085_R.jpg"
+    },
+    {
+        "name": "White Angel, Ranko",
+        "code": "IMC/W41-E086",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Darkness"
+        ],
+        "ability": [
+            "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Black Fallen Angel, Ranko\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)"
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E086_R.jpg"
+    },
+    {
+        "name": "My First Star, Minami",
+        "code": "IMC/W41-E087",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Anastasia\", this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E087_R.jpg"
+    },
+    {
+        "name": "Mizuki Kawashima",
+        "code": "IMC/W41-E088",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top or the bottom of your deck.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Hm?",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E088_R.jpg"
+    },
+    {
+        "name": "Kaede Takagaki",
+        "code": "IMC/W41-E089",
+        "rarity": "R",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Secretive"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power for each of your other 《Music》 characters.",
+            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in the center stage, look at the top card of　your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "Heh heh heh♪",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E089_R.jpg"
+    },
+    {
+        "name": "Cool High School Girl, Rin",
+        "code": "IMC/W41-E090",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E090_U.jpg"
+    },
+    {
+        "name": "Koume Shirasaka",
+        "code": "IMC/W41-E091",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Occult"
+        ],
+        "ability": [
+            "【ACT】 [(1) 【REST】 this card] Search your deck for up to one card named \"Koume Shirasaka\", put it on any position of your stage, shuffle your deck, and at the end of turn, put that character into your waiting room."
+        ],
+        "flavor_text": "So let's watch it?",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E091_U.jpg"
+    },
+    {
+        "name": "Camp with Everyone, Anastasia",
+        "code": "IMC/W41-E092",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Star"
+        ],
+        "ability": [
+            "【CONT】 If the number of characters your opponent has is four or more, this card gets +1000 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E092_U.jpg"
+    },
+    {
+        "name": "Karen Hojo",
+        "code": "IMC/W41-E093",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +1000 power.",
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】."
+        ],
+        "flavor_text": "That Rin Shibuya girl\ngoes to my old middle school.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E093_U.jpg"
+    },
+    {
+        "name": "new generations, Rin",
+        "code": "IMC/W41-E094",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +1000 power.",
+            "【AUTO】 When this card attacks, if a card named \"Brand New Evo! Revo! Generation!\" is in your climax area, and you have other cards named \"new generations, Mio\" and \"new generations, Uzuki\" in your center stage, choose one of your characters, and that character gets +5000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "It's hard out here in the rain,\nbut we'll chase those clouds away!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E094_U.jpg"
+    },
+    {
+        "name": "Our Lyrics, Riina",
+        "code": "IMC/W41-E095",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Rock"
+        ],
+        "ability": [
+            "【CONT】 If the number of red characters and blue characters you have is two or more for each color, this card gets -1 level while in your hand."
+        ],
+        "flavor_text": "And I feel the same way you do.",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E095_U.jpg"
+    },
+    {
+        "name": "LOVE LAIKA, Minami",
+        "code": "IMC/W41-E096",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named \"Memories\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room.\""
+        ],
+        "flavor_text": "Thank you!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E096_U.jpg"
+    },
+    {
+        "name": "Nao Kamiya",
+        "code": "IMC/W41-E097",
+        "rarity": "U",
+        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Wasn't that fantastic, Karen!",
+        "set": "IMC",
+        "release": "41",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E097_U.jpg"
     },
     {
         "name": "LOVE LAIKA, Anastasia",
@@ -2699,122 +2963,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E108_C.jpg"
     },
     {
-        "name": "LET’S GO HAPPY!!",
-        "code": "IMC/W41-E036",
-        "rarity": "CR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "We will be sure to shine\nTowards the future with lots of energy!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E036_CR.jpg"
-    },
-    {
-        "name": "Brand New Evo! Revo! Generation!",
-        "code": "IMC/W41-E037",
-        "rarity": "CR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "The door to a path\nis right in front of me\nYou too! Me too!\nEveryone, C'mon!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E037_CR.jpg"
-    },
-    {
-        "name": "Happy×2 Days",
-        "code": "IMC/W41-E072",
-        "rarity": "CR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Happy×2Days\nThe story with you shall continue",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E072_CR.jpg"
-    },
-    {
-        "name": "ΦωΦver!!",
-        "code": "IMC/W41-E073",
-        "rarity": "CR",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Now, the running dreams and miracles are flashing\nEmbrace the gushing beat and, Yeah! Sing out loud",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E073_CR.jpg"
-    },
-    {
         "name": "Memories",
         "code": "IMC/W41-E109",
         "rarity": "CR",
@@ -2864,159 +3012,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Here, we shall join hands\nAnd embrace the melody which will call forth the end",
         "set": "IMC",
         "release": "41",
         "sid": "E110",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E110_CR.jpg"
-    },
-    {
-        "name": "TOKIMEKI Escalate",
-        "code": "IMC/W41-E038",
-        "rarity": "CC",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
-        ],
-        "flavor_text": "TOKIMEKI keeps on escalating\nI'm in a love mode that pops like cider",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E038_CC.jpg"
-    },
-    {
-        "name": "Fan Letter",
-        "code": "IMC/W41-E039",
-        "rarity": "CC",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "I'm glad I didn't quit being an idol!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E039_CC.jpg"
-    },
-    {
-        "name": "Star!!",
-        "code": "IMC/W41-E074",
-        "rarity": "CC",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "SAY☆ Shine as much as you can\nShine just like a SUPER ST@R",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E074_CC.jpg"
-    },
-    {
-        "name": "Aspired Stage",
-        "code": "IMC/W41-E075",
-        "rarity": "CC",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "I wanna become an idol too. I wanna make my debut!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E075_CC.jpg"
-    },
-    {
-        "name": "Result of Going All Out",
-        "code": "IMC/W41-E076",
-        "rarity": "CC",
-        "expansion": "THE IDOLM@STER CINDERELLA GIRLS",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "That's not what I was going for~!",
-        "set": "IMC",
-        "release": "41",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E076_CC.jpg"
     },
     {
         "name": "Taking a Step Forward",
@@ -3069,13 +3071,65 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "With you all working so hard, I can't lie down!",
         "set": "IMC",
         "release": "41",
         "sid": "E112",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_E112_CC.jpg"
+    },
+    {
+        "name": "Sunset Glow Present, Rin",
+        "code": "IMC/W41-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music"
+        ],
+        "ability": [
+            "【ACT】【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_PE01_PR.png"
+    },
+    {
+        "name": "Sunset Glow Present, Anzu",
+        "code": "IMC/W41-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "Candy"
+        ],
+        "ability": [
+            "【CONT】Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "IMC",
+        "release": "41",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_PE02_PR.png"
     },
     {
         "name": "Start with 14 Members, Rika",
@@ -3762,7 +3816,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent)"
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
         ],
         "flavor_text": "-",
         "set": "IMC",
@@ -3792,7 +3846,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent)"
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
         ],
         "flavor_text": "Fri-ed, chicken!",
         "set": "IMC",
@@ -5181,7 +5235,8 @@
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)"
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "-",
         "set": "IMC",
@@ -5209,64 +5264,13 @@
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)"
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Fri-ed, chicken!",
         "set": "IMC",
         "release": "41",
         "sid": "TE57b",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_TE57b_TD.png"
-    },
-    {
-        "name": "Sunset Glow Present, Rin",
-        "code": "IMC/W41-PE01",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music"
-        ],
-        "ability": [
-            "【ACT】【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "PE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_PE01_PR.png"
-    },
-    {
-        "name": "Sunset Glow Present, Anzu",
-        "code": "IMC/W41-PE02",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "Candy"
-        ],
-        "ability": [
-            "【CONT】Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "IMC",
-        "release": "41",
-        "sid": "PE02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_IMC_W41_PE02_PR.png"
     }
 ]

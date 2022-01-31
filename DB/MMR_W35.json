@@ -55,179 +55,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E002RR.png"
     },
     {
-        "name": "“For Madoka's Sake” Homura",
-        "code": "MM/W35-E026",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Time"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand and put it into your waiting room.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Magic》 characters, and 【REST】 it.",
-            "【AUTO】 When this card attacks, if a card named \"Truth Behind the Barrier\" is in your climax area, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\""
-        ],
-        "flavor_text": "I'll never let you Incubators touch Madoka again.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E026",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E026RR.png"
-    },
-    {
-        "name": "“A Painful Thing” Madoka",
-        "code": "MM/W35-E027",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Magic》 character in your clock with a level equal to or less than your level, and put it on any position of your stage. If you do, put the top card of your deck into your clock."
-        ],
-        "flavor_text": "And because I could never bear to do something that would make someone as strong as you cry like this.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E027RR.png"
-    },
-    {
-        "name": "Doubt Towards the World, Kyoko",
-        "code": "MM/W35-E061",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "You may be right that my memories are mixed up.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E061RR.png"
-    },
-    {
-        "name": "Intuitive Type, Kyoko",
-        "code": "MM/W35-E062",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "We can't go on like nothing's wrong after all this.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E062RR.png"
-    },
-    {
-        "name": "“My Role” Sayaka",
-        "code": "MM/W35-E081",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Because that's my role.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E081RR.png"
-    },
-    {
-        "name": "One Guided By the Law of the Cycle, Sayaka",
-        "code": "MM/W35-E082",
-        "rarity": "RR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.",
-            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.",
-            "【AUTO】 [(1)] When this card attacks, if a card named \"Sayaka's True Identity\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Magic》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Because I actually do have one regret. The fact that I left you behind.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E082RR.png"
-    },
-    {
         "name": "Mami & Nagisa",
         "code": "MM/W35-E003",
         "rarity": "R",
@@ -361,6 +188,560 @@
         "release": "35",
         "sid": "E007",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E007R.png"
+    },
+    {
+        "name": "Living Everyday Like a Dream, Mami",
+        "code": "MM/W35-E008",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"One Who Knows the Truth, Nagisa\" get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 Bond／\"One Who Knows the Truth, Nagisa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"One Who Knows the Truth, Nagisa\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "I believe that without Bebe, I would have given up long ago.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E008U.png"
+    },
+    {
+        "name": "Lively Evening, Mami",
+        "code": "MM/W35-E009",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn."
+        ],
+        "flavor_text": "Oh, Bebe, you silly thing. If you don't mind your manners, you'll turn into cheese.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E009U.png"
+    },
+    {
+        "name": "Hills in the Morning Glow, Mami",
+        "code": "MM/W35-E010",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card cannot move to another position on the stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Magic》 character, put it into your clock. (If it is, return the revealed card to its original place)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E010U.png"
+    },
+    {
+        "name": "Elegant Strike, Mami",
+        "code": "MM/W35-E011",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "Tiro Finale!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E011U.png"
+    },
+    {
+        "name": "“Magical Girls' Tea Party” Mami",
+        "code": "MM/W35-E012",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Magic》 characters get +1000 power.",
+            "【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"“I'm Happy Now” Mami\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E012U.png"
+    },
+    {
+        "name": "Pinpoint Targeting, Nagisa",
+        "code": "MM/W35-E013",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Cheese"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I can see it! The Incubators' seal!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E013U.png"
+    },
+    {
+        "name": "“Puella Magi Holy Quintet” Mami",
+        "code": "MM/W35-E014",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 one of your 【STAND】 characters] When this card attacks, you may pay the cost. If you do, choose one of your other characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E014C.png"
+    },
+    {
+        "name": "Fair and Beautiful, Mami",
+        "code": "MM/W35-E015",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.",
+            "【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them)"
+        ],
+        "flavor_text": "Oh dear, late nights are the natural enemy of beauty.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E015C.png"
+    },
+    {
+        "name": "Mami's Friend, Bebe",
+        "code": "MM/W35-E016",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Cheese"
+        ],
+        "ability": [
+            ""
+        ],
+        "flavor_text": "0",
+        "set": "MM",
+        "release": "35",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E016C.png"
+    },
+    {
+        "name": "Kyubey Manifestation",
+        "code": "MM/W35-E017",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Alien",
+            "Magic"
+        ],
+        "ability": [
+            ""
+        ],
+        "flavor_text": "It just goes to show how illogical human curiosity is.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E017C.png"
+    },
+    {
+        "name": "Innocent Girl, Nagisa",
+        "code": "MM/W35-E018",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Cheese"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other characters get +1000 power.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Ah ha ha!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E018C.png"
+    },
+    {
+        "name": "Young-looking Magical Girl, Nagisa",
+        "code": "MM/W35-E019",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Cheese"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "We planned that if things went bad, at least one of us would survive and be able to return her true memories to her.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E019C.png"
+    },
+    {
+        "name": "Junior and Senior, Mami & Madoka",
+        "code": "MM/W35-E020",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Magic》 characters.",
+            "【AUTO】 When this card attacks, if a card named \"Tiro Duet\" is in your climax area, you may choose one of your opponent's characters, and return it to your opponent's hand."
+        ],
+        "flavor_text": "0",
+        "set": "MM",
+        "release": "35",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E020C.png"
+    },
+    {
+        "name": "Exterminating Nightmares, Mami",
+        "code": "MM/W35-E021",
+        "rarity": "C",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Tea"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power."
+        ],
+        "flavor_text": "Get serious, you two, or you'll put yourselves in danger.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E021C.png"
+    },
+    {
+        "name": "A New Encounter",
+        "code": "MM/W35-E022",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "5",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If the number of characters you have with \"Mami(マミ)\" or \"Nagisa(なぎさ)\" in its card name is five or more, until end of turn, all of your characters get +3000 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E022U.png"
+    },
+    {
+        "name": "Unavoidable Clash",
+        "code": "MM/W35-E023",
+        "rarity": "CR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "But do you think you can beat me in an equal fight?",
+        "set": "MM",
+        "release": "35",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E023RRR.png"
+    },
+    {
+        "name": "Bearer of Memories",
+        "code": "MM/W35-E024",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "We were once bringers of hope, who despaired and spread our curses.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E024CC.png"
+    },
+    {
+        "name": "Tiro Duet",
+        "code": "MM/W35-E025",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Tiro Duet!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E025CC.png"
+    },
+    {
+        "name": "“For Madoka's Sake” Homura",
+        "code": "MM/W35-E026",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Magic》 characters, and 【REST】 it.",
+            "【AUTO】 When this card attacks, if a card named \"Truth Behind the Barrier\" is in your climax area, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\""
+        ],
+        "flavor_text": "I'll never let you Incubators touch Madoka again.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E026RR.png"
+    },
+    {
+        "name": "“A Painful Thing” Madoka",
+        "code": "MM/W35-E027",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Magic》 character in your clock with a level equal to or less than your level, and put it on any position of your stage. If you do, put the top card of your deck into your clock."
+        ],
+        "flavor_text": "And because I could never bear to do something that would make someone as strong as you cry like this.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E027RR.png"
     },
     {
         "name": "“A Lonely Fight” Homura",
@@ -547,417 +928,6 @@
         "release": "35",
         "sid": "E034",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E034R.png"
-    },
-    {
-        "name": "Mild Autumn Days, Kyoko",
-        "code": "MM/W35-E063",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
-            "【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E063R.png"
-    },
-    {
-        "name": "“Magical Girls' Tea Party” Kyoko",
-        "code": "MM/W35-E064",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand.\""
-        ],
-        "flavor_text": "I am the apple♪ The round cake loves Bebe♪",
-        "set": "MM",
-        "release": "35",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E064R.png"
-    },
-    {
-        "name": "Exterminating Nightmares, Kyoko",
-        "code": "MM/W35-E065",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "All according to plan.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E065R.png"
-    },
-    {
-        "name": "Unyielding Girl, Kyoko",
-        "code": "MM/W35-E066",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.",
-            "【AUTO】 [(1)] When this card attacks, if a card named \"Reunion and Alliance\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +1500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E066R.png"
-    },
-    {
-        "name": "Memories of a Witch, Sayaka",
-        "code": "MM/W35-E083",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "I see…… So you do remember her.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E083R.png"
-    },
-    {
-        "name": "Mild Autumn Days, Sayaka",
-        "code": "MM/W35-E084",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Magic》 characters.",
-            "【AUTO】 【CLOCK】 Shift, Level 1 (At the beginning of your main phase, you may choose a blue card in your hand and this card in your clock, and exchange them)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E084R.png"
-    },
-    {
-        "name": "“Magical Girls' Tea Party” Sayaka",
-        "code": "MM/W35-E085",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
-            "【ACT】 [Put a climax from your hand into your waiting room] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\""
-        ],
-        "flavor_text": "I am the raspberry♪ The round cake is red♪",
-        "set": "MM",
-        "release": "35",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E085R.png"
-    },
-    {
-        "name": "Exterminating Nightmares, Sayaka",
-        "code": "MM/W35-E086",
-        "rarity": "R",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Magic》 characters is four or more, you may put the top card of your deck into your stock.",
-            "【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Bingo, Madoka!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E086R.png"
-    },
-    {
-        "name": "Living Everyday Like a Dream, Mami",
-        "code": "MM/W35-E008",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 All of your other \"One Who Knows the Truth, Nagisa\" get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【AUTO】 Bond／\"One Who Knows the Truth, Nagisa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"One Who Knows the Truth, Nagisa\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "I believe that without Bebe, I would have given up long ago.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E008U.png"
-    },
-    {
-        "name": "Lively Evening, Mami",
-        "code": "MM/W35-E009",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn."
-        ],
-        "flavor_text": "Oh, Bebe, you silly thing. If you don't mind your manners, you'll turn into cheese.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E009U.png"
-    },
-    {
-        "name": "Hills in the Morning Glow, Mami",
-        "code": "MM/W35-E010",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 The character facing this card cannot move to another position on the stage.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Magic》 character, put it into your clock. (If it is, return the revealed card to its original place)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E010U.png"
-    },
-    {
-        "name": "Elegant Strike, Mami",
-        "code": "MM/W35-E011",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "Tiro Finale!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E011U.png"
-    },
-    {
-        "name": "“Magical Girls' Tea Party” Mami",
-        "code": "MM/W35-E012",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Magic》 characters get +1000 power.",
-            "【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"“I'm Happy Now” Mami\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E012U.png"
-    },
-    {
-        "name": "Pinpoint Targeting, Nagisa",
-        "code": "MM/W35-E013",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Cheese"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "I can see it! The Incubators' seal!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E013U.png"
-    },
-    {
-        "name": "A New Encounter",
-        "code": "MM/W35-E022",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "5",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "If the number of characters you have with \"Mami(マミ)\" or \"Nagisa(なぎさ)\" in its card name is five or more, until end of turn, all of your characters get +3000 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E022U.png"
     },
     {
         "name": "Worrying Madoka",
@@ -1205,546 +1175,6 @@
         "release": "35",
         "sid": "E043",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E043U.png"
-    },
-    {
-        "name": "Homura's Despair",
-        "code": "MM/W35-E056",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "Choose up to one character in your hand with \"Homura(ほむら)\" in its card name, and put it on any position of your stage."
-        ],
-        "flavor_text": "Ah, so this is my, despair.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E056U.png"
-    },
-    {
-        "name": "“Puella Magi Holy Quintet” Kyoko",
-        "code": "MM/W35-E067",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your 《Magic》 characters in front of this card get +1 level and +500 power.",
-            "【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Unyielding Girl, Kyoko\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E067U.png"
-    },
-    {
-        "name": "Mascot? Kyubey",
-        "code": "MM/W35-E068",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Alien",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Kyu",
-        "set": "MM",
-        "release": "35",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E068U.png"
-    },
-    {
-        "name": "A Morning Sight, Kyoko",
-        "code": "MM/W35-E069",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Sweets"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to two times per turn. When your other 《Magic》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "You're late, Madoka.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E069U.png"
-    },
-    {
-        "name": "A World Tampered With",
-        "code": "MM/W35-E076",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards."
-        ],
-        "flavor_text": "The world is being rewritten. Does this mean a new principle has been born into this universe?",
-        "set": "MM",
-        "release": "35",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E076U.png"
-    },
-    {
-        "name": "Town With No Way Out",
-        "code": "MM/W35-E077",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "Choose a 《Magic》 character in your waiting room, and return it to your hand. Choose one of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Eh?",
-        "set": "MM",
-        "release": "35",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E077U.png"
-    },
-    {
-        "name": "“Farewell to Nightmares” Sayaka",
-        "code": "MM/W35-E087",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【AUTO】 When your opponent uses \"Brainstorm\", if a climax is put into the waiting room by that effect, you may draw a card. If you do, choose a card in your hand, and put it into your waiting room.",
-            "【AUTO】 Bond／\"Exterminating Nightmares, Kyoko\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Exterminating Nightmares, Kyoko\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E087U.png"
-    },
-    {
-        "name": "“Puella Magi Holy Quintet” Sayaka",
-        "code": "MM/W35-E088",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.",
-            "【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E088U.png"
-    },
-    {
-        "name": "Spectacular Plan, Kyubey",
-        "code": "MM/W35-E089",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Alien",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
-        ],
-        "flavor_text": "I won't deny that that was the end goal we had in mind. Though it would have been a very long and difficult endeavor.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E089U.png"
-    },
-    {
-        "name": "Combination, Sayaka",
-        "code": "MM/W35-E090",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Love"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card attacks, if a card named \"True Dream\" is in your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Kyoko!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E090",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E090U.png"
-    },
-    {
-        "name": "Hitomi's Nightmare",
-        "code": "MM/W35-E097",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "Draw up to one card, choose one of your characters, and that character gets +2000 power until end of turn. Put this card into your memory."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E097U.png"
-    },
-    {
-        "name": "Mermaid Witch Appears",
-        "code": "MM/W35-E098",
-        "rarity": "U",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "If the number of 《Magic》 characters you have is two or less, this card cannot be played from your hand.",
-            "Choose one of your opponent's cost 1 or lower characters, and put it on the bottom of your opponent's deck. Put this card into your memory."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E098U.png"
-    },
-    {
-        "name": "“Puella Magi Holy Quintet” Mami",
-        "code": "MM/W35-E014",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【AUTO】 [【REST】 one of your 【STAND】 characters] When this card attacks, you may pay the cost. If you do, choose one of your other characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E014C.png"
-    },
-    {
-        "name": "Fair and Beautiful, Mami",
-        "code": "MM/W35-E015",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.",
-            "【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them)"
-        ],
-        "flavor_text": "Oh dear, late nights are the natural enemy of beauty.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E015C.png"
-    },
-    {
-        "name": "Mami's Friend, Bebe",
-        "code": "MM/W35-E016",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Cheese"
-        ],
-        "ability": [
-            ""
-        ],
-        "flavor_text": "0",
-        "set": "MM",
-        "release": "35",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E016C.png"
-    },
-    {
-        "name": "Kyubey Manifestation",
-        "code": "MM/W35-E017",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Alien",
-            "Magic"
-        ],
-        "ability": [
-            ""
-        ],
-        "flavor_text": "It just goes to show how illogical human curiosity is.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E017C.png"
-    },
-    {
-        "name": "Innocent Girl, Nagisa",
-        "code": "MM/W35-E018",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Cheese"
-        ],
-        "ability": [
-            "【CONT】 During your turn, all of your other characters get +1000 power.",
-            "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Ah ha ha!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E018C.png"
-    },
-    {
-        "name": "Young-looking Magical Girl, Nagisa",
-        "code": "MM/W35-E019",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Cheese"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "We planned that if things went bad, at least one of us would survive and be able to return her true memories to her.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E019C.png"
-    },
-    {
-        "name": "Junior and Senior, Mami & Madoka",
-        "code": "MM/W35-E020",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 During your turn, this card gets +500 power for each of your other 《Magic》 characters.",
-            "【AUTO】 When this card attacks, if a card named \"Tiro Duet\" is in your climax area, you may choose one of your opponent's characters, and return it to your opponent's hand."
-        ],
-        "flavor_text": "0",
-        "set": "MM",
-        "release": "35",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E020C.png"
-    },
-    {
-        "name": "Exterminating Nightmares, Mami",
-        "code": "MM/W35-E021",
-        "rarity": "C",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Tea"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power."
-        ],
-        "flavor_text": "Get serious, you two, or you'll put yourselves in danger.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E021C.png"
     },
     {
         "name": "Ladylike, Madoka",
@@ -2066,6 +1496,396 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E055C.png"
     },
     {
+        "name": "Homura's Despair",
+        "code": "MM/W35-E056",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose up to one character in your hand with \"Homura(ほむら)\" in its card name, and put it on any position of your stage."
+        ],
+        "flavor_text": "Ah, so this is my, despair.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E056U.png"
+    },
+    {
+        "name": "Truth Behind the Barrier",
+        "code": "MM/W35-E057",
+        "rarity": "CR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Kyubey: \"Well, considering that it was you, I did think that you would find the answer eventually.\"",
+        "set": "MM",
+        "release": "35",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E057CR.png"
+    },
+    {
+        "name": "Guide to Salvation",
+        "code": "MM/W35-E058",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I'm sorry for making you wait so long.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E058CC.png"
+    },
+    {
+        "name": "Mild Days",
+        "code": "MM/W35-E059",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E059CC.png"
+    },
+    {
+        "name": "To the Outside World",
+        "code": "MM/W35-E060",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Madoka: \"We'll always be together from now on.\"",
+        "set": "MM",
+        "release": "35",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E060CC.png"
+    },
+    {
+        "name": "Doubt Towards the World, Kyoko",
+        "code": "MM/W35-E061",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "You may be right that my memories are mixed up.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E061RR.png"
+    },
+    {
+        "name": "Intuitive Type, Kyoko",
+        "code": "MM/W35-E062",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "We can't go on like nothing's wrong after all this.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E062RR.png"
+    },
+    {
+        "name": "Mild Autumn Days, Kyoko",
+        "code": "MM/W35-E063",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E063R.png"
+    },
+    {
+        "name": "“Magical Girls' Tea Party” Kyoko",
+        "code": "MM/W35-E064",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand.\""
+        ],
+        "flavor_text": "I am the apple♪ The round cake loves Bebe♪",
+        "set": "MM",
+        "release": "35",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E064R.png"
+    },
+    {
+        "name": "Exterminating Nightmares, Kyoko",
+        "code": "MM/W35-E065",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "All according to plan.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E065R.png"
+    },
+    {
+        "name": "Unyielding Girl, Kyoko",
+        "code": "MM/W35-E066",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Reunion and Alliance\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E066R.png"
+    },
+    {
+        "name": "“Puella Magi Holy Quintet” Kyoko",
+        "code": "MM/W35-E067",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Magic》 characters in front of this card get +1 level and +500 power.",
+            "【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Unyielding Girl, Kyoko\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E067U.png"
+    },
+    {
+        "name": "Mascot? Kyubey",
+        "code": "MM/W35-E068",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Alien",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Kyu",
+        "set": "MM",
+        "release": "35",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E068U.png"
+    },
+    {
+        "name": "A Morning Sight, Kyoko",
+        "code": "MM/W35-E069",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Sweets"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to two times per turn. When your other 《Magic》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "You're late, Madoka.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E069U.png"
+    },
+    {
         "name": "“Farewell to Nightmares” Kyoko",
         "code": "MM/W35-E070",
         "rarity": "C",
@@ -2221,6 +2041,417 @@
         "release": "35",
         "sid": "E075",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E075C.png"
+    },
+    {
+        "name": "A World Tampered With",
+        "code": "MM/W35-E076",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards."
+        ],
+        "flavor_text": "The world is being rewritten. Does this mean a new principle has been born into this universe?",
+        "set": "MM",
+        "release": "35",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E076U.png"
+    },
+    {
+        "name": "Town With No Way Out",
+        "code": "MM/W35-E077",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose a 《Magic》 character in your waiting room, and return it to your hand. Choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Eh?",
+        "set": "MM",
+        "release": "35",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E077U.png"
+    },
+    {
+        "name": "Reunion and Alliance",
+        "code": "MM/W35-E078",
+        "rarity": "CR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "You dummy!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E078CR.png"
+    },
+    {
+        "name": "New Days",
+        "code": "MM/W35-E079",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E079CC.png"
+    },
+    {
+        "name": "Law of the Cycle Observer",
+        "code": "MM/W35-E080",
+        "rarity": "CC",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "You see, this place is the\nworld inside your Soul Gem.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E080CC.png"
+    },
+    {
+        "name": "“My Role” Sayaka",
+        "code": "MM/W35-E081",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Because that's my role.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E081RR.png"
+    },
+    {
+        "name": "One Guided By the Law of the Cycle, Sayaka",
+        "code": "MM/W35-E082",
+        "rarity": "RR",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.",
+            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Sayaka's True Identity\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Magic》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Because I actually do have one regret. The fact that I left you behind.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E082RR.png"
+    },
+    {
+        "name": "Memories of a Witch, Sayaka",
+        "code": "MM/W35-E083",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I see…… So you do remember her.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E083R.png"
+    },
+    {
+        "name": "Mild Autumn Days, Sayaka",
+        "code": "MM/W35-E084",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Magic》 characters.",
+            "【AUTO】 【CLOCK】 Shift, Level 1 (At the beginning of your main phase, you may choose a blue card in your hand and this card in your clock, and exchange them)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E084R.png"
+    },
+    {
+        "name": "“Magical Girls' Tea Party” Sayaka",
+        "code": "MM/W35-E085",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+            "【ACT】 [Put a climax from your hand into your waiting room] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\""
+        ],
+        "flavor_text": "I am the raspberry♪ The round cake is red♪",
+        "set": "MM",
+        "release": "35",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E085R.png"
+    },
+    {
+        "name": "Exterminating Nightmares, Sayaka",
+        "code": "MM/W35-E086",
+        "rarity": "R",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Magic》 characters is four or more, you may put the top card of your deck into your stock.",
+            "【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Bingo, Madoka!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E086R.png"
+    },
+    {
+        "name": "“Farewell to Nightmares” Sayaka",
+        "code": "MM/W35-E087",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【AUTO】 When your opponent uses \"Brainstorm\", if a climax is put into the waiting room by that effect, you may draw a card. If you do, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 Bond／\"Exterminating Nightmares, Kyoko\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Exterminating Nightmares, Kyoko\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E087U.png"
+    },
+    {
+        "name": "“Puella Magi Holy Quintet” Sayaka",
+        "code": "MM/W35-E088",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.",
+            "【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "",
+        "set": "MM",
+        "release": "35",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E088U.png"
+    },
+    {
+        "name": "Spectacular Plan, Kyubey",
+        "code": "MM/W35-E089",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Alien",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power."
+        ],
+        "flavor_text": "I won't deny that that was the end goal we had in mind. Though it would have been a very long and difficult endeavor.",
+        "set": "MM",
+        "release": "35",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E089U.png"
+    },
+    {
+        "name": "Combination, Sayaka",
+        "code": "MM/W35-E090",
+        "rarity": "U",
+        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"True Dream\" is in your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Kyoko!",
+        "set": "MM",
+        "release": "35",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E090U.png"
     },
     {
         "name": "Kyubey Saying Kyu-",
@@ -2383,88 +2614,55 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E096C.png"
     },
     {
-        "name": "Unavoidable Clash",
-        "code": "MM/W35-E023",
-        "rarity": "CR",
+        "name": "Hitomi's Nightmare",
+        "code": "MM/W35-E097",
+        "rarity": "U",
         "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
         "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
         "power": "",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             ""
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "Draw up to one card, choose one of your characters, and that character gets +2000 power until end of turn. Put this card into your memory."
         ],
-        "flavor_text": "But do you think you can beat me in an equal fight?",
+        "flavor_text": "",
         "set": "MM",
         "release": "35",
-        "sid": "E023",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E023RRR.png"
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E097U.png"
     },
     {
-        "name": "Truth Behind the Barrier",
-        "code": "MM/W35-E057",
-        "rarity": "CR",
+        "name": "Mermaid Witch Appears",
+        "code": "MM/W35-E098",
+        "rarity": "U",
         "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
         "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
         "power": "",
         "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
+        "trigger": [],
         "attributes": [
             ""
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】 : When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+            "If the number of 《Magic》 characters you have is two or less, this card cannot be played from your hand.",
+            "Choose one of your opponent's cost 1 or lower characters, and put it on the bottom of your opponent's deck. Put this card into your memory."
         ],
-        "flavor_text": "Kyubey: \"Well, considering that it was you, I did think that you would find the answer eventually.\"",
+        "flavor_text": "",
         "set": "MM",
         "release": "35",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E057CR.png"
-    },
-    {
-        "name": "Reunion and Alliance",
-        "code": "MM/W35-E078",
-        "rarity": "CR",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "You dummy!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E078CR.png"
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E098U.png"
     },
     {
         "name": "Sayaka's True Identity",
@@ -2487,211 +2685,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Easy. It's not like we're going to take you to the outside.",
         "set": "MM",
         "release": "35",
         "sid": "E099",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E099CR.png"
-    },
-    {
-        "name": "Bearer of Memories",
-        "code": "MM/W35-E024",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "We were once bringers of hope, who despaired and spread our curses.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E024",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E024CC.png"
-    },
-    {
-        "name": "Tiro Duet",
-        "code": "MM/W35-E025",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
-        ],
-        "flavor_text": "Tiro Duet!",
-        "set": "MM",
-        "release": "35",
-        "sid": "E025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E025CC.png"
-    },
-    {
-        "name": "Guide to Salvation",
-        "code": "MM/W35-E058",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "I'm sorry for making you wait so long.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E058CC.png"
-    },
-    {
-        "name": "Mild Days",
-        "code": "MM/W35-E059",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】 : When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E059CC.png"
-    },
-    {
-        "name": "To the Outside World",
-        "code": "MM/W35-E060",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Madoka: \"We'll always be together from now on.\"",
-        "set": "MM",
-        "release": "35",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E060CC.png"
-    },
-    {
-        "name": "New Days",
-        "code": "MM/W35-E079",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "",
-        "set": "MM",
-        "release": "35",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E079CC.png"
-    },
-    {
-        "name": "Law of the Cycle Observer",
-        "code": "MM/W35-E080",
-        "rarity": "CC",
-        "expansion": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "You see, this place is the\nworld inside your Soul Gem.",
-        "set": "MM",
-        "release": "35",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_MM_W35_E080CC.png"
     },
     {
         "name": "True Dream",

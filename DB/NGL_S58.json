@@ -1,5 +1,34 @@
 [
     {
+        "name": "Spiritwater Blend Shampoo, Jibril",
+        "code": "NGL/BSF2019-01",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Game》 characters and this card, and exchange them as 【STAND】.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "It gives hair a soft and silky smooth finish!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "BSF2019-01",
+        "image": "https://tcgplayer-cdn.tcgplayer.com/product/186823_200w.jpg"
+    },
+    {
         "name": "BLANK, Sora & Shiro",
         "code": "NGL/S58-E001",
         "rarity": "RR",
@@ -81,206 +110,6 @@
         "release": "58",
         "sid": "E003",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E003.png"
-    },
-    {
-        "name": "Fil Nilvalen",
-        "code": "NGL/S58-E022",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Elf"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
-        ],
-        "flavor_text": "I'll do my best for you, Kurami～!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E022.png"
-    },
-    {
-        "name": "Unbelievably Cute, Izuna",
-        "code": "NGL/S58-E023",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Warbeast"
-        ],
-        "ability": [
-            "【CONT】 If you have 4 or more 《Game》 characters, this card gets -1 level while in your hand.",
-            "【CONT】 This card gets +500 power for each of your other 《Game》 characters on your back stage.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Next time, I ain't gonna lose. Thanks!!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E023",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E023.png"
-    },
-    {
-        "name": "Kurami Zell",
-        "code": "NGL/S58-E024",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"The Promise Long Ago\" is in your climax area, you may put that character into your opponent's clock."
-        ],
-        "flavor_text": "You can think all you want, but it won't change your hand.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E024",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E024.png"
-    },
-    {
-        "name": "Inheritor of Will, Steph",
-        "code": "NGL/S58-E051",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 【CXCOMBO】 Memory [Put 2 cards from your hand into your waiting room] When this card attacks, if \"Expert at Getting Mixed In\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +3000 power until end of turn. X is equal to the number of \"The Man Ridiculed as a Foolish King\" in your memory. (Damage may be canceled)"
-        ],
-        "flavor_text": "My grandfather believed in the potential of Imanity!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E051.png"
-    },
-    {
-        "name": "BLANK's Subordinate, Jibril",
-        "code": "NGL/S58-E052",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
-        ],
-        "flavor_text": "That is what we need in a ruler…",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E052.png"
-    },
-    {
-        "name": "Imanity's Representative, Shiro",
-        "code": "NGL/S58-E080",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "BLANK isn't going to lose to any of those...",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E080.png"
-    },
-    {
-        "name": "Two Become One, Shiro",
-        "code": "NGL/S58-E081",
-        "rarity": "RR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When \"Welcome, Gamer\" is placed on your climax area, if this card is on your center stage, draw up to 1 card, and this card gets +6000 power until end of turn.",
-            "【AUTO】 [(1) Put 2 《Game》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
-        ],
-        "flavor_text": "Brother... talked to Izuna-tan afterward…",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E081.png"
     },
     {
         "name": "Rebirthed World, Sora",
@@ -392,6 +221,483 @@
         "release": "58",
         "sid": "E007",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E007.png"
+    },
+    {
+        "name": "First Move, Sora",
+        "code": "NGL/S58-E008",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Put the top card of your deck into your waiting room, and if that card's level is the number your opponent declared, draw up to X cards. X is equal to the number your opponent declared +1. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "I'll be blunt: Hand over this library.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E008.png"
+    },
+    {
+        "name": "Election Battle Winner, Sora",
+        "code": "NGL/S58-E009",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Game》 character, choose 1 of your other characters, and that character gets +1500 power until end of turn. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "...I feel like that took a really long time.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E009.png"
+    },
+    {
+        "name": "Adolescent Sora",
+        "code": "NGL/S58-E010",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Game》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 When \"Promise Between the Two\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Shiro: \"...a boy who was seven years older than her…\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E010.png"
+    },
+    {
+        "name": "Declaration of War, Sora",
+        "code": "NGL/S58-E011",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "As of now, our country of Elkia shall reach out to all other countries… to declare war!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E011.png"
+    },
+    {
+        "name": "Communication Error, Sora",
+        "code": "NGL/S58-E012",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another \"Psyche Breakdown, Shiro\", this card cannot attack.",
+            "【AUTO】 [Put 1 《Game》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Psyche Breakdown, Shiro\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When your other \"Psyche Breakdown, Shiro\" is put into your waiting room from the stage, put this card into your waiting room."
+        ],
+        "flavor_text": "SHIIIIRRROOOOOOO!!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E012.png"
+    },
+    {
+        "name": "Divulging the Trick, Sora",
+        "code": "NGL/S58-E013",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 cost 1 or higher character in your opponent's waiting room, and put it on an open position of his or her back stage."
+        ],
+        "flavor_text": "Because in a video game where you're the game master, you can cheat to your heart's content!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E013.png"
+    },
+    {
+        "name": "Creator of Disboard, Tet",
+        "code": "NGL/S58-E014",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "One True God"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Game》 character attacks, this card gets +1500 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "But they're coming. Coming to my very doorstep.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E014.png"
+    },
+    {
+        "name": "Objection! Sora",
+        "code": "NGL/S58-E015",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's level 2 or higher characters, and that character gets -1 soul until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Objection! I object!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E015.png"
+    },
+    {
+        "name": "Memory Sharing, Sora",
+        "code": "NGL/S58-E016",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Peas in a Pod\" is in your memory, this card gets +5000 power and +1 soul."
+        ],
+        "flavor_text": "Of course you will. You're human, too.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E016.png"
+    },
+    {
+        "name": "Rock-Paper-Scissors",
+        "code": "NGL/S58-E017",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Play a Game with your opponent.",
+            "【REPLAY】 Play a Game Declare that you will play \"Paper\", and play \"Rock-Paper-Scissors\" with your opponent 1 time. If you win with \"Paper\", draw up to 4 cards. If you tie with \"Paper\" or win with \"Rock\" or \"Scissors\", draw up to 2 cards. If you lose or tie with \"Rock\" or \"Scissors\", put this card into your clock. (You may play hand signs other than \"Paper\")"
+        ],
+        "flavor_text": "Yeah. But… I'll only play paper.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E017.png"
+    },
+    {
+        "name": "BLANK Doesn't Know Defeat",
+        "code": "NGL/S58-E018",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "5",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you have 1 character with \"Sora(空)\" in its card name and 1 character with \"Shiro(白)\" in its card name, choose 1 of your characters with \"Steph(ステフ)\" in its card name, and put it into your waiting room. If you do, choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room."
+        ],
+        "flavor_text": "It's about time for me to school you. You will learn how weak you really are.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E018.png"
+    },
+    {
+        "name": "Overthrowing A God",
+        "code": "NGL/S58-E019",
+        "rarity": "CR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Sora & Shiro: \"Defeat Tet.\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E019.png"
+    },
+    {
+        "name": "Checkmate",
+        "code": "NGL/S58-E020",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "I'll throw in all of Imanity. I'll bet our Race Piece!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E020.png"
+    },
+    {
+        "name": "Super Healthy Space",
+        "code": "NGL/S58-E021",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Noooo!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E021.png"
+    },
+    {
+        "name": "Fil Nilvalen",
+        "code": "NGL/S58-E022",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Elf"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "I'll do my best for you, Kurami～!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E022.png"
+    },
+    {
+        "name": "Unbelievably Cute, Izuna",
+        "code": "NGL/S58-E023",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Warbeast"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Game》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Game》 characters on your back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Next time, I ain't gonna lose. Thanks!!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E023.png"
+    },
+    {
+        "name": "Kurami Zell",
+        "code": "NGL/S58-E024",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"The Promise Long Ago\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "You can think all you want, but it won't change your hand.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E024.png"
     },
     {
         "name": "Innocent, Izuna",
@@ -555,498 +861,6 @@
         "release": "58",
         "sid": "E030",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E030.png"
-    },
-    {
-        "name": "Commonsensical Hard Worker, Steph",
-        "code": "NGL/S58-E053",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +1000 power until end of turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Let's have a match!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E053.png"
-    },
-    {
-        "name": "Knowledge Esteeming Race, Jibril",
-        "code": "NGL/S58-E054",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose 1 card in your opponent's waiting room, and put it on the top of his or her deck.",
-            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "What in this world can be more wonderful than the unknown?!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E054.png"
-    },
-    {
-        "name": "Only One Game, Jibril",
-        "code": "NGL/S58-E055",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"True Power of Flügels\" is in your climax area, you may pay the cost. If you do, this card gets +X power until end of turn. X is equal to the power of the character facing this card.",
-            "【AUTO】 [Put 1 card from your hand into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "I've had enough of this dusty old place, haven't you?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E055.png"
-    },
-    {
-        "name": "Pride of Power, Jibril",
-        "code": "NGL/S58-E056",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 [(1)] When \"That Thing Called \"Death\"\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1 of your other 《Game》 characters, and 【STAND】 it."
-        ],
-        "flavor_text": "Hello there, puppy.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E056.png"
-    },
-    {
-        "name": "A Gift from the Former King, Steph",
-        "code": "NGL/S58-E057",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"All of the Trust in Humanity\" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 \"Key of Hope\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I want to give you something.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E057.png"
-    },
-    {
-        "name": "Chief of Elkia's Domestic Affairs, Steph",
-        "code": "NGL/S58-E058",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
-        ],
-        "flavor_text": "If we'd won over those last few who just showed up, we could've had a total and bloodless victory over the whole opposition.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E058.png"
-    },
-    {
-        "name": "Materialization Word Chain",
-        "code": "NGL/S58-E073",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have \"Materialization Word Chain\" in your memory, put this card into your memory.",
-            "【AUTO】 Memory At the beginning of the climax phase, if this card is in your memory, Play a Game with your opponent.",
-            "【AUTO】 Memory At the end of your opponent's turn, if this card is in your memory, put this card into your waiting room.",
-            "【REPLAY】 Play a Game The turn player declares 0 or 1 or 2 or 3. If you or your opponent has a character with that level, put all of your characters and your opponent's characters with that level into their waiting room. Otherwise, all players choose 1 character with that level in their waiting room, and put it on any position of their stage."
-        ],
-        "flavor_text": "You are feeble humans. I will enjoy this just shy of letting you die.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E073.png"
-    },
-    {
-        "name": "Prodigy of Ingenuity, Shiro",
-        "code": "NGL/S58-E082",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "Sora: \"…Shiro\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E082.png"
-    },
-    {
-        "name": "Only We Can Know, Shiro",
-        "code": "NGL/S58-E083",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Game》 characters.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Affection-Loaded Piece\" is in your climax area, and you have another 《Game》 character, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it on the top or at the bottom of your stock, and put the rest into your waiting room."
-        ],
-        "flavor_text": "...Brother, you're amazing...! No one would figure this out...",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E083.png"
-    },
-    {
-        "name": "The Ten Pledges, Tet",
-        "code": "NGL/S58-E084",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "One True God"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character with \"Sora(空)\" and 1 character with \"Shiro(白)\" in its card name in your waiting room, and return them to your hand."
-        ],
-        "flavor_text": "Yes: I won't let you quit while you're ahead. Next time, I'LL win.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E084.png"
-    },
-    {
-        "name": "Adolescent War God, Shiro",
-        "code": "NGL/S58-E085",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "...All forces, assist the red queen's troops...",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E085.png"
-    },
-    {
-        "name": "Rebirthed World, Shiro",
-        "code": "NGL/S58-E086",
-        "rarity": "R",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 If \"BLANK, Sora & Shiro\" is in your clock, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, return up to 2 cards from the top of your stock into your hand, choose an equal number of cards in your hand, and put it into your stock in any order.",
-            "【AUTO】 When your opponent uses an 【ACT】, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E086.png"
-    },
-    {
-        "name": "First Move, Sora",
-        "code": "NGL/S58-E008",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
-            "【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Put the top card of your deck into your waiting room, and if that card's level is the number your opponent declared, draw up to X cards. X is equal to the number your opponent declared +1. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "I'll be blunt: Hand over this library.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E008.png"
-    },
-    {
-        "name": "Election Battle Winner, Sora",
-        "code": "NGL/S58-E009",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Game》 character, choose 1 of your other characters, and that character gets +1500 power until end of turn. (Return the revealed card to its original place)"
-        ],
-        "flavor_text": "...I feel like that took a really long time.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E009.png"
-    },
-    {
-        "name": "Adolescent Sora",
-        "code": "NGL/S58-E010",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your 《Game》 characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【AUTO】 【CXCOMBO】 When \"Promise Between the Two\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "Shiro: \"...a boy who was seven years older than her…\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E010.png"
-    },
-    {
-        "name": "Declaration of War, Sora",
-        "code": "NGL/S58-E011",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
-        ],
-        "flavor_text": "As of now, our country of Elkia shall reach out to all other countries… to declare war!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E011.png"
-    },
-    {
-        "name": "Rock-Paper-Scissors",
-        "code": "NGL/S58-E017",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Play a Game with your opponent.",
-            "【REPLAY】 Play a Game Declare that you will play \"Paper\", and play \"Rock-Paper-Scissors\" with your opponent 1 time. If you win with \"Paper\", draw up to 4 cards. If you tie with \"Paper\" or win with \"Rock\" or \"Scissors\", draw up to 2 cards. If you lose or tie with \"Rock\" or \"Scissors\", put this card into your clock. (You may play hand signs other than \"Paper\")"
-        ],
-        "flavor_text": "Yeah. But… I'll only play paper.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E017.png"
-    },
-    {
-        "name": "BLANK Doesn't Know Defeat",
-        "code": "NGL/S58-E018",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "5",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 If you have 1 character with \"Sora(空)\" in its card name and 1 character with \"Shiro(白)\" in its card name, choose 1 of your characters with \"Steph(ステフ)\" in its card name, and put it into your waiting room. If you do, choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room."
-        ],
-        "flavor_text": "It's about time for me to school you. You will learn how weak you really are.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E018.png"
     },
     {
         "name": "Limits of Endurance, Kurami",
@@ -1292,6 +1106,170 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E039.png"
     },
     {
+        "name": "Humanity's Potential, Fil",
+        "code": "NGL/S58-E040",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Elf"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Of course～",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E040.png"
+    },
+    {
+        "name": "Superior Magic User, Fil",
+        "code": "NGL/S58-E041",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Elf"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E041.png"
+    },
+    {
+        "name": "Memory Sharing, Kurami",
+        "code": "NGL/S58-E042",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Peas in a Pod\" is in your memory, this card gets +1000 power and +1 soul.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "I'll believe... in the potential of humanity.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E042.png"
+    },
+    {
+        "name": "Elf Conspirator, Fil",
+        "code": "NGL/S58-E043",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Elf"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level on the stage.",
+            "【CONT】 If you do not have another character with \"Kurami(クラミ―)\" in its card name, this card cannot 【STAND】 during your stand phase."
+        ],
+        "flavor_text": "Kurami: \"Why don't you just leave… Miss Elf Conspirator?\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E043.png"
+    },
+    {
+        "name": "Adolescent Kurami",
+        "code": "NGL/S58-E044",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each of your other \"Precious Presence, Fil\" on your back stage."
+        ],
+        "flavor_text": "Fil: \"Let's eat together.\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E044.png"
+    },
+    {
+        "name": "Humanity's Potential, Kurami",
+        "code": "NGL/S58-E045",
+        "rarity": "C",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Game》 characters you have is 4 or more, this card gets -1 level while in your hand.",
+            "【CONT】 If there is a marker underneath this card, this card gets +1500 power for each of your other 《Game》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Humanity's Potential, Fil\" in your waiting room, and put it face up underneath this card as a marker."
+        ],
+        "flavor_text": "Will you help me?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E045.png"
+    },
+    {
         "name": "Peas in a Pod",
         "code": "NGL/S58-E046",
         "rarity": "U",
@@ -1317,6 +1295,341 @@
         "release": "58",
         "sid": "E046",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E046.png"
+    },
+    {
+        "name": "The Promise Long Ago",
+        "code": "NGL/S58-E047",
+        "rarity": "CR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 2 of your green characters, and those characters get +3000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Kurami: \"Fi… Don't be nice to me anymore. If you treat a slave like me as a friend…\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E047.png"
+    },
+    {
+        "name": "The Final Piece",
+        "code": "NGL/S58-E048",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Jibril: \"Now, Kurami and Master know everything about each other, and can trust each other.\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E048.png"
+    },
+    {
+        "name": "Docile Reaction",
+        "code": "NGL/S58-E049",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Shiro: \"Plus 1,050 points.\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E049.png"
+    },
+    {
+        "name": "Blood Destruction",
+        "code": "NGL/S58-E050",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E050.png"
+    },
+    {
+        "name": "Inheritor of Will, Steph",
+        "code": "NGL/S58-E051",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Memory [Put 2 cards from your hand into your waiting room] When this card attacks, if \"Expert at Getting Mixed In\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +3000 power until end of turn. X is equal to the number of \"The Man Ridiculed as a Foolish King\" in your memory. (Damage may be canceled)"
+        ],
+        "flavor_text": "My grandfather believed in the potential of Imanity!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E051.png"
+    },
+    {
+        "name": "BLANK's Subordinate, Jibril",
+        "code": "NGL/S58-E052",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "That is what we need in a ruler…",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E052.png"
+    },
+    {
+        "name": "Commonsensical Hard Worker, Steph",
+        "code": "NGL/S58-E053",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Let's have a match!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E053.png"
+    },
+    {
+        "name": "Knowledge Esteeming Race, Jibril",
+        "code": "NGL/S58-E054",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose 1 card in your opponent's waiting room, and put it on the top of his or her deck.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "What in this world can be more wonderful than the unknown?!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E054.png"
+    },
+    {
+        "name": "Only One Game, Jibril",
+        "code": "NGL/S58-E055",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"True Power of Flügels\" is in your climax area, you may pay the cost. If you do, this card gets +X power until end of turn. X is equal to the power of the character facing this card.",
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I've had enough of this dusty old place, haven't you?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E055.png"
+    },
+    {
+        "name": "Pride of Power, Jibril",
+        "code": "NGL/S58-E056",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1)] When \"That Thing Called \"Death\"\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1 of your other 《Game》 characters, and 【STAND】 it."
+        ],
+        "flavor_text": "Hello there, puppy.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E056.png"
+    },
+    {
+        "name": "A Gift from the Former King, Steph",
+        "code": "NGL/S58-E057",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"All of the Trust in Humanity\" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 \"Key of Hope\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I want to give you something.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E057.png"
+    },
+    {
+        "name": "Chief of Elkia's Domestic Affairs, Steph",
+        "code": "NGL/S58-E058",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "If we'd won over those last few who just showed up, we could've had a total and bloodless victory over the whole opposition.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E058.png"
     },
     {
         "name": "True Form of the Game, Jibril",
@@ -1481,472 +1794,6 @@
         "release": "58",
         "sid": "E064",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E064.png"
-    },
-    {
-        "name": "Key of Hope",
-        "code": "NGL/S58-E074",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Sora(空)\" or \"Shiro(白)\" in its card name, this card cannot be played from your hand.",
-            "Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of the revealed cards. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "Grandfather... what is this key for...?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E074.png"
-    },
-    {
-        "name": "The Man Ridiculed as a Foolish King",
-        "code": "NGL/S58-E075",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. Put this card into your memory.",
-            "【CONT】 Memory During your turn, if this card is in your memory, all of your 《Game》 characters get +500 power."
-        ],
-        "flavor_text": "My granddaughter, the weak must use their wisdom to defeat the strong. That is the hope of humanity… of humanity... of--",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E075.png"
-    },
-    {
-        "name": "Word Chain Battle, Shiro",
-        "code": "NGL/S58-E087",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Game》 characters get +500 power.",
-            "【AUTO】 【CXCOMBO】 When \"Super Healthy Space\" is placed on your climax area, draw 1 card, choose 1 card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Sora: \"Materialization Word Chain?\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E087.png"
-    },
-    {
-        "name": "Alone in the Morning, Shiro",
-        "code": "NGL/S58-E088",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 If you do not have another character with \"Sora(空)\" in its card name, this card cannot 【STAND】 during your stand phase.",
-            "【AUTO】 When your other 《Game》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Brother...! Come out, Brother... Don't leave me alone...!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E088.png"
-    },
-    {
-        "name": "Sudden Surprise Strike, Shiro",
-        "code": "NGL/S58-E089",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 card from your hand into your clock] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of his or her deck.",
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "...That's dirty...",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E089.png"
-    },
-    {
-        "name": "Intrinsic Genius",
-        "code": "NGL/S58-E096",
-        "rarity": "U",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Shiro(白)\" in its card name, this card cannot be played from your hand.",
-            "Look at up to 6 cards from the top of your deck, choose up to 1 card from among them, put it on the top or at the bottom of your stock, and put the rest into your waiting room."
-        ],
-        "flavor_text": "...Brother. I learned it.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E096.png"
-    },
-    {
-        "name": "Communication Error, Sora",
-        "code": "NGL/S58-E012",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 If you do not have another \"Psyche Breakdown, Shiro\", this card cannot attack.",
-            "【AUTO】 [Put 1 《Game》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Psyche Breakdown, Shiro\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
-            "【AUTO】 When your other \"Psyche Breakdown, Shiro\" is put into your waiting room from the stage, put this card into your waiting room."
-        ],
-        "flavor_text": "SHIIIIRRROOOOOOO!!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E012.png"
-    },
-    {
-        "name": "Divulging the Trick, Sora",
-        "code": "NGL/S58-E013",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 cost 1 or higher character in your opponent's waiting room, and put it on an open position of his or her back stage."
-        ],
-        "flavor_text": "Because in a video game where you're the game master, you can cheat to your heart's content!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E013.png"
-    },
-    {
-        "name": "Creator of Disboard, Tet",
-        "code": "NGL/S58-E014",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "One True God"
-        ],
-        "ability": [
-            "【AUTO】 When your other 《Game》 character attacks, this card gets +1500 power until end of turn.",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "But they're coming. Coming to my very doorstep.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E014.png"
-    },
-    {
-        "name": "Objection! Sora",
-        "code": "NGL/S58-E015",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's level 2 or higher characters, and that character gets -1 soul until end of turn.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "Objection! I object!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E015.png"
-    },
-    {
-        "name": "Memory Sharing, Sora",
-        "code": "NGL/S58-E016",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 Memory If \"Peas in a Pod\" is in your memory, this card gets +5000 power and +1 soul."
-        ],
-        "flavor_text": "Of course you will. You're human, too.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E016.png"
-    },
-    {
-        "name": "Humanity's Potential, Fil",
-        "code": "NGL/S58-E040",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Elf"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Of course～",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E040.png"
-    },
-    {
-        "name": "Superior Magic User, Fil",
-        "code": "NGL/S58-E041",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Elf"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E041.png"
-    },
-    {
-        "name": "Memory Sharing, Kurami",
-        "code": "NGL/S58-E042",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 Memory If \"Peas in a Pod\" is in your memory, this card gets +1000 power and +1 soul.",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "I'll believe... in the potential of humanity.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E042.png"
-    },
-    {
-        "name": "Elf Conspirator, Fil",
-        "code": "NGL/S58-E043",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Elf"
-        ],
-        "ability": [
-            "【CONT】 This card gets -1 level on the stage.",
-            "【CONT】 If you do not have another character with \"Kurami(クラミ―)\" in its card name, this card cannot 【STAND】 during your stand phase."
-        ],
-        "flavor_text": "Kurami: \"Why don't you just leave… Miss Elf Conspirator?\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E043.png"
-    },
-    {
-        "name": "Adolescent Kurami",
-        "code": "NGL/S58-E044",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 This card gets +2000 power for each of your other \"Precious Presence, Fil\" on your back stage."
-        ],
-        "flavor_text": "Fil: \"Let's eat together.\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E044.png"
-    },
-    {
-        "name": "Humanity's Potential, Kurami",
-        "code": "NGL/S58-E045",
-        "rarity": "C",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "6000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 If the number of 《Game》 characters you have is 4 or more, this card gets -1 level while in your hand.",
-            "【CONT】 If there is a marker underneath this card, this card gets +1500 power for each of your other 《Game》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Humanity's Potential, Fil\" in your waiting room, and put it face up underneath this card as a marker."
-        ],
-        "flavor_text": "Will you help me?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E045.png"
     },
     {
         "name": "Destroyed Steph",
@@ -2165,6 +2012,485 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E072.png"
     },
     {
+        "name": "Materialization Word Chain",
+        "code": "NGL/S58-E073",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have \"Materialization Word Chain\" in your memory, put this card into your memory.",
+            "【AUTO】 Memory At the beginning of the climax phase, if this card is in your memory, Play a Game with your opponent.",
+            "【AUTO】 Memory At the end of your opponent's turn, if this card is in your memory, put this card into your waiting room.",
+            "【REPLAY】 Play a Game The turn player declares 0 or 1 or 2 or 3. If you or your opponent has a character with that level, put all of your characters and your opponent's characters with that level into their waiting room. Otherwise, all players choose 1 character with that level in their waiting room, and put it on any position of their stage."
+        ],
+        "flavor_text": "You are feeble humans. I will enjoy this just shy of letting you die.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E073.png"
+    },
+    {
+        "name": "Key of Hope",
+        "code": "NGL/S58-E074",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Sora(空)\" or \"Shiro(白)\" in its card name, this card cannot be played from your hand.",
+            "Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of the revealed cards. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Grandfather... what is this key for...?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E074.png"
+    },
+    {
+        "name": "The Man Ridiculed as a Foolish King",
+        "code": "NGL/S58-E075",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. Put this card into your memory.",
+            "【CONT】 Memory During your turn, if this card is in your memory, all of your 《Game》 characters get +500 power."
+        ],
+        "flavor_text": "My granddaughter, the weak must use their wisdom to defeat the strong. That is the hope of humanity… of humanity... of--",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E075.png"
+    },
+    {
+        "name": "Expert at Getting Mixed In",
+        "code": "NGL/S58-E076",
+        "rarity": "CR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Ahhh!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E076.png"
+    },
+    {
+        "name": "All of the Trust in Humanity",
+        "code": "NGL/S58-E077",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Grandfather… Grandfather…",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E077.png"
+    },
+    {
+        "name": "True Power of Flügels",
+        "code": "NGL/S58-E078",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "The difference between us is a wall no Imanity can overcome.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E078.png"
+    },
+    {
+        "name": "That Thing Called \"Death\"",
+        "code": "NGL/S58-E079",
+        "rarity": "CC",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Jibril: \"Throw every cheat you've got at me. Embarrass yourself to your heart's content.\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E079.png"
+    },
+    {
+        "name": "Imanity's Representative, Shiro",
+        "code": "NGL/S58-E080",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "BLANK isn't going to lose to any of those...",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E080.png"
+    },
+    {
+        "name": "Two Become One, Shiro",
+        "code": "NGL/S58-E081",
+        "rarity": "RR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Welcome, Gamer\" is placed on your climax area, if this card is on your center stage, draw up to 1 card, and this card gets +6000 power until end of turn.",
+            "【AUTO】 [(1) Put 2 《Game》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Brother... talked to Izuna-tan afterward…",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E081.png"
+    },
+    {
+        "name": "Prodigy of Ingenuity, Shiro",
+        "code": "NGL/S58-E082",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Sora: \"…Shiro\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E082.png"
+    },
+    {
+        "name": "Only We Can Know, Shiro",
+        "code": "NGL/S58-E083",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Game》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Affection-Loaded Piece\" is in your climax area, and you have another 《Game》 character, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it on the top or at the bottom of your stock, and put the rest into your waiting room."
+        ],
+        "flavor_text": "...Brother, you're amazing...! No one would figure this out...",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E083.png"
+    },
+    {
+        "name": "The Ten Pledges, Tet",
+        "code": "NGL/S58-E084",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "One True God"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character with \"Sora(空)\" and 1 character with \"Shiro(白)\" in its card name in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "Yes: I won't let you quit while you're ahead. Next time, I'LL win.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E084.png"
+    },
+    {
+        "name": "Adolescent War God, Shiro",
+        "code": "NGL/S58-E085",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "...All forces, assist the red queen's troops...",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E085.png"
+    },
+    {
+        "name": "Rebirthed World, Shiro",
+        "code": "NGL/S58-E086",
+        "rarity": "R",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 If \"BLANK, Sora & Shiro\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, return up to 2 cards from the top of your stock into your hand, choose an equal number of cards in your hand, and put it into your stock in any order.",
+            "【AUTO】 When your opponent uses an 【ACT】, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E086.png"
+    },
+    {
+        "name": "Word Chain Battle, Shiro",
+        "code": "NGL/S58-E087",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Game》 characters get +500 power.",
+            "【AUTO】 【CXCOMBO】 When \"Super Healthy Space\" is placed on your climax area, draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Sora: \"Materialization Word Chain?\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E087.png"
+    },
+    {
+        "name": "Alone in the Morning, Shiro",
+        "code": "NGL/S58-E088",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character with \"Sora(空)\" in its card name, this card cannot 【STAND】 during your stand phase.",
+            "【AUTO】 When your other 《Game》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Brother...! Come out, Brother... Don't leave me alone...!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E088.png"
+    },
+    {
+        "name": "Sudden Surprise Strike, Shiro",
+        "code": "NGL/S58-E089",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your clock] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of his or her deck.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "...That's dirty...",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E089.png"
+    },
+    {
         "name": "What's This? Shiro",
         "code": "NGL/S58-E090",
         "rarity": "C",
@@ -2330,6 +2656,33 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E095.png"
     },
     {
+        "name": "Intrinsic Genius",
+        "code": "NGL/S58-E096",
+        "rarity": "U",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Shiro(白)\" in its card name, this card cannot be played from your hand.",
+            "Look at up to 6 cards from the top of your deck, choose up to 1 card from among them, put it on the top or at the bottom of your stock, and put the rest into your waiting room."
+        ],
+        "flavor_text": "...Brother. I learned it.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E096.png"
+    },
+    {
         "name": "Accelerated Alacrity",
         "code": "NGL/S58-E097",
         "rarity": "C",
@@ -2354,95 +2707,6 @@
         "release": "58",
         "sid": "E097",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E097.png"
-    },
-    {
-        "name": "Overthrowing A God",
-        "code": "NGL/S58-E019",
-        "rarity": "CR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to your opponent's hand)"
-        ],
-        "flavor_text": "Sora & Shiro: \"Defeat Tet.\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E019.png"
-    },
-    {
-        "name": "The Promise Long Ago",
-        "code": "NGL/S58-E047",
-        "rarity": "CR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 2 of your green characters, and those characters get +3000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Kurami: \"Fi… Don't be nice to me anymore. If you treat a slave like me as a friend…\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E047.png"
-    },
-    {
-        "name": "Expert at Getting Mixed In",
-        "code": "NGL/S58-E076",
-        "rarity": "CR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
-        ],
-        "flavor_text": "Ahhh!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E076.png"
     },
     {
         "name": "Welcome, Gamer",
@@ -2472,241 +2736,6 @@
         "release": "58",
         "sid": "E098",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E098.png"
-    },
-    {
-        "name": "Checkmate",
-        "code": "NGL/S58-E020",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to your opponent's hand)"
-        ],
-        "flavor_text": "I'll throw in all of Imanity. I'll bet our Race Piece!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E020.png"
-    },
-    {
-        "name": "Super Healthy Space",
-        "code": "NGL/S58-E021",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
-        ],
-        "flavor_text": "Noooo!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E021.png"
-    },
-    {
-        "name": "The Final Piece",
-        "code": "NGL/S58-E048",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "Jibril: \"Now, Kurami and Master know everything about each other, and can trust each other.\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E048.png"
-    },
-    {
-        "name": "Docile Reaction",
-        "code": "NGL/S58-E049",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "Shiro: \"Plus 1,050 points.\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E049.png"
-    },
-    {
-        "name": "Blood Destruction",
-        "code": "NGL/S58-E050",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E050.png"
-    },
-    {
-        "name": "All of the Trust in Humanity",
-        "code": "NGL/S58-E077",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Grandfather… Grandfather…",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E077.png"
-    },
-    {
-        "name": "True Power of Flügels",
-        "code": "NGL/S58-E078",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "The difference between us is a wall no Imanity can overcome.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E078.png"
-    },
-    {
-        "name": "That Thing Called \"Death\"",
-        "code": "NGL/S58-E079",
-        "rarity": "CC",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
-        ],
-        "flavor_text": "Jibril: \"Throw every cheat you've got at me. Embarrass yourself to your heart's content.\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E079.png"
     },
     {
         "name": "Affection-Loaded Piece",
@@ -2766,6 +2795,248 @@
         "release": "58",
         "sid": "E100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E100.png"
+    },
+    {
+        "name": "Visitor from Another World, Sora",
+        "code": "NGL/S58-E101",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Game》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "I'm gonna challenge God. Could anyone sane do that?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E101.png"
+    },
+    {
+        "name": "For Imanity's Sake, Kurami",
+        "code": "NGL/S58-E102",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while on the stage.",
+            "【AUTO】 When your other 《Game》character attacks, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "You want us to spy for you, right?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E102.png"
+    },
+    {
+        "name": "Lady of House Nilvalen, Fil",
+        "code": "NGL/S58-E103",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Elf"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Everyone can just call me Fi～",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E103.png"
+    },
+    {
+        "name": "Erroneous Expression, Izuna",
+        "code": "NGL/S58-E104",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Warbeast"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
+        ],
+        "flavor_text": "Get back to it already. Thanks.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E104.png"
+    },
+    {
+        "name": "Elkia's Backbone, Steph",
+        "code": "NGL/S58-E105",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Game》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "This country could already be doomed, huh?",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E105.png"
+    },
+    {
+        "name": "Affectionate Respect for Her Master, Jibril",
+        "code": "NGL/S58-E106",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Game",
+            "Flügel"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Materialization Word Chain\" is in your memory, this card gets +2 level and +8000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if your hand has less cards than your opponent's hand, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "I have zero interest in Imanity other than my masters.",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E106.png"
+    },
+    {
+        "name": "Visitor from Another World, Shiro",
+        "code": "NGL/S58-E107",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
+        ],
+        "flavor_text": "Brother said... we've always won the game before it's started...",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E107.png"
+    },
+    {
+        "name": "Game God, Tet",
+        "code": "NGL/S58-E108",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "One True God"
+        ],
+        "ability": [
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Game》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "It seems I wasn't mistaken to bring you two here!",
+        "set": "NGL",
+        "release": "58",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E108.png"
+    },
+    {
+        "name": "Challenge to the Flügels, Shiro & Steph",
+        "code": "NGL/S58-PE01",
+        "rarity": "PR",
+        "expansion": "No Game No Life",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Game",
+            "Imanity"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Game》 characters get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room with \"Sora\" or \"Shiro\" in its card name, and return it to your hand."
+        ],
+        "flavor_text": "Shiro: \"Wow!\"",
+        "set": "NGL",
+        "release": "58",
+        "sid": "PE01",
+        "image": "https://tcgplayer-cdn.tcgplayer.com/product/186480_200w.jpg"
     },
     {
         "name": "Sora",
@@ -3037,7 +3308,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to your opponent's hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Sora & Shiro: \"This game is TOTAL crap!\"",
         "set": "NGL",
@@ -3320,276 +3591,5 @@
         "release": "58",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_TE20.png"
-    },
-    {
-        "name": "Visitor from Another World, Sora",
-        "code": "NGL/S58-E101",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if you have 2 or more other 《Game》 characters, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "I'm gonna challenge God. Could anyone sane do that?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E101.png"
-    },
-    {
-        "name": "For Imanity's Sake, Kurami",
-        "code": "NGL/S58-E102",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "9000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 This card gets -2 level while on the stage.",
-            "【AUTO】 When your other 《Game》character attacks, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "You want us to spy for you, right?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E102.png"
-    },
-    {
-        "name": "Lady of House Nilvalen, Fil",
-        "code": "NGL/S58-E103",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Elf"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Everyone can just call me Fi～",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E103.png"
-    },
-    {
-        "name": "Erroneous Expression, Izuna",
-        "code": "NGL/S58-E104",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Warbeast"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
-        ],
-        "flavor_text": "Get back to it already. Thanks.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E104.png"
-    },
-    {
-        "name": "Elkia's Backbone, Steph",
-        "code": "NGL/S58-E105",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Game》 characters get +500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "This country could already be doomed, huh?",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E105",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E105.png"
-    },
-    {
-        "name": "Affectionate Respect for Her Master, Jibril",
-        "code": "NGL/S58-E106",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【CONT】 Memory If \"Materialization Word Chain\" is in your memory, this card gets +2 level and +8000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, if your hand has less cards than your opponent's hand, you may put the top card of your deck into your stock."
-        ],
-        "flavor_text": "I have zero interest in Imanity other than my masters.",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E106",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E106.png"
-    },
-    {
-        "name": "Visitor from Another World, Shiro",
-        "code": "NGL/S58-E107",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
-        ],
-        "flavor_text": "Brother said... we've always won the game before it's started...",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E107",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E107.png"
-    },
-    {
-        "name": "Game God, Tet",
-        "code": "NGL/S58-E108",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "One True God"
-        ],
-        "ability": [
-            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Game》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "It seems I wasn't mistaken to bring you two here!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "E108",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/NGL_S58_E108.png"
-    },
-    {
-        "name": "Challenge to the Flügels, Shiro & Steph",
-        "code": "NGL/S58-PE01",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Game",
-            "Imanity"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Game》 characters get +500 power.",
-            "【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room with \"Sora\" or \"Shiro\" in its card name, and return it to your hand."
-        ],
-        "flavor_text": "Shiro: \"Wow!\"",
-        "set": "NGL",
-        "release": "58",
-        "sid": "PE01",
-        "image": "https://tcgplayer-cdn.tcgplayer.com/product/186480_200w.jpg"
-    },
-    {
-        "name": "Spiritwater Blend Shampoo, Jibril",
-        "code": "NGL/BSF2019-01",
-        "rarity": "PR",
-        "expansion": "No Game No Life",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Game",
-            "Flügel"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Game》 characters and this card, and exchange them as 【STAND】.",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "It gives hair a soft and silky smooth finish!",
-        "set": "NGL",
-        "release": "58",
-        "sid": "BSF2019-01",
-        "image": "https://tcgplayer-cdn.tcgplayer.com/product/186823_200w.jpg"
     }
 ]

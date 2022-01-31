@@ -82,90 +82,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E03.png"
     },
     {
-        "name": "Anchorage Ogre in the Deep Sea",
-        "code": "KC/SE28-E26",
-        "rarity": "RR/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of your center stage gets +500 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "You shall not… proceed any further…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E26",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E26.png"
-    },
-    {
-        "name": "Final Mode, Light Cruiser Ogre in the Deep Sea",
-        "code": "KC/SE28-E27",
-        "rarity": "RR/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
-        ],
-        "flavor_text": "I won't… I won't let you…!",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E27",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E27.png"
-    },
-    {
-        "name": "Battleship Hydro Ogre in the Deep Seaa",
-        "code": "KC/SE28-E28",
-        "rarity": "RR",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Hydro Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
-            "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Scream… while you sink…!",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E28",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E28.png"
-    },
-    {
         "name": "Ne-class Heavy Cruiser",
         "code": "KC/SE28-E04",
         "rarity": "R",
@@ -329,175 +245,6 @@
         "release": "E28",
         "sid": "E09",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E09.png"
-    },
-    {
-        "name": "Southern Battle Princess in the Deep Sea",
-        "code": "KC/SE28-E29",
-        "rarity": "R",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Princess in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet in the Deep Sea》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "Foolish…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E29",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E29.png"
-    },
-    {
-        "name": "Southern Ogre in the Deep Sea",
-        "code": "KC/SE28-E30",
-        "rarity": "R",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power.",
-            "【ACT】 [【REST】 this card] Draw a card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Welcome… Welcome here…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E30",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E30.png"
-    },
-    {
-        "name": "Anchorage Princess in the Deep Sea",
-        "code": "KC/SE28-E31",
-        "rarity": "R",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Princess in the Deep Sea"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "You shall not… proceed any further…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E31",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E31.png"
-    },
-    {
-        "name": "Seaplane Carrier Princess in the Deep Sea",
-        "code": "KC/SE28-E32",
-        "rarity": "R/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Princess in the Deep Sea"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When you use this card's \"Backup\", if the number of 《Fleet in the Deep Sea》 characters you have is four or more, you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "It's alright……\nWhy don't you come over here……?",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E32",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E32.png"
-    },
-    {
-        "name": "Isolated Island Ogre in the Deep Sea",
-        "code": "KC/SE28-E33",
-        "rarity": "R/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +1000 power.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Thick headed girls…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E33",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E33.png"
-    },
-    {
-        "name": "Air Defense Princess in the Deep Sea",
-        "code": "KC/SE28-E34",
-        "rarity": "R/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "13000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Princess in the Deep Sea"
-        ],
-        "ability": [
-            "【CONT】 If this card is in your center stage except the middle position, this card gets -4000 power.",
-            "【CONT】 If this card is in the middle position of your center stage, this card gets -2000 power for each of your other 【REVERSE】 characters in the center stage or open position of your center stage.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to three card from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 [(3) Put a card named \"Hehehe… Does it hurt?\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
-        ],
-        "flavor_text": "Hehe……you came……?\nOh……you came……",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E34",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E34.png"
     },
     {
         "name": "Tsu-class Light Cruiser",
@@ -668,172 +415,6 @@
         "release": "E28",
         "sid": "E15",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E15.png"
-    },
-    {
-        "name": "Wa-class Supply Ship",
-        "code": "KC/SE28-E35",
-        "rarity": "U",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Supply Ship"
-        ],
-        "ability": [
-            "【CONT】 If all of your characters are 《Fleet in the Deep Sea》, this card gets +1000 power.",
-            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card attacks, you may pay the cost. If you do, draw a card."
-        ],
-        "flavor_text": "",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E35",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E35.png"
-    },
-    {
-        "name": "Ka-class Submarine",
-        "code": "KC/SE28-E36",
-        "rarity": "U",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Submarine"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a cost 0 or lower character in your opponent's center stage, and put it on the bottom of his or her deck."
-        ],
-        "flavor_text": "",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E36",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E36.png"
-    },
-    {
-        "name": "Light Cruiser Ogre in the Deep Sea",
-        "code": "KC/SE28-E37",
-        "rarity": "U",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Ogre in the Deep Sea"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.",
-            "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"Final Mode, Light Cruiser Ogre in the Deep Sea\" in your hand, and put it on this card's stage position as the defending character."
-        ],
-        "flavor_text": "Sink… to the deep…… and not being able to surface again!",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E37",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E37.png"
-    },
-    {
-        "name": "Nu-class Light Aircraft Carrier",
-        "code": "KC/SE28-E38",
-        "rarity": "U",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Light Aircraft Carrier"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if you have a 《Fleet in the Deep Sea》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E38",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E38.png"
-    },
-    {
-        "name": "Re-class Battleship",
-        "code": "KC/SE28-E39",
-        "rarity": "U",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Battleship"
-        ],
-        "ability": [
-            "【CONT】 If your opponent has a 《Fleet Girl》 character, this card gets -1 level while in your hand.",
-            "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, you may choose one of your opponent's level 0 or lower characters, and put it on the bottom of his or her deck. (The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E39",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E39.png"
-    },
-    {
-        "name": "Battleship Princess in the Deep Sea",
-        "code": "KC/SE28-E40",
-        "rarity": "U/SP",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "Princess in the Deep Sea"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named \"Please sink!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 1 or lower characters, and put it on the bottom of his or her deck.",
-            "【AUTO】 [Put this card into your waiting room] When another of your 《Fleet in the Deep Sea》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "Please sink in… Ironbottom… Sound…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E40",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E40.png"
     },
     {
         "name": "Floating Fortress",
@@ -1023,6 +604,512 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E22.png"
     },
     {
+        "name": "Sink!",
+        "code": "KC/SE28-E23",
+        "rarity": "C",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Get away……!",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E23",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E23.png"
+    },
+    {
+        "name": "Nothing… you don't understand anything at all…",
+        "code": "KC/SE28-E24",
+        "rarity": "C",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Nothing… nothing… you don't understand anything at all…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E24.png"
+    },
+    {
+        "name": "I told you… it's hopeless…",
+        "code": "KC/SE28-E25",
+        "rarity": "C",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Hehehe…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E25.png"
+    },
+    {
+        "name": "Anchorage Ogre in the Deep Sea",
+        "code": "KC/SE28-E26",
+        "rarity": "RR/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of your center stage gets +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You shall not… proceed any further…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E26.png"
+    },
+    {
+        "name": "Final Mode, Light Cruiser Ogre in the Deep Sea",
+        "code": "KC/SE28-E27",
+        "rarity": "RR/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "I won't… I won't let you…!",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E27.png"
+    },
+    {
+        "name": "Battleship Hydro Ogre in the Deep Seaa",
+        "code": "KC/SE28-E28",
+        "rarity": "RR",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Hydro Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Scream… while you sink…!",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E28.png"
+    },
+    {
+        "name": "Southern Battle Princess in the Deep Sea",
+        "code": "KC/SE28-E29",
+        "rarity": "R",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Princess in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet in the Deep Sea》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Foolish…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E29",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E29.png"
+    },
+    {
+        "name": "Southern Ogre in the Deep Sea",
+        "code": "KC/SE28-E30",
+        "rarity": "R",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Welcome… Welcome here…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E30",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E30.png"
+    },
+    {
+        "name": "Anchorage Princess in the Deep Sea",
+        "code": "KC/SE28-E31",
+        "rarity": "R",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Princess in the Deep Sea"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "You shall not… proceed any further…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E31",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E31.png"
+    },
+    {
+        "name": "Seaplane Carrier Princess in the Deep Sea",
+        "code": "KC/SE28-E32",
+        "rarity": "R/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Princess in the Deep Sea"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", if the number of 《Fleet in the Deep Sea》 characters you have is four or more, you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "It's alright……\nWhy don't you come over here……?",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E32",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E32.png"
+    },
+    {
+        "name": "Isolated Island Ogre in the Deep Sea",
+        "code": "KC/SE28-E33",
+        "rarity": "R/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +1000 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Thick headed girls…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E33",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E33.png"
+    },
+    {
+        "name": "Air Defense Princess in the Deep Sea",
+        "code": "KC/SE28-E34",
+        "rarity": "R/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "13000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Princess in the Deep Sea"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage except the middle position, this card gets -4000 power.",
+            "【CONT】 If this card is in the middle position of your center stage, this card gets -2000 power for each of your other 【REVERSE】 characters in the center stage or open position of your center stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to three card from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [(3) Put a card named \"Hehehe… Does it hurt?\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Hehe……you came……?\nOh……you came……",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E34",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E34.png"
+    },
+    {
+        "name": "Wa-class Supply Ship",
+        "code": "KC/SE28-E35",
+        "rarity": "U",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Supply Ship"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Fleet in the Deep Sea》, this card gets +1000 power.",
+            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card attacks, you may pay the cost. If you do, draw a card."
+        ],
+        "flavor_text": "",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E35",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E35.png"
+    },
+    {
+        "name": "Ka-class Submarine",
+        "code": "KC/SE28-E36",
+        "rarity": "U",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Submarine"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a cost 0 or lower character in your opponent's center stage, and put it on the bottom of his or her deck."
+        ],
+        "flavor_text": "",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E36",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E36.png"
+    },
+    {
+        "name": "Light Cruiser Ogre in the Deep Sea",
+        "code": "KC/SE28-E37",
+        "rarity": "U",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Ogre in the Deep Sea"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.",
+            "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"Final Mode, Light Cruiser Ogre in the Deep Sea\" in your hand, and put it on this card's stage position as the defending character."
+        ],
+        "flavor_text": "Sink… to the deep…… and not being able to surface again!",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E37",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E37.png"
+    },
+    {
+        "name": "Nu-class Light Aircraft Carrier",
+        "code": "KC/SE28-E38",
+        "rarity": "U",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Light Aircraft Carrier"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Fleet in the Deep Sea》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E38",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E38.png"
+    },
+    {
+        "name": "Re-class Battleship",
+        "code": "KC/SE28-E39",
+        "rarity": "U",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Battleship"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a 《Fleet Girl》 character, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, you may choose one of your opponent's level 0 or lower characters, and put it on the bottom of his or her deck. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E39",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E39.png"
+    },
+    {
+        "name": "Battleship Princess in the Deep Sea",
+        "code": "KC/SE28-E40",
+        "rarity": "U/SP",
+        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fleet in the Deep Sea",
+            "Princess in the Deep Sea"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named \"Please sink!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 1 or lower characters, and put it on the bottom of his or her deck.",
+            "【AUTO】 [Put this card into your waiting room] When another of your 《Fleet in the Deep Sea》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Please sink in… Ironbottom… Sound…",
+        "set": "KC",
+        "release": "E28",
+        "sid": "E40",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E40.png"
+    },
+    {
         "name": "Destroyer Princess in the Deep Sea",
         "code": "KC/SE28-E41",
         "rarity": "C/SP",
@@ -1210,93 +1297,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E47.png"
     },
     {
-        "name": "Sink!",
-        "code": "KC/SE28-E23",
-        "rarity": "C",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Get away……!",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E23",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E23.png"
-    },
-    {
-        "name": "Nothing… you don't understand anything at all…",
-        "code": "KC/SE28-E24",
-        "rarity": "C",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Nothing… nothing… you don't understand anything at all…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E24",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E24.png"
-    },
-    {
-        "name": "I told you… it's hopeless…",
-        "code": "KC/SE28-E25",
-        "rarity": "C",
-        "expansion": "KanColle : Fleet in the Deep Sea, Sighted!",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "Fleet in the Deep Sea",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Hehehe…",
-        "set": "KC",
-        "release": "E28",
-        "sid": "E25",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WSE_KC_SE28_E25.png"
-    },
-    {
         "name": "Fall!",
         "code": "KC/SE28-E48",
         "rarity": "C",
@@ -1346,7 +1346,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "I will sink you… no matter how many times… it takes.",
         "set": "KC",
@@ -1376,7 +1376,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Now you've done it… I will also leave you in pain……!",
         "set": "KC",

@@ -1,556 +1,5 @@
 [
     {
-        "name": "Cruel Hypothesis, Rio Futaba",
-        "code": "SBY/W64-TE01",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Science"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original position)",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw 1 card."
-        ],
-        "flavor_text": "-",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE01.png"
-    },
-    {
-        "name": "Self-Introduction, Shoko Makinohara",
-        "code": "SBY/W64-TE02",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Mystery"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original position)"
-        ],
-        "flavor_text": "My name is Shoko Makinohara.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE02.png"
-    },
-    {
-        "name": "Sudden Assault, Tomoe Koga",
-        "code": "SBY/W64-TE03",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Smartphone"
-        ],
-        "ability": [
-            "【CONT】 During your turn, this card gets +1000 power.",
-            "【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "Now's your chance! Run!",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE03.png"
-    },
-    {
-        "name": "Call During Wee Hours, Rio Futaba",
-        "code": "SBY/W64-TE04",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Science"
-        ],
-        "ability": [
-            "【AUTO】 When your other 《Adolescence》 character attacks, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "What time do you think it is?",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE04.png"
-    },
-    {
-        "name": "Hidden Feelings, Rio Futaba",
-        "code": "SBY/W64-TE05",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Science"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "Are you an idiot!? You must be an idiot!",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE05.png"
-    },
-    {
-        "name": "Impactful Words, Tomoe Koga",
-        "code": "SBY/W64-TE06",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Smartphone"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Adolescence》 characters."
-        ],
-        "flavor_text": "-",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE06.png"
-    },
-    {
-        "name": "Unnamed Letter, Rio Futaba",
-        "code": "SBY/W64-TE07",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Science"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Adolescence》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "See ya. I definitely handed it to you.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE07",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE07.png"
-    },
-    {
-        "name": "An Extraordinary Theory",
-        "code": "SBY/W64-TE08",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "You can't be conscious of other people while you're sleeping, after all.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE08",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE08.png"
-    },
-    {
-        "name": "Misunderstanding",
-        "code": "SBY/W64-TE09",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "Go ahead and kick. That way, we'll be even.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE09",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE09.png"
-    },
-    {
-        "name": "Unreliable Smile, Kaede Azusagawa",
-        "code": "SBY/W64-TE10",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Animal"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [【REST】 this card] Choose 1 of your 《Adolescence》 characters, and that character gets +500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "Sure!",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE10",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE10.png"
-    },
-    {
-        "name": "Enroute to School, Sakuta Azusagawa",
-        "code": "SBY/W64-TE11",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other \"Unexpected Reply, Mai Sakurajima\" get +2000 power.",
-            "【AUTO】 Bond/\"Unexpected Reply, Mai Sakurajima\" [Put 1 card in from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Unexpected Reply, Mai Sakurajima\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Hey, Kunimi…",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE11",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE11.png"
-    },
-    {
-        "name": "Popular Talent, Mai Sakurajima",
-        "code": "SBY/W64-TE12",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Cooking"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "I'm Mai Sakurajima.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE12",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE12.png"
-    },
-    {
-        "name": "Building Trust, Nodoka Toyohama",
-        "code": "SBY/W64-TE13",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Fashionable"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "I think I understand it a bit now.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE13",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE13.png"
-    },
-    {
-        "name": "Judging Stare, Mai Sakurajima",
-        "code": "SBY/W64-TE14",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adolescence",
-            "Cooking"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Heart-to-Heart Talk\" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "Sakuta doesn't deserve more than just \"Sakuta.\"",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE14",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE14.png"
-    },
-    {
-        "name": "Sudden Move, Nodoka Toyohama",
-        "code": "SBY/W64-TE15",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Fashionable"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Sakuta: \"Why are you here, Toyohama?\"",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE15",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE15.png"
-    },
-    {
-        "name": "Big Misunderstanding, Kaede Azusagawa",
-        "code": "SBY/W64-TE16",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Animal"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +2000 power."
-        ],
-        "flavor_text": "Then, is she making you buy a vase?",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE16",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE16.png"
-    },
-    {
-        "name": "Unexpected Reply, Mai Sakurajima",
-        "code": "SBY/W64-TE17",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Cooking"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Thanks.",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE17",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE17.png"
-    },
-    {
-        "name": "Ephemeral Existence, Mai Sakurajima",
-        "code": "SBY/W64-TE18",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adolescence",
-            "Cooking"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Adolescence》 characters you have.",
-            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
-        ],
-        "flavor_text": "-",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE18",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE18.png"
-    },
-    {
-        "name": "Bitter Memories",
-        "code": "SBY/W64-TE19",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have any 《Adolescence》 characters, this card cannot be played from your hand.",
-            "Choose 1 level 2 or higher character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I forced myself to smile…",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE19",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE19.png"
-    },
-    {
-        "name": "Heart-to-Heart Talk",
-        "code": "SBY/W64-TE20",
-        "rarity": "TD",
-        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character from your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Sakuta: \"Because it's hard to be in trouble when you don't have anyone to rely on.\"",
-        "set": "SBY",
-        "release": "64",
-        "sid": "TE20",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE20.png"
-    },
-    {
         "name": "Idol With a Sister Complex, Nodoka Toyohama",
         "code": "SBY/W64-E001",
         "rarity": "RR",
@@ -1199,7 +648,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters and return it to his or her hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Mai: \"Then, from now on, make her happy with something you choose for yourself, Nodoka.\"",
         "set": "SBY",
@@ -2618,8 +2067,8 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】: When this card triggers, you may choose 1 character with level equal to or less than your level +1 from your waiting room, and put it on any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "-",
         "set": "SBY",
@@ -3563,5 +3012,556 @@
         "release": "64",
         "sid": "PE03",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_PE03.png"
+    },
+    {
+        "name": "Cruel Hypothesis, Rio Futaba",
+        "code": "SBY/W64-TE01",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Science"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original position)",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE01.png"
+    },
+    {
+        "name": "Self-Introduction, Shoko Makinohara",
+        "code": "SBY/W64-TE02",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Mystery"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original position)"
+        ],
+        "flavor_text": "My name is Shoko Makinohara.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE02.png"
+    },
+    {
+        "name": "Sudden Assault, Tomoe Koga",
+        "code": "SBY/W64-TE03",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Smartphone"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "Now's your chance! Run!",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE03.png"
+    },
+    {
+        "name": "Call During Wee Hours, Rio Futaba",
+        "code": "SBY/W64-TE04",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Science"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Adolescence》 character attacks, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "What time do you think it is?",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE04.png"
+    },
+    {
+        "name": "Hidden Feelings, Rio Futaba",
+        "code": "SBY/W64-TE05",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Science"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Are you an idiot!? You must be an idiot!",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE05.png"
+    },
+    {
+        "name": "Impactful Words, Tomoe Koga",
+        "code": "SBY/W64-TE06",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Smartphone"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Adolescence》 characters."
+        ],
+        "flavor_text": "-",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE06.png"
+    },
+    {
+        "name": "Unnamed Letter, Rio Futaba",
+        "code": "SBY/W64-TE07",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Science"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Adolescence》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "See ya. I definitely handed it to you.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE07.png"
+    },
+    {
+        "name": "An Extraordinary Theory",
+        "code": "SBY/W64-TE08",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "You can't be conscious of other people while you're sleeping, after all.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE08.png"
+    },
+    {
+        "name": "Misunderstanding",
+        "code": "SBY/W64-TE09",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Go ahead and kick. That way, we'll be even.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE09.png"
+    },
+    {
+        "name": "Unreliable Smile, Kaede Azusagawa",
+        "code": "SBY/W64-TE10",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Animal"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Adolescence》 characters, and that character gets +500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Sure!",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE10.png"
+    },
+    {
+        "name": "Enroute to School, Sakuta Azusagawa",
+        "code": "SBY/W64-TE11",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Unexpected Reply, Mai Sakurajima\" get +2000 power.",
+            "【AUTO】 Bond/\"Unexpected Reply, Mai Sakurajima\" [Put 1 card in from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Unexpected Reply, Mai Sakurajima\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Hey, Kunimi…",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE11.png"
+    },
+    {
+        "name": "Popular Talent, Mai Sakurajima",
+        "code": "SBY/W64-TE12",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Cooking"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I'm Mai Sakurajima.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE12.png"
+    },
+    {
+        "name": "Building Trust, Nodoka Toyohama",
+        "code": "SBY/W64-TE13",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Fashionable"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "I think I understand it a bit now.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE13.png"
+    },
+    {
+        "name": "Judging Stare, Mai Sakurajima",
+        "code": "SBY/W64-TE14",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adolescence",
+            "Cooking"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Heart-to-Heart Talk\" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Sakuta doesn't deserve more than just \"Sakuta.\"",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE14.png"
+    },
+    {
+        "name": "Sudden Move, Nodoka Toyohama",
+        "code": "SBY/W64-TE15",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Fashionable"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Sakuta: \"Why are you here, Toyohama?\"",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE15.png"
+    },
+    {
+        "name": "Big Misunderstanding, Kaede Azusagawa",
+        "code": "SBY/W64-TE16",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Animal"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +2000 power."
+        ],
+        "flavor_text": "Then, is she making you buy a vase?",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE16.png"
+    },
+    {
+        "name": "Unexpected Reply, Mai Sakurajima",
+        "code": "SBY/W64-TE17",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Cooking"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Thanks.",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE17.png"
+    },
+    {
+        "name": "Ephemeral Existence, Mai Sakurajima",
+        "code": "SBY/W64-TE18",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adolescence",
+            "Cooking"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Adolescence》 characters you have.",
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE18.png"
+    },
+    {
+        "name": "Bitter Memories",
+        "code": "SBY/W64-TE19",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have any 《Adolescence》 characters, this card cannot be played from your hand.",
+            "Choose 1 level 2 or higher character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I forced myself to smile…",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE19.png"
+    },
+    {
+        "name": "Heart-to-Heart Talk",
+        "code": "SBY/W64-TE20",
+        "rarity": "TD",
+        "expansion": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Sakuta: \"Because it's hard to be in trouble when you don't have anyone to rely on.\"",
+        "set": "SBY",
+        "release": "64",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SBY_W64_TE20.png"
     }
 ]

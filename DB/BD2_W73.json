@@ -1,561 +1,5 @@
 [
     {
-        "name": "\"UNSTOPPABLE\" LAYER",
-        "code": "BD/W73-TE01",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
-        ],
-        "flavor_text": "I'd be stoked if you'd join my band anyways.",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE01.png"
-    },
-    {
-        "name": "Amidst Loud Cheers, LOCK",
-        "code": "BD/W73-TE02",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Music》 characters get +500 power.",
-            "【AUTO】 This ability activates up to 1 time per turn. When you use \"Accelerate\", you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "……",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE02.png"
-    },
-    {
-        "name": "Firm Passion, MASKING",
-        "code": "BD/W73-TE03",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
-            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn."
-        ],
-        "flavor_text": "I guess.",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE03.png"
-    },
-    {
-        "name": "\"UNSTOPPABLE\" LOCK",
-        "code": "BD/W73-TE04",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 If all of your characters are 《Music》, this card gets +2000 power.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Intense Performance\" is in your climax area, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)"
-        ],
-        "flavor_text": "I knew right then that I wanted to be in a band again.",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE04.png"
-    },
-    {
-        "name": "Strumming Melodies, LAYER",
-        "code": "BD/W73-TE05",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Any requests?",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE05.png"
-    },
-    {
-        "name": "On Stage, MASKING",
-        "code": "BD/W73-TE06",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE06.png"
-    },
-    {
-        "name": "\"UNSTOPPABLE\" MASKING",
-        "code": "BD/W73-TE07",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "I guess you're all right.",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE07",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE07.png"
-    },
-    {
-        "name": "Firm Emotions, LOCK",
-        "code": "BD/W73-TE08",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Music》 characters.",
-            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
-        ],
-        "flavor_text": "I, um... I always thought that people played in bands because it's fun…",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE08",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE08.png"
-    },
-    {
-        "name": "On Stage, LAYER",
-        "code": "BD/W73-TE09",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×1000.",
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put up to 2 cards from the top of your deck into your stock.\""
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE09",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE09.png"
-    },
-    {
-        "name": "Firm Abilities, LAYER",
-        "code": "BD/W73-TE10",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power.",
-            "【AUTO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
-        ],
-        "flavor_text": "Do you remember how insane the cheers from the crowd were?",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE10",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE10.png"
-    },
-    {
-        "name": "Intense Performance",
-        "code": "BD/W73-TE11",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE11",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE11.png"
-    },
-    {
-        "name": "Rising Enthusiasm",
-        "code": "BD/W73-TE12",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE12",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE12.png"
-    },
-    {
-        "name": "Firm Perceptions, CHU2",
-        "code": "BD/W73-TE13",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 All of your other \"Firm Trust, PAREO\" get +1000 power.",
-            "【AUTO】 Bond/\"Firm Trust, PAREO\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Firm Trust, PAREO\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "PAREO!",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE13",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE13.png"
-    },
-    {
-        "name": "\"UNSTOPPABLE\" CHU2",
-        "code": "BD/W73-TE14",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
-        ],
-        "flavor_text": "Your amazing performances are what made me scout you!",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE14",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE14.png"
-    },
-    {
-        "name": "\"UNSTOPPABLE\" PAREO",
-        "code": "BD/W73-TE15",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card attacks, search your deck for up to 1 《RAISE A SUILEN》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
-        ],
-        "flavor_text": "RAISE A SUILEN was created as an expression of the music CHU2-sama creates.",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE15",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE15.png"
-    },
-    {
-        "name": "Firm Trust, PAREO",
-        "code": "BD/W73-TE16",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Right, coming!",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE16",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE16.png"
-    },
-    {
-        "name": "Unceasing Cheers, CHU2",
-        "code": "BD/W73-TE17",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Sweet! Excellent!",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE17",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE17.png"
-    },
-    {
-        "name": "On Stage, PAREO",
-        "code": "BD/W73-TE18",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Music",
-            "RAISE A SUILEN"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×500."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE18",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE18.png"
-    },
-    {
-        "name": "Change the world!",
-        "code": "BD/W73-TE19",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a 《Music》 character, this card cannot be played from your hand.",
-            "Choose 1 of the following effects and perform it.",
-            "\"Search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
-            "\"Choose 1 of your characters, and that character gets +3000 power until end of turn. Put this card into your stock.\""
-        ],
-        "flavor_text": "By flying a banner with this name, we're showing the world that we're determined to bathe in the spotlight!",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE19",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE19.png"
-    },
-    {
-        "name": "Ultimate Sound",
-        "code": "BD/W73-TE20",
-        "rarity": "TD",
-        "expansion": "BanG Dream! [RAISE A SUILEN]",
-        "side": "W",
-        "type": "Climax",
-        "color": "BLUE",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "-",
-        "set": "BD",
-        "release": "73",
-        "sid": "TE20",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE20.png"
-    },
-    {
         "name": "\"Music of Smiles\" Hagumi Kitazawa",
         "code": "BD/W73-E001",
         "rarity": "RR",
@@ -974,7 +418,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
         ],
         "flavor_text": "Michelle: \"Kokoro!\"",
         "set": "BD",
@@ -1004,7 +448,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Tonight, you shall all delight in the wondrous land of Hello, Happy World!",
         "set": "BD",
@@ -1840,7 +1284,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "Go back to Poppin' Party.",
         "set": "BD",
@@ -1869,7 +1313,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -1898,7 +1342,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "Moca: \"Do you remember the sunset we watched after our middle school culture festival performance?\"",
         "set": "BD",
@@ -2312,8 +1756,8 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
-            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -2342,7 +1786,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -3233,7 +2677,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -3263,7 +2707,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -3292,7 +2736,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw 1 card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "You guys better watch out...!!!!",
         "set": "BD",
@@ -3322,7 +2766,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "I'll be waiting, okay?",
         "set": "BD",
@@ -3352,7 +2796,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "BD",
@@ -3521,5 +2965,561 @@
         "release": "73",
         "sid": "E106",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_E106.png"
+    },
+    {
+        "name": "\"UNSTOPPABLE\" LAYER",
+        "code": "BD/W73-TE01",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "I'd be stoked if you'd join my band anyways.",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE01.png"
+    },
+    {
+        "name": "Amidst Loud Cheers, LOCK",
+        "code": "BD/W73-TE02",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Music》 characters get +500 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you use \"Accelerate\", you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "……",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE02.png"
+    },
+    {
+        "name": "Firm Passion, MASKING",
+        "code": "BD/W73-TE03",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "I guess.",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE03.png"
+    },
+    {
+        "name": "\"UNSTOPPABLE\" LOCK",
+        "code": "BD/W73-TE04",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Music》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Intense Performance\" is in your climax area, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "I knew right then that I wanted to be in a band again.",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE04.png"
+    },
+    {
+        "name": "Strumming Melodies, LAYER",
+        "code": "BD/W73-TE05",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Any requests?",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE05.png"
+    },
+    {
+        "name": "On Stage, MASKING",
+        "code": "BD/W73-TE06",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE06.png"
+    },
+    {
+        "name": "\"UNSTOPPABLE\" MASKING",
+        "code": "BD/W73-TE07",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "I guess you're all right.",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE07.png"
+    },
+    {
+        "name": "Firm Emotions, LOCK",
+        "code": "BD/W73-TE08",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Music》 characters.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "I, um... I always thought that people played in bands because it's fun…",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE08.png"
+    },
+    {
+        "name": "On Stage, LAYER",
+        "code": "BD/W73-TE09",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×1000.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put up to 2 cards from the top of your deck into your stock.\""
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE09.png"
+    },
+    {
+        "name": "Firm Abilities, LAYER",
+        "code": "BD/W73-TE10",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power.",
+            "【AUTO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Do you remember how insane the cheers from the crowd were?",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE10.png"
+    },
+    {
+        "name": "Intense Performance",
+        "code": "BD/W73-TE11",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE11.png"
+    },
+    {
+        "name": "Rising Enthusiasm",
+        "code": "BD/W73-TE12",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE12.png"
+    },
+    {
+        "name": "Firm Perceptions, CHU2",
+        "code": "BD/W73-TE13",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Firm Trust, PAREO\" get +1000 power.",
+            "【AUTO】 Bond/\"Firm Trust, PAREO\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Firm Trust, PAREO\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "PAREO!",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE13.png"
+    },
+    {
+        "name": "\"UNSTOPPABLE\" CHU2",
+        "code": "BD/W73-TE14",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Your amazing performances are what made me scout you!",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE14.png"
+    },
+    {
+        "name": "\"UNSTOPPABLE\" PAREO",
+        "code": "BD/W73-TE15",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card attacks, search your deck for up to 1 《RAISE A SUILEN》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "RAISE A SUILEN was created as an expression of the music CHU2-sama creates.",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE15.png"
+    },
+    {
+        "name": "Firm Trust, PAREO",
+        "code": "BD/W73-TE16",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Right, coming!",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE16.png"
+    },
+    {
+        "name": "Unceasing Cheers, CHU2",
+        "code": "BD/W73-TE17",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Sweet! Excellent!",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE17.png"
+    },
+    {
+        "name": "On Stage, PAREO",
+        "code": "BD/W73-TE18",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Music",
+            "RAISE A SUILEN"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE18.png"
+    },
+    {
+        "name": "Change the world!",
+        "code": "BD/W73-TE19",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Music》 character, this card cannot be played from your hand.",
+            "Choose 1 of the following effects and perform it.",
+            "\"Search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+            "\"Choose 1 of your characters, and that character gets +3000 power until end of turn. Put this card into your stock.\""
+        ],
+        "flavor_text": "By flying a banner with this name, we're showing the world that we're determined to bathe in the spotlight!",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE19.png"
+    },
+    {
+        "name": "Ultimate Sound",
+        "code": "BD/W73-TE20",
+        "rarity": "TD",
+        "expansion": "BanG Dream! [RAISE A SUILEN]",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "BD",
+        "release": "73",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BD_W73_TE20.png"
     }
 ]

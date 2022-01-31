@@ -1,558 +1,5 @@
 [
     {
-        "name": "Finn: Home Remedy",
-        "code": "AT/WX02-T01",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
-        ],
-        "flavor_text": "Then let's just give him some uh… purple whatevers.",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T01.png"
-    },
-    {
-        "name": "Finn: Pledge of Ultimate Responsibility",
-        "code": "AT/WX02-T02",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Aw man, this sucks.",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T02.png"
-    },
-    {
-        "name": "Jake: Don't Roast Them!",
-        "code": "AT/WX02-T03",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
-            "【AUTO】 When this card attacks, choose 1 of your other characters with \"Finn\" in its card name, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "You gotta flambé!",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T03.png"
-    },
-    {
-        "name": "BMO: Movie Filming Time",
-        "code": "AT/WX02-T04",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T04.png"
-    },
-    {
-        "name": "Finn & Jake: Gauntlet Dock Cleared!",
-        "code": "AT/WX02-T05",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【CONT】 All of your other \"Marceline: Vampiric Tendencies\" get +1000 power.",
-            "【AUTO】 Bond/\"Marceline: Vampiric Tendencies\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Marceline: Vampiric Tendencies\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Haha, yeah! Woo!",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T05.png"
-    },
-    {
-        "name": "Jake: No Longer Pure",
-        "code": "AT/WX02-T06",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Huh? What? What boots?",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T06.png"
-    },
-    {
-        "name": "Finn: Daily Diligence",
-        "code": "AT/WX02-T07",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【CONT】 If you have another \"Princess Bubblegum: Casual\", this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000."
-        ],
-        "flavor_text": "They come every day at 4 o'clock, on the dot.",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T07",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T07.png"
-    },
-    {
-        "name": "BMO: Doing Strange Things When Nobody's Around",
-        "code": "AT/WX02-T08",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "-"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T08",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T08.png"
-    },
-    {
-        "name": "Finn & Jake: Heroes of Ooo",
-        "code": "AT/WX02-T09",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +1000 power.",
-            "【AUTO】 When damage dealt by this card is canceled, this card gets +2000 power until end of turn.",
-            "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T09",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T09.png"
-    },
-    {
-        "name": "Vampire Kick",
-        "code": "AT/WX02-T10",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T10",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T10.png"
-    },
-    {
-        "name": "Imagination Hyperdrive",
-        "code": "AT/WX02-T11",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "I can imagine everything!!!",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T11",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T11.png"
-    },
-    {
-        "name": "Princess Bubblegum: Casual",
-        "code": "AT/WX02-T12",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When your other 《Ooo》 character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +500 power until end of turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T12",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T12.png"
-    },
-    {
-        "name": "Princess Bubblegum: Stately Gown",
-        "code": "AT/WX02-T13",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Whistling Choir Deathmatch Championship Practice\" is in your climax area, and you have another 《Ooo》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "Sorry Finn. I'm busy practicing for the Whistling Choir Deathmatch Championship.",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T13",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T13.png"
-    },
-    {
-        "name": "Emerald Princess",
-        "code": "AT/WX02-T14",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Ooo》 characters you have ×500."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T14",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T14.png"
-    },
-    {
-        "name": "Marceline: Vampiric Tendencies",
-        "code": "AT/WX02-T15",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Ooo",
-            "Vampire"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +2000 power.",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T15",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T15.png"
-    },
-    {
-        "name": "Engagement Ring Princess",
-        "code": "AT/WX02-T16",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ooo》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T16",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T16.png"
-    },
-    {
-        "name": "Lady Rainicorn: Universally Understood",
-        "code": "AT/WX02-T17",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "And then I ate all the peaches in the orchard!",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T17",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T17.png"
-    },
-    {
-        "name": "Marceline: Fond of Pranks",
-        "code": "AT/WX02-T18",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Vampire"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card attacks, choose 1 of your other 《Ooo》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×500."
-        ],
-        "flavor_text": "Dang man, I didn't think you'd ever catch on.",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T18",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T18.png"
-    },
-    {
-        "name": "Don't Eat Those",
-        "code": "AT/WX02-T19",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose up to 2 characters in your waiting room, and return them to your hand."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T19",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T19.png"
-    },
-    {
-        "name": "Whistling Choir Deathmatch Championship Practice",
-        "code": "AT/WX02-T20",
-        "rarity": "TD",
-        "expansion": "Adventure Time",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "♪",
-        "set": "AT",
-        "release": "X02",
-        "sid": "T20",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T20.png"
-    },
-    {
         "name": "Finn the Human & Jake the Dog",
         "code": "AT/WX02-001",
         "rarity": "RR",
@@ -1519,7 +966,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -1549,7 +996,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Billy: \"It's as if your words are filling a void in my very being.\"",
         "set": "AT",
@@ -1579,7 +1026,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -1637,7 +1084,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -2519,8 +1966,8 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
-            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "♪ I'm gonna sing a song to you, and I refuse to make it fake ♫",
         "set": "AT",
@@ -2549,8 +1996,8 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the effect.",
-            "(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -2579,7 +2026,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "♪ Daddy, why did you eat my fries ♫",
         "set": "AT",
@@ -3279,7 +2726,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -3308,7 +2755,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw 1 card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -3337,7 +2784,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw 1 card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "-",
         "set": "AT",
@@ -3454,63 +2901,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_104.png"
     },
     {
-        "name": "Finn & Jake: Adventure Time!",
-        "code": "AT/WX02-P01A",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Hero"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "AT",
-        "release": "X02",
-        "sid": "P01A",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P01A.png"
-    },
-    {
-        "name": "Princess Bubblegum: Gauntleted Fists",
-        "code": "AT/WX02-P02",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Ooo",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "And now, Ice King, prepare to howl with… pain?",
-        "set": "AT",
-        "release": "X02",
-        "sid": "P02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P02.png"
-    },
-     {
         "name": "Finn: Everything In!",
         "code": "AT/WX02-A01",
         "rarity": "DD",
@@ -3718,7 +3108,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
         ],
         "flavor_text": "Marceline: \"Finn, what’s going on? What is this place?\"\nFinn: \"It’s my old house. That magic powder put you in my memories.\"",
         "set": "AT",
@@ -3853,12 +3243,622 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "AT",
         "release": "X02",
         "sid": "A13",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A13.png"
+    },
+    {
+        "name": "Finn & Jake: Adventure Time!",
+        "code": "AT/WX02-P01A",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "P01A",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P01A.png"
+    },
+    {
+        "name": "Princess Bubblegum: Gauntleted Fists",
+        "code": "AT/WX02-P02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "And now, Ice King, prepare to howl with… pain?",
+        "set": "AT",
+        "release": "X02",
+        "sid": "P02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_P02.png"
+    },
+    {
+        "name": "Finn: Home Remedy",
+        "code": "AT/WX02-T01",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "Then let's just give him some uh… purple whatevers.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T01.png"
+    },
+    {
+        "name": "Finn: Pledge of Ultimate Responsibility",
+        "code": "AT/WX02-T02",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Aw man, this sucks.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T02.png"
+    },
+    {
+        "name": "Jake: Don't Roast Them!",
+        "code": "AT/WX02-T03",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card attacks, choose 1 of your other characters with \"Finn\" in its card name, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "You gotta flambé!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T03.png"
+    },
+    {
+        "name": "BMO: Movie Filming Time",
+        "code": "AT/WX02-T04",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T04.png"
+    },
+    {
+        "name": "Finn & Jake: Gauntlet Dock Cleared!",
+        "code": "AT/WX02-T05",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Marceline: Vampiric Tendencies\" get +1000 power.",
+            "【AUTO】 Bond/\"Marceline: Vampiric Tendencies\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Marceline: Vampiric Tendencies\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Haha, yeah! Woo!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T05.png"
+    },
+    {
+        "name": "Jake: No Longer Pure",
+        "code": "AT/WX02-T06",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Huh? What? What boots?",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T06.png"
+    },
+    {
+        "name": "Finn: Daily Diligence",
+        "code": "AT/WX02-T07",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Princess Bubblegum: Casual\", this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000."
+        ],
+        "flavor_text": "They come every day at 4 o'clock, on the dot.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T07.png"
+    },
+    {
+        "name": "BMO: Doing Strange Things When Nobody's Around",
+        "code": "AT/WX02-T08",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T08.png"
+    },
+    {
+        "name": "Finn & Jake: Heroes of Ooo",
+        "code": "AT/WX02-T09",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +1000 power.",
+            "【AUTO】 When damage dealt by this card is canceled, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T09.png"
+    },
+    {
+        "name": "Vampire Kick",
+        "code": "AT/WX02-T10",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T10.png"
+    },
+    {
+        "name": "Imagination Hyperdrive",
+        "code": "AT/WX02-T11",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I can imagine everything!!!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T11.png"
+    },
+    {
+        "name": "Princess Bubblegum: Casual",
+        "code": "AT/WX02-T12",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Ooo》 character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T12.png"
+    },
+    {
+        "name": "Princess Bubblegum: Stately Gown",
+        "code": "AT/WX02-T13",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Whistling Choir Deathmatch Championship Practice\" is in your climax area, and you have another 《Ooo》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Sorry Finn. I'm busy practicing for the Whistling Choir Deathmatch Championship.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T13.png"
+    },
+    {
+        "name": "Emerald Princess",
+        "code": "AT/WX02-T14",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Ooo》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T14",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T14.png"
+    },
+    {
+        "name": "Marceline: Vampiric Tendencies",
+        "code": "AT/WX02-T15",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Ooo",
+            "Vampire"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T15",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T15.png"
+    },
+    {
+        "name": "Engagement Ring Princess",
+        "code": "AT/WX02-T16",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ooo》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T16",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T16.png"
+    },
+    {
+        "name": "Lady Rainicorn: Universally Understood",
+        "code": "AT/WX02-T17",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "And then I ate all the peaches in the orchard!",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T17",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T17.png"
+    },
+    {
+        "name": "Marceline: Fond of Pranks",
+        "code": "AT/WX02-T18",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Ooo",
+            "Vampire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Ooo》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×500."
+        ],
+        "flavor_text": "Dang man, I didn't think you'd ever catch on.",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T18",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T18.png"
+    },
+    {
+        "name": "Don't Eat Those",
+        "code": "AT/WX02-T19",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to 2 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T19",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T19.png"
+    },
+    {
+        "name": "Whistling Choir Deathmatch Championship Practice",
+        "code": "AT/WX02-T20",
+        "rarity": "TD",
+        "expansion": "Adventure Time",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "♪",
+        "set": "AT",
+        "release": "X02",
+        "sid": "T20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AT_WX02_T20.png"
     }
 ]

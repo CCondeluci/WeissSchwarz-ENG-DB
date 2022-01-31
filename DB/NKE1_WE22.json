@@ -57,6 +57,145 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E02R.png"
     },
     {
+        "name": "Magical Gorilla, Chitoge",
+        "code": "NK/WE22-E03",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Heiress",
+            "Key"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.",
+            "【AUTO】 Bond/\"Tsugumyaa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Tsugumyaa\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "So he's the master of evil!?",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E03C.png"
+    },
+    {
+        "name": "To and From School, Raku",
+        "code": "NK/WE22-E04",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Key",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Key》 characters get +500 power.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E04C.png"
+    },
+    {
+        "name": "New Life! Chitoge",
+        "code": "NK/WE22-E05",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Heiress",
+            "Key"
+        ],
+        "ability": [
+            "【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named \"But It's All About You\" is in your climax area, you may pay the cost. If you do, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Oh, right…...\nI'm in love with someone now.",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E05C.png"
+    },
+    {
+        "name": "Great Style! Chitoge",
+        "code": "NK/WE22-E06",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Heiress",
+            "Key"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 This ability activates up to one time per turn. When you use 【ACT】, choose one of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E06C.png"
+    },
+    {
+        "name": "But It's All About You",
+        "code": "NK/WE22-E07",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "What…... kind of relationship\ndo I want with him, exactly……　｛詰めてください、キャラクターの顔を隠すのが避けるように｝",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E07C.png"
+    },
+    {
         "name": "Neighbor, Haru",
         "code": "NK/WE22-E08",
         "rarity": "R",
@@ -192,253 +331,6 @@
         "release": "E22",
         "sid": "E12",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E12R.png"
-    },
-    {
-        "name": "Magical Police Marika",
-        "code": "NK/WE22-E21",
-        "rarity": "R",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Police",
-            "Key"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Police》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Magical Police Marika, is here☆",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E21",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E21R.png"
-    },
-    {
-        "name": "Draw of the Shop, Haru",
-        "code": "NK/WE22-E24",
-        "rarity": "R",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sweets",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Sweets》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "You know, I really love their daifuku, too……!",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E24",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E24R.png"
-    },
-    {
-        "name": "Freshman, Haru",
-        "code": "NK/WE22-E25",
-        "rarity": "R",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sweets",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Sweets》 character."
-        ],
-        "flavor_text": "As of today, I'm a first-year\nstudent in high school……!　｛詰めてください｝",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E25",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E25R.png"
-    },
-    {
-        "name": "Magical Patissiere, Kosaki",
-        "code": "NK/WE22-E26",
-        "rarity": "R",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sweets",
-            "Key"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 [Put this card into your waiting room] When a card named \"Contract Concluded☆\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Pajama Party, Kosaki\" in your hand, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Yes, I understand! Rurin!",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E26",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E26R.png"
-    },
-    {
-        "name": "Pajama Party, Kosaki",
-        "code": "NK/WE22-E27",
-        "rarity": "R",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sweets",
-            "Key"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if a card named \"Contract Concluded☆\" is in your climax area, and all of your characters are 《Sweets》, search your deck for up to one 《Sweets》 character, reveal it to your opponent, and put it into your hand. Then, shuffle your deck, and this card gets +2500 power until the end of your opponent's next turn.",
-            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn."
-        ],
-        "flavor_text": "…… But…… it's a slightly\nspecial kind of obligatory.　｛詰めてください｝",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E27",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E27R.png"
-    },
-    {
-        "name": "Magical Gorilla, Chitoge",
-        "code": "NK/WE22-E03",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Heiress",
-            "Key"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.",
-            "【AUTO】 Bond/\"Tsugumyaa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Tsugumyaa\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "So he's the master of evil!?",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E03C.png"
-    },
-    {
-        "name": "To and From School, Raku",
-        "code": "NK/WE22-E04",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Key",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Key》 characters get +500 power.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E04C.png"
-    },
-    {
-        "name": "New Life! Chitoge",
-        "code": "NK/WE22-E05",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Heiress",
-            "Key"
-        ],
-        "ability": [
-            "【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named \"But It's All About You\" is in your climax area, you may pay the cost. If you do, this card gets +6000 power until end of turn."
-        ],
-        "flavor_text": "Oh, right…...\nI'm in love with someone now.",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E05C.png"
-    },
-    {
-        "name": "Great Style! Chitoge",
-        "code": "NK/WE22-E06",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Heiress",
-            "Key"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 This ability activates up to one time per turn. When you use 【ACT】, choose one of your characters, and that character gets +500 power until end of turn."
-        ],
-        "flavor_text": "",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E06C.png"
     },
     {
         "name": "New Life! Seishiro",
@@ -628,6 +520,62 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E19C.png"
     },
     {
+        "name": "Someday My Prince Will……",
+        "code": "NK/WE22-E20",
+        "rarity": "C",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "You know…… I think he looks like\nthe guy from this morning…… But…... No way, right?",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E20",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E20C.png"
+    },
+    {
+        "name": "Magical Police Marika",
+        "code": "NK/WE22-E21",
+        "rarity": "R",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Police",
+            "Key"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Police》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Magical Police Marika, is here☆",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E21",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E21R.png"
+    },
+    {
         "name": "Marika's Dress Look",
         "code": "NK/WE22-E22",
         "rarity": "C",
@@ -681,6 +629,117 @@
         "release": "E22",
         "sid": "E23",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E23C.png"
+    },
+    {
+        "name": "Draw of the Shop, Haru",
+        "code": "NK/WE22-E24",
+        "rarity": "R",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sweets",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Sweets》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You know, I really love their daifuku, too……!",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E24R.png"
+    },
+    {
+        "name": "Freshman, Haru",
+        "code": "NK/WE22-E25",
+        "rarity": "R",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sweets",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Sweets》 character."
+        ],
+        "flavor_text": "As of today, I'm a first-year\nstudent in high school……!　｛詰めてください｝",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E25R.png"
+    },
+    {
+        "name": "Magical Patissiere, Kosaki",
+        "code": "NK/WE22-E26",
+        "rarity": "R",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sweets",
+            "Key"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [Put this card into your waiting room] When a card named \"Contract Concluded☆\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Pajama Party, Kosaki\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Yes, I understand! Rurin!",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E26R.png"
+    },
+    {
+        "name": "Pajama Party, Kosaki",
+        "code": "NK/WE22-E27",
+        "rarity": "R",
+        "expansion": "NISEKOI: -False Love-",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sweets",
+            "Key"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Contract Concluded☆\" is in your climax area, and all of your characters are 《Sweets》, search your deck for up to one 《Sweets》 character, reveal it to your opponent, and put it into your hand. Then, shuffle your deck, and this card gets +2500 power until the end of your opponent's next turn.",
+            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "…… But…… it's a slightly\nspecial kind of obligatory.　｛詰めてください｝",
+        "set": "NK",
+        "release": "E22",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E27R.png"
     },
     {
         "name": "Sisters Taking a Bath, Kosaki",
@@ -896,65 +955,6 @@
         "release": "E22",
         "sid": "E35",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E35C.png"
-    },
-    {
-        "name": "But It's All About You",
-        "code": "NK/WE22-E07",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "What…... kind of relationship\ndo I want with him, exactly……　｛詰めてください、キャラクターの顔を隠すのが避けるように｝",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E07",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E07C.png"
-    },
-    {
-        "name": "Someday My Prince Will……",
-        "code": "NK/WE22-E20",
-        "rarity": "C",
-        "expansion": "NISEKOI: -False Love-",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "You know…… I think he looks like\nthe guy from this morning…… But…... No way, right?",
-        "set": "NK",
-        "release": "E22",
-        "sid": "E20",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NK_WE22_E20C.png"
     },
     {
         "name": "Contract Concluded☆",

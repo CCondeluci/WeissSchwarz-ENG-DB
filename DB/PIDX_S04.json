@@ -59,6 +59,654 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E002.png"
     },
     {
+        "name": "Sweets Battle Outbreak! Kuro",
+        "code": "PI/S04-E003",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Magic》 character or character with \"Mimi(美々)\" in its card name attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a 《Magic》 character or character with \"Shirou(士郎)\" in its card name from your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Seems like it'll taste ridiculous, as suits you, so it sounds perfect.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E003.png"
+    },
+    {
+        "name": "Temporary Retreat, Kuro",
+        "code": "PI/S04-E004",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Magic》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "I can't really fight like this, a shame.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E004.png"
+    },
+    {
+        "name": "Another “Illya”, Kuro",
+        "code": "PI/S04-E005",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the number of cards in your stock is two or less, put this card into your waiting room."
+        ],
+        "flavor_text": "You're throwing a tantrum like a child.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E005.png"
+    },
+    {
+        "name": "“Flame Burst, seven-fold” Luvia",
+        "code": "PI/S04-E006",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Jewel",
+            "Heiress"
+        ],
+        "ability": [
+            "【AUTO】 [(3) Put a 《Jewel》 character from your hand into your waiting room] When this card attacks, if you have another card named \"“Gale Burst, five-fold” Rin\" in your center stage, you may pay the cost. If you do, deal seven damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Sign!",
+        "set": "PI",
+        "release": "04",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E006.png"
+    },
+    {
+        "name": "“Miracle”? Kuro",
+        "code": "PI/S04-E007",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 one of your other 【STAND】 《Magic》 characters] When this card attacks, if a card named \"Mana Resupply\" is in your climax area, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, put it into your stock, and this card gets +4000 power until end of turn."
+        ],
+        "flavor_text": "You're all going to kiss me once a day.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E007.png"
+    },
+    {
+        "name": "“Gale Burst, five-fold” Rin",
+        "code": "PI/S04-E008",
+        "rarity": "R",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Jewel",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【CONT】 Experience If the total level of the cards in your level is three or higher, this card gets +1000 power."
+        ],
+        "flavor_text": "Set!",
+        "set": "PI",
+        "release": "04",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E008.png"
+    },
+    {
+        "name": "Kaleido Ruby, Rin",
+        "code": "PI/S04-E009",
+        "rarity": "U",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of your center stage gets +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Now, then… Shall we get this show started?",
+        "set": "PI",
+        "release": "04",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E009.png"
+    },
+    {
+        "name": "Luvia in Regular Clothes",
+        "code": "PI/S04-E010",
+        "rarity": "U",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Heiress"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【ACT】 [(1)] Choose one of your 《Jewel》 characters, and that character gets +1500 power and 《Maid》 until end of turn."
+        ],
+        "flavor_text": "Miyu, it seems you've learned how to prepare tea.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E010.png"
+    },
+    {
+        "name": "Kuro All Ready for Gym",
+        "code": "PI/S04-E011",
+        "rarity": "U",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may put the top card of your opponent's deck into his or her stock."
+        ],
+        "flavor_text": "…Four gods? Where's the White Tiger?",
+        "set": "PI",
+        "release": "04",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E011.png"
+    },
+    {
+        "name": "A Maid's Job, Rin",
+        "code": "PI/S04-E012",
+        "rarity": "U",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Maid"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Jewel》 character in your waiting room, return it to your hand, and this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Leave it to me.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E012.png"
+    },
+    {
+        "name": "In a Pinch! Kuro",
+        "code": "PI/S04-E013",
+        "rarity": "U",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from your hand."
+        ],
+        "flavor_text": "…Ha!?",
+        "set": "PI",
+        "release": "04",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E013.png"
+    },
+    {
+        "name": "Rin in Uniform",
+        "code": "PI/S04-E014",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 [(1)] Choose one of your characters with \"Illya(イリヤ)\"in its card name, and that character gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.\""
+        ],
+        "flavor_text": "Yes. I'm a Japanese woman who values harmony.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E014.png"
+    },
+    {
+        "name": "Former Master, Rin",
+        "code": "PI/S04-E015",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each of your other cards named \"Former Master, Luvia\", and the character facing this card gets +1 soul."
+        ],
+        "flavor_text": "What do you think you're doing～～～",
+        "set": "PI",
+        "release": "04",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E015.png"
+    },
+    {
+        "name": "Former Master, Luvia",
+        "code": "PI/S04-E016",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Heiress"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each of your other cards named \"Former Master, Rin\", and the character facing this card gets +1 soul."
+        ],
+        "flavor_text": "Ruby: \"We wouldn't want to get caught up in their fight, after all.\"",
+        "set": "PI",
+        "release": "04",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E016.png"
+    },
+    {
+        "name": "“Shared Pain” Kuro",
+        "code": "PI/S04-E017",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When your opponent levels up, put this card into your waiting room."
+        ],
+        "flavor_text": "I at least have to!",
+        "set": "PI",
+        "release": "04",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E017.png"
+    },
+    {
+        "name": "Homurabara Academy Student, Kuro",
+        "code": "PI/S04-E018",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "What? You aren't happy with the taste?",
+        "set": "PI",
+        "release": "04",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E018.png"
+    },
+    {
+        "name": "Domineering Princess, Luvia",
+        "code": "PI/S04-E019",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Heiress"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Alone, we probably wouldn't have been able to win.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E019.png"
+    },
+    {
+        "name": "School Nursing, Karen",
+        "code": "PI/S04-E020",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Infirmary",
+            "Teacher"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your opponent's clock is four or more, this card gets +1000 power."
+        ],
+        "flavor_text": "…What? Did one of your organs fall out?",
+        "set": "PI",
+        "release": "04",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E020.png"
+    },
+    {
+        "name": "Kaleido Sapphire, Luvia",
+        "code": "PI/S04-E021",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "Magic"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "My qualifications as a wielder must really be…",
+        "set": "PI",
+        "release": "04",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E021.png"
+    },
+    {
+        "name": "Top Candidate of Clock Tower, Rin",
+        "code": "PI/S04-E022",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Jewel",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 For each of your other 《Jewel》 characters, this card gets +500 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "I know we're the ones who involved you in this, but I'm glad you were there.",
+        "set": "PI",
+        "release": "04",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E022.png"
+    },
+    {
+        "name": "Sealing Designation Enforcer, Bazett",
+        "code": "PI/S04-E023",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Male Impersonator",
+            "Precious Tool"
+        ],
+        "ability": [
+            "【AUTO】 [(5)] When a climax is placed on your opponent's climax area, you may pay the cost. If you do, choose a character facing this card, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Ruby: \"Her name is Bazett Fraga McRemitz.\"",
+        "set": "PI",
+        "release": "04",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E023.png"
+    },
+    {
+        "name": "Luvia in Uniform",
+        "code": "PI/S04-E024",
+        "rarity": "C",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Jewel",
+            "Heiress"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is five or higher, this card gets +1500 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Kuro: \"Is that so much to grant me?\"",
+        "set": "PI",
+        "release": "04",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E024.png"
+    },
+    {
+        "name": "Mana Resupply",
+        "code": "PI/S04-E025",
+        "rarity": "CC",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Miyu: \"Mmm?\"",
+        "set": "PI",
+        "release": "04",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E025.png"
+    },
+    {
+        "name": "Behind the Lies and Strong Front",
+        "code": "PI/S04-E026",
+        "rarity": "CC",
+        "expansion": "Fate/kaleid liner PRISMA ILLYA",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Illya: \"Grant your own wishes!\"",
+        "set": "PI",
+        "release": "04",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E026.png"
+    },
+    {
         "name": "“Necessity”? Illya",
         "code": "PI/S04-E027",
         "rarity": "RR",
@@ -228,170 +876,6 @@
         "release": "04",
         "sid": "E032",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E032.png"
-    },
-    {
-        "name": "Sweets Battle Outbreak! Kuro",
-        "code": "PI/S04-E003",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When your other 《Magic》 character or character with \"Mimi(美々)\" in its card name attacks, this card gets +1000 power until end of turn.",
-            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a 《Magic》 character or character with \"Shirou(士郎)\" in its card name from your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Seems like it'll taste ridiculous, as suits you, so it sounds perfect.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E003",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E003.png"
-    },
-    {
-        "name": "Temporary Retreat, Kuro",
-        "code": "PI/S04-E004",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Magic》 character, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "I can't really fight like this, a shame.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E004",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E004.png"
-    },
-    {
-        "name": "Another “Illya”, Kuro",
-        "code": "PI/S04-E005",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the number of cards in your stock is two or less, put this card into your waiting room."
-        ],
-        "flavor_text": "You're throwing a tantrum like a child.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E005",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E005.png"
-    },
-    {
-        "name": "“Flame Burst, seven-fold” Luvia",
-        "code": "PI/S04-E006",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Jewel",
-            "Heiress"
-        ],
-        "ability": [
-            "【AUTO】 [(3) Put a 《Jewel》 character from your hand into your waiting room] When this card attacks, if you have another card named \"“Gale Burst, five-fold” Rin\" in your center stage, you may pay the cost. If you do, deal seven damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Sign!",
-        "set": "PI",
-        "release": "04",
-        "sid": "E006",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E006.png"
-    },
-    {
-        "name": "“Miracle”? Kuro",
-        "code": "PI/S04-E007",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [【REST】 one of your other 【STAND】 《Magic》 characters] When this card attacks, if a card named \"Mana Resupply\" is in your climax area, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, put it into your stock, and this card gets +4000 power until end of turn."
-        ],
-        "flavor_text": "You're all going to kiss me once a day.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E007",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E007.png"
-    },
-    {
-        "name": "“Gale Burst, five-fold” Rin",
-        "code": "PI/S04-E008",
-        "rarity": "R",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Jewel",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
-            "【CONT】 Experience If the total level of the cards in your level is three or higher, this card gets +1000 power."
-        ],
-        "flavor_text": "Set!",
-        "set": "PI",
-        "release": "04",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E008.png"
     },
     {
         "name": "In a Pinch! Illya",
@@ -696,139 +1180,6 @@
         "release": "04",
         "sid": "E043",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E043.png"
-    },
-    {
-        "name": "Kaleido Ruby, Rin",
-        "code": "PI/S04-E009",
-        "rarity": "U",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of your center stage gets +500 power.",
-            "【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Now, then… Shall we get this show started?",
-        "set": "PI",
-        "release": "04",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E009.png"
-    },
-    {
-        "name": "Luvia in Regular Clothes",
-        "code": "PI/S04-E010",
-        "rarity": "U",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Heiress"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
-            "【ACT】 [(1)] Choose one of your 《Jewel》 characters, and that character gets +1500 power and 《Maid》 until end of turn."
-        ],
-        "flavor_text": "Miyu, it seems you've learned how to prepare tea.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E010.png"
-    },
-    {
-        "name": "Kuro All Ready for Gym",
-        "code": "PI/S04-E011",
-        "rarity": "U",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may put the top card of your opponent's deck into his or her stock."
-        ],
-        "flavor_text": "…Four gods? Where's the White Tiger?",
-        "set": "PI",
-        "release": "04",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E011.png"
-    },
-    {
-        "name": "A Maid's Job, Rin",
-        "code": "PI/S04-E012",
-        "rarity": "U",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Maid"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Jewel》 character in your waiting room, return it to your hand, and this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Leave it to me.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E012.png"
-    },
-    {
-        "name": "In a Pinch! Kuro",
-        "code": "PI/S04-E013",
-        "rarity": "U",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from your hand."
-        ],
-        "flavor_text": "…Ha!?",
-        "set": "PI",
-        "release": "04",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E013.png"
     },
     {
         "name": "Practicing Magic, Illya",
@@ -1316,299 +1667,6 @@
         "release": "04",
         "sid": "E061",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E061.png"
-    },
-    {
-        "name": "Rin in Uniform",
-        "code": "PI/S04-E014",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.",
-            "【ACT】 [(1)] Choose one of your characters with \"Illya(イリヤ)\"in its card name, and that character gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.\""
-        ],
-        "flavor_text": "Yes. I'm a Japanese woman who values harmony.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E014.png"
-    },
-    {
-        "name": "Former Master, Rin",
-        "code": "PI/S04-E015",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1500 power for each of your other cards named \"Former Master, Luvia\", and the character facing this card gets +1 soul."
-        ],
-        "flavor_text": "What do you think you're doing～～～",
-        "set": "PI",
-        "release": "04",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E015.png"
-    },
-    {
-        "name": "Former Master, Luvia",
-        "code": "PI/S04-E016",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Heiress"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1500 power for each of your other cards named \"Former Master, Rin\", and the character facing this card gets +1 soul."
-        ],
-        "flavor_text": "Ruby: \"We wouldn't want to get caught up in their fight, after all.\"",
-        "set": "PI",
-        "release": "04",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E016.png"
-    },
-    {
-        "name": "“Shared Pain” Kuro",
-        "code": "PI/S04-E017",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When your opponent levels up, put this card into your waiting room."
-        ],
-        "flavor_text": "I at least have to!",
-        "set": "PI",
-        "release": "04",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E017.png"
-    },
-    {
-        "name": "Homurabara Academy Student, Kuro",
-        "code": "PI/S04-E018",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "What? You aren't happy with the taste?",
-        "set": "PI",
-        "release": "04",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E018.png"
-    },
-    {
-        "name": "Domineering Princess, Luvia",
-        "code": "PI/S04-E019",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Heiress"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Alone, we probably wouldn't have been able to win.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E019.png"
-    },
-    {
-        "name": "School Nursing, Karen",
-        "code": "PI/S04-E020",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Infirmary",
-            "Teacher"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your opponent's clock is four or more, this card gets +1000 power."
-        ],
-        "flavor_text": "…What? Did one of your organs fall out?",
-        "set": "PI",
-        "release": "04",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E020.png"
-    },
-    {
-        "name": "Kaleido Sapphire, Luvia",
-        "code": "PI/S04-E021",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "Magic"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "My qualifications as a wielder must really be…",
-        "set": "PI",
-        "release": "04",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E021.png"
-    },
-    {
-        "name": "Top Candidate of Clock Tower, Rin",
-        "code": "PI/S04-E022",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Jewel",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 For each of your other 《Jewel》 characters, this card gets +500 power.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "I know we're the ones who involved you in this, but I'm glad you were there.",
-        "set": "PI",
-        "release": "04",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E022.png"
-    },
-    {
-        "name": "Sealing Designation Enforcer, Bazett",
-        "code": "PI/S04-E023",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Male Impersonator",
-            "Precious Tool"
-        ],
-        "ability": [
-            "【AUTO】 [(5)] When a climax is placed on your opponent's climax area, you may pay the cost. If you do, choose a character facing this card, and put it into your opponent's waiting room."
-        ],
-        "flavor_text": "Ruby: \"Her name is Bazett Fraga McRemitz.\"",
-        "set": "PI",
-        "release": "04",
-        "sid": "E023",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E023.png"
-    },
-    {
-        "name": "Luvia in Uniform",
-        "code": "PI/S04-E024",
-        "rarity": "C",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Jewel",
-            "Heiress"
-        ],
-        "ability": [
-            "【CONT】 Experience If the total level of the cards in your level is five or higher, this card gets +1500 power.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Kuro: \"Is that so much to grant me?\"",
-        "set": "PI",
-        "release": "04",
-        "sid": "E024",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E024.png"
     },
     {
         "name": "Magical Sapphire",
@@ -2140,7 +2198,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "With all my power… Today, I will end this here!",
         "set": "PI",
@@ -2170,71 +2228,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Yes, something was different today…",
         "set": "PI",
         "release": "04",
         "sid": "E082",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E082.png"
-    },
-    {
-        "name": "Mana Resupply",
-        "code": "PI/S04-E025",
-        "rarity": "CC",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Miyu: \"Mmm?\"",
-        "set": "PI",
-        "release": "04",
-        "sid": "E025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E025.png"
-    },
-    {
-        "name": "Behind the Lies and Strong Front",
-        "code": "PI/S04-E026",
-        "rarity": "CC",
-        "expansion": "Fate/kaleid liner PRISMA ILLYA",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Illya: \"Grant your own wishes!\"",
-        "set": "PI",
-        "release": "04",
-        "sid": "E026",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_PIEN_S04_E026.png"
     },
     {
         "name": "Birth of A Magical Girl!!",
@@ -2315,7 +2315,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Lancer Include…!!",
         "set": "PI",
@@ -2344,7 +2344,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Bellero…phon!",
         "set": "PI",

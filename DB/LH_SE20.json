@@ -80,90 +80,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E03RR.jpg"
     },
     {
-        "name": "Nyan-ta",
-        "code": "LH/SE20-E26",
-        "rarity": "RR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Weapon",
-            "Cook"
-        ],
-        "ability": [
-            "【AUTO】 When another of your 《Weapon》 or 《Magic》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1) Put a card from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent's characters, STAND@ that card and move it to another open position on your opponent's stage, and this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Show me a cat-man who doesn't talk like this and I'll set him straight, hmmmm.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E26",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E26RR.jpg"
-    },
-    {
-        "name": "Field Monitor, Minori",
-        "code": "LH/SE20-E27",
-        "rarity": "RR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Twins"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When a card named \"Simplified Full Control Encounter\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, until end of turn, all of your other characters get +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\""
-        ],
-        "flavor_text": "If I'm too scared to say it, nothing will change…… I've gotta say something!",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E27",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E27RR.jpg"
-    },
-    {
-        "name": "Log Horizon's Representative, Shiroe",
-        "code": "LH/SE20-E28",
-        "rarity": "RR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "3000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 You cannot take damage from your opponent character's 【AUTO】 effects. 【CONT】 Assist All of your 《Weapon》 or 《Magic》 characters in front of this card get +X power. X is equal to 1000 multiplied by that character's level. 【AUTO】 [(1) 【REST】 this card] During your turn, when another of your character's battle opponent becomes 【REVERSE】, if this card is STAND@, you may pay the cost. If you do, choose one of your characters in battle, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -2 soul.\""
-        ],
-        "flavor_text": "……If you can't help them both, then don't. Focus on what you can, it'll help.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E28",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E28RR.jpg"
-    },
-    {
         "name": "Crescent Moon Alliance, Serara",
         "code": "LH/SE20-E04",
         "rarity": "R",
@@ -324,166 +240,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E09R.jpg"
     },
     {
-        "name": "Full Control Encounter, Shiroe",
-        "code": "LH/SE20-E29",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card."
-        ],
-        "flavor_text": "Naotsugu: \"If I were to hazard a guess, I'd say he was fighting by looking thirty seconds ahead.\"",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E29",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E29R.jpg"
-    },
-    {
-        "name": "Waltz for Two, Shiroe",
-        "code": "LH/SE20-E30",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is four or more, this card gets +1500 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Care to dance?",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E30",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E30R.jpg"
-    },
-    {
-        "name": "Log Horizon, Nyan-ta",
-        "code": "LH/SE20-E31",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Weapon",
-            "Cook"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put this card into your waiting room] When another of your characters is being frontal attacked, you may pay the cost. If you do, return that character to your hand. 【ACT】 [【REST】 two of your 《Magic》 characters] Until end of turn, this card's soul does not decrease by side attacking."
-        ],
-        "flavor_text": "This is what I call a time to shine.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E31",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E31R.jpg"
-    },
-    {
-        "name": "Determination to Change the World, Shiroe",
-        "code": "LH/SE20-E32",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 [(1) 【REST】 this card] When your other character attacks, if a card named \"Log Horizon\" is in your climax area, and this card is STAND@, you may pay the cost. If you do, until end of turn, that character gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
-            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Weapon》 or 《Magic》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Give me your assistance. Help me, and my guild.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E32",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E32R.jpg"
-    },
-    {
-        "name": "Reliable Buddy, Naotsugu",
-        "code": "LH/SE20-E33",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Weapon",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room."
-        ],
-        "flavor_text": "I've been watching you lately, man. And you need to lighten up some.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E33",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E33R.jpg"
-    },
-    {
-        "name": "Guardian, Naotsugu",
-        "code": "LH/SE20-E34",
-        "rarity": "R",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Weapon",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Magic》 characters. 【CONT】 Great Performance (When your opponent attacks, if this card is in the middle position of your center stage and not 【REVERSE】, your opponent frontal attacks this card instead)"
-        ],
-        "flavor_text": "……Toya, the job of a front-line tank is to absorb all the enemy hits, and to trust his companions to back him up when he needs it.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E34",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E34R.jpg"
-    },
-    {
         "name": "Rudy's Owner? Isuzu",
         "code": "LH/SE20-E10",
         "rarity": "U",
@@ -642,164 +398,6 @@
         "release": "E20",
         "sid": "E15",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E15U.jpg"
-    },
-    {
-        "name": "Guildmaster, Shiroe",
-        "code": "LH/SE20-E35",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 Bond/ \"Reliable Buddy, Naotsugu\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Reliable Buddy, Naotsugu\" in your waiting room, and return it to your hand) 【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "And instead of losing your patience, you waited for me to figure it out just like that?",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E35",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E35U.jpg"
-    },
-    {
-        "name": "Rayneshia",
-        "code": "LH/SE20-E36",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Heiress",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck."
-        ],
-        "flavor_text": "Well a real gentleman wouldn't say something like that.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E36",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E36U.jpg"
-    },
-    {
-        "name": "Sojiro",
-        "code": "LH/SE20-E37",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Weapon",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, if the number of characters your opponent has is three or less, this card gets +2000 power."
-        ],
-        "flavor_text": "Master Shiro, Master Nyan-ta, it's been quite a while.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E37",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E37U.jpg"
-    },
-    {
-        "name": "Everyone's Group Leader, Nyan-ta",
-        "code": "LH/SE20-E38",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Weapon",
-            "Cook"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of other 《Weapon》or 《Magic》 characters you have is one or less, put this card into your clock."
-        ],
-        "flavor_text": "It's everyone's favorite, curry, myah.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E38",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E38U.jpg"
-    },
-    {
-        "name": "Krusty",
-        "code": "LH/SE20-E39",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Weapon",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, this card gets +1000 power."
-        ],
-        "flavor_text": "You have to want it and work for it.",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E39",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E39U.jpg"
-    },
-    {
-        "name": "Minori",
-        "code": "LH/SE20-E40",
-        "rarity": "U",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "Twins"
-        ],
-        "ability": [
-            "【CONT】 All of your other \"Samurai, Toya\" and \"Toya\" get +1000 power. 【CONT】 During your opponent's turn, all of your other 《Weapon》 or 《Magic》 characters get +1000 power."
-        ],
-        "flavor_text": "We know we're not as strong as the rest of you are but we really wanna learn……",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E40",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E40U.jpg"
     },
     {
         "name": "Rundellhaus",
@@ -1012,6 +610,465 @@
         "release": "E20",
         "sid": "E23",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E23C.jpg"
+    },
+    {
+        "name": "Waltz for Two",
+        "code": "LH/SE20-E24",
+        "rarity": "C",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Akatsuki: \"Milord, I'm really not that good…… I'm kinda clumsy.\"\nShiroe: \"I saw you practicing.\"",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E24C.jpg"
+    },
+    {
+        "name": "Crescent Moon Alliance",
+        "code": "LH/SE20-E25",
+        "rarity": "C",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "You're okay, right……!? I-I'm like so glad, you made it back from Susukino sweetie～…",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E25C.jpg"
+    },
+    {
+        "name": "Nyan-ta",
+        "code": "LH/SE20-E26",
+        "rarity": "RR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Weapon",
+            "Cook"
+        ],
+        "ability": [
+            "【AUTO】 When another of your 《Weapon》 or 《Magic》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1) Put a card from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent's characters, STAND@ that card and move it to another open position on your opponent's stage, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Show me a cat-man who doesn't talk like this and I'll set him straight, hmmmm.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E26RR.jpg"
+    },
+    {
+        "name": "Field Monitor, Minori",
+        "code": "LH/SE20-E27",
+        "rarity": "RR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When a card named \"Simplified Full Control Encounter\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, until end of turn, all of your other characters get +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "If I'm too scared to say it, nothing will change…… I've gotta say something!",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E27RR.jpg"
+    },
+    {
+        "name": "Log Horizon's Representative, Shiroe",
+        "code": "LH/SE20-E28",
+        "rarity": "RR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "3000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 You cannot take damage from your opponent character's 【AUTO】 effects. 【CONT】 Assist All of your 《Weapon》 or 《Magic》 characters in front of this card get +X power. X is equal to 1000 multiplied by that character's level. 【AUTO】 [(1) 【REST】 this card] During your turn, when another of your character's battle opponent becomes 【REVERSE】, if this card is STAND@, you may pay the cost. If you do, choose one of your characters in battle, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -2 soul.\""
+        ],
+        "flavor_text": "……If you can't help them both, then don't. Focus on what you can, it'll help.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E28RR.jpg"
+    },
+    {
+        "name": "Full Control Encounter, Shiroe",
+        "code": "LH/SE20-E29",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card."
+        ],
+        "flavor_text": "Naotsugu: \"If I were to hazard a guess, I'd say he was fighting by looking thirty seconds ahead.\"",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E29",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E29R.jpg"
+    },
+    {
+        "name": "Waltz for Two, Shiroe",
+        "code": "LH/SE20-E30",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is four or more, this card gets +1500 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Care to dance?",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E30",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E30R.jpg"
+    },
+    {
+        "name": "Log Horizon, Nyan-ta",
+        "code": "LH/SE20-E31",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Cook"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your waiting room] When another of your characters is being frontal attacked, you may pay the cost. If you do, return that character to your hand. 【ACT】 [【REST】 two of your 《Magic》 characters] Until end of turn, this card's soul does not decrease by side attacking."
+        ],
+        "flavor_text": "This is what I call a time to shine.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E31",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E31R.jpg"
+    },
+    {
+        "name": "Determination to Change the World, Shiroe",
+        "code": "LH/SE20-E32",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 [(1) 【REST】 this card] When your other character attacks, if a card named \"Log Horizon\" is in your climax area, and this card is STAND@, you may pay the cost. If you do, until end of turn, that character gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Weapon》 or 《Magic》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Give me your assistance. Help me, and my guild.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E32",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E32R.jpg"
+    },
+    {
+        "name": "Reliable Buddy, Naotsugu",
+        "code": "LH/SE20-E33",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room."
+        ],
+        "flavor_text": "I've been watching you lately, man. And you need to lighten up some.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E33",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E33R.jpg"
+    },
+    {
+        "name": "Guardian, Naotsugu",
+        "code": "LH/SE20-E34",
+        "rarity": "R",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Weapon",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Magic》 characters. 【CONT】 Great Performance (When your opponent attacks, if this card is in the middle position of your center stage and not 【REVERSE】, your opponent frontal attacks this card instead)"
+        ],
+        "flavor_text": "……Toya, the job of a front-line tank is to absorb all the enemy hits, and to trust his companions to back him up when he needs it.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E34",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E34R.jpg"
+    },
+    {
+        "name": "Guildmaster, Shiroe",
+        "code": "LH/SE20-E35",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 Bond/ \"Reliable Buddy, Naotsugu\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Reliable Buddy, Naotsugu\" in your waiting room, and return it to your hand) 【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "And instead of losing your patience, you waited for me to figure it out just like that?",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E35",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E35U.jpg"
+    },
+    {
+        "name": "Rayneshia",
+        "code": "LH/SE20-E36",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Heiress",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck."
+        ],
+        "flavor_text": "Well a real gentleman wouldn't say something like that.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E36",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E36U.jpg"
+    },
+    {
+        "name": "Sojiro",
+        "code": "LH/SE20-E37",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if the number of characters your opponent has is three or less, this card gets +2000 power."
+        ],
+        "flavor_text": "Master Shiro, Master Nyan-ta, it's been quite a while.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E37",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E37U.jpg"
+    },
+    {
+        "name": "Everyone's Group Leader, Nyan-ta",
+        "code": "LH/SE20-E38",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Cook"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of other 《Weapon》or 《Magic》 characters you have is one or less, put this card into your clock."
+        ],
+        "flavor_text": "It's everyone's favorite, curry, myah.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E38",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E38U.jpg"
+    },
+    {
+        "name": "Krusty",
+        "code": "LH/SE20-E39",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Weapon",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "You have to want it and work for it.",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E39",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E39U.jpg"
+    },
+    {
+        "name": "Minori",
+        "code": "LH/SE20-E40",
+        "rarity": "U",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "Twins"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Samurai, Toya\" and \"Toya\" get +1000 power. 【CONT】 During your opponent's turn, all of your other 《Weapon》 or 《Magic》 characters get +1000 power."
+        ],
+        "flavor_text": "We know we're not as strong as the rest of you are but we really wanna learn……",
+        "set": "LH",
+        "release": "E20",
+        "sid": "E40",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E40U.jpg"
     },
     {
         "name": "Maiden's Heart, Minori",
@@ -1228,63 +1285,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E48C.jpg"
     },
     {
-        "name": "Waltz for Two",
-        "code": "LH/SE20-E24",
-        "rarity": "C",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Akatsuki: \"Milord, I'm really not that good…… I'm kinda clumsy.\"\nShiroe: \"I saw you practicing.\"",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E24",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E24C.jpg"
-    },
-    {
-        "name": "Crescent Moon Alliance",
-        "code": "LH/SE20-E25",
-        "rarity": "C",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "You're okay, right……!? I-I'm like so glad, you made it back from Susukino sweetie～…",
-        "set": "LH",
-        "release": "E20",
-        "sid": "E25",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E25C.jpg"
-    },
-    {
         "name": "Log Horizon",
         "code": "LH/SE20-E49",
         "rarity": "C",
@@ -1305,7 +1305,8 @@
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Yeah, that's right, a name……",
         "set": "LH",
@@ -1333,13 +1334,97 @@
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card.)"
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card.)",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Naotsugu: \"All these facts she's tracking has her fighting just like Shiro!\"",
         "set": "LH",
         "release": "E20",
         "sid": "E50",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_E50C.jpg"
+    },
+    {
+        "name": "Holding Hands, Akatsuki",
+        "code": "LH/SE20-PE01",
+        "rarity": "PR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Weapon",
+            "Shinobi"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Shiroe\" in its card name, this card gets +1500 power.",
+            "【CONT】 When another of your 《Weapon》 or 《Magic》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "LH",
+        "release": "E20",
+        "sid": "PE01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p01.png"
+    },
+    {
+        "name": "Holding Hands, Shiroe",
+        "code": "LH/SE20-PE02",
+        "rarity": "PR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【ACT】 [REST this card] Choose one of your characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level."
+        ],
+        "flavor_text": "...",
+        "set": "LH",
+        "release": "E20",
+        "sid": "PE02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p02.png"
+    },
+    {
+        "name": "Student of the Mage, Minori",
+        "code": "LH/SE20-PE04",
+        "rarity": "PR",
+        "expansion": "LOG HORIZON",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Twins"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a character with \"Shiroe\" in its card name, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "...",
+        "set": "LH",
+        "release": "E20",
+        "sid": "PE04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p04.png"
     },
     {
         "name": "Druid, Serara",
@@ -1883,88 +1968,5 @@
         "release": "E20",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_LH_SE20_TE20TD.jpg"
-    },
-    {
-        "name": "Holding Hands, Akatsuki",
-        "code": "LH/SE20-PE01",
-        "rarity": "PR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Weapon",
-            "Shinobi"
-        ],
-        "ability": [
-            "【CONT】 If you have another character with \"Shiroe\" in its card name, this card gets +1500 power.",
-            "【CONT】 When another of your 《Weapon》 or 《Magic》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "...",
-        "set": "LH",
-        "release": "E20",
-        "sid": "PE01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p01.png"
-    },
-    {
-        "name": "Holding Hands, Shiroe",
-        "code": "LH/SE20-PE02",
-        "rarity": "PR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
-            "【ACT】 [REST this card] Choose one of your characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level."
-        ],
-        "flavor_text": "...",
-        "set": "LH",
-        "release": "E20",
-        "sid": "PE02",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p02.png"
-    },
-    {
-        "name": "Student of the Mage, Minori",
-        "code": "LH/SE20-PE04",
-        "rarity": "PR",
-        "expansion": "LOG HORIZON",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Twins"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if you have a character with \"Shiroe\" in its card name, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "...",
-        "set": "LH",
-        "release": "E20",
-        "sid": "PE04",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_p04.png"
     }
 ]

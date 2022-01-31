@@ -87,151 +87,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E003RR.png"
     },
     {
-        "name": "\"Beyond the Walls\" Levi",
-        "code": "AOT/S35-E031",
-        "rarity": "RRR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of your 《Corps》 characters is four or more, this card gets -1 level while in your hand.",
-            "【CONT】 If all of your characters are 《Corps》, this card gets +1000 power.",
-            "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand."
-        ],
-        "flavor_text": "You don't need a good “talking-to”. What you’re in need of, boy, is to be taught a lesson.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
-    },
-    {
-        "name": "\"Resisting Fate\" Levi",
-        "code": "AOT/S35-E032",
-        "rarity": "RR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"The Wings of Freedom\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose a 《Corps》 character in your clock, and put it on any position of your stage.",
-            "【AUTO】 [(3) Put a 《Corps》 character from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card and move it to another open position of your stage."
-        ],
-        "flavor_text": "This I swear on my very life. The Titans will be eradicated!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E032RR.png"
-    },
-    {
-        "name": "\"104th Cadet Corps Class\" Christa",
-        "code": "AOT/S35-E056",
-        "rarity": "RR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E056RR.png"
-    },
-    {
-        "name": "\"Resisting Fate\" Mikasa",
-        "code": "AOT/S35-E057",
-        "rarity": "RR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, you may choose one of your 《Corps》 characters and this card, and exchange them as 【STAND】."
-        ],
-        "flavor_text": "This world is cruel……\nBut it’s also…… It's also beautiful.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E057RR.png"
-    },
-    {
-        "name": "\"Beyond the Walls\" Mikasa",
-        "code": "AOT/S35-E058",
-        "rarity": "RRR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"The World the Girl Saw\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "I 'm happy to demonstrate my own technique…… On you. And every last inch of your traitorous flesh.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
-    },
-    {
         "name": "\"Entrance Ceremony\" Annie",
         "code": "AOT/S35-E004",
         "rarity": "R",
@@ -368,421 +223,6 @@
         "release": "35",
         "sid": "E008",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E008R.png"
-    },
-    {
-        "name": "\"Violent Ripples\" Levi",
-        "code": "AOT/S35-E033",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Corps》 characters get +500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn."
-        ],
-        "flavor_text": "What is it?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E033R.png"
-    },
-    {
-        "name": "\"Gentle Smile\" Petra",
-        "code": "AOT/S35-E034",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card from your opponent's clock into your opponent's waiting room. If you do, put that character into your opponent's clock."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E034R.png"
-    },
-    {
-        "name": "\"Overfastidious Personality\" Levi",
-        "code": "AOT/S35-E035",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E035R.png"
-    },
-    {
-        "name": "\"Humanity's Strongest Soldier\" Levi",
-        "code": "AOT/S35-E036",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
-            "【AUTO】 [Put a card from your hand into your waiting room & Put a character from your stage into your waiting room] When a card named \"Special Operations Squad\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose up to one card named \"\"Member of Levi Squad\" Oruo\", up to one card named \"\"Member of Levi Squad\" Petra\", up to one card named \"\"Member of Levi Squad\" Eld\", and up to one card named \"\"Member of Levi Squad\" Gunther\" in your waiting room, and put them on separate positions of your stage."
-        ],
-        "flavor_text": "The pair on the left belongs to me.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E036R.png"
-    },
-    {
-        "name": "\"Frank Disposition\" Hange",
-        "code": "AOT/S35-E037",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Corps》 characters get +1000 power.",
-            "【AUTO】 When a card named \"Truth\" is placed on your climax area, reveal the top card of your deck. If that card is a 《Corps》 character, all of your characters get +2000 power until end of turn. (The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "……Don't be scared, big guy. I won't hurt you.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E037R.png"
-    },
-    {
-        "name": "\"Battle Stance\" Jean",
-        "code": "AOT/S35-E059",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
-            "【ACT】 [(1)] Choose one of your 《Corps》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "I'm sick and tired of people dying because of me!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E059R.png"
-    },
-    {
-        "name": "\"Paving a Way for the Future\" Mikasa",
-        "code": "AOT/S35-E060",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "I plan to follow you whether you give me permission to or not. I swear. I'll never leave your side.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E060R.png"
-    },
-    {
-        "name": "\"Awkward Affection\" Mikasa",
-        "code": "AOT/S35-E061",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you do not have another character with \"Eren(エレン)\" in its card name, this card cannot 【STAND】 during your stand phase.",
-            "【CONT】 If you have another character with \"Eren(エレン)\" in its card name, this card gets +1500 power.",
-            "【AUTO】 [(1)] When this card attacks, if a card named \"I Can Hear His Heartbeat\" is in your climax area, you may pay the cost. If you do, choose a character with \"Eren(エレン)\" in its card name in your waiting room, return it to your hand, and this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "……Whatever happens. Don't get yourself killed……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E061R.png"
-    },
-    {
-        "name": "\"104th Cadet Corps Class\" Sasha",
-        "code": "AOT/S35-E062",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +1500 power and \"【AUTO】 Encore [Put the top card of your deck into your clock]\"."
-        ],
-        "flavor_text": "Keith: \"Sasha Braus. Unusually fine instincts. Rarely shares them with her teammates.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E062R.png"
-    },
-    {
-        "name": "\"Direct Sword\" Mikasa",
-        "code": "AOT/S35-E063",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I'm going to carve you up again.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E063R.png"
-    },
-    {
-        "name": "\"Towering Threat\" Titan",
-        "code": "AOT/S35-E086",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +1000 power.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Titan》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E086R.png"
-    },
-    {
-        "name": "\"Captured Titan\" Sawney",
-        "code": "AOT/S35-E087",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put X cards from the top of your deck into your waiting room. X is equal to the number of 《Titan》 characters you have.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "Hange: \"As a scientist, naturally I started with the standard battery of tests we conduct on all such captures.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E087R.png"
-    },
-    {
-        "name": "\"High Intellect\" Female Titan",
-        "code": "AOT/S35-E088",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Titan》 characters get +1000 power.",
-            "【AUTO】 [(3) Put two cards from your hand into your waiting room] When a climax is placed on your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)",
-            "【ACT】 [【REST】 this card] Choose one of your 《Titan》 characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E088R.png"
-    },
-    {
-        "name": "\"Plan of Capture\" Female Titan",
-        "code": "AOT/S35-E089",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 The character facing this card gets -1 soul.",
-            "【AUTO】 When this card attacks, if a card named \"Subjugation\" is in your climax area and all of your characters are 《Titan》, draw a card, and this card gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -1 soul.\"",
-            "【AUTO】 [Put a 《Titan》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn."
-        ],
-        "flavor_text": "Soldier: \"Don't let her get away!\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E089R.png"
-    },
-    {
-        "name": "\"Enormous Stature\" Colossal Titan",
-        "code": "AOT/S35-E090",
-        "rarity": "R",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If you have a card named \"\"Threat to Humanity\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\", this card gets -1 level while in your hand.",
-            "【CONT】 During your opponent's turn, if this card is in your center stage and is not 【REVERSE】, all of your other \"\"Threat to Humanity\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\" get the following ability. \"【CONT】 This card cannot become 【REVERSE】.\"",
-            "【AUTO】 [Put a card named \"And, in 850……\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, return the top card of your clock to your hand, and this card gets +3000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E090",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E090R.png"
     },
     {
         "name": "\"Guiding Force to the Truth\" Armin",
@@ -976,718 +416,6 @@
         "release": "35",
         "sid": "E015",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E015U.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
-        "code": "AOT/S35-E026a",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
-        ],
-        "flavor_text": "Mankind didn't start this fight…… But we're gonna finish it!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E026a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026aU.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
-        "code": "AOT/S35-E026b",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
-        ],
-        "flavor_text": "I am a soldier! And I have dedicated my heart to the restoration of humanity, sir!! Nothing could make me prouder than dying for such a noble cause!!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E026b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026bU.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
-        "code": "AOT/S35-E026c",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
-        ],
-        "flavor_text": "……No, not really. I just want to live. The only person I’m looking out for is myself.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E026c",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026cU.png"
-    },
-    {
-        "name": "\"Titan's Power\"",
-        "code": "AOT/S35-E027",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your 《Corps》 characters, until end of turn, that character gets +4000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\""
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E027U.png"
-    },
-    {
-        "name": "\"No.1 Oddball\" Hange",
-        "code": "AOT/S35-E038",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Corps》 or 《Titan》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "You almost got me that time, didn’t ya, darling?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E038U.png"
-    },
-    {
-        "name": "\"Member of Levi Squad\" Petra",
-        "code": "AOT/S35-E039",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you have another \"\"Humanity's Strongest Soldier\" Levi\", this card gets +2000 power.",
-            "【CONT】 If you have another \"\"Member of Levi Squad\" Oruo\", your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
-        ],
-        "flavor_text": "Eren: \"Petra Rall. Ten Titan-kills to her credit; forty-eight kill-assists.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E039U.png"
-    },
-    {
-        "name": "\"Cool Personality\" Levi",
-        "code": "AOT/S35-E040",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Corps》 characters you have."
-        ],
-        "flavor_text": "But, it is Erwin's. And you can bet the man's obsessed over every angle.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E040U.png"
-    },
-    {
-        "name": "\"Cold Stare\" Levi",
-        "code": "AOT/S35-E041",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room.",
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "I'll take responsibility for him.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E041U.png"
-    },
-    {
-        "name": "\"Scout Regiment Commanding Officer\" Erwin",
-        "code": "AOT/S35-E042",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "7000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Corps》 characters is four or more, you may put the top card of your deck into your stock.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E042U.png"
-    },
-    {
-        "name": "Biological Research",
-        "code": "AOT/S35-E051",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Look at up to four cards from the top of your deck, choose up to one 《Corps》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room."
-        ],
-        "flavor_text": "Hange: \"Sweet pea…… I've skewered you straight through the heart. Does it not hurt, dear? Don't you feel that?\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E051U.png"
-    },
-    {
-        "name": "\"Lesson\"",
-        "code": "AOT/S35-E052",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 《Corps》 characters, and that character gets +4000 power until the end of your opponent's next turn. Put this card into your stock."
-        ],
-        "flavor_text": "……You know, personally…… I think nothing instills discipline like pain.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E052U.png"
-    },
-    {
-        "name": "\"Calm and Collected\" Mikasa",
-        "code": "AOT/S35-E064",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 During the attack phase, when your character moves to another stage position, that character gets +1000 power until end of turn.",
-            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\""
-        ],
-        "flavor_text": "This may sound stupid, but I was hoping he'd be the key for us……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E064U.png"
-    },
-    {
-        "name": "\"Strong Bloodlust\" Mikasa",
-        "code": "AOT/S35-E065",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if you have a character with \"Eren(エレン)\" in its card name, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "That word gonna come from beyond the grave?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E065U.png"
-    },
-    {
-        "name": "\"Healing Goddess\" Christa",
-        "code": "AOT/S35-E066",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put this card into your waiting room] When another of your 《Corps》 character is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2500 power until end of turn."
-        ],
-        "flavor_text": "You alright!?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E066U.png"
-    },
-    {
-        "name": "\"104th Cadet Corps Class\" Mikasa",
-        "code": "AOT/S35-E067",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to two times per turn. When another of your 《Corps》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
-            "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"\"Resisting Fate\" Mikasa\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Keith: \"Mikasa Ackermann. Model cadet. Excels in everything. In fact, it's no overstatement to call the girl a genius……\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E067U.png"
-    },
-    {
-        "name": "\"104th Cadet Corps Class\" Jean",
-        "code": "AOT/S35-E068",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +2000 power until end of turn.",
-            "【ACT】 [(1)] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that card on the top of your opponent's deck.\""
-        ],
-        "flavor_text": "Keith: \"Jean Kirschtein. Head of the class on ODM; also an insufferable smartass with a hair-trigger temper.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E068U.png"
-    },
-    {
-        "name": "\"Bold Crime\" Sasha",
-        "code": "AOT/S35-E069",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.",
-            "【CONT】 If this card is on the stage, this card gets 《Potato》.",
-            "【AUTO】 When this card attacks, if a card named \"Same Class\" is in your climax area, choose up to one card in your opponent's waiting room, put it on the top of your opponent's deck, and this card gets +3000 power until end of turn."
-        ],
-        "flavor_text": "Are you asking me why people eat potatoes?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E069U.png"
-    },
-    {
-        "name": "\"104th Cadet Corps Class\" Reiner",
-        "code": "AOT/S35-E070",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "7500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【ACT】 [【REST】 one of your 《Corps》 characters] This card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E070U.png"
-    },
-    {
-        "name": "Hand of Salvation",
-        "code": "AOT/S35-E081",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, put it into your waiting room, choose one of your characters, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "I’m sorry there isn’t more…… It’s all I could take……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E081U.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Snap Blade\"",
-        "code": "AOT/S35-E082a",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
-        ],
-        "flavor_text": "Come and find me so I can protect you!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E082a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082aU.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Snap Blade\"",
-        "code": "AOT/S35-E082b",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
-        ],
-        "flavor_text": "……Our lives are riding on this……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E082b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082bU.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Snap Blade\"",
-        "code": "AOT/S35-E082c",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
-        ],
-        "flavor_text": "It sat there in the mess hall begging to be eaten. Sir!!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E082c",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082cU.png"
-    },
-    {
-        "name": "\"Hard Exterior\" Armored Titan",
-        "code": "AOT/S35-E091",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If all of your characters are 《Titan》, this card gets +2000 power.",
-            "【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E091",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E091U.png"
-    },
-    {
-        "name": "\"Threat to Humanity\" Colossal Titan",
-        "code": "AOT/S35-E092",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "9500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other \"\"Enormous Stature\" Colossal Titan\", this card cannot attack.",
-            "【CONT】 If this card is in the left position of your center stage, all of your other \"\"Enormous Stature\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\" get +1000 power.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"And, in 850……\" is in your climax area, you may pay the cost. If you do, all of your 《Titan》 characters get +3500 power until end of turn.",
-            "【AUTO】 When another of your \"\"Enormous Stature\" Colossal Titan\" is put into the waiting room from your stage, put this card into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E092",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E092U.png"
-    },
-    {
-        "name": "\"Broken Wall\" Colossal Titan",
-        "code": "AOT/S35-E093",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "9500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other \"\"Enormous Stature\" Colossal Titan\", this card cannot attack.",
-            "【CONT】 If this card is in the right position of your center stage, all of your other \"\"Enormous Stature\" Colossal Titan\" and \"\"Threat to Humanity\" Colossal Titan\" get +1000 power.",
-            "【AUTO】 When this card attacks, if a card named \"And, in 850……\" is in your climax area, you may draw a card.",
-            "【AUTO】 When another of your \"\"Enormous Stature\" Colossal Titan\" is put into the waiting room from your stage, put this card into your waiting room."
-        ],
-        "flavor_text": "Eren: \"……Oh god…… It's a titan.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E093",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E093U.png"
-    },
-    {
-        "name": "Forest of Giant Trees",
-        "code": "AOT/S35-E098",
-        "rarity": "U",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Search your deck for up to two 《Titan》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your clock."
-        ],
-        "flavor_text": "Teacher: \"We do know that Titan physiology is fundamentally different than most organic life.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E098U.png"
     },
     {
         "name": "\"Confused Feelings\" Armin",
@@ -1954,6 +682,561 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E025C.png"
     },
     {
+        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
+        "code": "AOT/S35-E026a",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
+        ],
+        "flavor_text": "Mankind didn't start this fight…… But we're gonna finish it!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E026a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026aU.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
+        "code": "AOT/S35-E026b",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
+        ],
+        "flavor_text": "I am a soldier! And I have dedicated my heart to the restoration of humanity, sir!! Nothing could make me prouder than dying for such a noble cause!!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E026b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026bU.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
+        "code": "AOT/S35-E026c",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards, choose up to one of your 《Corps》 characters in battle, and move it to an open position of your stage."
+        ],
+        "flavor_text": "……No, not really. I just want to live. The only person I’m looking out for is myself.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E026c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E026cU.png"
+    },
+    {
+        "name": "\"Titan's Power\"",
+        "code": "AOT/S35-E027",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Corps》 characters, until end of turn, that character gets +4000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E027U.png"
+    },
+    {
+        "name": "Since That Day",
+        "code": "AOT/S35-E028",
+        "rarity": "RRR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Armin: \"……And just like that. Everything changed. At that terrible moment, in our hearts, we knew. Home was a pen. Humanity……cattle……\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "What We Should Focus On",
+        "code": "AOT/S35-E029a",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E029a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E029aCC.png"
+    },
+    {
+        "name": "What We Should Focus On",
+        "code": "AOT/S35-E029b",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E029b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E029b.png"
+    },
+    {
+        "name": "Crushing Blow",
+        "code": "AOT/S35-E030",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "ahHHHHHHH!!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E030CC.png"
+    },
+    {
+        "name": "\"Beyond the Walls\" Levi",
+        "code": "AOT/S35-E031",
+        "rarity": "RRR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your 《Corps》 characters is four or more, this card gets -1 level while in your hand.",
+            "【CONT】 If all of your characters are 《Corps》, this card gets +1000 power.",
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand."
+        ],
+        "flavor_text": "You don't need a good “talking-to”. What you’re in need of, boy, is to be taught a lesson.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "\"Resisting Fate\" Levi",
+        "code": "AOT/S35-E032",
+        "rarity": "RR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"The Wings of Freedom\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose a 《Corps》 character in your clock, and put it on any position of your stage.",
+            "【AUTO】 [(3) Put a 《Corps》 character from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card and move it to another open position of your stage."
+        ],
+        "flavor_text": "This I swear on my very life. The Titans will be eradicated!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E032RR.png"
+    },
+    {
+        "name": "\"Violent Ripples\" Levi",
+        "code": "AOT/S35-E033",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Corps》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "What is it?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E033R.png"
+    },
+    {
+        "name": "\"Gentle Smile\" Petra",
+        "code": "AOT/S35-E034",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card from your opponent's clock into your opponent's waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E034R.png"
+    },
+    {
+        "name": "\"Overfastidious Personality\" Levi",
+        "code": "AOT/S35-E035",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E035R.png"
+    },
+    {
+        "name": "\"Humanity's Strongest Soldier\" Levi",
+        "code": "AOT/S35-E036",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
+            "【AUTO】 [Put a card from your hand into your waiting room & Put a character from your stage into your waiting room] When a card named \"Special Operations Squad\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose up to one card named \"\"Member of Levi Squad\" Oruo\", up to one card named \"\"Member of Levi Squad\" Petra\", up to one card named \"\"Member of Levi Squad\" Eld\", and up to one card named \"\"Member of Levi Squad\" Gunther\" in your waiting room, and put them on separate positions of your stage."
+        ],
+        "flavor_text": "The pair on the left belongs to me.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E036R.png"
+    },
+    {
+        "name": "\"Frank Disposition\" Hange",
+        "code": "AOT/S35-E037",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Corps》 characters get +1000 power.",
+            "【AUTO】 When a card named \"Truth\" is placed on your climax area, reveal the top card of your deck. If that card is a 《Corps》 character, all of your characters get +2000 power until end of turn. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "……Don't be scared, big guy. I won't hurt you.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E037R.png"
+    },
+    {
+        "name": "\"No.1 Oddball\" Hange",
+        "code": "AOT/S35-E038",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Corps》 or 《Titan》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "You almost got me that time, didn’t ya, darling?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E038U.png"
+    },
+    {
+        "name": "\"Member of Levi Squad\" Petra",
+        "code": "AOT/S35-E039",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"\"Humanity's Strongest Soldier\" Levi\", this card gets +2000 power.",
+            "【CONT】 If you have another \"\"Member of Levi Squad\" Oruo\", your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Eren: \"Petra Rall. Ten Titan-kills to her credit; forty-eight kill-assists.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E039U.png"
+    },
+    {
+        "name": "\"Cool Personality\" Levi",
+        "code": "AOT/S35-E040",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Corps》 characters you have."
+        ],
+        "flavor_text": "But, it is Erwin's. And you can bet the man's obsessed over every angle.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E040U.png"
+    },
+    {
+        "name": "\"Cold Stare\" Levi",
+        "code": "AOT/S35-E041",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "I'll take responsibility for him.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E041U.png"
+    },
+    {
+        "name": "\"Scout Regiment Commanding Officer\" Erwin",
+        "code": "AOT/S35-E042",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Corps》 characters is four or more, you may put the top card of your deck into your stock.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E042U.png"
+    },
+    {
         "name": "\"Member of Levi Squad\" Eld",
         "code": "AOT/S35-E043",
         "rarity": "C",
@@ -2163,6 +1446,564 @@
         "release": "35",
         "sid": "E050",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E050C.png"
+    },
+    {
+        "name": "Biological Research",
+        "code": "AOT/S35-E051",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Look at up to four cards from the top of your deck, choose up to one 《Corps》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room."
+        ],
+        "flavor_text": "Hange: \"Sweet pea…… I've skewered you straight through the heart. Does it not hurt, dear? Don't you feel that?\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E051U.png"
+    },
+    {
+        "name": "\"Lesson\"",
+        "code": "AOT/S35-E052",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 《Corps》 characters, and that character gets +4000 power until the end of your opponent's next turn. Put this card into your stock."
+        ],
+        "flavor_text": "……You know, personally…… I think nothing instills discipline like pain.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E052U.png"
+    },
+    {
+        "name": "The Wings of Freedom",
+        "code": "AOT/S35-E053",
+        "rarity": "RRR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "……Pay attention…… kiddos.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "Special Operations Squad",
+        "code": "AOT/S35-E054",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Levi: \"Blades drawn. Now.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E054CC.png"
+    },
+    {
+        "name": "Truth",
+        "code": "AOT/S35-E055",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Hange: \"In fact, the only way I can think to describe it is to say their appearance stands in sharp contrast to their true substance.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E055CC.png"
+    },
+    {
+        "name": "\"104th Cadet Corps Class\" Christa",
+        "code": "AOT/S35-E056",
+        "rarity": "RR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E056RR.png"
+    },
+    {
+        "name": "\"Resisting Fate\" Mikasa",
+        "code": "AOT/S35-E057",
+        "rarity": "RR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, you may choose one of your 《Corps》 characters and this card, and exchange them as 【STAND】."
+        ],
+        "flavor_text": "This world is cruel……\nBut it’s also…… It's also beautiful.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E057RR.png"
+    },
+    {
+        "name": "\"Beyond the Walls\" Mikasa",
+        "code": "AOT/S35-E058",
+        "rarity": "RRR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"The World the Girl Saw\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "I 'm happy to demonstrate my own technique…… On you. And every last inch of your traitorous flesh.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "\"Battle Stance\" Jean",
+        "code": "AOT/S35-E059",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【ACT】 [(1)] Choose one of your 《Corps》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I'm sick and tired of people dying because of me!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E059R.png"
+    },
+    {
+        "name": "\"Paving a Way for the Future\" Mikasa",
+        "code": "AOT/S35-E060",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "I plan to follow you whether you give me permission to or not. I swear. I'll never leave your side.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E060R.png"
+    },
+    {
+        "name": "\"Awkward Affection\" Mikasa",
+        "code": "AOT/S35-E061",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character with \"Eren(エレン)\" in its card name, this card cannot 【STAND】 during your stand phase.",
+            "【CONT】 If you have another character with \"Eren(エレン)\" in its card name, this card gets +1500 power.",
+            "【AUTO】 [(1)] When this card attacks, if a card named \"I Can Hear His Heartbeat\" is in your climax area, you may pay the cost. If you do, choose a character with \"Eren(エレン)\" in its card name in your waiting room, return it to your hand, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "……Whatever happens. Don't get yourself killed……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E061R.png"
+    },
+    {
+        "name": "\"104th Cadet Corps Class\" Sasha",
+        "code": "AOT/S35-E062",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +1500 power and \"【AUTO】 Encore [Put the top card of your deck into your clock]\"."
+        ],
+        "flavor_text": "Keith: \"Sasha Braus. Unusually fine instincts. Rarely shares them with her teammates.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E062R.png"
+    },
+    {
+        "name": "\"Direct Sword\" Mikasa",
+        "code": "AOT/S35-E063",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm going to carve you up again.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E063R.png"
+    },
+    {
+        "name": "\"Calm and Collected\" Mikasa",
+        "code": "AOT/S35-E064",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 During the attack phase, when your character moves to another stage position, that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "This may sound stupid, but I was hoping he'd be the key for us……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E064U.png"
+    },
+    {
+        "name": "\"Strong Bloodlust\" Mikasa",
+        "code": "AOT/S35-E065",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a character with \"Eren(エレン)\" in its card name, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "That word gonna come from beyond the grave?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E065U.png"
+    },
+    {
+        "name": "\"Healing Goddess\" Christa",
+        "code": "AOT/S35-E066",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your waiting room] When another of your 《Corps》 character is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "You alright!?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E066U.png"
+    },
+    {
+        "name": "\"104th Cadet Corps Class\" Mikasa",
+        "code": "AOT/S35-E067",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to two times per turn. When another of your 《Corps》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
+            "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"\"Resisting Fate\" Mikasa\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Keith: \"Mikasa Ackermann. Model cadet. Excels in everything. In fact, it's no overstatement to call the girl a genius……\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E067U.png"
+    },
+    {
+        "name": "\"104th Cadet Corps Class\" Jean",
+        "code": "AOT/S35-E068",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +2000 power until end of turn.",
+            "【ACT】 [(1)] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that card on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Keith: \"Jean Kirschtein. Head of the class on ODM; also an insufferable smartass with a hair-trigger temper.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E068U.png"
+    },
+    {
+        "name": "\"Bold Crime\" Sasha",
+        "code": "AOT/S35-E069",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.",
+            "【CONT】 If this card is on the stage, this card gets 《Potato》.",
+            "【AUTO】 When this card attacks, if a card named \"Same Class\" is in your climax area, choose up to one card in your opponent's waiting room, put it on the top of your opponent's deck, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Are you asking me why people eat potatoes?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E069U.png"
+    },
+    {
+        "name": "\"104th Cadet Corps Class\" Reiner",
+        "code": "AOT/S35-E070",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of your other 《Corps》 characters is two or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【ACT】 [【REST】 one of your 《Corps》 characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E070U.png"
     },
     {
         "name": "\"Strong Spirit\" Reiner",
@@ -2429,6 +2270,432 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E080C.png"
     },
     {
+        "name": "Hand of Salvation",
+        "code": "AOT/S35-E081",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, put it into your waiting room, choose one of your characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "I’m sorry there isn’t more…… It’s all I could take……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E081U.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Snap Blade\"",
+        "code": "AOT/S35-E082a",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Come and find me so I can protect you!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E082a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082aU.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Snap Blade\"",
+        "code": "AOT/S35-E082b",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "……Our lives are riding on this……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E082b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082bU.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Snap Blade\"",
+        "code": "AOT/S35-E082c",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "It sat there in the mess hall begging to be eaten. Sir!!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E082c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E082cU.png"
+    },
+    {
+        "name": "The World the Girl Saw",
+        "code": "AOT/S35-E083",
+        "rarity": "RRR",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "……I think so.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+    },
+    {
+        "name": "I Can Hear His Heartbeat",
+        "code": "AOT/S35-E084",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E084CC.png"
+    },
+    {
+        "name": "Same Class",
+        "code": "AOT/S35-E085",
+        "rarity": "CC",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Eren: \"……I wonder what they’re doing now……And all the others……I wonder what happened to them……?\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E085CC.png"
+    },
+    {
+        "name": "\"Towering Threat\" Titan",
+        "code": "AOT/S35-E086",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +1000 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Titan》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E086R.png"
+    },
+    {
+        "name": "\"Captured Titan\" Sawney",
+        "code": "AOT/S35-E087",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put X cards from the top of your deck into your waiting room. X is equal to the number of 《Titan》 characters you have.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Hange: \"As a scientist, naturally I started with the standard battery of tests we conduct on all such captures.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E087R.png"
+    },
+    {
+        "name": "\"High Intellect\" Female Titan",
+        "code": "AOT/S35-E088",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Titan》 characters get +1000 power.",
+            "【AUTO】 [(3) Put two cards from your hand into your waiting room] When a climax is placed on your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)",
+            "【ACT】 [【REST】 this card] Choose one of your 《Titan》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E088R.png"
+    },
+    {
+        "name": "\"Plan of Capture\" Female Titan",
+        "code": "AOT/S35-E089",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】 When this card attacks, if a card named \"Subjugation\" is in your climax area and all of your characters are 《Titan》, draw a card, and this card gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -1 soul.\"",
+            "【AUTO】 [Put a 《Titan》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Soldier: \"Don't let her get away!\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E089R.png"
+    },
+    {
+        "name": "\"Enormous Stature\" Colossal Titan",
+        "code": "AOT/S35-E090",
+        "rarity": "R",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have a card named \"\"Threat to Humanity\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\", this card gets -1 level while in your hand.",
+            "【CONT】 During your opponent's turn, if this card is in your center stage and is not 【REVERSE】, all of your other \"\"Threat to Humanity\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\" get the following ability. \"【CONT】 This card cannot become 【REVERSE】.\"",
+            "【AUTO】 [Put a card named \"And, in 850……\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, return the top card of your clock to your hand, and this card gets +3000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E090R.png"
+    },
+    {
+        "name": "\"Hard Exterior\" Armored Titan",
+        "code": "AOT/S35-E091",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Titan》, this card gets +2000 power.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E091U.png"
+    },
+    {
+        "name": "\"Threat to Humanity\" Colossal Titan",
+        "code": "AOT/S35-E092",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "9500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other \"\"Enormous Stature\" Colossal Titan\", this card cannot attack.",
+            "【CONT】 If this card is in the left position of your center stage, all of your other \"\"Enormous Stature\" Colossal Titan\" and \"\"Broken Wall\" Colossal Titan\" get +1000 power.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"And, in 850……\" is in your climax area, you may pay the cost. If you do, all of your 《Titan》 characters get +3500 power until end of turn.",
+            "【AUTO】 When another of your \"\"Enormous Stature\" Colossal Titan\" is put into the waiting room from your stage, put this card into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E092U.png"
+    },
+    {
+        "name": "\"Broken Wall\" Colossal Titan",
+        "code": "AOT/S35-E093",
+        "rarity": "U",
+        "expansion": "Attack on Titan",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "9500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other \"\"Enormous Stature\" Colossal Titan\", this card cannot attack.",
+            "【CONT】 If this card is in the right position of your center stage, all of your other \"\"Enormous Stature\" Colossal Titan\" and \"\"Threat to Humanity\" Colossal Titan\" get +1000 power.",
+            "【AUTO】 When this card attacks, if a card named \"And, in 850……\" is in your climax area, you may draw a card.",
+            "【AUTO】 When another of your \"\"Enormous Stature\" Colossal Titan\" is put into the waiting room from your stage, put this card into your waiting room."
+        ],
+        "flavor_text": "Eren: \"……Oh god…… It's a titan.\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E093U.png"
+    },
+    {
         "name": "\"Predation\" Titan",
         "code": "AOT/S35-E094a",
         "rarity": "C",
@@ -2647,91 +2914,30 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E097C.png"
     },
     {
-        "name": "Since That Day",
-        "code": "AOT/S35-E028",
-        "rarity": "RRR",
+        "name": "Forest of Giant Trees",
+        "code": "AOT/S35-E098",
+        "rarity": "U",
         "expansion": "Attack on Titan",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "Search your deck for up to two 《Titan》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your clock."
         ],
-        "flavor_text": "Armin: \"……And just like that. Everything changed. At that terrible moment, in our hearts, we knew. Home was a pen. Humanity……cattle……\"",
+        "flavor_text": "Teacher: \"We do know that Titan physiology is fundamentally different than most organic life.\"",
         "set": "AOT",
         "release": "35",
-        "sid": "E028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
-    },
-    {
-        "name": "The Wings of Freedom",
-        "code": "AOT/S35-E053",
-        "rarity": "RRR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "……Pay attention…… kiddos.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
-    },
-    {
-        "name": "The World the Girl Saw",
-        "code": "AOT/S35-E083",
-        "rarity": "RRR",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "……I think so.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E098U.png"
     },
     {
         "name": "And, in 850……",
@@ -2755,219 +2961,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Eren: \"You…… It's been a while……\"",
         "set": "AOT",
         "release": "35",
         "sid": "E099",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
-    },
-    {
-        "name": "What We Should Focus On",
-        "code": "AOT/S35-E029a",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "( : When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E029a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E029aCC.png"
-    },
-    {
-        "name": "What We Should Focus On",
-        "code": "AOT/S35-E029b",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "( : When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E029b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E029b.png"
-    },
-    {
-        "name": "Crushing Blow",
-        "code": "AOT/S35-E030",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "( : During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
-        ],
-        "flavor_text": "ahHHHHHHH!!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E030CC.png"
-    },
-    {
-        "name": "Special Operations Squad",
-        "code": "AOT/S35-E054",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Levi: \"Blades drawn. Now.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E054CC.png"
-    },
-    {
-        "name": "Truth",
-        "code": "AOT/S35-E055",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Hange: \"In fact, the only way I can think to describe it is to say their appearance stands in sharp contrast to their true substance.\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E055CC.png"
-    },
-    {
-        "name": "I Can Hear His Heartbeat",
-        "code": "AOT/S35-E084",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E084CC.png"
-    },
-    {
-        "name": "Same Class",
-        "code": "AOT/S35-E085",
-        "rarity": "CC",
-        "expansion": "Attack on Titan",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "Eren: \"……I wonder what they’re doing now……And all the others……I wonder what happened to them……?\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E085CC.png"
     },
     {
         "name": "Subjugation",
@@ -2990,13 +2990,389 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Erwin: \"Fire!!\"",
         "set": "AOT",
         "release": "35",
         "sid": "E100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E100CC.png"
+    },
+    {
+        "name": "Chimi Armin",
+        "code": "AOT/S35-E101",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 [Rest@ two of your 《Corps》 characters] This card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "If the situation truly called for it. And I knew that my sacrifice might save others.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E101PR.png"
+    },
+    {
+        "name": "Chimi Conny",
+        "code": "AOT/S35-E102",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "……Got to make this attack count!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E102PR.png"
+    },
+    {
+        "name": "Chimi Eren",
+        "code": "AOT/S35-E103",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "I won’t fail again!\nTo hell with working the damn fields!\nI won’t fail again!\nTo hell with working the damn fields!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E103PR.png"
+    },
+    {
+        "name": "Chimi Annie",
+        "code": "AOT/S35-E104",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack."
+        ],
+        "flavor_text": "The only person I'm looking out for is myself.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E104PR.png"
+    },
+    {
+        "name": "Chimi Hange",
+        "code": "AOT/S35-E105",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Lo, the threshold of Titania……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E105PR.png"
+    },
+    {
+        "name": "Chimi Levi",
+        "code": "AOT/S35-E106",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Corps》 characters you have is one or less, this card cannot be played from your hand."
+        ],
+        "flavor_text": "Pull it together. And yes; that is an order.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E106PR.png"
+    },
+    {
+        "name": "Chimi Sasha",
+        "code": "AOT/S35-E107",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.【CONT】 If you do not have any other characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "A steamed potato!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E107PR.png"
+    },
+    {
+        "name": "Chimi Christa",
+        "code": "AOT/S35-E108",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 [Put a climax from your hand into your waiting room] Choose one of your characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "I’m confused. Are you being nice?",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E108PR.png"
+    },
+    {
+        "name": "Chimi Mikasa",
+        "code": "AOT/S35-E109",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "It's just that you get so worked up you don't think things through.",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E109",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E109PR.png"
+    },
+    {
+        "name": "Chimi Jean",
+        "code": "AOT/S35-E110",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another character with \"Mikasa(ミカサ)\" in its card name, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "We're all about to be Titan chow. You expect me to sing you a goddamn song!",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E110",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E110PR.png"
+    },
+    {
+        "name": "Chimi Reiner",
+        "code": "AOT/S35-E111",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Soldiers…… The ones worth their salt anyway, are ready for anything……",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E111",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E111PR.png"
+    },
+    {
+        "name": "Chimi Colossal Titan",
+        "code": "AOT/S35-E112",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Titan》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Eren: \"Without him, the other Titans have nothing!\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "E112",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E112PR.png"
+    },
+    {
+        "name": "Warring Front Lines, Eren",
+        "code": "AOT/S35-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "35",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_PE01.png"
+    },
+    {
+        "name": "Spreading War, Colossal Titan",
+        "code": "AOT/S35-PE02",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 [Put a level 0 or lower character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room."
+        ],
+        "flavor_text": "Armin: \"……No! That's impossible……!\nThat wall's fifty meters high……!!\"",
+        "set": "AOT",
+        "release": "35",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_PE02.png"
     },
     {
         "name": "Armin Arlelt",
@@ -3547,60 +3923,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S35_TE20TD.jpg"
     },
     {
-        "name": "Warring Front Lines, Eren",
-        "code": "AOT/S35-PE01",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card."
-        ],
-        "flavor_text": "-",
-        "set": "AOT",
-        "release": "35",
-        "sid": "PE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_PE01.png"
-    },
-    {
-        "name": "Spreading War, Colossal Titan",
-        "code": "AOT/S35-PE02",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "Titan"
-        ],
-        "ability": [
-            "【AUTO】 [Put a level 0 or lower character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room."
-        ],
-        "flavor_text": "Armin: \"……No! That's impossible……!\nThat wall's fifty meters high……!!\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "PE02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_PE02.png"
-    },
-    {
         "name": "Armored Titan",
         "code": "AOT/S35-TE21",
         "rarity": "PR",
@@ -3654,327 +3976,5 @@
         "release": "35",
         "sid": "TE22",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S35_TE22PR.jpg"
-    },
-    {
-        "name": "Chimi Armin",
-        "code": "AOT/S35-E101",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 [Rest@ two of your 《Corps》 characters] This card gets +2500 power until end of turn."
-        ],
-        "flavor_text": "If the situation truly called for it. And I knew that my sacrifice might save others.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E101PR.png"
-    },
-    {
-        "name": "Chimi Conny",
-        "code": "AOT/S35-E102",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "……Got to make this attack count!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E102PR.png"
-    },
-    {
-        "name": "Chimi Eren",
-        "code": "AOT/S35-E103",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "I won’t fail again!\nTo hell with working the damn fields!\nI won’t fail again!\nTo hell with working the damn fields!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E103PR.png"
-    },
-    {
-        "name": "Chimi Annie",
-        "code": "AOT/S35-E104",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "9000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack."
-        ],
-        "flavor_text": "The only person I'm looking out for is myself.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E104PR.png"
-    },
-    {
-        "name": "Chimi Hange",
-        "code": "AOT/S35-E105",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "Lo, the threshold of Titania……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E105",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E105PR.png"
-    },
-    {
-        "name": "Chimi Levi",
-        "code": "AOT/S35-E106",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of 《Corps》 characters you have is one or less, this card cannot be played from your hand."
-        ],
-        "flavor_text": "Pull it together. And yes; that is an order.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E106",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E106PR.png"
-    },
-    {
-        "name": "Chimi Sasha",
-        "code": "AOT/S35-E107",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other characters, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.【CONT】 If you do not have any other characters, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "A steamed potato!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E107",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E107PR.png"
-    },
-    {
-        "name": "Chimi Christa",
-        "code": "AOT/S35-E108",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 [Put a climax from your hand into your waiting room] Choose one of your characters, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "I’m confused. Are you being nice?",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E108",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E108PR.png"
-    },
-    {
-        "name": "Chimi Mikasa",
-        "code": "AOT/S35-E109",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "It's just that you get so worked up you don't think things through.",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E109",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E109PR.png"
-    },
-    {
-        "name": "Chimi Jean",
-        "code": "AOT/S35-E110",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have another character with \"Mikasa(ミカサ)\" in its card name, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "We're all about to be Titan chow. You expect me to sing you a goddamn song!",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E110",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E110PR.png"
-    },
-    {
-        "name": "Chimi Reiner",
-        "code": "AOT/S35-E111",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "Soldiers…… The ones worth their salt anyway, are ready for anything……",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E111",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E111PR.png"
-    },
-    {
-        "name": "Chimi Colossal Titan",
-        "code": "AOT/S35-E112",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Titan》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Eren: \"Without him, the other Titans have nothing!\"",
-        "set": "AOT",
-        "release": "35",
-        "sid": "E112",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_AOT_S35_E112PR.png"
     }
 ]

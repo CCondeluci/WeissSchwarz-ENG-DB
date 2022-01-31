@@ -85,149 +85,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e003.jpg"
     },
     {
-        "name": "Waver Velvet",
-        "code": "FZ/S17-E031",
-        "rarity": "RR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Master",
-            "Alchemy"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\".",
-            "【AUTO】 When a card named \"Bond Between A King and His Retainer\" is placed on your climax area, reveal the top card of your deck. If the revealed card is a 《Royalty》 or 《Alchemy》 character, put it into your stock.　(If it is not, return the revealed card to is its original place.)"
-        ],
-        "flavor_text": "Rider, you must be victorious.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e031.jpg"
-    },
-    {
-        "name": "King of Military Rule, Rider",
-        "code": "FZ/S17-E032",
-        "rarity": "RR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters.",
-            "【AUTO】［(1)］ During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
-            "【AUTO】［(2)］ At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage."
-        ],
-        "flavor_text": "AAAALaLaLaLaLaie!!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e032.jpg"
-    },
-    {
-        "name": "Knight of Madness, Berserker",
-        "code": "FZ/S17-E056",
-        "rarity": "RR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】［Put this card into your waiting room］ When a card named \"Identity of the Fallen Knight\" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "URRRRRRRR!!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e056.jpg"
-    },
-    {
-        "name": "King of All Creation, Archer",
-        "code": "FZ/S17-E057",
-        "rarity": "RR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】［(1) Put a card named \"Sword of Rupture, Ea\" from your hand into your waiting room］ At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn."
-        ],
-        "flavor_text": "I am the one true king.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e057.jpg"
-    },
-    {
-        "name": "Kirei - The Emptiness Within",
-        "code": "FZ/S17-E086",
-        "rarity": "RR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Void",
-            "Master"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, all of your other 《Master》 characters get +1000 power.",
-            "【AUTO】 Change ［(4) Put a climax from your hand into your waiting room & Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "I admit it, I am an empty man.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e086.jpg"
-    },
-    {
         "name": "Kiritsugu - Style of Heresy",
         "code": "FZ/S17-E004",
         "rarity": "R",
@@ -391,390 +248,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e009.jpg"
     },
     {
-        "name": "Kayneth El-Melloi Archibald",
-        "code": "FZ/S17-E033",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Master",
-            "Alchemy"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】[【REST】 two of your characters] Choose one of your characters with \"Lancer\" in its card name, and until end of turn that character gets +1500 power and the following ability.\"【CONT】 If the character facing this card is a higher level than this card, this card cannot attack.\""
-        ],
-        "flavor_text": "Let's have our guest enjoy the magical atelier of Kayneth El-Melloi.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e033.jpg"
-    },
-    {
-        "name": "Unshakable Pride, Rider",
-        "code": "FZ/S17-E034",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】［【REST】 one of your 【STAND】 characters］ When a card named \"Gordius Wheel\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -2000 power until end of turn."
-        ],
-        "flavor_text": "Our opponent is the mighty King of Heroes-- a truly worthy foe!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e034.jpg"
-    },
-    {
-        "name": "\"Saber's left hand\", Lancer",
-        "code": "FZ/S17-E035",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", choose one of your 《Servant》 characters, and that character gets +1000 power until end of turn.",
-            "【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）"
-        ],
-        "flavor_text": "So, I believe cooperation to be our best option here, what do you think?",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e035.jpg"
-    },
-    {
-        "name": "Ruler of Macedonia, Rider",
-        "code": "FZ/S17-E036",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Servant》 characters get +1000 power.",
-            "【AUTO】［(3) Put a card from your hand into your waiting room] When a card named \"Ionian Hetairoi\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less 《Servant》 characters, and put them on separate positions of your stage. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Gather, my comrades!\nTonight, we take our place as the greatest legend in history!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e036.jpg"
-    },
-    {
-        "name": "Lancer - Red Spear Which Cancels Magic",
-        "code": "FZ/S17-E037",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if a card named \"Gae Dearg\" is in your climax area, choose one of your characters, and until end of your opponent's next turn, that character gets +2000 power and the following ability.\"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\""
-        ],
-        "flavor_text": "No Flavor Text",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e037.jpg"
-    },
-    {
-        "name": "Noble Stance, Archer",
-        "code": "FZ/S17-E058",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your stock is three or more, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.\"",
-            "【AUTO】 Bond／\"Kirei Kotomine\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Behold, and acknowledge your folly. This is the drink of a king.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e058.jpg"
-    },
-    {
-        "name": "Bloodthirsty Beast, Berserker",
-        "code": "FZ/S17-E059",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】[Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Arondight\" in your waiting room, and return it to your hand.",
-            "【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Curse Incarnate, Berserker\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "…… ar…… ur……!!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e059.jpg"
-    },
-    {
-        "name": "Supreme Wine, Archer",
-        "code": "FZ/S17-E060",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】［(1)］ When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level.",
-            "【ACT】【COUNTER】 Backup 1000, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.）"
-        ],
-        "flavor_text": "Kirei Kotomine, can you imagine what would happen then?",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e060.jpg"
-    },
-    {
-        "name": "Golden Monarch, Archer",
-        "code": "FZ/S17-E061",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 If a red climax is in your climax area, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 1 or less, you may 【REVERSE】 that character.\"",
-            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
-        ],
-        "flavor_text": "Now show me, Saber.\nShow me the true worth of the light of your Heroic Spirit.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e061.jpg"
-    },
-    {
-        "name": "Curse Incarnate, Berserker",
-        "code": "FZ/S17-E062",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
-        ],
-        "flavor_text": "I am- the shunned- the mocked- the despised-",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e062.jpg"
-    },
-    {
-        "name": "Head of Tohsaka Family, Tokiomi",
-        "code": "FZ/S17-E063",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Master",
-            "Jewel"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if a card named \"Parting with Rin\" is in your climax area, you may choose a character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I know you will succeed, even on your own.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e063.jpg"
-    },
-    {
-        "name": "Throbbing Soul, Kirei",
-        "code": "FZ/S17-E087",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Void",
-            "Master"
-        ],
-        "ability": [
-            "【AUTO】［Put a 《Master》 character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card."
-        ],
-        "flavor_text": "No Flavor Text",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e087.jpg"
-    },
-    {
-        "name": "Sadistic Artist, Caster",
-        "code": "FZ/S17-E088",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "8500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Book"
-        ],
-        "ability": [
-            "【AUTO】[Put another character on your stage into your waiting room] When this card attacks, if you have a blue climax in your climax area, you may pay the cost. If you do, this card gets +2000 power until end of your opponent's next turn."
-        ],
-        "flavor_text": "You shan't be disappointed, Ryunosuke.\nThis will be, as you might say, the coolest thing you'll ever see.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e088.jpg"
-    },
-    {
-        "name": "Kirei Kotomine",
-        "code": "FZ/S17-E089",
-        "rarity": "R",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Void",
-            "Master"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
-            "【ACT】［(2) 【REST】 two of your characters］ Search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "I will fear no evil, for you are with me.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e089.jpg"
-    },
-    {
         "name": "Irisviel - Living as a Human",
         "code": "FZ/S17-E010",
         "rarity": "U",
@@ -936,595 +409,6 @@
         "release": "17",
         "sid": "E015",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e015.jpg"
-    },
-    {
-        "name": "Search for Chestnut Bud",
-        "code": "FZ/S17-E025",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Each player puts the top three cards of his or her deck into the waiting room. If the number of level 1 or less characters put into your waiting room with this effect is more than the number of level 0 or less characters put into your opponent's waiting room with this effect, you may draw a card.",
-            "Put this card into your stock."
-        ],
-        "flavor_text": "I'm so high up!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e025.jpg"
-    },
-    {
-        "name": "Demolition",
-        "code": "FZ/S17-E026",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "No Flavor Text",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E026",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e026.jpg"
-    },
-    {
-        "name": "Apprentice Mage, Waver",
-        "code": "FZ/S17-E038",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Master",
-            "Alchemy"
-        ],
-        "ability": [
-            "【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named \"令呪\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
-            "【AUTO】 Bond／\"Imposing and Majestic, Rider\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Imposing and Majestic, Rider\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Hey, Rider, this is a big deal! One of the seven's already been knocked out!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e038.jpg"
-    },
-    {
-        "name": "Way of the Knight, Lancer",
-        "code": "FZ/S17-E039",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】［(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named \"Excalibur\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Then-- let us begin.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e039.jpg"
-    },
-    {
-        "name": "King of Grandeur, Rider",
-        "code": "FZ/S17-E040",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, each player puts the top card of his or her deck into the waiting room. If the level of the card put into your waiting room with this effect is higher than the level of the card put into your opponent's waiting room with this effect, you may put the top card of your deck into your stock. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "As king, it is my duty to inspire others to dream. And as retainer, it is your duty to see my dream through, and to pass tales down to future generations.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e040.jpg"
-    },
-    {
-        "name": "Charming Magical Look, Lancer",
-        "code": "FZ/S17-E041",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card cannot direct attack.",
-            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
-        ],
-        "flavor_text": "No Flavor Text",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e041.jpg"
-    },
-    {
-        "name": "Imposing and Majestic, Rider",
-        "code": "FZ/S17-E042",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Saber, I must defeat her. It is my responsibility as a Heroic Spirit.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e042.jpg"
-    },
-    {
-        "name": "Command Seal",
-        "code": "FZ/S17-E050",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your 《Servant》 characters, and that character gets +4500 power until end of turn."
-        ],
-        "flavor_text": "By the power of my Command Seal.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e050.jpg"
-    },
-    {
-        "name": "Treasured Sword and Magic Spear",
-        "code": "FZ/S17-E051",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Put this card into your memory.",
-            "【CONT】 Memory If this card is in your memory, all of your characters with \"Saber\" or \"Lancer\" in its card name get +1000 power."
-        ],
-        "flavor_text": "What truly must emerge victorious, is the code of chivalry we swore to uphold--",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e051.jpg"
-    },
-    {
-        "name": "Venerable Mage, Tokiomi",
-        "code": "FZ/S17-E064",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Master",
-            "Jewel"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Royalty》 characters get +500 power.",
-            "【ACT】［(2) 【REST】 this card］ Choose a 《Servant》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "This battle is ours.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e064.jpg"
-    },
-    {
-        "name": "King of Kings, Archer",
-        "code": "FZ/S17-E065",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other characters, this card gets +1500 power, and this card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters."
-        ],
-        "flavor_text": "May your death provide me some modicum of entertainment, mongrel.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e065.jpg"
-    },
-    {
-        "name": "Matou's Obsession, Zouken",
-        "code": "FZ/S17-E066",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Insect",
-            "-"
-        ],
-        "ability": [
-            "【ACT】［Put the top card of your deck into your clock & 【REST】 this card] Choose one of your 《Master》 characters, and that character gets +2500 power until end of turn."
-        ],
-        "flavor_text": "I'm amazed that a failure like you would dare show your face here.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e066.jpg"
-    },
-    {
-        "name": "Sakura - Corrupted Heart",
-        "code": "FZ/S17-E067",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Insect",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】[Put a level 2 or higher character from your hand into your waiting room & 【REST】 this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Master》 character in your waiting room, and return it to your hand.",
-            "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）"
-        ],
-        "flavor_text": "What a foolish person.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e067.jpg"
-    },
-    {
-        "name": "Kariya - Cost of Life",
-        "code": "FZ/S17-E068",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Master",
-            "Insect"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get the following ability.\"【AUTO】［(1)］ When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, 【REVERSE】 that character.\""
-        ],
-        "flavor_text": "Just hold on… Sakura…",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e068.jpg"
-    },
-    {
-        "name": "Young Successor, Rin",
-        "code": "FZ/S17-E069",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Jewel",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】［Put a card from your hand into your waiting room］ When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "No! I don't need your help with anything!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e069.jpg"
-    },
-    {
-        "name": "Berserker - Black Murderous Intent",
-        "code": "FZ/S17-E070",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "3",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "…… Ar…… thur……",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e070.jpg"
-    },
-    {
-        "name": "Azoth Dagger",
-        "code": "FZ/S17-E080",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose a 《Servant》 character in your waiting room, and return it to your hand.",
-            "Choose one of your 《Master》 characters, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "Tokiomi: \"Proof that you have mastered the Tohsaka family magic, and graduated from student to full-fledged mage.\"",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e080.jpg"
-    },
-    {
-        "name": "Vimana",
-        "code": "FZ/S17-E081",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose up to two characters in your waiting room with \"Archer\" in its card name, return them to your hand, and choose a card in your hand, and put it into your waiting room.",
-            "Reveal the top card of your deck. If the revealed card is a climax, put it into your clock.（If it is not, return it to its original state）"
-        ],
-        "flavor_text": "Archer: \"Ah, the mad dog again…… Interesting…\"",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e081.jpg"
-    },
-    {
-        "name": "Aesthetics of Death, Caster",
-        "code": "FZ/S17-E090",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Book"
-        ],
-        "ability": [
-            "【AUTO】 When a card named \"Prank of Fate\" is placed on your climax area, if this card is on the center stage, search your deck for up to one level 0 or lower character, and put it on any position of your stage. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Indeed! Exactly so! Impressive, Ryunosuke!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E090",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e090.jpg"
-    },
-    {
-        "name": "Receiving New Flesh, Archer",
-        "code": "FZ/S17-E091",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is three or more, this unit gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
-            "【ACT】［(1)] Choose one of your 《Servant》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "You really are quite a difficult man.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E091",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e091.jpg"
-    },
-    {
-        "name": "Flames of Purgatory",
-        "code": "FZ/S17-E097",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Search your deck for up to one 《Master》 character and up to one 《Servant》 character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Put this card into your clock."
-        ],
-        "flavor_text": "That's impossible… There's no way!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e097.jpg"
-    },
-    {
-        "name": "Sea Monster",
-        "code": "FZ/S17-E098",
-        "rarity": "U",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose a character in your hand, and put it into your memory face down. Your opponent chooses the number 2 or 3. Reveal the face down card, and if that card is a character of a level that matches the number that your opponent chose, put it on any position of your stage. If it is not, put that card into your waiting room."
-        ],
-        "flavor_text": "It glistens with a foul slime which induces nausea.\nIt is truly an island made of flesh.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e098.jpg"
     },
     {
         "name": "Innocent Girl, Ilya",
@@ -1768,6 +652,59 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e024.jpg"
     },
     {
+        "name": "Search for Chestnut Bud",
+        "code": "FZ/S17-E025",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Each player puts the top three cards of his or her deck into the waiting room. If the number of level 1 or less characters put into your waiting room with this effect is more than the number of level 0 or less characters put into your opponent's waiting room with this effect, you may draw a card.",
+            "Put this card into your stock."
+        ],
+        "flavor_text": "I'm so high up!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e025.jpg"
+    },
+    {
+        "name": "Demolition",
+        "code": "FZ/S17-E026",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "No Flavor Text",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e026.jpg"
+    },
+    {
         "name": "Einzbern Castle",
         "code": "FZ/S17-E027",
         "rarity": "C",
@@ -1793,6 +730,424 @@
         "release": "17",
         "sid": "E027",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e027.jpg"
+    },
+    {
+        "name": "Sign of Determination",
+        "code": "FZ/S17-E028",
+        "rarity": "CR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Shape ist leben!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e028.jpg"
+    },
+    {
+        "name": "Origin Shot",
+        "code": "FZ/S17-E029",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "The origin shot-- It throws the target's mana into chaos, instantaneously causing the body to destroy itself.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e029.jpg"
+    },
+    {
+        "name": "Excalibur",
+        "code": "FZ/S17-E030",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "I swear it on my sword, I shall win.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e030.jpg"
+    },
+    {
+        "name": "Waver Velvet",
+        "code": "FZ/S17-E031",
+        "rarity": "RR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Alchemy"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\".",
+            "【AUTO】 When a card named \"Bond Between A King and His Retainer\" is placed on your climax area, reveal the top card of your deck. If the revealed card is a 《Royalty》 or 《Alchemy》 character, put it into your stock.　(If it is not, return the revealed card to is its original place.)"
+        ],
+        "flavor_text": "Rider, you must be victorious.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e031.jpg"
+    },
+    {
+        "name": "King of Military Rule, Rider",
+        "code": "FZ/S17-E032",
+        "rarity": "RR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters.",
+            "【AUTO】［(1)］ During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+            "【AUTO】［(2)］ At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage."
+        ],
+        "flavor_text": "AAAALaLaLaLaLaie!!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e032.jpg"
+    },
+    {
+        "name": "Kayneth El-Melloi Archibald",
+        "code": "FZ/S17-E033",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Alchemy"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】[【REST】 two of your characters] Choose one of your characters with \"Lancer\" in its card name, and until end of turn that character gets +1500 power and the following ability.\"【CONT】 If the character facing this card is a higher level than this card, this card cannot attack.\""
+        ],
+        "flavor_text": "Let's have our guest enjoy the magical atelier of Kayneth El-Melloi.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e033.jpg"
+    },
+    {
+        "name": "Unshakable Pride, Rider",
+        "code": "FZ/S17-E034",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】［【REST】 one of your 【STAND】 characters］ When a card named \"Gordius Wheel\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -2000 power until end of turn."
+        ],
+        "flavor_text": "Our opponent is the mighty King of Heroes-- a truly worthy foe!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e034.jpg"
+    },
+    {
+        "name": "\"Saber's left hand\", Lancer",
+        "code": "FZ/S17-E035",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose one of your 《Servant》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）"
+        ],
+        "flavor_text": "So, I believe cooperation to be our best option here, what do you think?",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e035.jpg"
+    },
+    {
+        "name": "Ruler of Macedonia, Rider",
+        "code": "FZ/S17-E036",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Servant》 characters get +1000 power.",
+            "【AUTO】［(3) Put a card from your hand into your waiting room] When a card named \"Ionian Hetairoi\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less 《Servant》 characters, and put them on separate positions of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Gather, my comrades!\nTonight, we take our place as the greatest legend in history!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e036.jpg"
+    },
+    {
+        "name": "Lancer - Red Spear Which Cancels Magic",
+        "code": "FZ/S17-E037",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Gae Dearg\" is in your climax area, choose one of your characters, and until end of your opponent's next turn, that character gets +2000 power and the following ability.\"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\""
+        ],
+        "flavor_text": "No Flavor Text",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e037.jpg"
+    },
+    {
+        "name": "Apprentice Mage, Waver",
+        "code": "FZ/S17-E038",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Alchemy"
+        ],
+        "ability": [
+            "【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named \"令呪\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+            "【AUTO】 Bond／\"Imposing and Majestic, Rider\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Imposing and Majestic, Rider\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Hey, Rider, this is a big deal! One of the seven's already been knocked out!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e038.jpg"
+    },
+    {
+        "name": "Way of the Knight, Lancer",
+        "code": "FZ/S17-E039",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】［(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named \"Excalibur\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Then-- let us begin.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e039.jpg"
+    },
+    {
+        "name": "King of Grandeur, Rider",
+        "code": "FZ/S17-E040",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, each player puts the top card of his or her deck into the waiting room. If the level of the card put into your waiting room with this effect is higher than the level of the card put into your opponent's waiting room with this effect, you may put the top card of your deck into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "As king, it is my duty to inspire others to dream. And as retainer, it is your duty to see my dream through, and to pass tales down to future generations.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e040.jpg"
+    },
+    {
+        "name": "Charming Magical Look, Lancer",
+        "code": "FZ/S17-E041",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card cannot direct attack.",
+            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "No Flavor Text",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e041.jpg"
+    },
+    {
+        "name": "Imposing and Majestic, Rider",
+        "code": "FZ/S17-E042",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Saber, I must defeat her. It is my responsibility as a Heroic Spirit.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e042.jpg"
     },
     {
         "name": "Sola-Ui Nuada-Re Sophia-Ri",
@@ -1980,6 +1335,584 @@
         "release": "17",
         "sid": "E049",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e049.jpg"
+    },
+    {
+        "name": "Command Seal",
+        "code": "FZ/S17-E050",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Servant》 characters, and that character gets +4500 power until end of turn."
+        ],
+        "flavor_text": "By the power of my Command Seal.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e050.jpg"
+    },
+    {
+        "name": "Treasured Sword and Magic Spear",
+        "code": "FZ/S17-E051",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your characters with \"Saber\" or \"Lancer\" in its card name get +1000 power."
+        ],
+        "flavor_text": "What truly must emerge victorious, is the code of chivalry we swore to uphold--",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e051.jpg"
+    },
+    {
+        "name": "Ionian Hetairoi",
+        "code": "FZ/S17-E052",
+        "rarity": "CR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Now my companions, let us show the first Heroic Spirit where our path of conquest leads!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e052.jpg"
+    },
+    {
+        "name": "Bond Between a King and His Retainer",
+        "code": "FZ/S17-E053",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Rider, you must conquer this world. Failure will not be tolerated.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e053.jpg"
+    },
+    {
+        "name": "Gordius Wheel",
+        "code": "FZ/S17-E054",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Let's roll, Gordius Wheel!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e054.jpg"
+    },
+    {
+        "name": "Gae Dearg",
+        "code": "FZ/S17-E055",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Pierce, Gae Dearg!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e055.jpg"
+    },
+    {
+        "name": "Knight of Madness, Berserker",
+        "code": "FZ/S17-E056",
+        "rarity": "RR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】［Put this card into your waiting room］ When a card named \"Identity of the Fallen Knight\" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "URRRRRRRR!!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e056.jpg"
+    },
+    {
+        "name": "King of All Creation, Archer",
+        "code": "FZ/S17-E057",
+        "rarity": "RR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】［(1) Put a card named \"Sword of Rupture, Ea\" from your hand into your waiting room］ At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn."
+        ],
+        "flavor_text": "I am the one true king.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e057.jpg"
+    },
+    {
+        "name": "Noble Stance, Archer",
+        "code": "FZ/S17-E058",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is three or more, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.\"",
+            "【AUTO】 Bond／\"Kirei Kotomine\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Behold, and acknowledge your folly. This is the drink of a king.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e058.jpg"
+    },
+    {
+        "name": "Bloodthirsty Beast, Berserker",
+        "code": "FZ/S17-E059",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】[Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Arondight\" in your waiting room, and return it to your hand.",
+            "【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Curse Incarnate, Berserker\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "…… ar…… ur……!!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e059.jpg"
+    },
+    {
+        "name": "Supreme Wine, Archer",
+        "code": "FZ/S17-E060",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】［(1)］ When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level.",
+            "【ACT】【COUNTER】 Backup 1000, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.）"
+        ],
+        "flavor_text": "Kirei Kotomine, can you imagine what would happen then?",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e060.jpg"
+    },
+    {
+        "name": "Golden Monarch, Archer",
+        "code": "FZ/S17-E061",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If a red climax is in your climax area, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 1 or less, you may 【REVERSE】 that character.\"",
+            "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "Now show me, Saber.\nShow me the true worth of the light of your Heroic Spirit.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e061.jpg"
+    },
+    {
+        "name": "Curse Incarnate, Berserker",
+        "code": "FZ/S17-E062",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "I am- the shunned- the mocked- the despised-",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e062.jpg"
+    },
+    {
+        "name": "Head of Tohsaka Family, Tokiomi",
+        "code": "FZ/S17-E063",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Parting with Rin\" is in your climax area, you may choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I know you will succeed, even on your own.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e063.jpg"
+    },
+    {
+        "name": "Venerable Mage, Tokiomi",
+        "code": "FZ/S17-E064",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Master",
+            "Jewel"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Royalty》 characters get +500 power.",
+            "【ACT】［(2) 【REST】 this card］ Choose a 《Servant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "This battle is ours.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e064.jpg"
+    },
+    {
+        "name": "King of Kings, Archer",
+        "code": "FZ/S17-E065",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters, this card gets +1500 power, and this card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters."
+        ],
+        "flavor_text": "May your death provide me some modicum of entertainment, mongrel.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e065.jpg"
+    },
+    {
+        "name": "Matou's Obsession, Zouken",
+        "code": "FZ/S17-E066",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Insect",
+            "-"
+        ],
+        "ability": [
+            "【ACT】［Put the top card of your deck into your clock & 【REST】 this card] Choose one of your 《Master》 characters, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "I'm amazed that a failure like you would dare show your face here.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e066.jpg"
+    },
+    {
+        "name": "Sakura - Corrupted Heart",
+        "code": "FZ/S17-E067",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Insect",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】[Put a level 2 or higher character from your hand into your waiting room & 【REST】 this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Master》 character in your waiting room, and return it to your hand.",
+            "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）"
+        ],
+        "flavor_text": "What a foolish person.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e067.jpg"
+    },
+    {
+        "name": "Kariya - Cost of Life",
+        "code": "FZ/S17-E068",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Insect"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get the following ability.\"【AUTO】［(1)］ When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, 【REVERSE】 that character.\""
+        ],
+        "flavor_text": "Just hold on… Sakura…",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e068.jpg"
+    },
+    {
+        "name": "Young Successor, Rin",
+        "code": "FZ/S17-E069",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Jewel",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】［Put a card from your hand into your waiting room］ When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "No! I don't need your help with anything!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e069.jpg"
+    },
+    {
+        "name": "Berserker - Black Murderous Intent",
+        "code": "FZ/S17-E070",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "…… Ar…… thur……",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e070.jpg"
     },
     {
         "name": "Ancient King, Archer",
@@ -2222,6 +2155,60 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e079.jpg"
     },
     {
+        "name": "Azoth Dagger",
+        "code": "FZ/S17-E080",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose a 《Servant》 character in your waiting room, and return it to your hand.",
+            "Choose one of your 《Master》 characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Tokiomi: \"Proof that you have mastered the Tohsaka family magic, and graduated from student to full-fledged mage.\"",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e080.jpg"
+    },
+    {
+        "name": "Vimana",
+        "code": "FZ/S17-E081",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to two characters in your waiting room with \"Archer\" in its card name, return them to your hand, and choose a card in your hand, and put it into your waiting room.",
+            "Reveal the top card of your deck. If the revealed card is a climax, put it into your clock.（If it is not, return it to its original state）"
+        ],
+        "flavor_text": "Archer: \"Ah, the mad dog again…… Interesting…\"",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e081.jpg"
+    },
+    {
         "name": "Arondight",
         "code": "FZ/S17-E082",
         "rarity": "C",
@@ -2246,6 +2233,258 @@
         "release": "17",
         "sid": "E082",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e082.jpg"
+    },
+    {
+        "name": "Identity of the Fallen Knight",
+        "code": "FZ/S17-E083",
+        "rarity": "CR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "（【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "--and \"he\" lost everything.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e083.jpg"
+    },
+    {
+        "name": "Parting with Rin",
+        "code": "FZ/S17-E084",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "\"There is only one saying left to pass on as a representative of the past generations, to the offspring of the proud Tohsaka family.\"",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e084.jpg"
+    },
+    {
+        "name": "Sword of Rupture, Ea",
+        "code": "FZ/S17-E085",
+        "rarity": "CC",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Behold the glory-- Enuma Elish!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e085.jpg"
+    },
+    {
+        "name": "Kirei - The Emptiness Within",
+        "code": "FZ/S17-E086",
+        "rarity": "RR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Void",
+            "Master"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Master》 characters get +1000 power.",
+            "【AUTO】 Change ［(4) Put a climax from your hand into your waiting room & Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I admit it, I am an empty man.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e086.jpg"
+    },
+    {
+        "name": "Throbbing Soul, Kirei",
+        "code": "FZ/S17-E087",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Void",
+            "Master"
+        ],
+        "ability": [
+            "【AUTO】［Put a 《Master》 character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card."
+        ],
+        "flavor_text": "No Flavor Text",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e087.jpg"
+    },
+    {
+        "name": "Sadistic Artist, Caster",
+        "code": "FZ/S17-E088",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Book"
+        ],
+        "ability": [
+            "【AUTO】[Put another character on your stage into your waiting room] When this card attacks, if you have a blue climax in your climax area, you may pay the cost. If you do, this card gets +2000 power until end of your opponent's next turn."
+        ],
+        "flavor_text": "You shan't be disappointed, Ryunosuke.\nThis will be, as you might say, the coolest thing you'll ever see.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e088.jpg"
+    },
+    {
+        "name": "Kirei Kotomine",
+        "code": "FZ/S17-E089",
+        "rarity": "R",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Void",
+            "Master"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+            "【ACT】［(2) 【REST】 two of your characters］ Search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "I will fear no evil, for you are with me.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e089.jpg"
+    },
+    {
+        "name": "Aesthetics of Death, Caster",
+        "code": "FZ/S17-E090",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Book"
+        ],
+        "ability": [
+            "【AUTO】 When a card named \"Prank of Fate\" is placed on your climax area, if this card is on the center stage, search your deck for up to one level 0 or lower character, and put it on any position of your stage. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Indeed! Exactly so! Impressive, Ryunosuke!",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e090.jpg"
+    },
+    {
+        "name": "Receiving New Flesh, Archer",
+        "code": "FZ/S17-E091",
+        "rarity": "U",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is three or more, this unit gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\".",
+            "【ACT】［(1)] Choose one of your 《Servant》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "You really are quite a difficult man.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e091.jpg"
     },
     {
         "name": "Regulator, Risei",
@@ -2381,91 +2620,56 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e096.jpg"
     },
     {
-        "name": "Sign of Determination",
-        "code": "FZ/S17-E028",
-        "rarity": "CR",
+        "name": "Flames of Purgatory",
+        "code": "FZ/S17-E097",
+        "rarity": "U",
         "expansion": "Fate/Zero",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Shape ist leben!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e028.jpg"
-    },
-    {
-        "name": "Ionian Hetairoi",
-        "code": "FZ/S17-E052",
-        "rarity": "CR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+            "Search your deck for up to one 《Master》 character and up to one 《Servant》 character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Put this card into your clock."
         ],
-        "flavor_text": "Now my companions, let us show the first Heroic Spirit where our path of conquest leads!",
+        "flavor_text": "That's impossible… There's no way!",
         "set": "FZ",
         "release": "17",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e052.jpg"
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e097.jpg"
     },
     {
-        "name": "Identity of the Fallen Knight",
-        "code": "FZ/S17-E083",
-        "rarity": "CR",
+        "name": "Sea Monster",
+        "code": "FZ/S17-E098",
+        "rarity": "U",
         "expansion": "Fate/Zero",
         "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "3",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "（【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+            "Choose a character in your hand, and put it into your memory face down. Your opponent chooses the number 2 or 3. Reveal the face down card, and if that card is a character of a level that matches the number that your opponent chose, put it on any position of your stage. If it is not, put that card into your waiting room."
         ],
-        "flavor_text": "--and \"he\" lost everything.",
+        "flavor_text": "It glistens with a foul slime which induces nausea.\nIt is truly an island made of flesh.",
         "set": "FZ",
         "release": "17",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e083.jpg"
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e098.jpg"
     },
     {
         "name": "The Eighth Contract",
@@ -2488,217 +2692,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "（【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Until I find my answer, I will gladly be your jester…",
         "set": "FZ",
         "release": "17",
         "sid": "E099",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e099.jpg"
-    },
-    {
-        "name": "Origin Shot",
-        "code": "FZ/S17-E029",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "（【Shot】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.）"
-        ],
-        "flavor_text": "The origin shot-- It throws the target's mana into chaos, instantaneously causing the body to destroy itself.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e029.jpg"
-    },
-    {
-        "name": "Excalibur",
-        "code": "FZ/S17-E030",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "I swear it on my sword, I shall win.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e030.jpg"
-    },
-    {
-        "name": "Bond Between a King and His Retainer",
-        "code": "FZ/S17-E053",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "（【POOL】: When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Rider, you must conquer this world. Failure will not be tolerated.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e053.jpg"
-    },
-    {
-        "name": "Gordius Wheel",
-        "code": "FZ/S17-E054",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Let's roll, Gordius Wheel!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e054.jpg"
-    },
-    {
-        "name": "Gae Dearg",
-        "code": "FZ/S17-E055",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Pierce, Gae Dearg!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e055.jpg"
-    },
-    {
-        "name": "Parting with Rin",
-        "code": "FZ/S17-E084",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "\"There is only one saying left to pass on as a representative of the past generations, to the offspring of the proud Tohsaka family.\"",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e084.jpg"
-    },
-    {
-        "name": "Sword of Rupture, Ea",
-        "code": "FZ/S17-E085",
-        "rarity": "CC",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Behold the glory-- Enuma Elish!",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/ws_fz_s17_e085.jpg"
     },
     {
         "name": "Prank of Fate",
@@ -2865,6 +2865,270 @@
         "release": "17",
         "sid": "E105",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_e105.gif"
+    },
+    {
+        "name": "Mini Saber",
+        "code": "FZ/S17-E106",
+        "rarity": "PR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When another of your character's battle opponent becomes REVERSE, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_106.png"
+    },
+    {
+        "name": "Mini Irisviel",
+        "code": "FZ/S17-E107",
+        "rarity": "PR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Homunculus",
+            "Alchemy"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "...",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_107.png"
+    },
+    {
+        "name": "Mini Rider",
+        "code": "FZ/S17-E108",
+        "rarity": "PR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【ACT】 [(1)] Choose one of your opponent's characters on the center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_108.png"
+    },
+    {
+        "name": "Mini Waver",
+        "code": "FZ/S17-E109",
+        "rarity": "PR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Alchemy"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST.)"
+        ],
+        "flavor_text": "...",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_109.png"
+    },
+    {
+        "name": "Mini Archer",
+        "code": "FZ/S17-E110",
+        "rarity": "PR",
+        "expansion": "Fate/Zero",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Master",
+            "Alchemy"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "FZ",
+        "release": "17",
+        "sid": "E110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_110.png"
+    },
+    {
+        "name": "Master of the Golden Sheath, Saber",
+        "code": "FZ/S17-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose another of your <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "When the never-ending war draws to a close, she will be the one who grasps the Holy Grail.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE03.png"
+    },
+    {
+        "name": "Moment of Peace, Saber",
+        "code": "FZ/S17-PE04",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "－",
+        "set": "FZ",
+        "release": "17",
+        "sid": "PE04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_pe04.gif"
+    },
+    {
+        "name": "Illya & Irisviel",
+        "code": "FZ/S17-PE05",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Homunculus",
+            "Alchemy"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, you may pay the cost. If you do, this card gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Illya will always be with mother.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "PE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_pe05.gif"
+    },
+    {
+        "name": "Saber & Irisviel & Ilya",
+        "code": "FZ/S17-PE06",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Homunculus",
+            "Alchemy"
+        ],
+        "ability": [
+            "【AUTO】 When this card direct attacks, choose another of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "FZ",
+        "release": "17",
+        "sid": "PE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE06.png"
+    },
+    {
+        "name": "Style of a King, Saber",
+        "code": "FZ/S17-PE10",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Servant",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your other <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "A king is a martyr to their ideals.",
+        "set": "FZ",
+        "release": "17",
+        "sid": "PE10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE10.png"
     },
     {
         "name": "Summoned Heroine, Saber",
@@ -3267,269 +3531,5 @@
         "release": "17",
         "sid": "TE15",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_te15.gif"
-    },
-    {
-        "name": "Master of the Golden Sheath, Saber",
-        "code": "FZ/S17-PE03",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, choose another of your <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "When the never-ending war draws to a close, she will be the one who grasps the Holy Grail.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "PE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE03.png"
-    },
-    {
-        "name": "Moment of Peace, Saber",
-        "code": "FZ/S17-PE04",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 [【REST】 this card] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "－",
-        "set": "FZ",
-        "release": "17",
-        "sid": "PE04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_pe04.gif"
-    },
-    {
-        "name": "Illya & Irisviel",
-        "code": "FZ/S17-PE05",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Homunculus",
-            "Alchemy"
-        ],
-        "ability": [
-            "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, you may pay the cost. If you do, this card gets +2500 power until end of turn."
-        ],
-        "flavor_text": "Illya will always be with mother.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "PE05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/fz_s17_pe05.gif"
-    },
-    {
-        "name": "Saber & Irisviel & Ilya",
-        "code": "FZ/S17-PE06",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Homunculus",
-            "Alchemy"
-        ],
-        "ability": [
-            "【AUTO】 When this card direct attacks, choose another of your characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "FZ",
-        "release": "17",
-        "sid": "PE06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE06.png"
-    },
-    {
-        "name": "Style of a King, Saber",
-        "code": "FZ/S17-PE10",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, choose one of your other <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "A king is a martyr to their ideals.",
-        "set": "FZ",
-        "release": "17",
-        "sid": "PE10",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_FZ_S17_PE10.png"
-    },
-    {
-        "name": "Mini Saber",
-        "code": "FZ/S17-E106",
-        "rarity": "PR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【AUTO】 When another of your character's battle opponent becomes REVERSE, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "...",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E106",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_106.png"
-    },
-    {
-        "name": "Mini Irisviel",
-        "code": "FZ/S17-E107",
-        "rarity": "PR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Homunculus",
-            "Alchemy"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "...",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E107",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_107.png"
-    },
-    {
-        "name": "Mini Rider",
-        "code": "FZ/S17-E108",
-        "rarity": "PR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Servant",
-            "Royalty"
-        ],
-        "ability": [
-            "【ACT】 [(1)] Choose one of your opponent's characters on the center stage, and that character gets -1000 power until end of turn."
-        ],
-        "flavor_text": "...",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E108",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_108.png"
-    },
-    {
-        "name": "Mini Waver",
-        "code": "FZ/S17-E109",
-        "rarity": "PR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "8000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Master",
-            "Alchemy"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST.)"
-        ],
-        "flavor_text": "...",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E109",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_109.png"
-    },
-    {
-        "name": "Mini Archer",
-        "code": "FZ/S17-E110",
-        "rarity": "PR",
-        "expansion": "Fate/Zero",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Master",
-            "Alchemy"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "...",
-        "set": "FZ",
-        "release": "17",
-        "sid": "E110",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_110.png"
     }
 ]

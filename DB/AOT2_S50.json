@@ -84,153 +84,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E003.png"
     },
     {
-        "name": "\"Silent Fury\" Levi",
-        "code": "AOT/S50-E025",
-        "rarity": "RR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
-            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Ugh. Those damn Titans never give us a break.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E025.png"
-    },
-    {
-        "name": "\"To Seize Freedom\" Hange",
-        "code": "AOT/S50-E026",
-        "rarity": "RR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.",
-            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose another of your 《Corps》 characters and this card, and those characters get +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Standby for Full Scale Assault!\" is in your climax area, you may put that character into your opponent's clock."
-        ],
-        "flavor_text": "Just kidding. I wasn't serious……",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E026",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E026.png"
-    },
-    {
-        "name": "\"Goddess' Smile\" Christa",
-        "code": "AOT/S50-E051",
-        "rarity": "RR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"My Real Name...\" is in your climax area, put up to one card from the top of your deck into your stock, choose up to one card named \"Anti-Titan Device \"Omni-Directional Mobility Gear\"\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "You're all right!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E051.png"
-    },
-    {
-        "name": "\"Embraced Memories\" Mikasa",
-        "code": "AOT/S50-E052",
-        "rarity": "RR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If a card named \"\"My Fate to Bear\" Eren\" is in your clock, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Corps》 characters you have."
-        ],
-        "flavor_text": "Eren has always run off on his own, leaving us behind.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E052.png"
-    },
-    {
-        "name": "\"To Seize Freedom\" Sasha",
-        "code": "AOT/S50-E053",
-        "rarity": "RR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to one of your opponent's level X or lower characters, and put it into his or her waiting room. X is equal to that card's level. (Climax are regarded as level 0)",
-            "【AUTO】 When this card attacks, if the number of other 《Corps》 characters you have is two or more, this card gets +1 soul until end of turn."
-        ],
-        "flavor_text": "I brought extra rations!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E053.png"
-    },
-    {
         "name": "\"Single Ray of Light\" Armin",
         "code": "AOT/S50-E004",
         "rarity": "R",
@@ -373,421 +226,6 @@
         "release": "50",
         "sid": "E008",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E008.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Hange",
-        "code": "AOT/S50-E027",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Corps》 characters get +500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
-            "【AUTO】 Bond/\"\"Resisting Fate\" Levi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Resisting Fate\" Levi\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Have the others disperse and cover the area! The rest of us will attack where the Titans are gathering!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E027.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Erwin",
-        "code": "AOT/S50-E028",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage with \"Levi(リヴァイ)\" or \"Hange(ハンジ)\" or \"Erwin(エルヴィン)\" in its card name gets +1 level and +1000 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Give your hearts!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E028.png"
-    },
-    {
-        "name": "\"Single Ray of Light\" Levi",
-        "code": "AOT/S50-E029",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one green character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Erwin may have thrown together your squad, but everything's riding on you.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E029.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Levi",
-        "code": "AOT/S50-E030",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if you have another character with \"Levi(リヴァイ)\" or \"Hange(ハンジ)\" or \"Erwin(エルヴィン)\" in its card name, this card gets +3000 power until end of turn.",
-            "【AUTO】 When this cards' battle opponent becomes 【REVERSE】, draw a card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Hey. Get moving.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E030.png"
-    },
-    {
-        "name": "\"To Seize Freedom\" Levi",
-        "code": "AOT/S50-E031",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Blade that Rends Despair\" is in your climax area, and you have another 《Corps》 character, choose up to one 《Corps》 character in your waiting room, put it into your stock, choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "Hey, keep moving. You'll end up like a little lost kid.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E031.png"
-    },
-    {
-        "name": "\"Single Ray of Light\" Mikasa",
-        "code": "AOT/S50-E054",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 During the attack phase, when your character moves to another stage position, until end of turn, that character gets +500 power and the following ability. \"【CONT】 The character facing this card cannot side attack.\"",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E054.png"
-    },
-    {
-        "name": "\"Insatiable Hunger\" Sasha",
-        "code": "AOT/S50-E055",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of cards in your stock is three or less, you may put that character on the top of your opponent's deck.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Sasha's Father: \"Damn stupid girl……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E055.png"
-    },
-    {
-        "name": "\"Brief Respite\" Christa",
-        "code": "AOT/S50-E056",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\"",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "Armin: \"She's got long golden hair…… Um, and… She's cute!\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E056.png"
-    },
-    {
-        "name": "\"Sunset on Your Back\" Mikasa",
-        "code": "AOT/S50-E057",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you have another character with \"Eren(エレン)\" in its card name, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【AUTO】 When this card attacks, if the number of other characters you have with \"Eren(エレン)\" in its card name is two or more, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Levi: \"Use the utmost of your ability to protect Eren at all costs.\"\nMikasa: \"Yes, sir! Of course!\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E057.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Sasha",
-        "code": "AOT/S50-E058",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +2000 power.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "Uwaaaaaaaaaah!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E058.png"
-    },
-    {
-        "name": "\"To Seize Freedom\" Mikasa",
-        "code": "AOT/S50-E059",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Thank You...\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)",
-            "【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "This time, I won't hesitate. I'll kill them both, I swear!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E059.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Christa",
-        "code": "AOT/S50-E060",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
-        ],
-        "flavor_text": "…… It's strange, really. When I'm with you, no matter how screwed up it gets…… I'm not afraid!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E060.png"
-    },
-    {
-        "name": "\"Strength Assessment\" Beast Titan",
-        "code": "AOT/S50-E085",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card named \"\"Predation\" Titan\" from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a level 1 or lower character in your opponent's center stage, and put it on the bottom of his or her deck.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to two cards named \"\"Predation\" Titan\" in your waiting room, and return them to your hand."
-        ],
-        "flavor_text": "Ymir: \"That monkey Beast Titan is what caused this recent fiasco. It made Titans rise up from within the wall.\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E085.png"
-    },
-    {
-        "name": "Beast Titan",
-        "code": "AOT/S50-E086",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(1) Put a card named \"\"Predation\" Titan\" from your hand into your waiting room] When this card attacks, if a card named \"Sentience\" is in your climax area, and you have another 《Titan》 character, you may pay the cost. If you do, deal four damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Tell me, what is that weapon called?",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E086.png"
-    },
-    {
-        "name": "\"Resurgence\" Armored Titan",
-        "code": "AOT/S50-E087",
-        "rarity": "R",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand.",
-            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Duel\" is in your climax area, you may pay the cost. If you do, until the end of your opponent's next turn, this card gets +1000 power and the following ability. \"【CONT】 The character facing this card gets -2 soul.\"",
-            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn."
-        ],
-        "flavor_text": "Mikasa: \"Eren's attack didn't…… And my blades don't work either……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E087.png"
     },
     {
         "name": "\"Relief\" Eren",
@@ -954,830 +392,6 @@
         "release": "50",
         "sid": "E013b",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E013b.png"
-    },
-    {
-        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
-        "code": "AOT/S50-E020",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose up to one of your 《Corps》 characters in battle, return it to your hand, choose up to one character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E020.png"
-    },
-    {
-        "name": "Coordinate",
-        "code": "AOT/S50-E021",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "3",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Deal X damage to your opponent. X is equal to the number of cards named \"\"Pursuit\" Titan\" in your memory. (This damage may be canceled)",
-            "Choose a card named \"\"Pursuit\" Titan\" in your memory, and put it into your waiting room."
-        ],
-        "flavor_text": "Eaaaaaaaaaaaagh!!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E021.png"
-    },
-    {
-        "name": "Pastor Nick",
-        "code": "AOT/S50-E032",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            ""
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"In the Wall\" in your waiting room, and return it to your hand.",
-            "【AUTO】 At the beginning of your main phase, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "Th-This is……",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E032.png"
-    },
-    {
-        "name": "“Confirming the Unknown” Hange",
-        "code": "AOT/S50-E033",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Corps》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "Hange: \"There's something I need to confirm……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E033.png"
-    },
-    {
-        "name": "\"To Seize Freedom\" Erwin",
-        "code": "AOT/S50-E034",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
-            "【AUTO】 [(1) Put a 《Corps》 character from your hand into your waiting room] At the end of your turn, if this card is in your center stage, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "…… I can always be replaced! More importantly, find Eren and retreat!…… Time is of the essence!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E034.png"
-    },
-    {
-        "name": "\"Cleanup\" Levi",
-        "code": "AOT/S50-E035",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 At the beginning of your climax phase, choose one of your 《Corps》 characters, that character gets +500 power until end of turn, and if that character is named \"\"Resisting Fate\" Levi\", that character gets the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play event cards and \"Backup\" from hand.\""
-        ],
-        "flavor_text": "It doesn't matter what you think.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E035.png"
-    },
-    {
-        "name": "\"Sunset on Your Back\" Levi",
-        "code": "AOT/S50-E036",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
-            "【AUTO】 【CXCOMBO】 When a card named \"Revolutionists\" is placed on your climax area, if this card is in your center stage, search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Not like there's much choice.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E036.png"
-    },
-    {
-        "name": "\"Communication\" Hange",
-        "code": "AOT/S50-E037",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "7000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E037.png"
-    },
-    {
-        "name": "A Request or… an Order…?",
-        "code": "AOT/S50-E046",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a 《Corps》 character, this card cannot be played from your hand.",
-            "Choose one of the following effects and perform it. \"Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Choose one of your characters, that character gets +3000 power until end of turn, and put this card into your stock.\""
-        ],
-        "flavor_text": "Will you talk, or won't you?! Make up your mind already!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E046.png"
-    },
-    {
-        "name": "Repose",
-        "code": "AOT/S50-E047",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Search your deck for up to two 《Corps》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Levi: \"Hange…… Hey, four-eyes.\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E047.png"
-    },
-    {
-        "name": "\"Recovering Eren\" Mikasa",
-        "code": "AOT/S50-E061",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 Bond/\"\"Crimson Fighting Spirit\" Eren\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Eren!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E061.png"
-    },
-    {
-        "name": "\"Piercing Terror\" Sasha",
-        "code": "AOT/S50-E062",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】 【CXCOMBO】 When a card named \"Run!!\" is placed on your climax area, choose one of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to four cards from the top of your deck, choose up to one 《Corps》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "Relax. All it is is a big…… slow moving target!!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E062.png"
-    },
-    {
-        "name": "\"Fine as Is\" Christa",
-        "code": "AOT/S50-E063",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】 [(2)] When you level up, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "There's nothing wrong with the way she talks!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E063.png"
-    },
-    {
-        "name": "“Hidden Truth” Ymir",
-        "code": "AOT/S50-E064a",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【CONT】 During your turn, if the number of other characters you have with \"Christa(クリスタ)\" in its card name is two or more, this card gets +4000 power.",
-            "【AUTO】 Change [(1) Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Ymir Titan\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "I want you to live a life you're proud of…… Remember our promise, Christa.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E064a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E064a.png"
-    },
-    {
-        "name": "\"Hidden Truth\" Ymir",
-        "code": "AOT/S50-E064b",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【CONT】 During your turn, if the number of other characters you have with \"Christa(クリスタ)\" in its card name is two or more, this card gets +4000 power.",
-            "【AUTO】 Change [(1) Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Ymir Titan\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "When I opened my eyes, what I saw was freedom spread out before me. If there was such a thing as fate, I can only laugh at how fickle it can be.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E064b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E064b.png"
-    },
-    {
-        "name": "\"Until the Dying Breath\" Bertholdt",
-        "code": "AOT/S50-E065",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Corps》 or 《Titan》 characters."
-        ],
-        "flavor_text": "Someone has to be the one to do it…… Someone has to be the one to stain their hands with blood……",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E065.png"
-    },
-    {
-        "name": "\"Hidden Truth\" Bertholdt",
-        "code": "AOT/S50-E066",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Titan》 character, choose up to one cost 0 or lower character in your opponent's center stage, put it into his or her waiting room, and put up to one card from the top of your deck into your stock.",
-            "【ACT】 [(3) Put this card into your clock] Choose a card named \"\"Enemy of Humanity\" Colossal Titan\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Are we doing it!? Now!? Right here!?",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E066.png"
-    },
-    {
-        "name": "\"Born in Dauper\" Sasha",
-        "code": "AOT/S50-E067",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Corps",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Corps》 characters and this card, and exchange them as 【STAND】.",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "My town's north of here! I know the lay of the land well!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E067.png"
-    },
-    {
-        "name": "“Hidden Truth” Reiner",
-        "code": "AOT/S50-E068",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When a card named \"Duel\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"\"Resurgence\" Armored Titan\" in your hand, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "But the only choice for me now is to face the consequences of my actions and as a warrior…… fulfill my duty to the bitter end!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E068.png"
-    },
-    {
-        "name": "The Goddess",
-        "code": "AOT/S50-E080",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
-        ],
-        "flavor_text": "It wasn't so bad, you know, being a goddess for a while.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E080.png"
-    },
-    {
-        "name": "Murderous Glare",
-        "code": "AOT/S50-E081",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your characters with \"Eren(エレン)\" in its card name, and that character gets +4500 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E081.png"
-    },
-    {
-        "name": "\"Pursuit\" Titan",
-        "code": "AOT/S50-E088a",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
-            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Mikasa: \"Why…… are they……? They're eating it?\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E088a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088a.png"
-    },
-    {
-        "name": "\"Pursuit\" Titan",
-        "code": "AOT/S50-E088b",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
-            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Armin: \"*gasp* Eh-?\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E088b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088b.png"
-    },
-    {
-        "name": "\"Pursuit\" Titan",
-        "code": "AOT/S50-E088c",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
-            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Eren: \"What? The Titans……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E088c",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088c.png"
-    },
-    {
-        "name": "\"Pursuit\" Titan",
-        "code": "AOT/S50-E088d",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
-            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Reiner: \"I can't protect Bertholdt like this!\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E088d",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088d.png"
-    },
-    {
-        "name": "\"Multiple Decisive Battles\" Colossal Titan",
-        "code": "AOT/S50-E089",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
-            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Titan》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Armin: \"Bertholdt……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E089",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E089.png"
-    },
-    {
-        "name": "Ymir Titan",
-        "code": "AOT/S50-E090a",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Titan》 characters or characters with \"Christa(クリスタ)\" in its card name.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Titan》 character or character with \"Christa(クリスタ)\" in its card name, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "Ymir: \"If someday, I was given a chance at life, this time, I would live for no one but myself……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E090a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E090a.png"
-    },
-    {
-        "name": "Ymir Titan",
-        "code": "AOT/S50-E090b",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "Corps"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Titan》 characters or characters with \"Christa(クリスタ)\" in its card name.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Titan》 character or character with \"Christa(クリスタ)\" in its card name, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E090b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E090b.png"
-    },
-    {
-        "name": "\"Enemy of Humanity\" Colossal Titan",
-        "code": "AOT/S50-E091",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "3",
-        "power": "11000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Titan",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If this card is in your center stage, all of your 《Titan》 characters get +1500 power.",
-            "【AUTO】 [Put three 《Titan》 characters from your hand into your waiting room] At the beginning of your opponent's attack phase, if this card is in your center stage, you may pay the cost. If you do, choose a character facing this card, and until end of turn, that character gets -1 soul and the following ability. \"【CONT】 This card cannot frontal attack.\""
-        ],
-        "flavor_text": "Hange: \"Now's our chance! Slice up his neck!\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E091",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E091.png"
-    },
-    {
-        "name": "In the Wall",
-        "code": "AOT/S50-E098",
-        "rarity": "U",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Look at up to three cards from the top of your deck, choose up to three cards from among them, put them into your waiting room, return the rest to your deck, and shuffle your deck."
-        ],
-        "flavor_text": "Hange: \"Was that there just by coincidence?…… Or does this mean……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E098.png"
     },
     {
         "name": "\"Whimsical Days\" Eren",
@@ -1963,6 +577,542 @@
         "release": "50",
         "sid": "E019",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E019.png"
+    },
+    {
+        "name": "Anti-Titan Device \"Omni-Directional Mobility Gear\"",
+        "code": "AOT/S50-E020",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose up to one of your 《Corps》 characters in battle, return it to your hand, choose up to one character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E020.png"
+    },
+    {
+        "name": "Coordinate",
+        "code": "AOT/S50-E021",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Deal X damage to your opponent. X is equal to the number of cards named \"\"Pursuit\" Titan\" in your memory. (This damage may be canceled)",
+            "Choose a card named \"\"Pursuit\" Titan\" in your memory, and put it into your waiting room."
+        ],
+        "flavor_text": "Eaaaaaaaaaaaagh!!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E021.png"
+    },
+    {
+        "name": "Outcry",
+        "code": "AOT/S50-E022",
+        "rarity": "CR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Now and forever… As much as you want!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E022.png"
+    },
+    {
+        "name": "Yell of Rage",
+        "code": "AOT/S50-E023a",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "You damn traitors!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E023a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E023a.png"
+    },
+    {
+        "name": "Yell of Rage",
+        "code": "AOT/S50-E023b",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "You damn traitors!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E023b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E023b.png"
+    },
+    {
+        "name": "Close Combat",
+        "code": "AOT/S50-E024",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "It's time to exterminate you!!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E024.png"
+    },
+    {
+        "name": "\"Silent Fury\" Levi",
+        "code": "AOT/S50-E025",
+        "rarity": "RR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Ugh. Those damn Titans never give us a break.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E025.png"
+    },
+    {
+        "name": "\"To Seize Freedom\" Hange",
+        "code": "AOT/S50-E026",
+        "rarity": "RR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose another of your 《Corps》 characters and this card, and those characters get +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Standby for Full Scale Assault!\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "Just kidding. I wasn't serious……",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E026.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Hange",
+        "code": "AOT/S50-E027",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Corps》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+            "【AUTO】 Bond/\"\"Resisting Fate\" Levi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Resisting Fate\" Levi\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Have the others disperse and cover the area! The rest of us will attack where the Titans are gathering!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E027.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Erwin",
+        "code": "AOT/S50-E028",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage with \"Levi(リヴァイ)\" or \"Hange(ハンジ)\" or \"Erwin(エルヴィン)\" in its card name gets +1 level and +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Give your hearts!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E028.png"
+    },
+    {
+        "name": "\"Single Ray of Light\" Levi",
+        "code": "AOT/S50-E029",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one green character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Erwin may have thrown together your squad, but everything's riding on you.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E029.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Levi",
+        "code": "AOT/S50-E030",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another character with \"Levi(リヴァイ)\" or \"Hange(ハンジ)\" or \"Erwin(エルヴィン)\" in its card name, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this cards' battle opponent becomes 【REVERSE】, draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Hey. Get moving.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E030.png"
+    },
+    {
+        "name": "\"To Seize Freedom\" Levi",
+        "code": "AOT/S50-E031",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Blade that Rends Despair\" is in your climax area, and you have another 《Corps》 character, choose up to one 《Corps》 character in your waiting room, put it into your stock, choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Hey, keep moving. You'll end up like a little lost kid.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E031.png"
+    },
+    {
+        "name": "Pastor Nick",
+        "code": "AOT/S50-E032",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"In the Wall\" in your waiting room, and return it to your hand.",
+            "【AUTO】 At the beginning of your main phase, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Th-This is……",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E032.png"
+    },
+    {
+        "name": "“Confirming the Unknown” Hange",
+        "code": "AOT/S50-E033",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Corps》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Hange: \"There's something I need to confirm……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E033.png"
+    },
+    {
+        "name": "\"To Seize Freedom\" Erwin",
+        "code": "AOT/S50-E034",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
+            "【AUTO】 [(1) Put a 《Corps》 character from your hand into your waiting room] At the end of your turn, if this card is in your center stage, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "…… I can always be replaced! More importantly, find Eren and retreat!…… Time is of the essence!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E034.png"
+    },
+    {
+        "name": "\"Cleanup\" Levi",
+        "code": "AOT/S50-E035",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 At the beginning of your climax phase, choose one of your 《Corps》 characters, that character gets +500 power until end of turn, and if that character is named \"\"Resisting Fate\" Levi\", that character gets the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play event cards and \"Backup\" from hand.\""
+        ],
+        "flavor_text": "It doesn't matter what you think.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E035.png"
+    },
+    {
+        "name": "\"Sunset on Your Back\" Levi",
+        "code": "AOT/S50-E036",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Corps》 characters.",
+            "【AUTO】 【CXCOMBO】 When a card named \"Revolutionists\" is placed on your climax area, if this card is in your center stage, search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Not like there's much choice.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E036.png"
+    },
+    {
+        "name": "\"Communication\" Hange",
+        "code": "AOT/S50-E037",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E037.png"
     },
     {
         "name": "\"The Fate of Mankind's Survival\" Erwin",
@@ -2255,6 +1405,732 @@
         "release": "50",
         "sid": "E045b",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E045b.png"
+    },
+    {
+        "name": "A Request or… an Order…?",
+        "code": "AOT/S50-E046",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Corps》 character, this card cannot be played from your hand.",
+            "Choose one of the following effects and perform it. \"Search your deck for up to one 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Choose one of your characters, that character gets +3000 power until end of turn, and put this card into your stock.\""
+        ],
+        "flavor_text": "Will you talk, or won't you?! Make up your mind already!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E046.png"
+    },
+    {
+        "name": "Repose",
+        "code": "AOT/S50-E047",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to two 《Corps》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Levi: \"Hange…… Hey, four-eyes.\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E047.png"
+    },
+    {
+        "name": "Blade that Rends Despair",
+        "code": "AOT/S50-E048",
+        "rarity": "CR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "You have to succeed.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E048.png"
+    },
+    {
+        "name": "Revolutionists",
+        "code": "AOT/S50-E049a",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Just one step, huh? We'll run out of people before we learn the truth. It's not worth the cost.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E049a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E049a.png"
+    },
+    {
+        "name": "Revolutionists",
+        "code": "AOT/S50-E049b",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Levi: \"No, I think it might. Erwin picked them out for a reason.\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E049b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E049b.png"
+    },
+    {
+        "name": "Standby for Full Scale Assault!",
+        "code": "AOT/S50-E050a",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "We're taking down the Colossal Titan!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E050a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E050a.png"
+    },
+    {
+        "name": "Standby for Full Scale Assault!",
+        "code": "AOT/S50-E050b",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Hange: \"Swarm the huge bastard!\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E050b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E050b.png"
+    },
+    {
+        "name": "\"Goddess' Smile\" Christa",
+        "code": "AOT/S50-E051",
+        "rarity": "RR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"My Real Name...\" is in your climax area, put up to one card from the top of your deck into your stock, choose up to one card named \"Anti-Titan Device \"Omni-Directional Mobility Gear\"\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You're all right!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E051.png"
+    },
+    {
+        "name": "\"Embraced Memories\" Mikasa",
+        "code": "AOT/S50-E052",
+        "rarity": "RR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If a card named \"\"My Fate to Bear\" Eren\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Corps》 characters you have."
+        ],
+        "flavor_text": "Eren has always run off on his own, leaving us behind.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E052.png"
+    },
+    {
+        "name": "\"To Seize Freedom\" Sasha",
+        "code": "AOT/S50-E053",
+        "rarity": "RR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to one of your opponent's level X or lower characters, and put it into his or her waiting room. X is equal to that card's level. (Climax are regarded as level 0)",
+            "【AUTO】 When this card attacks, if the number of other 《Corps》 characters you have is two or more, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "I brought extra rations!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E053.png"
+    },
+    {
+        "name": "\"Single Ray of Light\" Mikasa",
+        "code": "AOT/S50-E054",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 During the attack phase, when your character moves to another stage position, until end of turn, that character gets +500 power and the following ability. \"【CONT】 The character facing this card cannot side attack.\"",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E054.png"
+    },
+    {
+        "name": "\"Insatiable Hunger\" Sasha",
+        "code": "AOT/S50-E055",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of cards in your stock is three or less, you may put that character on the top of your opponent's deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Sasha's Father: \"Damn stupid girl……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E055.png"
+    },
+    {
+        "name": "\"Brief Respite\" Christa",
+        "code": "AOT/S50-E056",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\"",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Armin: \"She's got long golden hair…… Um, and… She's cute!\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E056.png"
+    },
+    {
+        "name": "\"Sunset on Your Back\" Mikasa",
+        "code": "AOT/S50-E057",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Eren(エレン)\" in its card name, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【AUTO】 When this card attacks, if the number of other characters you have with \"Eren(エレン)\" in its card name is two or more, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Levi: \"Use the utmost of your ability to protect Eren at all costs.\"\nMikasa: \"Yes, sir! Of course!\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E057.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Sasha",
+        "code": "AOT/S50-E058",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +2000 power.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Uwaaaaaaaaaah!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E058.png"
+    },
+    {
+        "name": "\"To Seize Freedom\" Mikasa",
+        "code": "AOT/S50-E059",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Thank You...\" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)",
+            "【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "This time, I won't hesitate. I'll kill them both, I swear!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E059.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Christa",
+        "code": "AOT/S50-E060",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "…… It's strange, really. When I'm with you, no matter how screwed up it gets…… I'm not afraid!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E060.png"
+    },
+    {
+        "name": "\"Recovering Eren\" Mikasa",
+        "code": "AOT/S50-E061",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 Bond/\"\"Crimson Fighting Spirit\" Eren\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Eren!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E061.png"
+    },
+    {
+        "name": "\"Piercing Terror\" Sasha",
+        "code": "AOT/S50-E062",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 【CXCOMBO】 When a card named \"Run!!\" is placed on your climax area, choose one of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to four cards from the top of your deck, choose up to one 《Corps》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Relax. All it is is a big…… slow moving target!!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E062.png"
+    },
+    {
+        "name": "\"Fine as Is\" Christa",
+        "code": "AOT/S50-E063",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 [(2)] When you level up, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "There's nothing wrong with the way she talks!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E063.png"
+    },
+    {
+        "name": "“Hidden Truth” Ymir",
+        "code": "AOT/S50-E064a",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if the number of other characters you have with \"Christa(クリスタ)\" in its card name is two or more, this card gets +4000 power.",
+            "【AUTO】 Change [(1) Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Ymir Titan\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "I want you to live a life you're proud of…… Remember our promise, Christa.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E064a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E064a.png"
+    },
+    {
+        "name": "\"Hidden Truth\" Ymir",
+        "code": "AOT/S50-E064b",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if the number of other characters you have with \"Christa(クリスタ)\" in its card name is two or more, this card gets +4000 power.",
+            "【AUTO】 Change [(1) Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Ymir Titan\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "When I opened my eyes, what I saw was freedom spread out before me. If there was such a thing as fate, I can only laugh at how fickle it can be.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E064b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E064b.png"
+    },
+    {
+        "name": "\"Until the Dying Breath\" Bertholdt",
+        "code": "AOT/S50-E065",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Corps》 or 《Titan》 characters."
+        ],
+        "flavor_text": "Someone has to be the one to do it…… Someone has to be the one to stain their hands with blood……",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E065.png"
+    },
+    {
+        "name": "\"Hidden Truth\" Bertholdt",
+        "code": "AOT/S50-E066",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Titan》 character, choose up to one cost 0 or lower character in your opponent's center stage, put it into his or her waiting room, and put up to one card from the top of your deck into your stock.",
+            "【ACT】 [(3) Put this card into your clock] Choose a card named \"\"Enemy of Humanity\" Colossal Titan\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Are we doing it!? Now!? Right here!?",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E066.png"
+    },
+    {
+        "name": "\"Born in Dauper\" Sasha",
+        "code": "AOT/S50-E067",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Corps》 characters and this card, and exchange them as 【STAND】.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "My town's north of here! I know the lay of the land well!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E067.png"
+    },
+    {
+        "name": "“Hidden Truth” Reiner",
+        "code": "AOT/S50-E068",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When a card named \"Duel\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"\"Resurgence\" Armored Titan\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "But the only choice for me now is to face the consequences of my actions and as a warrior…… fulfill my duty to the bitter end!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E068.png"
     },
     {
         "name": "\"The Smile I Want to Protect\" Christa",
@@ -2557,6 +2433,484 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E079.png"
     },
     {
+        "name": "The Goddess",
+        "code": "AOT/S50-E080",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
+        ],
+        "flavor_text": "It wasn't so bad, you know, being a goddess for a while.",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E080.png"
+    },
+    {
+        "name": "Murderous Glare",
+        "code": "AOT/S50-E081",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your characters with \"Eren(エレン)\" in its card name, and that character gets +4500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E081.png"
+    },
+    {
+        "name": "My Real Name…",
+        "code": "AOT/S50-E082",
+        "rarity": "CR",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "My real name…… is Historia……",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E082.png"
+    },
+    {
+        "name": "Thank You…",
+        "code": "AOT/S50-E083",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Mikasa: \"You showed me…… how to live with purpose. Thank you……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E083.png"
+    },
+    {
+        "name": "Run!!",
+        "code": "AOT/S50-E084a",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Run!!",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E084a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E084a.png"
+    },
+    {
+        "name": "Run!!",
+        "code": "AOT/S50-E084b",
+        "rarity": "CC",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E084b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E084b.png"
+    },
+    {
+        "name": "\"Strength Assessment\" Beast Titan",
+        "code": "AOT/S50-E085",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card named \"\"Predation\" Titan\" from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a level 1 or lower character in your opponent's center stage, and put it on the bottom of his or her deck.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to two cards named \"\"Predation\" Titan\" in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "Ymir: \"That monkey Beast Titan is what caused this recent fiasco. It made Titans rise up from within the wall.\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E085.png"
+    },
+    {
+        "name": "Beast Titan",
+        "code": "AOT/S50-E086",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put a card named \"\"Predation\" Titan\" from your hand into your waiting room] When this card attacks, if a card named \"Sentience\" is in your climax area, and you have another 《Titan》 character, you may pay the cost. If you do, deal four damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Tell me, what is that weapon called?",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E086.png"
+    },
+    {
+        "name": "\"Resurgence\" Armored Titan",
+        "code": "AOT/S50-E087",
+        "rarity": "R",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand.",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Duel\" is in your climax area, you may pay the cost. If you do, until the end of your opponent's next turn, this card gets +1000 power and the following ability. \"【CONT】 The character facing this card gets -2 soul.\"",
+            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "Mikasa: \"Eren's attack didn't…… And my blades don't work either……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E087.png"
+    },
+    {
+        "name": "\"Pursuit\" Titan",
+        "code": "AOT/S50-E088a",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Mikasa: \"Why…… are they……? They're eating it?\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E088a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088a.png"
+    },
+    {
+        "name": "\"Pursuit\" Titan",
+        "code": "AOT/S50-E088b",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Armin: \"*gasp* Eh-?\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E088b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088b.png"
+    },
+    {
+        "name": "\"Pursuit\" Titan",
+        "code": "AOT/S50-E088c",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Eren: \"What? The Titans……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E088c",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088c.png"
+    },
+    {
+        "name": "\"Pursuit\" Titan",
+        "code": "AOT/S50-E088d",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character on the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose a card named \"\"Crimson Fighting Spirit\" Eren\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Reiner: \"I can't protect Bertholdt like this!\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E088d",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E088d.png"
+    },
+    {
+        "name": "\"Multiple Decisive Battles\" Colossal Titan",
+        "code": "AOT/S50-E089",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Titan》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Armin: \"Bertholdt……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E089.png"
+    },
+    {
+        "name": "Ymir Titan",
+        "code": "AOT/S50-E090a",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Titan》 characters or characters with \"Christa(クリスタ)\" in its card name.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Titan》 character or character with \"Christa(クリスタ)\" in its card name, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Ymir: \"If someday, I was given a chance at life, this time, I would live for no one but myself……\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E090a",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E090a.png"
+    },
+    {
+        "name": "Ymir Titan",
+        "code": "AOT/S50-E090b",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Titan》 characters or characters with \"Christa(クリスタ)\" in its card name.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Titan》 character or character with \"Christa(クリスタ)\" in its card name, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E090b",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E090b.png"
+    },
+    {
+        "name": "\"Enemy of Humanity\" Colossal Titan",
+        "code": "AOT/S50-E091",
+        "rarity": "U",
+        "expansion": "Attack on Titan Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "3",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Titan",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage, all of your 《Titan》 characters get +1500 power.",
+            "【AUTO】 [Put three 《Titan》 characters from your hand into your waiting room] At the beginning of your opponent's attack phase, if this card is in your center stage, you may pay the cost. If you do, choose a character facing this card, and until end of turn, that character gets -1 soul and the following ability. \"【CONT】 This card cannot frontal attack.\""
+        ],
+        "flavor_text": "Hange: \"Now's our chance! Slice up his neck!\"",
+        "set": "AOT",
+        "release": "50",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E091.png"
+    },
+    {
         "name": "\"Nemesis\" Titan",
         "code": "AOT/S50-E092",
         "rarity": "C",
@@ -2800,92 +3154,30 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E097.png"
     },
     {
-        "name": "Outcry",
-        "code": "AOT/S50-E022",
-        "rarity": "CR",
+        "name": "In the Wall",
+        "code": "AOT/S50-E098",
+        "rarity": "U",
         "expansion": "Attack on Titan Vol.2",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+            "【COUNTER】 Look at up to three cards from the top of your deck, choose up to three cards from among them, put them into your waiting room, return the rest to your deck, and shuffle your deck."
         ],
-        "flavor_text": "Now and forever… As much as you want!",
+        "flavor_text": "Hange: \"Was that there just by coincidence?…… Or does this mean……\"",
         "set": "AOT",
         "release": "50",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E022.png"
-    },
-    {
-        "name": "Blade that Rends Despair",
-        "code": "AOT/S50-E048",
-        "rarity": "CR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "You have to succeed.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E048.png"
-    },
-    {
-        "name": "My Real Name…",
-        "code": "AOT/S50-E082",
-        "rarity": "CR",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "My real name…… is Historia……",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E082.png"
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E098.png"
     },
     {
         "name": "Sentience",
@@ -2908,7 +3200,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Wait.",
         "set": "AOT",
@@ -2937,305 +3229,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "",
         "set": "AOT",
         "release": "50",
         "sid": "E099b",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E099b.png"
-    },
-    {
-        "name": "Yell of Rage",
-        "code": "AOT/S50-E023a",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "You damn traitors!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E023a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E023a.png"
-    },
-    {
-        "name": "Yell of Rage",
-        "code": "AOT/S50-E023b",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "You damn traitors!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E023b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E023b.png"
-    },
-    {
-        "name": "Close Combat",
-        "code": "AOT/S50-E024",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "It's time to exterminate you!!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E024",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E024.png"
-    },
-    {
-        "name": "Revolutionists",
-        "code": "AOT/S50-E049a",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Just one step, huh? We'll run out of people before we learn the truth. It's not worth the cost.",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E049a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E049a.png"
-    },
-    {
-        "name": "Revolutionists",
-        "code": "AOT/S50-E049b",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Levi: \"No, I think it might. Erwin picked them out for a reason.\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E049b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E049b.png"
-    },
-    {
-        "name": "Standby for Full Scale Assault!",
-        "code": "AOT/S50-E050a",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "We're taking down the Colossal Titan!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E050a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E050a.png"
-    },
-    {
-        "name": "Standby for Full Scale Assault!",
-        "code": "AOT/S50-E050b",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Hange: \"Swarm the huge bastard!\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E050b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E050b.png"
-    },
-    {
-        "name": "Thank You…",
-        "code": "AOT/S50-E083",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Mikasa: \"You showed me…… how to live with purpose. Thank you……\"",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E083.png"
-    },
-    {
-        "name": "Run!!",
-        "code": "AOT/S50-E084a",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Run!!",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E084a",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E084a.png"
-    },
-    {
-        "name": "Run!!",
-        "code": "AOT/S50-E084b",
-        "rarity": "CC",
-        "expansion": "Attack on Titan Vol.2",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "",
-        "set": "AOT",
-        "release": "50",
-        "sid": "E084b",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/AOT_S50_E084b.png"
     },
     {
         "name": "Duel",
@@ -3259,7 +3259,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Armin: \"This is bad!\"",
         "set": "AOT",
@@ -3289,7 +3289,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "",
         "set": "AOT",

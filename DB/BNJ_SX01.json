@@ -1,5 +1,33 @@
 [
     {
+        "name": "Catwoman: Cat Call",
+        "code": "BNJ/BCS2019-02",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Don't be afraid. It's just a little cat call.",
+        "set": "BNJ",
+        "release": "CS2019",
+        "sid": "02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_BCS2019_02.png"
+    },
+    {
         "name": "Joker: The Final Showdown",
         "code": "BNJ/SX01-001",
         "rarity": "RR",
@@ -87,208 +115,6 @@
         "sid": "003",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_003.png",
         "price": "2.00"
-    },
-    {
-        "name": "Harley Quinn",
-        "code": "BNJ/SX01-036",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《Villain》 character with level equal to or lower than your level, put it on any position of your stage, and shuffle your deck.",
-            "【AUTO】 When your other 《Villain》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Can't wait, Mister J.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_036.png",
-        "price": "10.00"
-    },
-    {
-        "name": "Harley Quinn: Partner in Crime",
-        "code": "BNJ/SX01-037",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your 《Villain》 characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Heeheehaha!! Woohoo!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_037.png",
-        "price": "5.00"
-    },
-    {
-        "name": "Red Hood",
-        "code": "BNJ/SX01-038",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 During your turn, this card gets +500 power for each of your other 《Weapon》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, and this card gets +2000 power until end of turn.",
-            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
-        ],
-        "flavor_text": "I'll give you the first shot.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_038.png",
-        "price": "9.00"
-    },
-    {
-        "name": "Catwoman: Reliable Ally",
-        "code": "BNJ/SX01-063",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Gotta love a man who can forgive a girl for double-crossing him.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_063.png",
-        "price": "15.00"
-    },
-    {
-        "name": "Sengoku Batman",
-        "code": "BNJ/SX01-064",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Weapon》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I will be what the Bat Clan calls me. I will be their prophecy. I will be...",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_064.png",
-        "price": "18.00"
-    },
-    {
-        "name": "Catwoman",
-        "code": "BNJ/SX01-065",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Your Opponent's Right Here!\" is in your climax area, search your deck for up to 1 《Weapon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "You didn't expect me to leave empty-handed, did you?",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_065.png",
-        "price": "5.00"
-    },
-    {
-        "name": "Batman Ninja",
-        "code": "BNJ/SX01-066",
-        "rarity": "RR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Weapon》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(3) Put 1 《Weapon》 character from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"The Dark Knight\" is in your climax area, and all of your characters are 《Weapon》, you may pay the cost. If you do, 【STAND】 this card, and this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "I will turn their legend into reality.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_066.png",
-        "price": "5.00"
     },
     {
         "name": "Joker: Joke's On You!",
@@ -551,6 +377,744 @@
         "price": "1.00"
     },
     {
+        "name": "Penguin: Weaponized Wagasa",
+        "code": "BNJ/SX01-013",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Villain》 characters get +500 power.",
+            "【ACT】 [(1)] Choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_013.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Deathstroke",
+        "code": "BNJ/SX01-014",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_014.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Two-Face: Coxswained by the Coin",
+        "code": "BNJ/SX01-015",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Coin Toss\" is placed on your climax area, if this card is on your center stage, perform the following 2 effects in order. \"Your opponent declares \"Heads\" or \"Tails\".\" \"Put the top card of your deck into your waiting room, if that card is level 1 or higher and your opponent declared \"Heads\", or that card is level 0 or lower and your opponent declared \"Tails\", choose up to 1 《Villain》 character in your waiting room, and return it to your hand.\" (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Sure… until the coin tells me otherwise.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_015.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Lord Joker",
+        "code": "BNJ/SX01-016",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Villain》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Everyone's been calling me Dairoku Tenmaou, the demon king! But you can call me...",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_016.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Joker: Stealing the Limelight",
+        "code": "BNJ/SX01-017",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "You never want to be too early to a party… right?!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_017.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Joker: Sadistic",
+        "code": "BNJ/SX01-018",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "You liked that, didn't you?",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_018.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Poison Ivy Castle",
+        "code": "BNJ/SX01-019",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if this card is in the right position of your back stage, your other character in the middle position of your center stage gets +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Judoku Plant Castle! Multitudes of flowers transformation!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_019.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Bane",
+        "code": "BNJ/SX01-020",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【ACT】 [(1)] This card gets +2500 power until end of turn. At the end of turn, put this card into your memory."
+        ],
+        "flavor_text": "Dosukoi!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_020.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Joker: Samurai Swordfight",
+        "code": "BNJ/SX01-021",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "Oh, I'd hate to come to Ancient Japan and miss out on a samurai swordfight.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_021.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Joker: Battle on the Big Boat",
+        "code": "BNJ/SX01-022",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if there are 3 or more climax in your opponent's waiting room, 【REST】 this card.",
+            "【AUTO】 Bond/\"Harley Quinn: Battle on the Big Boat\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Harley Quinn: Battle on the Big Boat\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "It's a shame they all had to die… so why don't you join them!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_022.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Penguin Castle",
+        "code": "BNJ/SX01-023",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the right position of your center stage, this card gets +3000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is 【TREASURE】, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Chojin Birdman Castle! Wind, forest, fire, mountain transformation!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_023.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Joker: Amnesia?",
+        "code": "BNJ/SX01-024",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I know it sounds silly, but my wife and I are always saying, it's like we've been reborn.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_024.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Penguin",
+        "code": "BNJ/SX01-025",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if all of the other characters on your center stage are 【STAND】, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "Fly! My fine-feathered friends!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_025.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Deathstroke: Power Struggle",
+        "code": "BNJ/SX01-026",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack."
+        ],
+        "flavor_text": "Interesting… Now we'll finally see who's the most powerful warlord in Japan.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_026.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Two-Face Castle",
+        "code": "BNJ/SX01-027",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the left position of your back stage, all of your other 《Villain》 characters get +1000 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Your luck's run out.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_027.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Unyielding Fortitude",
+        "code": "BNJ/SX01-028",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《Villain》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\""
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_028.png",
+        "price": "0.75"
+    },
+    {
+        "name": "Rock and a Hard Place",
+        "code": "BNJ/SX01-029",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Joker\" in its card name, this card cannot be played from your hand.",
+            "Your opponent may choose 1 level 2 or lower character on your opponent's back stage, and put it into his or her waiting room. If your opponent does not, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Oh terrible! You can come after me, or save that mother and child down below.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_029.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Efflorescence",
+        "code": "BNJ/SX01-030",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your opponent's characters, and that character gets -2500 power until end of turn.",
+            "Choose 1 of your \"Joker: Amnesia?\", and that character gets the following ability until end of turn. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Joker: Nemesis\" in your hand, and put it on the stage position that this card was on.\"",
+            "Choose 1 of your \"Harley Quinn: Amnesia?\", and that character gets the following ability until end of turn. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Harley Quinn: Bombs Away!\" in your hand, and put it on the stage position that this card was on.\""
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_030.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Exploding Barrel",
+        "code": "BNJ/SX01-031",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "4",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Deal 4 damage to all players, and choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room. (Damage may be canceled)"
+        ],
+        "flavor_text": "Batman: \"You're insane! You'll kill yourself!\"",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_031.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Maniacal Feudal Lord",
+        "code": "BNJ/SX01-032",
+        "rarity": "CR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Uhuhuhuhahahahahahaaa!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_032.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Fusion of the Felons",
+        "code": "BNJ/SX01-033",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Joker: \"Criminals of Gotham…! Become, ONE!!\"",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_033.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Vivification",
+        "code": "BNJ/SX01-034",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Harley Quinn: \"We did it! They're finally growing!\"",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_034.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Coin Toss",
+        "code": "BNJ/SX01-035",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Let's see... What will my next move be…?",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_035.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Harley Quinn",
+        "code": "BNJ/SX01-036",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《Villain》 character with level equal to or lower than your level, put it on any position of your stage, and shuffle your deck.",
+            "【AUTO】 When your other 《Villain》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Can't wait, Mister J.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_036.png",
+        "price": "10.00"
+    },
+    {
+        "name": "Harley Quinn: Partner in Crime",
+        "code": "BNJ/SX01-037",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Villain》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Heeheehaha!! Woohoo!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_037.png",
+        "price": "5.00"
+    },
+    {
+        "name": "Red Hood",
+        "code": "BNJ/SX01-038",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Weapon》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, and this card gets +2000 power until end of turn.",
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "I'll give you the first shot.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_038.png",
+        "price": "9.00"
+    },
+    {
         "name": "Harley Quinn: Status Report",
         "code": "BNJ/SX01-039",
         "rarity": "R",
@@ -723,6 +1287,633 @@
         "sid": "044",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_044.png",
         "price": "2.00"
+    },
+    {
+        "name": "Red Hood: Rooted Rancor",
+        "code": "BNJ/SX01-045",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order."
+        ],
+        "flavor_text": "I owe you this.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_045.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Giant Monkey",
+        "code": "BNJ/SX01-046",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you do not have \"Monkey Horde\" in your waiting room, 【REST】 this card.",
+            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Bat Swarm\" is placed on your climax area, you may pay the cost. If you do, choose 1 \"Batman: Blast From the Past\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_046.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Harley Quinn: Party in the Clouds",
+        "code": "BNJ/SX01-047",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Villain》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 When \"Delirious Damsel\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Villain》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_047.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Alfred: Dutiful Butler",
+        "code": "BNJ/SX01-048",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Batman Ninja\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Batman Ninja\" in your waiting room, and return it to your hand)",
+            "【ACT】 [【REST】 this card] Choose 1 of your \"Batman Ninja\", and that character gets +2000 and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "The wild game and produce here are exceptional. I'm planning a high-protein diet.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_048.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Monkey Horde",
+        "code": "BNJ/SX01-049",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 You can put any number of cards with the same card name as this card into your deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Robin: \"All for one, and one for all.\"",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_049.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Robin: Reluctant Adieu",
+        "code": "BNJ/SX01-050",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Weapon》 characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "It's time for me to go. I'll never forget you.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_050.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Red Robin",
+        "code": "BNJ/SX01-051",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Weapon》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "If they attack us with their mobile fortress, we will outmaneuver them and strike back with everything we've got.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_051.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Harley Quinn: Amnesia?",
+        "code": "BNJ/SX01-052",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "We did it! They're finally blooming!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_052.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Red Robin: Battle on the Big Boat",
+        "code": "BNJ/SX01-053",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_053.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Harley Quinn: \"Doctor\" Quinzel",
+        "code": "BNJ/SX01-054",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character on your opponent's center stage, and that character gets +3000 power until end of turn..",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Take your medicine kitty, kitty!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_054.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Red Robin: Tea Ceremony",
+        "code": "BNJ/SX01-055",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Weapon》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets -2 level while on the stage."
+        ],
+        "flavor_text": "Then it will truly earn the name, \"The Field of Hell\".",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_055.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Harley Quinn: Bombs Away!",
+        "code": "BNJ/SX01-056",
+        "rarity": "C",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Villain》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Villain》 characters, you may choose 1 《Villain》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Ooohh!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_056.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Monkey Flute",
+        "code": "BNJ/SX01-057",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your 【STAND】 《Weapon》 characters, and 【REST】 it. If you do, search your deck for up to 2 \"Monkey Horde\", put them on separate positions of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "?????～",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_057.png",
+        "price": "0.50"
+    },
+    {
+        "name": "It Was a Disguise!",
+        "code": "BNJ/SX01-058",
+        "rarity": "U",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "0",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your 《Villain》 characters, and put it into your waiting room. If you do, choose 1 character in your waiting room with level equal to or lower than your level with \"Harley Quinn\" in its card name, and put it on any position of your stage."
+        ],
+        "flavor_text": "Hi～!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_058.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Trigger Happy",
+        "code": "BNJ/SX01-059",
+        "rarity": "CR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Oh!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_059.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Bat Swarm",
+        "code": "BNJ/SX01-060",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Joker: \"HUH?!\"",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_060.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Delirious Damsel",
+        "code": "BNJ/SX01-061",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Hahahaa～ Hehhehh!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_061.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Gunslinger",
+        "code": "BNJ/SX01-062",
+        "rarity": "CC",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_062.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Catwoman: Reliable Ally",
+        "code": "BNJ/SX01-063",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Gotta love a man who can forgive a girl for double-crossing him.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_063.png",
+        "price": "15.00"
+    },
+    {
+        "name": "Sengoku Batman",
+        "code": "BNJ/SX01-064",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Weapon》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I will be what the Bat Clan calls me. I will be their prophecy. I will be...",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_064.png",
+        "price": "18.00"
+    },
+    {
+        "name": "Catwoman",
+        "code": "BNJ/SX01-065",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Your Opponent's Right Here!\" is in your climax area, search your deck for up to 1 《Weapon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You didn't expect me to leave empty-handed, did you?",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_065.png",
+        "price": "5.00"
+    },
+    {
+        "name": "Batman Ninja",
+        "code": "BNJ/SX01-066",
+        "rarity": "RR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Weapon》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(3) Put 1 《Weapon》 character from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"The Dark Knight\" is in your climax area, and all of your characters are 《Weapon》, you may pay the cost. If you do, 【STAND】 this card, and this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "I will turn their legend into reality.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_066.png",
+        "price": "5.00"
     },
     {
         "name": "Batman: Missionary Disguise",
@@ -956,426 +2147,6 @@
         "sid": "074",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_074.png",
         "price": "1.50"
-    },
-    {
-        "name": "Penguin: Weaponized Wagasa",
-        "code": "BNJ/SX01-013",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Villain》 characters get +500 power.",
-            "【ACT】 [(1)] Choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_013.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Deathstroke",
-        "code": "BNJ/SX01-014",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_014.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Two-Face: Coxswained by the Coin",
-        "code": "BNJ/SX01-015",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When \"Coin Toss\" is placed on your climax area, if this card is on your center stage, perform the following 2 effects in order. \"Your opponent declares \"Heads\" or \"Tails\".\" \"Put the top card of your deck into your waiting room, if that card is level 1 or higher and your opponent declared \"Heads\", or that card is level 0 or lower and your opponent declared \"Tails\", choose up to 1 《Villain》 character in your waiting room, and return it to your hand.\" (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "Sure… until the coin tells me otherwise.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_015.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Lord Joker",
-        "code": "BNJ/SX01-016",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if you have 2 or more other 《Villain》 characters, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Everyone's been calling me Dairoku Tenmaou, the demon king! But you can call me...",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_016.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Joker: Stealing the Limelight",
-        "code": "BNJ/SX01-017",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "You never want to be too early to a party… right?!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_017.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Joker: Sadistic",
-        "code": "BNJ/SX01-018",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
-            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
-        ],
-        "flavor_text": "You liked that, didn't you?",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_018.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Unyielding Fortitude",
-        "code": "BNJ/SX01-028",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 If you do not have a 《Villain》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\""
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_028.png",
-        "price": "0.75"
-    },
-    {
-        "name": "Rock and a Hard Place",
-        "code": "BNJ/SX01-029",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Joker\" in its card name, this card cannot be played from your hand.",
-            "Your opponent may choose 1 level 2 or lower character on your opponent's back stage, and put it into his or her waiting room. If your opponent does not, deal 1 damage to your opponent. (Damage may be canceled)"
-        ],
-        "flavor_text": "Oh terrible! You can come after me, or save that mother and child down below.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_029.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Efflorescence",
-        "code": "BNJ/SX01-030",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose 1 of your opponent's characters, and that character gets -2500 power until end of turn.",
-            "Choose 1 of your \"Joker: Amnesia?\", and that character gets the following ability until end of turn. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Joker: Nemesis\" in your hand, and put it on the stage position that this card was on.\"",
-            "Choose 1 of your \"Harley Quinn: Amnesia?\", and that character gets the following ability until end of turn. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Harley Quinn: Bombs Away!\" in your hand, and put it on the stage position that this card was on.\""
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_030.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Exploding Barrel",
-        "code": "BNJ/SX01-031",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "4",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Deal 4 damage to all players, and choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room. (Damage may be canceled)"
-        ],
-        "flavor_text": "Batman: \"You're insane! You'll kill yourself!\"",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_031.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Red Hood: Rooted Rancor",
-        "code": "BNJ/SX01-045",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you do not have another character, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order."
-        ],
-        "flavor_text": "I owe you this.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_045.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Giant Monkey",
-        "code": "BNJ/SX01-046",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you do not have \"Monkey Horde\" in your waiting room, 【REST】 this card.",
-            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Bat Swarm\" is placed on your climax area, you may pay the cost. If you do, choose 1 \"Batman: Blast From the Past\" in your hand, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_046.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Harley Quinn: Party in the Clouds",
-        "code": "BNJ/SX01-047",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your 《Villain》 characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【AUTO】 【CXCOMBO】 When \"Delirious Damsel\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Villain》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_047.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Monkey Flute",
-        "code": "BNJ/SX01-057",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose 1 of your 【STAND】 《Weapon》 characters, and 【REST】 it. If you do, search your deck for up to 2 \"Monkey Horde\", put them on separate positions of your stage, and shuffle your deck."
-        ],
-        "flavor_text": "?????～",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_057.png",
-        "price": "0.50"
-    },
-    {
-        "name": "It Was a Disguise!",
-        "code": "BNJ/SX01-058",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose 1 of your 《Villain》 characters, and put it into your waiting room. If you do, choose 1 character in your waiting room with level equal to or lower than your level with \"Harley Quinn\" in its card name, and put it on any position of your stage."
-        ],
-        "flavor_text": "Hi～!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_058.png",
-        "price": "0.50"
     },
     {
         "name": "Batman: Ancient Grappling Hook",
@@ -1751,564 +2522,6 @@
         "price": "0.50"
     },
     {
-        "name": "Donning the Mask",
-        "code": "BNJ/SX01-095",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "2",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Batman\" in its card name, this card cannot be played from your hand.",
-            "Search your deck for up to 2 《Weapon》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "I swear, their faith in me will not be squandered.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "095",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_095.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Quake Engine",
-        "code": "BNJ/SX01-096",
-        "rarity": "U",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "4",
-        "power": "0",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If all players are level 3 or higher, all players put all cards from their clock into their waiting room. Put this card into your memory."
-        ],
-        "flavor_text": "Gorilla Grodd: \"Now witness as I become master of time and space, and bend them to my will!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_096.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Poison Ivy Castle",
-        "code": "BNJ/SX01-019",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 During your turn, if this card is in the right position of your back stage, your other character in the middle position of your center stage gets +1000 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Judoku Plant Castle! Multitudes of flowers transformation!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_019.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Bane",
-        "code": "BNJ/SX01-020",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【ACT】 [(1)] This card gets +2500 power until end of turn. At the end of turn, put this card into your memory."
-        ],
-        "flavor_text": "Dosukoi!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_020.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Joker: Samurai Swordfight",
-        "code": "BNJ/SX01-021",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
-        ],
-        "flavor_text": "Oh, I'd hate to come to Ancient Japan and miss out on a samurai swordfight.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_021.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Joker: Battle on the Big Boat",
-        "code": "BNJ/SX01-022",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if there are 3 or more climax in your opponent's waiting room, 【REST】 this card.",
-            "【AUTO】 Bond/\"Harley Quinn: Battle on the Big Boat\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Harley Quinn: Battle on the Big Boat\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "It's a shame they all had to die… so why don't you join them!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_022.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Penguin Castle",
-        "code": "BNJ/SX01-023",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the right position of your center stage, this card gets +3000 power.",
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is 【TREASURE】, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock."
-        ],
-        "flavor_text": "Chojin Birdman Castle! Wind, forest, fire, mountain transformation!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "023",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_023.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Joker: Amnesia?",
-        "code": "BNJ/SX01-024",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "I know it sounds silly, but my wife and I are always saying, it's like we've been reborn.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "024",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_024.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Penguin",
-        "code": "BNJ/SX01-025",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if all of the other characters on your center stage are 【STAND】, this card gets +2000 power until end of turn.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
-        ],
-        "flavor_text": "Fly! My fine-feathered friends!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "025",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_025.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Deathstroke: Power Struggle",
-        "code": "BNJ/SX01-026",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack."
-        ],
-        "flavor_text": "Interesting… Now we'll finally see who's the most powerful warlord in Japan.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "026",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_026.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Two-Face Castle",
-        "code": "BNJ/SX01-027",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the left position of your back stage, all of your other 《Villain》 characters get +1000 power.",
-            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "Your luck's run out.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_027.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Alfred: Dutiful Butler",
-        "code": "BNJ/SX01-048",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Batman Ninja\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Batman Ninja\" in your waiting room, and return it to your hand)",
-            "【ACT】 [【REST】 this card] Choose 1 of your \"Batman Ninja\", and that character gets +2000 and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
-        ],
-        "flavor_text": "The wild game and produce here are exceptional. I'm planning a high-protein diet.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_048.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Monkey Horde",
-        "code": "BNJ/SX01-049",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 You can put any number of cards with the same card name as this card into your deck.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Robin: \"All for one, and one for all.\"",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_049.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Robin: Reluctant Adieu",
-        "code": "BNJ/SX01-050",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your 《Weapon》 characters, and that character gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "It's time for me to go. I'll never forget you.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_050.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Red Robin",
-        "code": "BNJ/SX01-051",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Weapon》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "If they attack us with their mobile fortress, we will outmaneuver them and strike back with everything we've got.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_051.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Harley Quinn: Amnesia?",
-        "code": "BNJ/SX01-052",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "We did it! They're finally blooming!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_052.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Red Robin: Battle on the Big Boat",
-        "code": "BNJ/SX01-053",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_053.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Harley Quinn: \"Doctor\" Quinzel",
-        "code": "BNJ/SX01-054",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character on your opponent's center stage, and that character gets +3000 power until end of turn..",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Take your medicine kitty, kitty!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_054.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Red Robin: Tea Ceremony",
-        "code": "BNJ/SX01-055",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "9000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you have 4 or more 《Weapon》 characters, this card gets -1 level while in your hand.",
-            "【CONT】 This card gets -2 level while on the stage."
-        ],
-        "flavor_text": "Then it will truly earn the name, \"The Field of Hell\".",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_055.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Harley Quinn: Bombs Away!",
-        "code": "BNJ/SX01-056",
-        "rarity": "C",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "6500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Villain》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Villain》 characters, you may choose 1 《Villain》 character in your waiting room, and put it into your stock."
-        ],
-        "flavor_text": "Ooohh!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_056.png",
-        "price": "0.25"
-    },
-    {
         "name": "Batman: Sinking Ship",
         "code": "BNJ/SX01-085",
         "rarity": "C",
@@ -2588,64 +2801,59 @@
         "price": "0.25"
     },
     {
-        "name": "Maniacal Feudal Lord",
-        "code": "BNJ/SX01-032",
-        "rarity": "CR",
+        "name": "Donning the Mask",
+        "code": "BNJ/SX01-095",
+        "rarity": "U",
         "expansion": "Batman Ninja",
         "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
         "power": "0",
         "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "If you do not have a character with \"Batman\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to 2 《Weapon》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
         ],
-        "flavor_text": "Uhuhuhuhahahahahahaaa!",
+        "flavor_text": "I swear, their faith in me will not be squandered.",
         "set": "BNJ",
         "release": "X01",
-        "sid": "032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_032.png",
-        "price": "1.00"
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_095.png",
+        "price": "0.50"
     },
     {
-        "name": "Trigger Happy",
-        "code": "BNJ/SX01-059",
-        "rarity": "CR",
+        "name": "Quake Engine",
+        "code": "BNJ/SX01-096",
+        "rarity": "U",
         "expansion": "Batman Ninja",
         "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "4",
         "power": "0",
         "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "If all players are level 3 or higher, all players put all cards from their clock into their waiting room. Put this card into your memory."
         ],
-        "flavor_text": "Oh!",
+        "flavor_text": "Gorilla Grodd: \"Now witness as I become master of time and space, and bend them to my will!",
         "set": "BNJ",
         "release": "X01",
-        "sid": "059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_059.png",
-        "price": "1.00"
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_096.png",
+        "price": "0.50"
     },
     {
         "name": "The Dark Knight",
@@ -2709,186 +2917,6 @@
         "price": "1.00"
     },
     {
-        "name": "Fusion of the Felons",
-        "code": "BNJ/SX01-033",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "Joker: \"Criminals of Gotham…! Become, ONE!!\"",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_033.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Vivification",
-        "code": "BNJ/SX01-034",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "Harley Quinn: \"We did it! They're finally growing!\"",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_034.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Coin Toss",
-        "code": "BNJ/SX01-035",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Let's see... What will my next move be…?",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_035.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Bat Swarm",
-        "code": "BNJ/SX01-060",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Joker: \"HUH?!\"",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_060.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Delirious Damsel",
-        "code": "BNJ/SX01-061",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Hahahaa～ Hehhehh!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_061.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Gunslinger",
-        "code": "BNJ/SX01-062",
-        "rarity": "CC",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "0",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_062.png",
-        "price": "0.50"
-    },
-    {
         "name": "Anachronistic Gadgetry",
         "code": "BNJ/SX01-099",
         "rarity": "CC",
@@ -2948,6 +2976,635 @@
         "sid": "100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_100.png",
         "price": "0.50"
+    },
+    {
+        "name": "\"Villain\" Red Hood",
+        "code": "BNJ/SX01-101",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Weapon》 character, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_101.png",
+        "price": "3.00"
+    },
+    {
+        "name": "\"Villain\" Robin",
+        "code": "BNJ/SX01-102",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_102.png",
+        "price": "3.00"
+    },
+    {
+        "name": "\"Villain\" Red Robin",
+        "code": "BNJ/SX01-103",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +X power until end of turn. X is equal to the number of 《Weapon》 characters you have ×500."
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_103.png",
+        "price": "3.00"
+    },
+    {
+        "name": "\"Villain\" Catwoman",
+        "code": "BNJ/SX01-104",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Weapon》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_104.png",
+        "price": "5.00"
+    },
+    {
+        "name": "\"Villain\" Gorilla Grodd",
+        "code": "BNJ/SX01-105",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500."
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_105.png",
+        "price": "3.00"
+    },
+    {
+        "name": "\"Villain\" Nightwing",
+        "code": "BNJ/SX01-106",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_106.png",
+        "price": "4.00"
+    },
+    {
+        "name": "\"Villain\" Batman",
+        "code": "BNJ/SX01-107",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Weapon》 characters get +1000 power.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "BATMAN!!",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "107",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_107.png",
+        "price": "4.00"
+    },
+    {
+        "name": "Robin: Reluctant Adieu",
+        "code": "BNJ/SX01-A01",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, you may draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A01.png"
+    },
+    {
+        "name": "Red Hood",
+        "code": "BNJ/SX01-A02",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A02.png"
+    },
+    {
+        "name": "Red Robin: Battle on the Big Boat",
+        "code": "BNJ/SX01-A03",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A03.png"
+    },
+    {
+        "name": "Gunslinger",
+        "code": "BNJ/SX01-A04",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A04",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A04.png"
+    },
+    {
+        "name": "Batman: Missionary Disguise",
+        "code": "BNJ/SX01-A05",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A05.png"
+    },
+    {
+        "name": "Nightwing: Coordinated Assault",
+        "code": "BNJ/SX01-A06",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Catwoman: Battle on the Big Boat\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 card named \"Catwoman: Battle on the Big Boat\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A06.png"
+    },
+    {
+        "name": "Batman: Ancient Armor",
+        "code": "BNJ/SX01-A07",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 CXCOMBO@ When this card attacks, if \"Unleash the Bat!\" is in your climax area, you may draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A07",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A07.png"
+    },
+    {
+        "name": "Catwoman: Unimpressed",
+        "code": "BNJ/SX01-A08",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A08",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A08.png"
+    },
+    {
+        "name": "Batman: Information Extraction",
+        "code": "BNJ/SX01-A09",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A09",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A09.png"
+    },
+    {
+        "name": "Catwoman: Battle on the Big Boat",
+        "code": "BNJ/SX01-A10",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A10",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A10.png"
+    },
+    {
+        "name": "Batman: Infiltration",
+        "code": "BNJ/SX01-A11",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A11",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A11.png"
+    },
+    {
+        "name": "Donning the Mask",
+        "code": "BNJ/SX01-A12",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A12",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A12.png"
+    },
+    {
+        "name": "Unleash the Bat!",
+        "code": "BNJ/SX01-A13",
+        "rarity": "DD",
+        "expansion": "【Demo Deck】Batman Ninja",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "0",
+            "0"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "A13",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A13.png"
+    },
+    {
+        "name": "Batman: Back in Time",
+        "code": "BNJ/SX01-P01",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "P01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P01.png",
+        "price": "2.00"
+    },
+    {
+        "name": "Batman: Back in Time",
+        "code": "BNJ/SX01-P01A",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "P01A",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P01A.png"
+    },
+    {
+        "name": "Joker: Innate Insanity",
+        "code": "BNJ/SX01-P02",
+        "rarity": "PR",
+        "expansion": "Batman Ninja",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sengoku",
+            "Villain"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw 1 card. If your opponent does, your opponent chooses 1 card in your opponent's hand, and puts it into his or her waiting room."
+        ],
+        "flavor_text": "There isn't the same madness in his eyes. He could never hide that part of himself. It's what makes him what he is.",
+        "set": "BNJ",
+        "release": "X01",
+        "sid": "P02",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P02.png"
     },
     {
         "name": "Red Robin: Reliable Ally",
@@ -3520,662 +4177,5 @@
         "sid": "T20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_T20.png",
         "price": "0.50"
-    },
-    {
-        "name": "\"Villain\" Red Hood",
-        "code": "BNJ/SX01-101",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Weapon》 character, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_101.png",
-        "price": "3.00"
-    },
-    {
-        "name": "\"Villain\" Robin",
-        "code": "BNJ/SX01-102",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 During your turn, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_102.png",
-        "price": "3.00"
-    },
-    {
-        "name": "\"Villain\" Red Robin",
-        "code": "BNJ/SX01-103",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is placed on your climax area, this card gets +X power until end of turn. X is equal to the number of 《Weapon》 characters you have ×500."
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_103.png",
-        "price": "3.00"
-    },
-    {
-        "name": "\"Villain\" Catwoman",
-        "code": "BNJ/SX01-104",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Weapon》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)"
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_104.png",
-        "price": "5.00"
-    },
-    {
-        "name": "\"Villain\" Gorilla Grodd",
-        "code": "BNJ/SX01-105",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500."
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "105",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_105.png",
-        "price": "3.00"
-    },
-    {
-        "name": "\"Villain\" Nightwing",
-        "code": "BNJ/SX01-106",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "106",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_106.png",
-        "price": "4.00"
-    },
-    {
-        "name": "\"Villain\" Batman",
-        "code": "BNJ/SX01-107",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Weapon》 characters get +1000 power.",
-            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "BATMAN!!",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "107",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_107.png",
-        "price": "4.00"
-    },
-    {
-        "name": "Batman: Back in Time",
-        "code": "BNJ/SX01-P01",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
-            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "P01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P01.png",
-        "price": "2.00"
-    },
-    {
-        "name": "Batman: Back in Time",
-        "code": "BNJ/SX01-P01A",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
-            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "P01A",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P01A.png"
-    },
-    {
-        "name": "Joker: Innate Insanity",
-        "code": "BNJ/SX01-P02",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Villain"
-        ],
-        "ability": [
-            "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\".",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw 1 card. If your opponent does, your opponent chooses 1 card in your opponent's hand, and puts it into his or her waiting room."
-        ],
-        "flavor_text": "There isn't the same madness in his eyes. He could never hide that part of himself. It's what makes him what he is.",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "P02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_P02.png"
-    },
-    {
-        "name": "Catwoman: Cat Call",
-        "code": "BNJ/BCS2019-02",
-        "rarity": "PR",
-        "expansion": "Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
-        ],
-        "flavor_text": "Don't be afraid. It's just a little cat call.",
-        "set": "BNJ",
-        "release": "CS2019",
-        "sid": "02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_BCS2019_02.png"
-    },
-    {
-        "name": "Robin: Reluctant Adieu",
-        "code": "BNJ/SX01-A01",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, you may draw 1 card."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A01.png"
-    },
-    {
-        "name": "Red Hood",
-        "code": "BNJ/SX01-A02",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A02",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A02.png"
-    },
-    {
-        "name": "Red Robin: Battle on the Big Boat",
-        "code": "BNJ/SX01-A03",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A03.png"
-    },
-    {
-        "name": "Gunslinger",
-        "code": "BNJ/SX01-A04",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "0",
-            "0"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A04",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A04.png"
-    },
-    {
-        "name": "Batman: Missionary Disguise",
-        "code": "BNJ/SX01-A05",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A05.png"
-    },
-    {
-        "name": "Nightwing: Coordinated Assault",
-        "code": "BNJ/SX01-A06",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Catwoman: Battle on the Big Boat\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 card named \"Catwoman: Battle on the Big Boat\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A06.png"
-    },
-    {
-        "name": "Batman: Ancient Armor",
-        "code": "BNJ/SX01-A07",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 CXCOMBO@ When this card attacks, if \"Unleash the Bat!\" is in your climax area, you may draw 1 card."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A07",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A07.png"
-    },
-    {
-        "name": "Catwoman: Unimpressed",
-        "code": "BNJ/SX01-A08",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A08",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A08.png"
-    },
-    {
-        "name": "Batman: Information Extraction",
-        "code": "BNJ/SX01-A09",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A09",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A09.png"
-    },
-    {
-        "name": "Catwoman: Battle on the Big Boat",
-        "code": "BNJ/SX01-A10",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "9000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A10",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A10.png"
-    },
-    {
-        "name": "Batman: Infiltration",
-        "code": "BNJ/SX01-A11",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sengoku",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A11",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A11.png"
-    },
-    {
-        "name": "Donning the Mask",
-        "code": "BNJ/SX01-A12",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "0",
-            "0"
-        ],
-        "ability": [
-            "Look at up to 4 cards from the top of your deck, choose up to 1 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A12",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A12.png"
-    },
-    {
-        "name": "Unleash the Bat!",
-        "code": "BNJ/SX01-A13",
-        "rarity": "DD",
-        "expansion": "【Demo Deck】Batman Ninja",
-        "side": "S",
-        "type": "Climax",
-        "color": "BLUE",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "DRAW"
-        ],
-        "attributes": [
-            "0",
-            "0"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw 1 card)"
-        ],
-        "flavor_text": "-",
-        "set": "BNJ",
-        "release": "X01",
-        "sid": "A13",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/BNJ_SX01_A13.png"
     }
 ]

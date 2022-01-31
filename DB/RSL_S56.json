@@ -90,211 +90,6 @@
         "price": "12.00"
     },
     {
-        "name": "Person By Your Side, Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E034",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "I was the one… who was always by your side.",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E034.png",
-        "price": "10.00"
-    },
-    {
-        "name": "My Own Shine, Karen Aijo",
-        "code": "RSL/S56-E035",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 1 or lower character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "I am... reborn!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E035.png",
-        "price": "15.00"
-    },
-    {
-        "name": "\"Passion and Shine\" Karen Aijo",
-        "code": "RSL/S56-E036",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"\"When the Flower Blooms\" Hikari Kagura\", you may put the top card of your clock into your waiting room.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"The Stage Continues Nonetheless\" is in your climax area, and \"\"Passion and Shine\" Karen Aijo\" is in the middle position of your center stage, this card gets +1500 and the following ability until end of turn. \"【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 3 damage to your opponent.\" (Damage may be canceled)"
-        ],
-        "flavor_text": "We can take the stage over and over again.",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E036.png",
-        "price": "8.00"
-    },
-    {
-        "name": "\"When the Flower Blooms\" Hikari Kagura",
-        "code": "RSL/S56-E037",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"\"Passion and Shine\" Karen Aijo\" in your waiting room, and put it on any position of your stage.",
-            "【AUTO】 【CXCOMBO】 [(1) Put 1 character from the middle position of your center stage with \"Karen(華恋)\" in its card name into your waiting room] At the beginning of your encore step, if \"The Stage Continues Nonetheless\" is in your climax area, and this card is on your center stage, you may pay the cost. If you do, 【REST】 this card, move it to the open middle position of your center stage, deal 1 damage to your opponent, and this card gets +2000 power and \"【CONT】 Great Performance\" until the end of your opponent's next turn. (Damage may be canceled)"
-        ],
-        "flavor_text": "Even so... I could see it. A \"Starlight\"... for the two of us!!!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E037.png",
-        "price": "5.00"
-    },
-    {
-        "name": "My Very Own Star, Junna Hoshimi",
-        "code": "RSL/S56-E066",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your climax phase, you may look at the top card of your deck. (Return the card you saw to its original place)",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "We have to give our all and reach for the stars… Right?",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E066.png",
-        "price": "8.00"
-    },
-    {
-        "name": "Brave Readiness, Maya Tendo",
-        "code": "RSL/S56-E067",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.",
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Noble Will, Claudine Saijo\" in your waiting room, and put it on any position of your stage.",
-            "【AUTO】 【CXCOMBO】 This ability activates up to 2 times per turn. When this card attacks, if \"The Show Must Go On\" is in your climax area, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Position Zero... This is Tendo Maya!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E067.png",
-        "price": "5.00"
-    },
-    {
-        "name": "Noble Will, Claudine Saijo",
-        "code": "RSL/S56-E068",
-        "rarity": "RR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Brave Readiness, Maya Tendo\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"The Show Must Go On\" is in your climax area, you may pay the cost. If you do, choose 1 \"Brave Readiness, Maya Tendo\" in the middle position of your center stage, and 【STAND】 it."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E068.png",
-        "price": "7.00"
-    },
-    {
         "name": "My Own Shine, Nana Daiba",
         "code": "RSL/S56-E004",
         "rarity": "R",
@@ -494,431 +289,6 @@
         "price": "2.00"
     },
     {
-        "name": "Leotard Karen & Hikari",
-        "code": "RSL/S56-E038",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Revue》 characters, and that character gets +500 power until end of turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.\""
-        ],
-        "flavor_text": "Hikari: \"Just relax!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E038.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Our Own Stage, Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E039",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 [Return this card to your hand] When \"Where the Shine Is\" is placed on your climax area, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
-            "【ACT】 [【REST】 this card] All of your other《Revue》 characters get +500 power until end of turn."
-        ],
-        "flavor_text": "Ahahahaha…",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E039.png",
-        "price": "1.00"
-    },
-    {
-        "name": "My Own Shine, Hikari Kagura",
-        "code": "RSL/S56-E040",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
-            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is level 2 or higher, 【REST】 this card. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "If we both shine the brightest…",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E040.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Outstretched Hand, Karen Aijo",
-        "code": "RSL/S56-E041",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 《Revue》 characters, reveal them to your opponent, put them into your hand, shuffle your deck, this card gets +3000 power until end of turn."
-        ],
-        "flavor_text": "It's okay!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E041.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Two Become One, Karen & Hikari",
-        "code": "RSL/S56-E042",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if you have a 《Revue》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "Maya: \"Two... can become one. The \"shine\" has THIS much power?\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E042.png",
-        "price": "1.50"
-    },
-    {
-        "name": "\"Rebirthed Shine\" Hikari Kagura",
-        "code": "RSL/S56-E043",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Towards the Light\" is in your climax area, and you have another 《Revue》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to 1 \"Encore, Karen Aijo\" in your hand, and put it on the stage position that this card was on as the defending character."
-        ],
-        "flavor_text": "Karen: \"You were imprisoned this entire time, weren't you? You shouldered our burdens…\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E043.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Sudden Closeness, Karen & Mahiru",
-        "code": "RSL/S56-E044",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.",
-            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Mahiru: \"No, no!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E044.png",
-        "price": "2.00"
-    },
-    {
-        "name": "Encore, Karen Aijo",
-        "code": "RSL/S56-E045",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Revue》 characters.",
-            "【AUTO】 Encore [Put 1 《Revue》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Giraffe: \"This is precisely the stage I wanted to see…!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E045.png",
-        "price": "1.00"
-    },
-    {
-        "name": "My Own Shine, Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E046",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If there are 2 or less climax in your waiting room, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Revue》 characters you have."
-        ],
-        "flavor_text": "She's right... I really am shining…",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E046.png",
-        "price": "1.00"
-    },
-    {
-        "name": "My Own Shine, Claudine Saijo",
-        "code": "RSL/S56-E069",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
-            "【AUTO】 [Put 1 climax from your hand into your waiting room]When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "?a commence!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E069.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Pajama Party, Maya Tendo",
-        "code": "RSL/S56-E070",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Leading Actor"
-        ],
-        "ability": [
-            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E070.png",
-        "price": "1.00"
-    },
-    {
-        "name": "My Own Shine, Maya Tendo",
-        "code": "RSL/S56-E071",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put it on the top of your deck in any order.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card’s battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
-        ],
-        "flavor_text": "There is but one star that shines above all.",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E071.png",
-        "price": "1.50"
-    },
-    {
-        "name": "My Own Shine, Junna Hoshimi",
-        "code": "RSL/S56-E072",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Revue》 character, you may pay the cost. If you do, return this card to your hand. (Return the revealed card to its original place)"
-        ],
-        "flavor_text": "I won't give up! I am a Stage Girl!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E072.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Ready to Challenge the Stage, Claudine Saijo",
-        "code": "RSL/S56-E073",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"To Greater Heights\" is in your climax area, put up to 1 card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)"
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E073.png",
-        "price": "2.00"
-    },
-    {
-        "name": "Prim and Proper Rep, Junna Hoshimi",
-        "code": "RSL/S56-E074",
-        "rarity": "R",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 If there are 2 or less climax in your waiting room, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Night of the Star Festival\" is in your climax area, and \"Prim and Proper Rep, Junna Hoshimi\" is in the middle position of your center stage, you may pay the cost. If you do, look at up to 4 cards from the top of your opponent's deck, choose up to 4 cards from among them, put them into your opponent's waiting room, return the rest to your opponent's deck, your opponent shuffles his or her deck, and this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "You need to start waking up on your own!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E074.png",
-        "price": "1.50"
-    },
-    {
         "name": "Brimming with Confidence, Kaoruko Hanayagi",
         "code": "RSL/S56-E011",
         "rarity": "U",
@@ -1116,604 +486,6 @@
         "release": "56",
         "sid": "E017",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E017.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Stubborn Spat",
-        "code": "RSL/S56-E029",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "－",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "【COUNTER】 Choose up to 1 character in battle with \"Futaba(双葉)\" or \"Kaoruko(香子)\" in its card name, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Kaoruko: \"You're just a backstabber!\"\nFutaba: \"Kaoruko, you're so stubborn!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E029.png",
-        "price": "0.50"
-    },
-    {
-        "name": "After-Party Photo",
-        "code": "RSL/S56-E030",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "－",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "If you do not have a character with \"Nana(なな)\" in its card name, this card cannot be played from your hand.",
-            "Choose a character in your waiting room with level lower than or equal to your level with \"Maya(真矢)\" or \"Claudine(クロディーヌ)\" in its card name, and put it on any position of your stage."
-        ],
-        "flavor_text": "I wonder if we'll never have the same kind of performance again.",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E030.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Time to Relax, Hikari Kagura",
-        "code": "RSL/S56-E047",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
-            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\""
-        ],
-        "flavor_text": "Yeah… You're shining.",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E047.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Stage Girl's Summer, Hikari Kagura",
-        "code": "RSL/S56-E048",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E048.png",
-        "price": "1.00"
-    },
-    {
-        "name": "Tag, Karen Aijo",
-        "code": "RSL/S56-E049",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When your other \"Tag, Mahiru Tsuyuzaki\" is put underneath this card as a marker, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E049.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Begin Cleanup! Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E050",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Baton"
-        ],
-        "ability": [
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
-            "【AUTO】 When this card attacks, if you have 2 or more other 《Revue》 characters, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Okay, then! I'll get started♪",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E050.png",
-        "price": "0.75"
-    },
-    {
-        "name": "Last Day of Auditions, Hikari Kagura",
-        "code": "RSL/S56-E051",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【CONT】 If you do not have another character with \"Karen(華恋)\" in its card name, this card cannot 【STAND】 during your stand phase.",
-            "【AUTO】 When your other 《Revue》 character attacks, this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Mahiru: \"Oh, no! Not you too, Hikari-chan!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E051.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Awaking Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E052",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Baton"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Revue》 characters, at the beginning of your climax phase, choose 1 of your characters, and that character gets +2000 power until end of turn."
-        ],
-        "flavor_text": "Are you sure you're okay?",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E052.png",
-        "price": "0.50"
-    },
-    {
-        "name": "New Chapter, Karen Aijo",
-        "code": "RSL/S56-E053",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 [(1)] When \"Revue Starlight\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1《Revue》 character in your waiting room with level lower than or equal to your level, put it on any position of your stage, and that character gets +1000 power until end of turn.",
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
-        ],
-        "flavor_text": "You will do \"Starlight\"!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E053.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Hallway-Protecting Goddess, Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E054",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Baton"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have another character with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name, this card gets +4000 power until end of turn.",
-            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 characters with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 character with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "\"I can get rid of some rivals thanks to this school rule violation!\" You wouldn't think that, right?!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E054.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Unexpected Return at Dawn",
-        "code": "RSL/S56-E062",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "－",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "Choose 2 cards in your hand. Your opponent may make you reveal those cards. If your opponent does not, choose up to 2 characters in your waiting room, and return them to your hand. If your opponent does, and the revealed cards are a character with \"Karen(華恋)\" in its card name and a character with \"Hikari(ひかり)\" in its card name, choose up to 3 characters in your waiting room, and return them to your hand. If the revealed cards are not, choose up to 1 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Mahiru: \"Karen-chan!\"\nHikari: \"We ran out of money…\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E062.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Achieving the Highest Star, Junna Hoshimi",
-        "code": "RSL/S56-E075",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Devote yourself to achieving your highest star!!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E075.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Stage Girl's Summer, Claudine Saijo",
-        "code": "RSL/S56-E076",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Child Actor"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Revue》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E076.png",
-        "price": "2.00"
-    },
-    {
-        "name": "Revue Duet, Maya Tendo",
-        "code": "RSL/S56-E077",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E077.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Leotard Junna & Mahiru",
-        "code": "RSL/S56-E078",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Revue》 characters and this card, exchange them as 【STAND】, and that 《Revue》 character gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E078.png",
-        "price": "0.50"
-    },
-    {
-        "name": "The Next Starlight, Maya Tendo",
-        "code": "RSL/S56-E079",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Leading Actor"
-        ],
-        "ability": [
-            "【CONT】 This card gets +2000 power for each of your other \"The Next Starlight, Claudine Saijo\" on your center stage.",
-            "【CONT】 If there is a marker underneath this card, all of your other \"The Next Starlight, Claudine Saijo\" get +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Revue》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)"
-        ],
-        "flavor_text": "And what if we're thinking the same thing?",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E079.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Secret of the Best, Maya Tendo",
-        "code": "RSL/S56-E080",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Leading Actor"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Care to do it together?",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E080.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Revenge, Junna Hoshimi",
-        "code": "RSL/S56-E081",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When \"Leading Role of Fate\" is placed on your climax area, if this card is on your center stage, and you have 2 or more other 《Revue》 characters, you may choose 1 level 1 or lower character on your opponent's back stage, and put it at the bottom of his or her deck.",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put that character at the bottom of your opponent's deck."
-        ],
-        "flavor_text": "It's a chance I can't pass up!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E081.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Pajama Party, Claudine Saijo",
-        "code": "RSL/S56-E082",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "Child Actor"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Revue》 characters.",
-            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E082.png",
-        "price": "0.50"
-    },
-    {
-        "name": "As For Us",
-        "code": "RSL/S56-E093",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "－",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "Look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "Claudine: \"Je t'attends sur scene!\"\nMaya: \"We'll be waiting on the stage.\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E093",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E093.png",
-        "price": "0.50"
-    },
-    {
-        "name": "I'll Seize My Own Star!!",
-        "code": "RSL/S56-E094",
-        "rarity": "U",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "－",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "Put the top 4 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of trigger icons revealed among those cards. (Damage may be canceled)"
-        ],
-        "flavor_text": "Junna: \"I want to... become a star.\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E094",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E094.png",
         "price": "0.50"
     },
     {
@@ -2027,6 +799,755 @@
         "price": "0.25"
     },
     {
+        "name": "Stubborn Spat",
+        "code": "RSL/S56-E029",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【COUNTER】 Choose up to 1 character in battle with \"Futaba(双葉)\" or \"Kaoruko(香子)\" in its card name, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Kaoruko: \"You're just a backstabber!\"\nFutaba: \"Kaoruko, you're so stubborn!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E029.png",
+        "price": "0.50"
+    },
+    {
+        "name": "After-Party Photo",
+        "code": "RSL/S56-E030",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "If you do not have a character with \"Nana(なな)\" in its card name, this card cannot be played from your hand.",
+            "Choose a character in your waiting room with level lower than or equal to your level with \"Maya(真矢)\" or \"Claudine(クロディーヌ)\" in its card name, and put it on any position of your stage."
+        ],
+        "flavor_text": "I wonder if we'll never have the same kind of performance again.",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E030.png",
+        "price": "0.50"
+    },
+    {
+        "name": "My Best Self",
+        "code": "RSL/S56-E031",
+        "rarity": "CR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Thank you, Futaba!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E031.png",
+        "price": "2.00"
+    },
+    {
+        "name": "Closest to You",
+        "code": "RSL/S56-E032",
+        "rarity": "CC",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Aa… aahh?!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E032.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Night of the Star Festival",
+        "code": "RSL/S56-E033",
+        "rarity": "CC",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Junna: \"So, let's do this together, Nana… Let's all make the next \"Starlight.\"\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E033.png",
+        "price": "0.25"
+    },
+    {
+        "name": "Person By Your Side, Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E034",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "I was the one… who was always by your side.",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E034.png",
+        "price": "10.00"
+    },
+    {
+        "name": "My Own Shine, Karen Aijo",
+        "code": "RSL/S56-E035",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 1 or lower character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I am... reborn!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E035.png",
+        "price": "15.00"
+    },
+    {
+        "name": "\"Passion and Shine\" Karen Aijo",
+        "code": "RSL/S56-E036",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"\"When the Flower Blooms\" Hikari Kagura\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"The Stage Continues Nonetheless\" is in your climax area, and \"\"Passion and Shine\" Karen Aijo\" is in the middle position of your center stage, this card gets +1500 and the following ability until end of turn. \"【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 3 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "We can take the stage over and over again.",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E036.png",
+        "price": "8.00"
+    },
+    {
+        "name": "\"When the Flower Blooms\" Hikari Kagura",
+        "code": "RSL/S56-E037",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"\"Passion and Shine\" Karen Aijo\" in your waiting room, and put it on any position of your stage.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 character from the middle position of your center stage with \"Karen(華恋)\" in its card name into your waiting room] At the beginning of your encore step, if \"The Stage Continues Nonetheless\" is in your climax area, and this card is on your center stage, you may pay the cost. If you do, 【REST】 this card, move it to the open middle position of your center stage, deal 1 damage to your opponent, and this card gets +2000 power and \"【CONT】 Great Performance\" until the end of your opponent's next turn. (Damage may be canceled)"
+        ],
+        "flavor_text": "Even so... I could see it. A \"Starlight\"... for the two of us!!!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E037.png",
+        "price": "5.00"
+    },
+    {
+        "name": "Leotard Karen & Hikari",
+        "code": "RSL/S56-E038",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Revue》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "Hikari: \"Just relax!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E038.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Our Own Stage, Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E039",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Return this card to your hand] When \"Where the Shine Is\" is placed on your climax area, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [【REST】 this card] All of your other《Revue》 characters get +500 power until end of turn."
+        ],
+        "flavor_text": "Ahahahaha…",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E039.png",
+        "price": "1.00"
+    },
+    {
+        "name": "My Own Shine, Hikari Kagura",
+        "code": "RSL/S56-E040",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is level 2 or higher, 【REST】 this card. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "If we both shine the brightest…",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E040.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Outstretched Hand, Karen Aijo",
+        "code": "RSL/S56-E041",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 《Revue》 characters, reveal them to your opponent, put them into your hand, shuffle your deck, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "It's okay!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E041.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Two Become One, Karen & Hikari",
+        "code": "RSL/S56-E042",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Revue》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Maya: \"Two... can become one. The \"shine\" has THIS much power?\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E042.png",
+        "price": "1.50"
+    },
+    {
+        "name": "\"Rebirthed Shine\" Hikari Kagura",
+        "code": "RSL/S56-E043",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Towards the Light\" is in your climax area, and you have another 《Revue》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to 1 \"Encore, Karen Aijo\" in your hand, and put it on the stage position that this card was on as the defending character."
+        ],
+        "flavor_text": "Karen: \"You were imprisoned this entire time, weren't you? You shouldered our burdens…\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E043.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Sudden Closeness, Karen & Mahiru",
+        "code": "RSL/S56-E044",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Mahiru: \"No, no!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E044.png",
+        "price": "2.00"
+    },
+    {
+        "name": "Encore, Karen Aijo",
+        "code": "RSL/S56-E045",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Revue》 characters.",
+            "【AUTO】 Encore [Put 1 《Revue》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Giraffe: \"This is precisely the stage I wanted to see…!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E045.png",
+        "price": "1.00"
+    },
+    {
+        "name": "My Own Shine, Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E046",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If there are 2 or less climax in your waiting room, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Revue》 characters you have."
+        ],
+        "flavor_text": "She's right... I really am shining…",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E046.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Time to Relax, Hikari Kagura",
+        "code": "RSL/S56-E047",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "Yeah… You're shining.",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E047.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Stage Girl's Summer, Hikari Kagura",
+        "code": "RSL/S56-E048",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E048.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Tag, Karen Aijo",
+        "code": "RSL/S56-E049",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your other \"Tag, Mahiru Tsuyuzaki\" is put underneath this card as a marker, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E049.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Begin Cleanup! Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E050",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Baton"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Revue》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Okay, then! I'll get started♪",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E050.png",
+        "price": "0.75"
+    },
+    {
+        "name": "Last Day of Auditions, Hikari Kagura",
+        "code": "RSL/S56-E051",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character with \"Karen(華恋)\" in its card name, this card cannot 【STAND】 during your stand phase.",
+            "【AUTO】 When your other 《Revue》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Mahiru: \"Oh, no! Not you too, Hikari-chan!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E051.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Awaking Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E052",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Baton"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Revue》 characters, at the beginning of your climax phase, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Are you sure you're okay?",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E052.png",
+        "price": "0.50"
+    },
+    {
+        "name": "New Chapter, Karen Aijo",
+        "code": "RSL/S56-E053",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1)] When \"Revue Starlight\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1《Revue》 character in your waiting room with level lower than or equal to your level, put it on any position of your stage, and that character gets +1000 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "You will do \"Starlight\"!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E053.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Hallway-Protecting Goddess, Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E054",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Baton"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another character with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name, this card gets +4000 power until end of turn.",
+            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 characters with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 character with \"Karen(華恋)\" or \"Mahiru(まひる)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "\"I can get rid of some rivals thanks to this school rule violation!\" You wouldn't think that, right?!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E054.png",
+        "price": "0.50"
+    },
+    {
         "name": "Tag, Mahiru Tsuyuzaki",
         "code": "RSL/S56-E055",
         "rarity": "C",
@@ -2222,6 +1743,615 @@
         "sid": "E061",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E061.png",
         "price": "0.25"
+    },
+    {
+        "name": "Unexpected Return at Dawn",
+        "code": "RSL/S56-E062",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "Choose 2 cards in your hand. Your opponent may make you reveal those cards. If your opponent does not, choose up to 2 characters in your waiting room, and return them to your hand. If your opponent does, and the revealed cards are a character with \"Karen(華恋)\" in its card name and a character with \"Hikari(ひかり)\" in its card name, choose up to 3 characters in your waiting room, and return them to your hand. If the revealed cards are not, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Mahiru: \"Karen-chan!\"\nHikari: \"We ran out of money…\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E062.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Towards the Light",
+        "code": "RSL/S56-E063",
+        "rarity": "CR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Even so, Karen and I…",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E063.png",
+        "price": "1.00"
+    },
+    {
+        "name": "The Stage Continues Nonetheless",
+        "code": "RSL/S56-E064",
+        "rarity": "CR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Karen: \"Let's do it, Hikari-chan!\"\nHikari: \"Mm!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E064.png",
+        "price": "1.50"
+    },
+    {
+        "name": "Where the Shine Is",
+        "code": "RSL/S56-E065",
+        "rarity": "CC",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "－",
+        "cost": "－",
+        "power": "－",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "－",
+            "－"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E065.png",
+        "price": "1.00"
+    },
+    {
+        "name": "My Very Own Star, Junna Hoshimi",
+        "code": "RSL/S56-E066",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, you may look at the top card of your deck. (Return the card you saw to its original place)",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "We have to give our all and reach for the stars… Right?",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E066.png",
+        "price": "8.00"
+    },
+    {
+        "name": "Brave Readiness, Maya Tendo",
+        "code": "RSL/S56-E067",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Noble Will, Claudine Saijo\" in your waiting room, and put it on any position of your stage.",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 2 times per turn. When this card attacks, if \"The Show Must Go On\" is in your climax area, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Position Zero... This is Tendo Maya!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E067.png",
+        "price": "5.00"
+    },
+    {
+        "name": "Noble Will, Claudine Saijo",
+        "code": "RSL/S56-E068",
+        "rarity": "RR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Brave Readiness, Maya Tendo\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"The Show Must Go On\" is in your climax area, you may pay the cost. If you do, choose 1 \"Brave Readiness, Maya Tendo\" in the middle position of your center stage, and 【STAND】 it."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E068.png",
+        "price": "7.00"
+    },
+    {
+        "name": "My Own Shine, Claudine Saijo",
+        "code": "RSL/S56-E069",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room]When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "?a commence!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E069.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Pajama Party, Maya Tendo",
+        "code": "RSL/S56-E070",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Leading Actor"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E070.png",
+        "price": "1.00"
+    },
+    {
+        "name": "My Own Shine, Maya Tendo",
+        "code": "RSL/S56-E071",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put it on the top of your deck in any order.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card’s battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "There is but one star that shines above all.",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E071.png",
+        "price": "1.50"
+    },
+    {
+        "name": "My Own Shine, Junna Hoshimi",
+        "code": "RSL/S56-E072",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Revue》 character, you may pay the cost. If you do, return this card to your hand. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I won't give up! I am a Stage Girl!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E072.png",
+        "price": "1.00"
+    },
+    {
+        "name": "Ready to Challenge the Stage, Claudine Saijo",
+        "code": "RSL/S56-E073",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"To Greater Heights\" is in your climax area, put up to 1 card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E073.png",
+        "price": "2.00"
+    },
+    {
+        "name": "Prim and Proper Rep, Junna Hoshimi",
+        "code": "RSL/S56-E074",
+        "rarity": "R",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 If there are 2 or less climax in your waiting room, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Night of the Star Festival\" is in your climax area, and \"Prim and Proper Rep, Junna Hoshimi\" is in the middle position of your center stage, you may pay the cost. If you do, look at up to 4 cards from the top of your opponent's deck, choose up to 4 cards from among them, put them into your opponent's waiting room, return the rest to your opponent's deck, your opponent shuffles his or her deck, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "You need to start waking up on your own!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E074.png",
+        "price": "1.50"
+    },
+    {
+        "name": "Achieving the Highest Star, Junna Hoshimi",
+        "code": "RSL/S56-E075",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Devote yourself to achieving your highest star!!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E075.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Stage Girl's Summer, Claudine Saijo",
+        "code": "RSL/S56-E076",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Child Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Revue》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E076.png",
+        "price": "2.00"
+    },
+    {
+        "name": "Revue Duet, Maya Tendo",
+        "code": "RSL/S56-E077",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E077.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Leotard Junna & Mahiru",
+        "code": "RSL/S56-E078",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Revue》 characters and this card, exchange them as 【STAND】, and that 《Revue》 character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E078.png",
+        "price": "0.50"
+    },
+    {
+        "name": "The Next Starlight, Maya Tendo",
+        "code": "RSL/S56-E079",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Leading Actor"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each of your other \"The Next Starlight, Claudine Saijo\" on your center stage.",
+            "【CONT】 If there is a marker underneath this card, all of your other \"The Next Starlight, Claudine Saijo\" get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Revue》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "And what if we're thinking the same thing?",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E079.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Secret of the Best, Maya Tendo",
+        "code": "RSL/S56-E080",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Leading Actor"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Care to do it together?",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E080.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Revenge, Junna Hoshimi",
+        "code": "RSL/S56-E081",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Leading Role of Fate\" is placed on your climax area, if this card is on your center stage, and you have 2 or more other 《Revue》 characters, you may choose 1 level 1 or lower character on your opponent's back stage, and put it at the bottom of his or her deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "It's a chance I can't pass up!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E081.png",
+        "price": "0.50"
+    },
+    {
+        "name": "Pajama Party, Claudine Saijo",
+        "code": "RSL/S56-E082",
+        "rarity": "U",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "Child Actor"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Revue》 characters.",
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "－",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E082.png",
+        "price": "0.50"
     },
     {
         "name": "Precious Memories, Junna Hoshimi",
@@ -2510,95 +2640,58 @@
         "price": "0.25"
     },
     {
-        "name": "My Best Self",
-        "code": "RSL/S56-E031",
-        "rarity": "CR",
+        "name": "As For Us",
+        "code": "RSL/S56-E093",
+        "rarity": "U",
         "expansion": "Revue Starlight",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "－",
-        "cost": "－",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
         "power": "－",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
+        "trigger": [],
         "attributes": [
             "－",
             "－"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
         ],
-        "flavor_text": "Thank you, Futaba!",
+        "flavor_text": "Claudine: \"Je t'attends sur scene!\"\nMaya: \"We'll be waiting on the stage.\"",
         "set": "RSL",
         "release": "56",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E031.png",
-        "price": "2.00"
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E093.png",
+        "price": "0.50"
     },
     {
-        "name": "Towards the Light",
-        "code": "RSL/S56-E063",
-        "rarity": "CR",
+        "name": "I'll Seize My Own Star!!",
+        "code": "RSL/S56-E094",
+        "rarity": "U",
         "expansion": "Revue Starlight",
         "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "－",
-        "cost": "－",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
         "power": "－",
         "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
+        "trigger": [],
         "attributes": [
             "－",
             "－"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+            "Put the top 4 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of trigger icons revealed among those cards. (Damage may be canceled)"
         ],
-        "flavor_text": "Even so, Karen and I…",
+        "flavor_text": "Junna: \"I want to... become a star.\"",
         "set": "RSL",
         "release": "56",
-        "sid": "E063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E063.png",
-        "price": "1.00"
-    },
-    {
-        "name": "The Stage Continues Nonetheless",
-        "code": "RSL/S56-E064",
-        "rarity": "CR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "－",
-        "cost": "－",
-        "power": "－",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Karen: \"Let's do it, Hikari-chan!\"\nHikari: \"Mm!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E064.png",
-        "price": "1.50"
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E094.png",
+        "price": "0.50"
     },
     {
         "name": "The Show Must Go On",
@@ -2630,99 +2723,6 @@
         "sid": "E095",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E095.png",
         "price": "1.50"
-    },
-    {
-        "name": "Closest to You",
-        "code": "RSL/S56-E032",
-        "rarity": "CC",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "－",
-        "cost": "－",
-        "power": "－",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
-        ],
-        "flavor_text": "Aa… aahh?!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E032.png",
-        "price": "0.50"
-    },
-    {
-        "name": "Night of the Star Festival",
-        "code": "RSL/S56-E033",
-        "rarity": "CC",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "－",
-        "cost": "－",
-        "power": "－",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
-        ],
-        "flavor_text": "Junna: \"So, let's do this together, Nana… Let's all make the next \"Starlight.\"\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E033.png",
-        "price": "0.25"
-    },
-    {
-        "name": "Where the Shine Is",
-        "code": "RSL/S56-E065",
-        "rarity": "CC",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "－",
-        "cost": "－",
-        "power": "－",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "－",
-            "－"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
-        ],
-        "flavor_text": "－",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E065.png",
-        "price": "1.00"
     },
     {
         "name": "To Greater Heights",
@@ -2873,6 +2873,202 @@
         "sid": "E100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E100.png",
         "price": "0.25"
+    },
+    {
+        "name": "Feelings of the Two, Kaoruko & Futaba",
+        "code": "RSL/S56-E101",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other characters with \"Futaba(双葉)\" or \"Kaoruko(香子)\" in its card name, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Revue》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Kaoruko: \"Haa.. That feels good…\"\nFutaba: \"Don't be making those weird sounds!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E101.png",
+        "price": "3.00"
+    },
+    {
+        "name": "After-Class Lesson, Karen Aijo",
+        "code": "RSL/S56-E102",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【AUTO】 This ability activates up to 3 times per turn. When your other 《Revue》 character is placed on the stage from your hand, choose 1 of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "Let's do \"Starlight\" together!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E102.png",
+        "price": "3.00"
+    },
+    {
+        "name": "After-Class Lesson, Hikari Kagura",
+        "code": "RSL/S56-E103",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power.",
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order."
+        ],
+        "flavor_text": "…It's pointless rejecting you huh?",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E103.png",
+        "price": "3.00"
+    },
+    {
+        "name": "Lunchtime, Mahiru Tsuyuzaki",
+        "code": "RSL/S56-E104",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Baton"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room]When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, return it to your hand, choose 1 of your other 《Revue》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Let's eat lunch together!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E104.png",
+        "price": "5.00"
+    },
+    {
+        "name": "Lunchtime, Nana & Junna",
+        "code": "RSL/S56-E105",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "Nana: \"…Ah, it's Karen-chan and the rest.\"\nJunna: \"Looks like they're done packing up the props.\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E105.png",
+        "price": "3.00"
+    },
+    {
+        "name": "Feelings of the Two, Claudine & Maya",
+        "code": "RSL/S56-E106",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "－"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Revue》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500."
+        ],
+        "flavor_text": "Maya: \"The person I'm most concerned about, is you, Saijo-san.\"\nClaudine: \"M-me?!\"",
+        "set": "RSL",
+        "release": "56",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E106.png",
+        "price": "3.00"
+    },
+    {
+        "name": "\"Seisho Music Academy 99th Class\" Karen Aijo",
+        "code": "RSL/S56-PE05",
+        "rarity": "PR",
+        "expansion": "Revue Starlight",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Revue",
+            "Barrette"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +1500 power.",
+            "【ACT】 [(2) 【REST】 this card] Draw 1 card."
+        ],
+        "flavor_text": "My dream is \"to stand on the same stage as Hikari-chan\"!",
+        "set": "RSL",
+        "release": "56",
+        "sid": "PE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_PE05.png",
+        "price": "2.00"
     },
     {
         "name": "The Stage of Fate, Futaba Isurugi",
@@ -3498,201 +3694,5 @@
         "sid": "TE22",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_TE22.png",
         "price": "0.50"
-    },
-    {
-        "name": "Feelings of the Two, Kaoruko & Futaba",
-        "code": "RSL/S56-E101",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other characters with \"Futaba(双葉)\" or \"Kaoruko(香子)\" in its card name, this card gets +1000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Revue》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Kaoruko: \"Haa.. That feels good…\"\nFutaba: \"Don't be making those weird sounds!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E101.png",
-        "price": "3.00"
-    },
-    {
-        "name": "After-Class Lesson, Karen Aijo",
-        "code": "RSL/S56-E102",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
-            "【AUTO】 This ability activates up to 3 times per turn. When your other 《Revue》 character is placed on the stage from your hand, choose 1 of your characters, and that character gets +500 power until end of turn."
-        ],
-        "flavor_text": "Let's do \"Starlight\" together!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E102.png",
-        "price": "3.00"
-    },
-    {
-        "name": "After-Class Lesson, Hikari Kagura",
-        "code": "RSL/S56-E103",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power.",
-            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order."
-        ],
-        "flavor_text": "…It's pointless rejecting you huh?",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E103.png",
-        "price": "3.00"
-    },
-    {
-        "name": "Lunchtime, Mahiru Tsuyuzaki",
-        "code": "RSL/S56-E104",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Baton"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 card from your hand into your waiting room]When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, return it to your hand, choose 1 of your other 《Revue》 characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Let's eat lunch together!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E104.png",
-        "price": "5.00"
-    },
-    {
-        "name": "Lunchtime, Nana & Junna",
-        "code": "RSL/S56-E105",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "Nana: \"…Ah, it's Karen-chan and the rest.\"\nJunna: \"Looks like they're done packing up the props.\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E105",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E105.png",
-        "price": "3.00"
-    },
-    {
-        "name": "Feelings of the Two, Claudine & Maya",
-        "code": "RSL/S56-E106",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "－"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your other 《Revue》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500."
-        ],
-        "flavor_text": "Maya: \"The person I'm most concerned about, is you, Saijo-san.\"\nClaudine: \"M-me?!\"",
-        "set": "RSL",
-        "release": "56",
-        "sid": "E106",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_E106.png",
-        "price": "3.00"
-    },
-    {
-        "name": "\"Seisho Music Academy 99th Class\" Karen Aijo",
-        "code": "RSL/S56-PE05",
-        "rarity": "PR",
-        "expansion": "Revue Starlight",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Revue",
-            "Barrette"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +1500 power.",
-            "【ACT】 [(2) 【REST】 this card] Draw 1 card."
-        ],
-        "flavor_text": "My dream is \"to stand on the same stage as Hikari-chan\"!",
-        "set": "RSL",
-        "release": "56",
-        "sid": "PE05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/RSL_S56_PE05.png",
-        "price": "2.00"
     }
 ]

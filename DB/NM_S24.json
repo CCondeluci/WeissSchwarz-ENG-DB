@@ -57,139 +57,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E002RR.png"
     },
     {
-        "name": "“Fire Sisters” Karen Araragi",
-        "code": "NM/S24-E021",
-        "rarity": "RR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Sports"
-        ],
-        "ability": [
-            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Experience\", reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "Oh, it's you, Big Brother. I thought it was an enemy.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E021RR.png"
-    },
-    {
-        "name": "As Lovers, Hitagi Senjyogahara",
-        "code": "NM/S24-E022",
-        "rarity": "RR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "8000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【AUTO】 When this card's battle opponent becomes Reverse@, if a card named \"Sandy Beach for Two\" is in your climax area, choose up to one of your other characters, 【REST】 it, move it to an open position of your back stage, and this card gets +3000 power until the end of your opponent's next turn."
-        ],
-        "flavor_text": "",
-        "set": "NM",
-        "release": "24",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E022RR.png"
-    },
-    {
-        "name": "Cuckoo Girl, Tsukihi Araragi",
-        "code": "NM/S24-E046",
-        "rarity": "RR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if you have a card named \"Platinum Mad\" in your climax area, you may pay the cost. If you do, choose up to two 《Japanese Clothes》 characters in your waiting room, and return them to your hand."
-        ],
-        "flavor_text": "We're not heroes of justice, we're justice itself, Big Brother.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E046RR.png"
-    },
-    {
-        "name": "Immortal Strange, Tsukihi Araragi",
-        "code": "NM/S24-E047",
-        "rarity": "RR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "3",
-        "power": "10000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, 【REST】 this card."
-        ],
-        "flavor_text": "See you.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E047RR.png"
-    },
-    {
-        "name": "Koyomi Araragi Heading for Battle",
-        "code": "NM/S24-E071",
-        "rarity": "RR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card attacks, if a card named \"Family Matters\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes Reverse@, you may put that character on the top of your opponent's deck.\""
-        ],
-        "flavor_text": "Hah… hah…",
-        "set": "NM",
-        "release": "24",
-        "sid": "E071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E071RR.png"
-    },
-    {
         "name": "The Way Back, Shinobu Oshino",
         "code": "NM/S24-E003",
         "rarity": "R",
@@ -295,6 +162,434 @@
         "release": "24",
         "sid": "E006",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E006R.png"
+    },
+    {
+        "name": "Sake of Cooperation, Shinobu Oshino",
+        "code": "NM/S24-E007",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power."
+        ],
+        "flavor_text": "Oh, no... Oh, no, what cruel fate forces me\nto obey the orders of a lesser being like this human.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E007U.png"
+    },
+    {
+        "name": "Primp and Proper, Nadeko Sengoku",
+        "code": "NM/S24-E008",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Strange》 characters get +500 power.",
+            "【AUTO】 [(1)] When a card named \"Welcome\" is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2500 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "I-I definitely didn't work up the courage to change my hairstyle because you were coming over to my house for the first time.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E008U.png"
+    },
+    {
+        "name": "Vampire's Dignity, Shinobu Oshino",
+        "code": "NM/S24-E009",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "I will not allow any more of this.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E009U.png"
+    },
+    {
+        "name": "Resident of the Shadows, Shinobu Oshino",
+        "code": "NM/S24-E010",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Master-servant Relationship, Shinobu Oshino\" in your waiting room, and put it on the stage position this card was on."
+        ],
+        "flavor_text": "See you soon, then, bye.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E010U.png"
+    },
+    {
+        "name": "Flower Garden Shinobu Oshino",
+        "code": "NM/S24-E011",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 If the number of 《Blood》 characters you have is one or less, this card cannot be played from your hand."
+        ],
+        "flavor_text": "Wah-!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E011U.png"
+    },
+    {
+        "name": "Sudden Attack, Koyomi Araragi",
+        "code": "NM/S24-E012",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Flower Garden Shinobu Oshino\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Flower Garden Shinobu Oshino\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Ooh――",
+        "set": "NM",
+        "release": "24",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E012C.png"
+    },
+    {
+        "name": "Shinobu Oshino in the Shadows",
+        "code": "NM/S24-E013",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power."
+        ],
+        "flavor_text": "Very true――",
+        "set": "NM",
+        "release": "24",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E013C.png"
+    },
+    {
+        "name": "First Visitor, Nadeko Sengoku",
+        "code": "NM/S24-E014",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Eh!?",
+        "set": "NM",
+        "release": "24",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E014C.png"
+    },
+    {
+        "name": "Shinobu Oshino in a Good Mood",
+        "code": "NM/S24-E015",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I suppose I could tell you about the posed look one.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E015C.png"
+    },
+    {
+        "name": "Blond with Gold Eyes, Shinobu Oshino",
+        "code": "NM/S24-E016",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "",
+        "set": "NM",
+        "release": "24",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E016C.png"
+    },
+    {
+        "name": "Being Bashful, Mayoi Hachikuji",
+        "code": "NM/S24-E017",
+        "rarity": "C",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Spirit"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I was bashful!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E017C.png"
+    },
+    {
+        "name": "Ritual One Level Higher",
+        "code": "NM/S24-E018",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "3",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to two 《Strange》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck. Put this card into your memory."
+        ],
+        "flavor_text": "That isn't enough, I request a ritual one level higher.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E018U.png"
+    },
+    {
+        "name": "Encounter in the Ruins",
+        "code": "NM/S24-E019",
+        "rarity": "CR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "You're a minor Far Eastern monster, lacking even extant texts about her. I'll see to it that you can't ever have a posed look again.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E019CR.png"
+    },
+    {
+        "name": "Welcome",
+        "code": "NM/S24-E020",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Come in, Big Brother Koyomi.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E020CC.png"
+    },
+    {
+        "name": "“Fire Sisters” Karen Araragi",
+        "code": "NM/S24-E021",
+        "rarity": "RR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Sports"
+        ],
+        "ability": [
+            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Experience\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Oh, it's you, Big Brother. I thought it was an enemy.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E021RR.png"
+    },
+    {
+        "name": "As Lovers, Hitagi Senjyogahara",
+        "code": "NM/S24-E022",
+        "rarity": "RR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "8000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes Reverse@, if a card named \"Sandy Beach for Two\" is in your climax area, choose up to one of your other characters, 【REST】 it, move it to an open position of your back stage, and this card gets +3000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "",
+        "set": "NM",
+        "release": "24",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E022RR.png"
     },
     {
         "name": "Combat Role, Karen Araragi",
@@ -434,326 +729,6 @@
         "release": "24",
         "sid": "E027",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E027R.png"
-    },
-    {
-        "name": "Farewell to the Past, Hitagi Senjyogahara",
-        "code": "NM/S24-E048",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Strange》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\""
-        ],
-        "flavor_text": "Be gentle to me tonight.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E048R.png"
-    },
-    {
-        "name": "“Phoenix” Tsukihi Araragi",
-        "code": "NM/S24-E049",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 At the beginning of your draw phase, deal one damage to yourself. (This damage may be canceled)"
-        ],
-        "flavor_text": "",
-        "set": "NM",
-        "release": "24",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E049R.png"
-    },
-    {
-        "name": "Sense of Liberation, Suruga Kanbaru",
-        "code": "NM/S24-E050",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Sports"
-        ],
-        "ability": [
-            "【CONT】 Experience If the total level of the cards in your level is two or higher, this card gets +1000.",
-            "【AUTO】 [【REST】 one of your other 【STAND】 《Strange》 characters] When a card named \"Handling Memories\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, and put it into his or her waiting room."
-        ],
-        "flavor_text": "No matter how liberated I feel when naked, I only go outside naked occasionally――",
-        "set": "NM",
-        "release": "24",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E050R.png"
-    },
-    {
-        "name": "Celebrity of Tsuganoki 2nd Middle School, Tsukihi Araragi",
-        "code": "NM/S24-E051",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "Do you have any regrets, Big Brother?",
-        "set": "NM",
-        "release": "24",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E051R.png"
-    },
-    {
-        "name": "Usual Parting, Mayoi Hachikuji",
-        "code": "NM/S24-E052",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "8500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Spirit"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from your hand into your clock] When this card attacks, if a card named \"I flubbed it!\" is in your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Yeah, let's meet again.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E052R.png"
-    },
-    {
-        "name": "Hairband, Nadeko Sengoku",
-        "code": "NM/S24-E072",
-        "rarity": "R",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn.",
-            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw a card."
-        ],
-        "flavor_text": "The word of Life is law.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E072R.png"
-    },
-    {
-        "name": "Sake of Cooperation, Shinobu Oshino",
-        "code": "NM/S24-E007",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power."
-        ],
-        "flavor_text": "Oh, no... Oh, no, what cruel fate forces me\nto obey the orders of a lesser being like this human.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E007",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E007U.png"
-    },
-    {
-        "name": "Primp and Proper, Nadeko Sengoku",
-        "code": "NM/S24-E008",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Strange》 characters get +500 power.",
-            "【AUTO】 [(1)] When a card named \"Welcome\" is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2500 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "I-I definitely didn't work up the courage to change my hairstyle because you were coming over to my house for the first time.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E008U.png"
-    },
-    {
-        "name": "Vampire's Dignity, Shinobu Oshino",
-        "code": "NM/S24-E009",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "I will not allow any more of this.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E009U.png"
-    },
-    {
-        "name": "Resident of the Shadows, Shinobu Oshino",
-        "code": "NM/S24-E010",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Master-servant Relationship, Shinobu Oshino\" in your waiting room, and put it on the stage position this card was on."
-        ],
-        "flavor_text": "See you soon, then, bye.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E010U.png"
-    },
-    {
-        "name": "Flower Garden Shinobu Oshino",
-        "code": "NM/S24-E011",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 If the number of 《Blood》 characters you have is one or less, this card cannot be played from your hand."
-        ],
-        "flavor_text": "Wah-!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E011U.png"
-    },
-    {
-        "name": "Ritual One Level Higher",
-        "code": "NM/S24-E018",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "3",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "Search your deck for up to two 《Strange》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck. Put this card into your memory."
-        ],
-        "flavor_text": "That isn't enough, I request a ritual one level higher.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E018U.png"
     },
     {
         "name": "Bigger of the Sisters, Karen Araragi",
@@ -940,429 +915,6 @@
         "release": "24",
         "sid": "E034",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E034U.png"
-    },
-    {
-        "name": "Promise Exchange, Mayoi Hachikuji",
-        "code": "NM/S24-E053",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Spirit"
-        ],
-        "ability": [
-            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is four or higher, choose a 《Strange》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "If I'm ever in really bad trouble again, would you help me?",
-        "set": "NM",
-        "release": "24",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E053U.png"
-    },
-    {
-        "name": "Accelerator, Suruga Kanbaru",
-        "code": "NM/S24-E054",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Sports"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets +1000 power."
-        ],
-        "flavor_text": "Suruga Kanbaru. Primary weapon, accelerator.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E054U.png"
-    },
-    {
-        "name": "Matters of Younger Sisters, Koyomi Araragi",
-        "code": "NM/S24-E055",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Girl Who Was Given a Bee, Karen Araragi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Girl Who Was Given a Bee, Karen Araragi\" in your waiting room, and return it to your hand.)",
-            "【AUTO】 Bond/\"“Fire Sisters” Tsukihi Araragi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Fire Sisters” Tsukihi Araragi\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "……she got what was coming to her.\nIt's her fault for getting involved with someone like you.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E055U.png"
-    },
-    {
-        "name": "“Fire Sisters” Tsukihi Araragi",
-        "code": "NM/S24-E056",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes Reverse@, if the number of your other 《Japanese Clothes》 characters is two or more, and this card's battle opponent is level 1 or lower, you may Reverse@ that character in battle."
-        ],
-        "flavor_text": "Don't just grow up and leave us behind.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E056U.png"
-    },
-    {
-        "name": "Advisor Role, Tsukihi Araragi",
-        "code": "NM/S24-E057",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power. 【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
-        ],
-        "flavor_text": "Don't bother coming home. There's no home for you!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E057U.png"
-    },
-    {
-        "name": "Passionate Personality, Tsukihi Araragi",
-        "code": "NM/S24-E058",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 Experience If the total level of the cards in your level is 5 or higher, this card gets the following ability.\"【AUTO】 When this card becomes Reverse@, if this card’s battle opponent is level 2 or lower, you may Reverse@ that character.\".",
-            "【AUTO】 [①] When this card attacks, if a card named “TSUKIHI Phoenix” is in your climax area, you may pay the cost. If you do, choose a level 2 or lower character in your opponent’s center stage and put it into his or her waiting room."
-        ],
-        "flavor_text": "Big Brother, how long will you be taking that bath?",
-        "set": "NM",
-        "release": "24",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E058U.png"
-    },
-    {
-        "name": "Usual Occurrence",
-        "code": "NM/S24-E066",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "0",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your 《Japanese Clothes》 or 《Sports》 characters, and that character gets +3000 power until end of turn."
-        ],
-        "flavor_text": "No!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E066U.png"
-    },
-    {
-        "name": "Sisters' Helper, Tsubasa Hanekawa",
-        "code": "NM/S24-E073",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Class Representative"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Strange》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "That's true.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E073U.png"
-    },
-    {
-        "name": "Shikigami, Yotsugi Ononoki",
-        "code": "NM/S24-E074",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Puppet"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Devilish big brother. You seem to have a knack for finding yourself\nin the company of immortal apparitions.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E074U.png"
-    },
-    {
-        "name": "Loser's Bravado",
-        "code": "NM/S24-E079",
-        "rarity": "U",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "Look at up to X cards from the top of your deck, choose up to two cards from among them, and put them into your hand. Put the rest into your waiting room. X is equal to the number of 《Strange》 characters you have."
-        ],
-        "flavor_text": "I was about to make my big comeback. Don't worry about me when you don't have to, Big Sister――",
-        "set": "NM",
-        "release": "24",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E079U.png"
-    },
-    {
-        "name": "Sudden Attack, Koyomi Araragi",
-        "code": "NM/S24-E012",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Flower Garden Shinobu Oshino\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Flower Garden Shinobu Oshino\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Ooh――",
-        "set": "NM",
-        "release": "24",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E012C.png"
-    },
-    {
-        "name": "Shinobu Oshino in the Shadows",
-        "code": "NM/S24-E013",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power."
-        ],
-        "flavor_text": "Very true――",
-        "set": "NM",
-        "release": "24",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E013C.png"
-    },
-    {
-        "name": "First Visitor, Nadeko Sengoku",
-        "code": "NM/S24-E014",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Eh!?",
-        "set": "NM",
-        "release": "24",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E014C.png"
-    },
-    {
-        "name": "Shinobu Oshino in a Good Mood",
-        "code": "NM/S24-E015",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "I suppose I could tell you about the posed look one.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E015C.png"
-    },
-    {
-        "name": "Blond with Gold Eyes, Shinobu Oshino",
-        "code": "NM/S24-E016",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "",
-        "set": "NM",
-        "release": "24",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E016C.png"
-    },
-    {
-        "name": "Being Bashful, Mayoi Hachikuji",
-        "code": "NM/S24-E017",
-        "rarity": "C",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Spirit"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "I was bashful!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E017C.png"
     },
     {
         "name": "Tutor, Tsubasa Hanekawa",
@@ -1552,6 +1104,469 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E041C.png"
     },
     {
+        "name": "Teeth Brushing Time",
+        "code": "NM/S24-E042",
+        "rarity": "CR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Big Brother……",
+        "set": "NM",
+        "release": "24",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E042CR.png"
+    },
+    {
+        "name": "Sandy Beach for Two",
+        "code": "NM/S24-E043",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "",
+        "set": "NM",
+        "release": "24",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E043CC.png"
+    },
+    {
+        "name": "Girl Who Knows Anything",
+        "code": "NM/S24-E044",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Yeah, it's fine. I was just doing some afternoon studying.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E044CC.png"
+    },
+    {
+        "name": "KAREN Bee",
+        "code": "NM/S24-E045",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "B-Big Brother.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E045CC.png"
+    },
+    {
+        "name": "Cuckoo Girl, Tsukihi Araragi",
+        "code": "NM/S24-E046",
+        "rarity": "RR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if you have a card named \"Platinum Mad\" in your climax area, you may pay the cost. If you do, choose up to two 《Japanese Clothes》 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "We're not heroes of justice, we're justice itself, Big Brother.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E046RR.png"
+    },
+    {
+        "name": "Immortal Strange, Tsukihi Araragi",
+        "code": "NM/S24-E047",
+        "rarity": "RR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "10000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, 【REST】 this card."
+        ],
+        "flavor_text": "See you.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E047RR.png"
+    },
+    {
+        "name": "Farewell to the Past, Hitagi Senjyogahara",
+        "code": "NM/S24-E048",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Strange》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "Be gentle to me tonight.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E048R.png"
+    },
+    {
+        "name": "“Phoenix” Tsukihi Araragi",
+        "code": "NM/S24-E049",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your draw phase, deal one damage to yourself. (This damage may be canceled)"
+        ],
+        "flavor_text": "",
+        "set": "NM",
+        "release": "24",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E049R.png"
+    },
+    {
+        "name": "Sense of Liberation, Suruga Kanbaru",
+        "code": "NM/S24-E050",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is two or higher, this card gets +1000.",
+            "【AUTO】 [【REST】 one of your other 【STAND】 《Strange》 characters] When a card named \"Handling Memories\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, and put it into his or her waiting room."
+        ],
+        "flavor_text": "No matter how liberated I feel when naked, I only go outside naked occasionally――",
+        "set": "NM",
+        "release": "24",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E050R.png"
+    },
+    {
+        "name": "Celebrity of Tsuganoki 2nd Middle School, Tsukihi Araragi",
+        "code": "NM/S24-E051",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Do you have any regrets, Big Brother?",
+        "set": "NM",
+        "release": "24",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E051R.png"
+    },
+    {
+        "name": "Usual Parting, Mayoi Hachikuji",
+        "code": "NM/S24-E052",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from your hand into your clock] When this card attacks, if a card named \"I flubbed it!\" is in your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Yeah, let's meet again.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E052R.png"
+    },
+    {
+        "name": "Promise Exchange, Mayoi Hachikuji",
+        "code": "NM/S24-E053",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Spirit"
+        ],
+        "ability": [
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is four or higher, choose a 《Strange》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "If I'm ever in really bad trouble again, would you help me?",
+        "set": "NM",
+        "release": "24",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E053U.png"
+    },
+    {
+        "name": "Accelerator, Suruga Kanbaru",
+        "code": "NM/S24-E054",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Sports"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets +1000 power."
+        ],
+        "flavor_text": "Suruga Kanbaru. Primary weapon, accelerator.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E054U.png"
+    },
+    {
+        "name": "Matters of Younger Sisters, Koyomi Araragi",
+        "code": "NM/S24-E055",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Girl Who Was Given a Bee, Karen Araragi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Girl Who Was Given a Bee, Karen Araragi\" in your waiting room, and return it to your hand.)",
+            "【AUTO】 Bond/\"“Fire Sisters” Tsukihi Araragi\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Fire Sisters” Tsukihi Araragi\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "……she got what was coming to her.\nIt's her fault for getting involved with someone like you.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E055U.png"
+    },
+    {
+        "name": "“Fire Sisters” Tsukihi Araragi",
+        "code": "NM/S24-E056",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes Reverse@, if the number of your other 《Japanese Clothes》 characters is two or more, and this card's battle opponent is level 1 or lower, you may Reverse@ that character in battle."
+        ],
+        "flavor_text": "Don't just grow up and leave us behind.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E056U.png"
+    },
+    {
+        "name": "Advisor Role, Tsukihi Araragi",
+        "code": "NM/S24-E057",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power. 【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Don't bother coming home. There's no home for you!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E057U.png"
+    },
+    {
+        "name": "Passionate Personality, Tsukihi Araragi",
+        "code": "NM/S24-E058",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 5 or higher, this card gets the following ability.\"【AUTO】 When this card becomes Reverse@, if this card’s battle opponent is level 2 or lower, you may Reverse@ that character.\".",
+            "【AUTO】 [①] When this card attacks, if a card named “TSUKIHI Phoenix” is in your climax area, you may pay the cost. If you do, choose a level 2 or lower character in your opponent’s center stage and put it into his or her waiting room."
+        ],
+        "flavor_text": "Big Brother, how long will you be taking that bath?",
+        "set": "NM",
+        "release": "24",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E058U.png"
+    },
+    {
         "name": "Loves Kimono, Tsukihi Araragi",
         "code": "NM/S24-E059",
         "rarity": "C",
@@ -1737,6 +1752,247 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E065C.png"
     },
     {
+        "name": "Usual Occurrence",
+        "code": "NM/S24-E066",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your 《Japanese Clothes》 or 《Sports》 characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "No!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E066U.png"
+    },
+    {
+        "name": "TSUKIHI Phoenix",
+        "code": "NM/S24-E067",
+        "rarity": "CR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "\"Any wound heals instantly, any illness vanishes immediately, it lives out its lifespan. And then it dies―― and is reborn.\"",
+        "set": "NM",
+        "release": "24",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E067CR.png"
+    },
+    {
+        "name": "I flubbed it!",
+        "code": "NM/S24-E068",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "I bit you!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E068CC.png"
+    },
+    {
+        "name": "Handling Memories",
+        "code": "NM/S24-E069",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "My memories are always in my heart.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E069CC.png"
+    },
+    {
+        "name": "Platinum Mad",
+        "code": "NM/S24-E070",
+        "rarity": "CC",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Don't get cocky, just because you have some muscle now!",
+        "set": "NM",
+        "release": "24",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E070CC.png"
+    },
+    {
+        "name": "Koyomi Araragi Heading for Battle",
+        "code": "NM/S24-E071",
+        "rarity": "RR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a card named \"Family Matters\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes Reverse@, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Hah… hah…",
+        "set": "NM",
+        "release": "24",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E071RR.png"
+    },
+    {
+        "name": "Hairband, Nadeko Sengoku",
+        "code": "NM/S24-E072",
+        "rarity": "R",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw a card."
+        ],
+        "flavor_text": "The word of Life is law.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E072R.png"
+    },
+    {
+        "name": "Sisters' Helper, Tsubasa Hanekawa",
+        "code": "NM/S24-E073",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Class Representative"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Strange》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "That's true.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E073U.png"
+    },
+    {
+        "name": "Shikigami, Yotsugi Ononoki",
+        "code": "NM/S24-E074",
+        "rarity": "U",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Puppet"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Devilish big brother. You seem to have a knack for finding yourself\nin the company of immortal apparitions.",
+        "set": "NM",
+        "release": "24",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E074U.png"
+    },
+    {
         "name": "Unlimited Rulebook, Yotsugi Ononoki",
         "code": "NM/S24-E075",
         "rarity": "C",
@@ -1844,284 +2100,29 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E078C.png"
     },
     {
-        "name": "Encounter in the Ruins",
-        "code": "NM/S24-E019",
-        "rarity": "CR",
+        "name": "Loser's Bravado",
+        "code": "NM/S24-E079",
+        "rarity": "U",
         "expansion": "NISEMONOGATARI",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
         "power": "",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+            "Look at up to X cards from the top of your deck, choose up to two cards from among them, and put them into your hand. Put the rest into your waiting room. X is equal to the number of 《Strange》 characters you have."
         ],
-        "flavor_text": "You're a minor Far Eastern monster, lacking even extant texts about her. I'll see to it that you can't ever have a posed look again.",
+        "flavor_text": "I was about to make my big comeback. Don't worry about me when you don't have to, Big Sister――",
         "set": "NM",
         "release": "24",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E019CR.png"
-    },
-    {
-        "name": "Teeth Brushing Time",
-        "code": "NM/S24-E042",
-        "rarity": "CR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Big Brother……",
-        "set": "NM",
-        "release": "24",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E042CR.png"
-    },
-    {
-        "name": "TSUKIHI Phoenix",
-        "code": "NM/S24-E067",
-        "rarity": "CR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "\"Any wound heals instantly, any illness vanishes immediately, it lives out its lifespan. And then it dies―― and is reborn.\"",
-        "set": "NM",
-        "release": "24",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E067CR.png"
-    },
-    {
-        "name": "Welcome",
-        "code": "NM/S24-E020",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "Come in, Big Brother Koyomi.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E020CC.png"
-    },
-    {
-        "name": "Sandy Beach for Two",
-        "code": "NM/S24-E043",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "",
-        "set": "NM",
-        "release": "24",
-        "sid": "E043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E043CC.png"
-    },
-    {
-        "name": "Girl Who Knows Anything",
-        "code": "NM/S24-E044",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Yeah, it's fine. I was just doing some afternoon studying.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E044CC.png"
-    },
-    {
-        "name": "KAREN Bee",
-        "code": "NM/S24-E045",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "B-Big Brother.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E045CC.png"
-    },
-    {
-        "name": "I flubbed it!",
-        "code": "NM/S24-E068",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "I bit you!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E068CC.png"
-    },
-    {
-        "name": "Handling Memories",
-        "code": "NM/S24-E069",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "My memories are always in my heart.",
-        "set": "NM",
-        "release": "24",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E069CC.png"
-    },
-    {
-        "name": "Platinum Mad",
-        "code": "NM/S24-E070",
-        "rarity": "CC",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Don't get cocky, just because you have some muscle now!",
-        "set": "NM",
-        "release": "24",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E070CC.png"
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E079U.png"
     },
     {
         "name": "Family Matters",
@@ -2143,13 +2144,144 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "They aren't \"other people\". They are my family.",
         "set": "NM",
         "release": "24",
         "sid": "E080",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E080CC.png"
+    },
+    {
+        "name": "Vanpire's Bond, Shinobu Oshino",
+        "code": "NM/S24-E081",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Blood"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I've told you a bunch of times that the bonds of a vampire are\nbonds of the soul, right?",
+        "set": "NM",
+        "release": "24",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E081PR.png"
+    },
+    {
+        "name": "Friendly Sisters, Tsukihi Araragi & Karen Araragi",
+        "code": "NM/S24-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Sports",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, Rest@ all of your other 【STAND】 characters."
+        ],
+        "flavor_text": "",
+        "set": "NM",
+        "release": "24",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE01PR.png"
+    },
+    {
+        "name": "Burning Girl, Karen Araragi",
+        "code": "NM/S24-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Strange",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Community service. Just a bit of volunteer work.",
+        "set": "NM",
+        "release": "24",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE03PR.png"
+    },
+    {
+        "name": "A Sister to Be Proud Of, Karen Araragi",
+        "code": "NM/S24-PE04",
+        "rarity": "PR",
+        "expansion": "NISEMONOGATARI",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】 [REST one of your \"Strange\" characters] This card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "...",
+        "set": "NM",
+        "release": "24",
+        "sid": "E001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_p04.png"
+    },
+    {
+        "name": "Tsukihi Araragi & Karen Araragi & Nadeko Sengoku",
+        "code": "NM/S24-PE05",
+        "rarity": "PR",
+        "expansion": "PR Card 【Schwarz Side】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Strange"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST@)"
+        ],
+        "flavor_text": "Karen: \"Seems I'll have a heroic tale to tell tonight.\"",
+        "set": "NM",
+        "release": "24",
+        "sid": "PE05",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE05PR.png"
     },
     {
         "name": "Celebrity of Tsuganoki 2nd Middle School, Karen Araragi",
@@ -2335,7 +2467,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "flavor_text": "Big Brother……",
         "set": "NM",
@@ -2614,136 +2746,5 @@
         "release": "24",
         "sid": "TE17",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_TE17.png"
-    },
-    {
-        "name": "Vanpire's Bond, Shinobu Oshino",
-        "code": "NM/S24-E081",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Blood"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "I've told you a bunch of times that the bonds of a vampire are\nbonds of the soul, right?",
-        "set": "NM",
-        "release": "24",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_E081PR.png"
-    },
-    {
-        "name": "Friendly Sisters, Tsukihi Araragi & Karen Araragi",
-        "code": "NM/S24-PE01",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Sports",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, Rest@ all of your other 【STAND】 characters."
-        ],
-        "flavor_text": "",
-        "set": "NM",
-        "release": "24",
-        "sid": "PE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE01PR.png"
-    },
-    {
-        "name": "Burning Girl, Karen Araragi",
-        "code": "NM/S24-PE03",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Strange",
-            "Sports"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
-        ],
-        "flavor_text": "Community service. Just a bit of volunteer work.",
-        "set": "NM",
-        "release": "24",
-        "sid": "PE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE03PR.png"
-    },
-    {
-        "name": "Tsukihi Araragi & Karen Araragi & Nadeko Sengoku",
-        "code": "NM/S24-PE05",
-        "rarity": "PR",
-        "expansion": "PR Card 【Schwarz Side】",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST@)"
-        ],
-        "flavor_text": "Karen: \"Seems I'll have a heroic tale to tell tonight.\"",
-        "set": "NM",
-        "release": "24",
-        "sid": "PE05",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_NM_S24_PE05PR.png"
-    },
-    {
-        "name": "A Sister to Be Proud Of, Karen Araragi",
-        "code": "NM/S24-PE04",
-        "rarity": "PR",
-        "expansion": "NISEMONOGATARI",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Strange",
-            "Sports"
-        ],
-        "ability": [
-            "【ACT】 [REST one of your \"Strange\" characters] This card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "...",
-        "set": "NM",
-        "release": "24",
-        "sid": "E001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_p04.png"
     }
 ]

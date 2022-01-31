@@ -83,205 +83,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E003.png"
     },
     {
-        "name": "Sister Fond of Her Brother, Leafa",
-        "code": "SAO/S51-E021",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn.",
-            "【AUTO】 [(1)] When a climax is put on your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "Hey, me too!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E021.png"
-    },
-    {
-        "name": "《Songstress》 Yuna",
-        "code": "SAO/S51-E022",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "Music"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have."
-        ],
-        "flavor_text": "I hope you're all looking forward to it!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E022.png"
-    },
-    {
-        "name": "Immalleable Intentions, Lisbeth",
-        "code": "SAO/S51-E051",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of characters in your back stage is one or less, this card cannot attack.",
-            "【AUTO】 【CXCombo】 [(1)] When this card attacks, if a card named \"Experienced Multiplayer\" is in your climax area, you may pay the cost. If you do, choose one of your other characters and this card, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "All right. Let's keep this up.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E051.png"
-    },
-    {
-        "name": "\"Link Strike\" Silica",
-        "code": "SAO/S51-E052",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets +1500 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\"",
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Pina!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E052.png"
-    },
-    {
-        "name": "\"Time to Get Serious\" Kirito",
-        "code": "SAO/S51-E071",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose one of your other 《Avatar》 or 《Net》 characters, 【REST】 it, and move it to an open position of your back stage."
-        ],
-        "flavor_text": "I'm going to get your memories back no matter what.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E071.png"
-    },
-    {
-        "name": "\"Link Strike\" Sinon",
-        "code": "SAO/S51-E072",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of 《Avatar》 or 《Net》 characters you have is four or more, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", draw up to one card, and this card gets +2000 power until end of turn.",
-            "【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When the character in the middle position of your center stage attacks, you may pay the cost. If you do, put the top three cards of your deck into your waiting room. If there is a climax among those cards, 【STAND】 this card."
-        ],
-        "flavor_text": "You can pay me back with cake in Ginza, okay?",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E072.png"
-    },
-    {
-        "name": "\"Link Strike\" Kirito",
-        "code": "SAO/S51-E073",
-        "rarity": "RR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Avatar》 or 《Net》 characters you have.",
-            "【AUTO】 【CXCombo】 [(3) Put two cards from your hand into your waiting room & Put this card into your waiting room] When your other character attacks, if a card named \"《Black Swordsman》 Once More\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with \"Link Strike(連携攻撃)\" in its card name except a card named \"\"Link Strike\" Kirito\", and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Trust me, and wait for me, Asuna.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E073.png"
-    },
-    {
         "name": "Park Date, Asuna",
         "code": "SAO/S51-E004",
         "rarity": "R",
@@ -393,6 +194,421 @@
         "release": "51",
         "sid": "E007",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E007.png"
+    },
+    {
+        "name": "\"Link Strike\" Asuna",
+        "code": "SAO/S51-E008",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card is placed on the stage by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Fire!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E008.png"
+    },
+    {
+        "name": "Long-Awaited Promised Day, Asuna",
+        "code": "SAO/S51-E009",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets -1 level while on the stage.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck."
+        ],
+        "flavor_text": "I can't wait to see the meteor shower!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E009.png"
+    },
+    {
+        "name": "Promise in your Heart, Asuna & Kirito",
+        "code": "SAO/S51-E010",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +5000 power and +1 soul."
+        ],
+        "flavor_text": "Kirito: \"Trust me, and wait for me, Asuna.\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E010.png"
+    },
+    {
+        "name": "Today's MVP, Asuna",
+        "code": "SAO/S51-E011",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room."
+        ],
+        "flavor_text": "Th-Thanks……",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E011.png"
+    },
+    {
+        "name": "Seductive Shore, Asuna",
+        "code": "SAO/S51-E012",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put an 《Avatar》 or 《Net》 character from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E012.png"
+    },
+    {
+        "name": "Taking On the Boss Battle, Asuna",
+        "code": "SAO/S51-E013",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other cards named \"Gentle Expression, Kirito\" get +1000 power and +1 soul."
+        ],
+        "flavor_text": "Hey! At zero HP, there's a penalty!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E013.png"
+    },
+    {
+        "name": "Important Habit, Asuna",
+        "code": "SAO/S51-E014",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +1000 power and +1 soul.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E014.png"
+    },
+    {
+        "name": "Thrusting Gale, Asuna",
+        "code": "SAO/S51-E015",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Be careful, Kirito.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E015.png"
+    },
+    {
+        "name": "Prepared for Battle, Asuna",
+        "code": "SAO/S51-E016",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Avatar》 or 《Net》, you may put the top card of your deck into your stock.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "It's almost time.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E016.png"
+    },
+    {
+        "name": "\"Genius Game Designer\" Kayaba",
+        "code": "SAO/S51-E017",
+        "rarity": "C",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "3",
+        "power": "10000",
+        "soul": 3,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Science"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "The man I am now believes… in the existence of a power that transcends the system itself…",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E017.png"
+    },
+    {
+        "name": "Sudden Whisper",
+        "code": "SAO/S51-E018",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose one of your characters in battle, return it to your hand, choose a character in your back stage, and move it to the stage position that the character in battle was on as the defending character."
+        ],
+        "flavor_text": "Eiji: \"Switch.\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E018.png"
+    },
+    {
+        "name": "《Mother's Rosario》",
+        "code": "SAO/S51-E019",
+        "rarity": "CR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "This is what I can do now…",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E019.png"
+    },
+    {
+        "name": "Enduring Emotions",
+        "code": "SAO/S51-E020",
+        "rarity": "CC",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Even if I lose all my memories of SAO, this feeling is the one thing that will never, ever change.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E020.png"
+    },
+    {
+        "name": "Sister Fond of Her Brother, Leafa",
+        "code": "SAO/S51-E021",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 [(1)] When a climax is put on your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Hey, me too!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E021.png"
+    },
+    {
+        "name": "《Songstress》 Yuna",
+        "code": "SAO/S51-E022",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have."
+        ],
+        "flavor_text": "I hope you're all looking forward to it!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E022.png"
     },
     {
         "name": "Kendo Boot Camp, Suguha",
@@ -561,468 +777,6 @@
         "release": "51",
         "sid": "E028",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E028.png"
-    },
-    {
-        "name": "Opposition by the Shield",
-        "code": "SAO/S51-E044",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\""
-        ],
-        "flavor_text": "The Augma is just a version of the NerveGear with limited functions. Now hurry!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E044.png"
-    },
-    {
-        "name": "On Stage, Silica",
-        "code": "SAO/S51-E053",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [(1) 【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "We're going to sing together next!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E053.png"
-    },
-    {
-        "name": "Refreshing Personality, Lisbeth",
-        "code": "SAO/S51-E054",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Well, now, it's all good.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E054.png"
-    },
-    {
-        "name": "Lively Post-Lessons, Rika",
-        "code": "SAO/S51-E055",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Avatar》 or 《Net》 characters revealed among those cards."
-        ],
-        "flavor_text": "Go on! You should let everyone else hear, too!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E055.png"
-    },
-    {
-        "name": "Silica On Guard",
-        "code": "SAO/S51-E056",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
-        ],
-        "flavor_text": "Asuna!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E056.png"
-    },
-    {
-        "name": "\"Link Strike\" Lisbeth",
-        "code": "SAO/S51-E057",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Hey, you!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E057.png"
-    },
-    {
-        "name": "In Doubt, Sinon",
-        "code": "SAO/S51-E074",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
-            "【AUTO】 Encore [Put an 《Avatar》 or 《Net》 character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "So I guess it's okay…?",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E074.png"
-    },
-    {
-        "name": "《SAO Survivor》 Asuna & Kazuto",
-        "code": "SAO/S51-E075",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, all of your other 《Avatar》 or 《Net》 characters get +1000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Kazuto: \"What's up?\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E075.png"
-    },
-    {
-        "name": "Reliable Reinforcement, Sinon",
-        "code": "SAO/S51-E076",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
-            "【AUTO】 【CXCombo】 When this card attacks, if a card named \"Dependable Marksmanship\" is in your climax area, reveal thte top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "Someone's pretty pumped up, huh?",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E076.png"
-    },
-    {
-        "name": "AR Battle, Kirito",
-        "code": "SAO/S51-E077",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have."
-        ],
-        "flavor_text": "I'm here, as promised.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E077.png"
-    },
-    {
-        "name": "Welcome Assistance, Yui",
-        "code": "SAO/S51-E078",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
-            "【AUTO】 【CXCombo】 [Put a card from your hand into your stock] When this card attacks, you may pay the cost. If you do, choose a card named \"Sorry to Keep You Waiting!\" in your climax area, and return it to your hand."
-        ],
-        "flavor_text": "I've loaded the saved data left on the SAO server onto you all.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E078.png"
-    },
-    {
-        "name": "Full of Vigor, Yui",
-        "code": "SAO/S51-E079",
-        "rarity": "R",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
-            "【AUTO】 [Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost, If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.",
-            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "Ah! A shooting star!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E079.png"
-    },
-    {
-        "name": "\"Link Strike\" Asuna",
-        "code": "SAO/S51-E008",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 When this card is placed on the stage by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and put it into your stock."
-        ],
-        "flavor_text": "Fire!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E008.png"
-    },
-    {
-        "name": "Long-Awaited Promised Day, Asuna",
-        "code": "SAO/S51-E009",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 This card gets -1 level while on the stage.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck."
-        ],
-        "flavor_text": "I can't wait to see the meteor shower!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E009.png"
-    },
-    {
-        "name": "Promise in your Heart, Asuna & Kirito",
-        "code": "SAO/S51-E010",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +5000 power and +1 soul."
-        ],
-        "flavor_text": "Kirito: \"Trust me, and wait for me, Asuna.\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E010.png"
-    },
-    {
-        "name": "Today's MVP, Asuna",
-        "code": "SAO/S51-E011",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room."
-        ],
-        "flavor_text": "Th-Thanks……",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E011.png"
-    },
-    {
-        "name": "Sudden Whisper",
-        "code": "SAO/S51-E018",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Choose one of your characters in battle, return it to your hand, choose a character in your back stage, and move it to the stage position that the character in battle was on as the defending character."
-        ],
-        "flavor_text": "Eiji: \"Switch.\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E018.png"
     },
     {
         "name": "Instantaneous Movement, Eiｊi",
@@ -1219,605 +973,6 @@
         "release": "51",
         "sid": "E035",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E035.png"
-    },
-    {
-        "name": "Ordinal Scale",
-        "code": "SAO/S51-E045",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)",
-            "Put this card into your stock."
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E045.png"
-    },
-    {
-        "name": "The Complete SAO Incident Records",
-        "code": "SAO/S51-E046",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have an 《Avatar》 or 《Net》 character, this card cannot be played from your hand.",
-            "Choose one of the following effects and perform it. \"Choose a level 2 or lower character with \"Memory\" in your opponent's center stage, and put it into his or her waiting room.\" \"Choose one of your opponent's characters, and that character gets -2000 power until end of turn.\""
-        ],
-        "flavor_text": "Eiji: \"It's like a journal of my memories.\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E046.png"
-    },
-    {
-        "name": "Close Call, Silica",
-        "code": "SAO/S51-E058",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
-            "【AUTO】 【CXCombo】 [Return this card to your hand] When a card named \"Heinous Trap\" is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E058.png"
-    },
-    {
-        "name": "Beacon of Counterattack, Lisbeth",
-        "code": "SAO/S51-E059",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +2000 power until end of turn.",
-            "【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E059.png"
-    },
-    {
-        "name": "Surging Raid, Silica",
-        "code": "SAO/S51-E060",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power."
-        ],
-        "flavor_text": "No problem!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E060.png"
-    },
-    {
-        "name": "Cheerful Singing",
-        "code": "SAO/S51-E067",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Silica(シリカ)\" in its card name, this card cannot be played from your hand.",
-            "Reveal the top card of your deck, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E067.png"
-    },
-    {
-        "name": "Former Formidable Foe",
-        "code": "SAO/S51-E068",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "3",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Deal four damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Kirito: \"The boss monster from floor 10 in Aincrad, Kagachi the Samurai Lord!\"\nAsuna: \"He looks exactly like the SAO boss……\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E068.png"
-    },
-    {
-        "name": "Asuna's Love, Kirito",
-        "code": "SAO/S51-E080",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
-            "【AUTO】 【CXCombo】 [(2)] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Perpetuation of the Promise\", put it into your climax area, and shuffle your deck."
-        ],
-        "flavor_text": "I'm taking the shortest route to take them all out!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E080.png"
-    },
-    {
-        "name": "Kazuto Can't Get Used to AR",
-        "code": "SAO/S51-E081",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 Bond/\"Attack in Waves, Asuna\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Attack in Waves, Asuna” in your waiting room, and return it to your hand.)",
-            "【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "But I still like full-dive better…",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E081.png"
-    },
-    {
-        "name": "Fawning Klein",
-        "code": "SAO/S51-E082",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)",
-            "【AUTO】 When this card attacks, if the number of other characters you have is one or less, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage."
-        ],
-        "flavor_text": "Y-Yuna?",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E082.png"
-    },
-    {
-        "name": "Snack Time, Yui",
-        "code": "SAO/S51-E083",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Investigation Report\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "We should pick a time to meet when we go see the meteor shower, right?",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E083.png"
-    },
-    {
-        "name": "\"Link Strike\" Agil",
-        "code": "SAO/S51-E084",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +3000 power until end of turn.",
-            "【AUTO】 [Return two characters from your waiting room to your deck, and shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn."
-        ],
-        "flavor_text": "Who knew we'd be seeing this place after two years……",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E084.png"
-    },
-    {
-        "name": "Data Collection, Yui",
-        "code": "SAO/S51-E085",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two characters with \"Link Strike(連携攻撃)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "I'll be gathering data throughout this battle, and find something to go on!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E085.png"
-    },
-    {
-        "name": "Cuddling Couple, Kazuto & Asuna",
-        "code": "SAO/S51-E086",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "7500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, this card gets +1500 power for each of your other 《Avatar》 or 《Net》 characters."
-        ],
-        "flavor_text": "Kazuto: \"What's wrong, Asuna?\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E086.png"
-    },
-    {
-        "name": "Investigation Report",
-        "code": "SAO/S51-E095",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Put this card into your memory.",
-            "【CONT】 Memory During your opponent's turn, if this card is in your memory, all of your 《Avatar》 or 《Net》 characters get +1000 power."
-        ],
-        "flavor_text": "Daddy, Mommy, I was able to find out one thing.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E095",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E095.png"
-    },
-    {
-        "name": "Ordinal Number 1",
-        "code": "SAO/S51-E096",
-        "rarity": "U",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have any 《Avatar》 or 《Net》 characters, this card cannot be played from your hand.",
-            "Put the top card of your deck into your waiting room, choose one of your opponent's level X or lower characters, and put it on the bottom of his or her deck. X is equal to that card's level. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E096.png"
-    },
-    {
-        "name": "Seductive Shore, Asuna",
-        "code": "SAO/S51-E012",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 [Put an 《Avatar》 or 《Net》 character from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E012.png"
-    },
-    {
-        "name": "Taking On the Boss Battle, Asuna",
-        "code": "SAO/S51-E013",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【CONT】 All of your other cards named \"Gentle Expression, Kirito\" get +1000 power and +1 soul."
-        ],
-        "flavor_text": "Hey! At zero HP, there's a penalty!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E013.png"
-    },
-    {
-        "name": "Important Habit, Asuna",
-        "code": "SAO/S51-E014",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Net",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +1000 power and +1 soul.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "-",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E014.png"
-    },
-    {
-        "name": "Thrusting Gale, Asuna",
-        "code": "SAO/S51-E015",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "-"
-        ],
-        "flavor_text": "Be careful, Kirito.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E015.png"
-    },
-    {
-        "name": "Prepared for Battle, Asuna",
-        "code": "SAO/S51-E016",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Avatar",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Avatar》 or 《Net》, you may put the top card of your deck into your stock.",
-            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
-        ],
-        "flavor_text": "It's almost time.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E016.png"
-    },
-    {
-        "name": "\"Genius Game Designer\" Kayaba",
-        "code": "SAO/S51-E017",
-        "rarity": "C",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "3",
-        "power": "10000",
-        "soul": 3,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Net",
-            "Science"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
-        ],
-        "flavor_text": "The man I am now believes… in the existence of a power that transcends the system itself…",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E017.png"
     },
     {
         "name": "Mysterious Young Swordsman, Eiji",
@@ -2032,6 +1187,476 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E043.png"
     },
     {
+        "name": "Opposition by the Shield",
+        "code": "SAO/S51-E044",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\""
+        ],
+        "flavor_text": "The Augma is just a version of the NerveGear with limited functions. Now hurry!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E044.png"
+    },
+    {
+        "name": "Ordinal Scale",
+        "code": "SAO/S51-E045",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)",
+            "Put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E045.png"
+    },
+    {
+        "name": "The Complete SAO Incident Records",
+        "code": "SAO/S51-E046",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have an 《Avatar》 or 《Net》 character, this card cannot be played from your hand.",
+            "Choose one of the following effects and perform it. \"Choose a level 2 or lower character with \"Memory\" in your opponent's center stage, and put it into his or her waiting room.\" \"Choose one of your opponent's characters, and that character gets -2000 power until end of turn.\""
+        ],
+        "flavor_text": "Eiji: \"It's like a journal of my memories.\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E046.png"
+    },
+    {
+        "name": "The Giant Stage of Dreams",
+        "code": "SAO/S51-E047",
+        "rarity": "CR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E047.png"
+    },
+    {
+        "name": "Ordinal Number 2",
+        "code": "SAO/S51-E048",
+        "rarity": "CC",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Asuna: \"Rank 2…!?\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E048.png"
+    },
+    {
+        "name": "White Holy Tree",
+        "code": "SAO/S51-E049",
+        "rarity": "CC",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Lisbeth: \"We… we can't defeat something like this……!\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E049.png"
+    },
+    {
+        "name": "Assistance From the Fairies",
+        "code": "SAO/S51-E050",
+        "rarity": "CC",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Big Brother! Sorry to make you wait!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E050.png"
+    },
+    {
+        "name": "Immalleable Intentions, Lisbeth",
+        "code": "SAO/S51-E051",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of characters in your back stage is one or less, this card cannot attack.",
+            "【AUTO】 【CXCombo】 [(1)] When this card attacks, if a card named \"Experienced Multiplayer\" is in your climax area, you may pay the cost. If you do, choose one of your other characters and this card, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "All right. Let's keep this up.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E051.png"
+    },
+    {
+        "name": "\"Link Strike\" Silica",
+        "code": "SAO/S51-E052",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets +1500 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\"",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Pina!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E052.png"
+    },
+    {
+        "name": "On Stage, Silica",
+        "code": "SAO/S51-E053",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(1) 【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "We're going to sing together next!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E053.png"
+    },
+    {
+        "name": "Refreshing Personality, Lisbeth",
+        "code": "SAO/S51-E054",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Well, now, it's all good.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E054.png"
+    },
+    {
+        "name": "Lively Post-Lessons, Rika",
+        "code": "SAO/S51-E055",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Avatar》 or 《Net》 characters revealed among those cards."
+        ],
+        "flavor_text": "Go on! You should let everyone else hear, too!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E055.png"
+    },
+    {
+        "name": "Silica On Guard",
+        "code": "SAO/S51-E056",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Asuna!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E056.png"
+    },
+    {
+        "name": "\"Link Strike\" Lisbeth",
+        "code": "SAO/S51-E057",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Hey, you!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E057.png"
+    },
+    {
+        "name": "Close Call, Silica",
+        "code": "SAO/S51-E058",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 【CXCombo】 [Return this card to your hand] When a card named \"Heinous Trap\" is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E058.png"
+    },
+    {
+        "name": "Beacon of Counterattack, Lisbeth",
+        "code": "SAO/S51-E059",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +2000 power until end of turn.",
+            "【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E059.png"
+    },
+    {
+        "name": "Surging Raid, Silica",
+        "code": "SAO/S51-E060",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power."
+        ],
+        "flavor_text": "No problem!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E060.png"
+    },
+    {
         "name": "Taking On the Boss Battle, Lisbeth",
         "code": "SAO/S51-E061",
         "rarity": "C",
@@ -2193,6 +1818,560 @@
         "release": "51",
         "sid": "E066",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E066.png"
+    },
+    {
+        "name": "Cheerful Singing",
+        "code": "SAO/S51-E067",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Silica(シリカ)\" in its card name, this card cannot be played from your hand.",
+            "Reveal the top card of your deck, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E067.png"
+    },
+    {
+        "name": "Former Formidable Foe",
+        "code": "SAO/S51-E068",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Deal four damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Kirito: \"The boss monster from floor 10 in Aincrad, Kagachi the Samurai Lord!\"\nAsuna: \"He looks exactly like the SAO boss……\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E068.png"
+    },
+    {
+        "name": "Experienced Multiplayer",
+        "code": "SAO/S51-E069",
+        "rarity": "CR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Lisbeth: \"All right, wanna go out there and grab some points?\"\nAsuna & Silica: \"Yeah!\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E069.png"
+    },
+    {
+        "name": "Heinous Trap",
+        "code": "SAO/S51-E070",
+        "rarity": "CC",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Kyahh!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E070.png"
+    },
+    {
+        "name": "\"Time to Get Serious\" Kirito",
+        "code": "SAO/S51-E071",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose one of your other 《Avatar》 or 《Net》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "I'm going to get your memories back no matter what.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E071.png"
+    },
+    {
+        "name": "\"Link Strike\" Sinon",
+        "code": "SAO/S51-E072",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of 《Avatar》 or 《Net》 characters you have is four or more, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", draw up to one card, and this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When the character in the middle position of your center stage attacks, you may pay the cost. If you do, put the top three cards of your deck into your waiting room. If there is a climax among those cards, 【STAND】 this card."
+        ],
+        "flavor_text": "You can pay me back with cake in Ginza, okay?",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E072.png"
+    },
+    {
+        "name": "\"Link Strike\" Kirito",
+        "code": "SAO/S51-E073",
+        "rarity": "RR",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Avatar》 or 《Net》 characters you have.",
+            "【AUTO】 【CXCombo】 [(3) Put two cards from your hand into your waiting room & Put this card into your waiting room] When your other character attacks, if a card named \"《Black Swordsman》 Once More\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with \"Link Strike(連携攻撃)\" in its card name except a card named \"\"Link Strike\" Kirito\", and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Trust me, and wait for me, Asuna.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E073.png"
+    },
+    {
+        "name": "In Doubt, Sinon",
+        "code": "SAO/S51-E074",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+            "【AUTO】 Encore [Put an 《Avatar》 or 《Net》 character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "So I guess it's okay…?",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E074.png"
+    },
+    {
+        "name": "《SAO Survivor》 Asuna & Kazuto",
+        "code": "SAO/S51-E075",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Avatar》 or 《Net》 characters get +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Kazuto: \"What's up?\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E075.png"
+    },
+    {
+        "name": "Reliable Reinforcement, Sinon",
+        "code": "SAO/S51-E076",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.",
+            "【AUTO】 【CXCombo】 When this card attacks, if a card named \"Dependable Marksmanship\" is in your climax area, reveal thte top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)"
+        ],
+        "flavor_text": "Someone's pretty pumped up, huh?",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E076.png"
+    },
+    {
+        "name": "AR Battle, Kirito",
+        "code": "SAO/S51-E077",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have."
+        ],
+        "flavor_text": "I'm here, as promised.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E077.png"
+    },
+    {
+        "name": "Welcome Assistance, Yui",
+        "code": "SAO/S51-E078",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
+            "【AUTO】 【CXCombo】 [Put a card from your hand into your stock] When this card attacks, you may pay the cost. If you do, choose a card named \"Sorry to Keep You Waiting!\" in your climax area, and return it to your hand."
+        ],
+        "flavor_text": "I've loaded the saved data left on the SAO server onto you all.",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E078.png"
+    },
+    {
+        "name": "Full of Vigor, Yui",
+        "code": "SAO/S51-E079",
+        "rarity": "R",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
+            "【AUTO】 [Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost, If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.",
+            "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "Ah! A shooting star!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E079.png"
+    },
+    {
+        "name": "Asuna's Love, Kirito",
+        "code": "SAO/S51-E080",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【AUTO】 【CXCombo】 [(2)] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Perpetuation of the Promise\", put it into your climax area, and shuffle your deck."
+        ],
+        "flavor_text": "I'm taking the shortest route to take them all out!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E080.png"
+    },
+    {
+        "name": "Kazuto Can't Get Used to AR",
+        "code": "SAO/S51-E081",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Attack in Waves, Asuna\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Attack in Waves, Asuna” in your waiting room, and return it to your hand.)",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "But I still like full-dive better…",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E081.png"
+    },
+    {
+        "name": "Fawning Klein",
+        "code": "SAO/S51-E082",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)",
+            "【AUTO】 When this card attacks, if the number of other characters you have is one or less, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage."
+        ],
+        "flavor_text": "Y-Yuna?",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E082.png"
+    },
+    {
+        "name": "Snack Time, Yui",
+        "code": "SAO/S51-E083",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Investigation Report\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "We should pick a time to meet when we go see the meteor shower, right?",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E083.png"
+    },
+    {
+        "name": "\"Link Strike\" Agil",
+        "code": "SAO/S51-E084",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +3000 power until end of turn.",
+            "【AUTO】 [Return two characters from your waiting room to your deck, and shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Who knew we'd be seeing this place after two years……",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E084.png"
+    },
+    {
+        "name": "Data Collection, Yui",
+        "code": "SAO/S51-E085",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two characters with \"Link Strike(連携攻撃)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I'll be gathering data throughout this battle, and find something to go on!",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E085.png"
+    },
+    {
+        "name": "Cuddling Couple, Kazuto & Asuna",
+        "code": "SAO/S51-E086",
+        "rarity": "U",
+        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Net",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1500 power for each of your other 《Avatar》 or 《Net》 characters."
+        ],
+        "flavor_text": "Kazuto: \"What's wrong, Asuna?\"",
+        "set": "SAO",
+        "release": "51",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E086.png"
     },
     {
         "name": "Sweating From a Tough Fight, Agil",
@@ -2414,91 +2593,58 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E094.png"
     },
     {
-        "name": "《Mother's Rosario》",
-        "code": "SAO/S51-E019",
-        "rarity": "CR",
+        "name": "Investigation Report",
+        "code": "SAO/S51-E095",
+        "rarity": "U",
         "expansion": "Sword Art Online The Movie – Ordinal Scale –",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "Put this card into your memory.",
+            "【CONT】 Memory During your opponent's turn, if this card is in your memory, all of your 《Avatar》 or 《Net》 characters get +1000 power."
         ],
-        "flavor_text": "This is what I can do now…",
+        "flavor_text": "Daddy, Mommy, I was able to find out one thing.",
         "set": "SAO",
         "release": "51",
-        "sid": "E019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E019.png"
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E095.png"
     },
     {
-        "name": "The Giant Stage of Dreams",
-        "code": "SAO/S51-E047",
-        "rarity": "CR",
+        "name": "Ordinal Number 1",
+        "code": "SAO/S51-E096",
+        "rarity": "U",
         "expansion": "Sword Art Online The Movie – Ordinal Scale –",
         "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "If you do not have any 《Avatar》 or 《Net》 characters, this card cannot be played from your hand.",
+            "Put the top card of your deck into your waiting room, choose one of your opponent's level X or lower characters, and put it on the bottom of his or her deck. X is equal to that card's level. (Climax are regarded as level 0)"
         ],
         "flavor_text": "-",
         "set": "SAO",
         "release": "51",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E047.png"
-    },
-    {
-        "name": "Experienced Multiplayer",
-        "code": "SAO/S51-E069",
-        "rarity": "CR",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Lisbeth: \"All right, wanna go out there and grab some points?\"\nAsuna & Silica: \"Yeah!\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E069.png"
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E096.png"
     },
     {
         "name": "《Black Swordsman》 Once More",
@@ -2522,159 +2668,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "All right, you guys, let's go!",
         "set": "SAO",
         "release": "51",
         "sid": "E097",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E097.png"
-    },
-    {
-        "name": "Enduring Emotions",
-        "code": "SAO/S51-E020",
-        "rarity": "CC",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Even if I lose all my memories of SAO, this feeling is the one thing that will never, ever change.",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E020.png"
-    },
-    {
-        "name": "Ordinal Number 2",
-        "code": "SAO/S51-E048",
-        "rarity": "CC",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Asuna: \"Rank 2…!?\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E048.png"
-    },
-    {
-        "name": "White Holy Tree",
-        "code": "SAO/S51-E049",
-        "rarity": "CC",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Lisbeth: \"We… we can't defeat something like this……!\"",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E049.png"
-    },
-    {
-        "name": "Assistance From the Fairies",
-        "code": "SAO/S51-E050",
-        "rarity": "CC",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Big Brother! Sorry to make you wait!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E050.png"
-    },
-    {
-        "name": "Heinous Trap",
-        "code": "SAO/S51-E070",
-        "rarity": "CC",
-        "expansion": "Sword Art Online The Movie – Ordinal Scale –",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "STANDBY"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
-            "(【STANDBY】: When this card triggers, you may choose a character with a level equal to or less than your level+1 in your waiting room, and put it on any position of your stage as 【REST】)"
-        ],
-        "flavor_text": "Kyahh!",
-        "set": "SAO",
-        "release": "51",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/SAO_S51_E070.png"
     },
     {
         "name": "Dependable Marksmanship",
@@ -2698,7 +2698,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "SAO",
@@ -2756,7 +2756,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Asuna: \"Wow…\"",
         "set": "SAO",

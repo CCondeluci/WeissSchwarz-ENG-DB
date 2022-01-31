@@ -30,207 +30,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_001.jpg"
     },
     {
-        "name": "\"Yasogami's Steel Council President!\" Labrys",
-        "code": "P4/S01-020",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Mecha",
-            "Student Council"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.",
-            "【AUTO】 [(1)] When a card named \"Labrys's Wrath\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -4000 power until end of turn."
-        ],
-        "flavor_text": "\"Don't break the rules, or you'll get chain-knuckled!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "020",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_020.jpg"
-    },
-    {
-        "name": "Kung Fu Club, Chie",
-        "code": "P4/S01-021",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Sports",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, search your deck for up to one 《Sports》 character, reveal it to your opponent, and put it into your stock. Shuffle your deck afterwards.",
-            "【AUTO】 [(5)] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if your opponent does not have any 【STAND】 characters, you may pay the cost. If you do, 【STAND】 this card."
-        ],
-        "flavor_text": "Y'know, for training!",
-        "set": "P4",
-        "release": "01",
-        "sid": "021",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_021.jpg"
-    },
-    {
-        "name": "\"The Raging Bull of Destruction\" Shadow Labrys",
-        "code": "P4/S01-022",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Shadow",
-            "Weapon"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, if a card named \"Arrival of Asterius\" is in your climax area, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters on the center stage, and put it into your opponent's clock."
-        ],
-        "flavor_text": "Now, are you ready to die?",
-        "set": "P4",
-        "release": "01",
-        "sid": "022",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_022.jpg"
-    },
-    {
-        "name": "Yukiko in Yukata",
-        "code": "P4/S01-051",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fan",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Fan》 or 《Japanese Clothes》 characters get +1000 power.",
-            "【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Young Okami, Yukiko\" in your waiting room, and put it on the stage position that this card was on.",
-            "【ACT】 [【REST】 this card] Choose one of your opponent's 【STAND】 characters, and 【REST】 it."
-        ],
-        "flavor_text": "Oh, n-not at all. You're probably just used to seeing me in one…",
-        "set": "P4",
-        "release": "01",
-        "sid": "051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_051.jpg"
-    },
-    {
-        "name": "Young Okami, Yukiko",
-        "code": "P4/S01-052",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fan",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, reveal the top card of your deck. If the revealed card is a 《Fan》 or 《Japanese Clothes》 character, deal one damage to your opponent.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "Then… we'll always be together…",
-        "set": "P4",
-        "release": "01",
-        "sid": "052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_052.jpg"
-    },
-    {
-        "name": "Naoto & Yamato Takeru",
-        "code": "P4/S01-072",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "2",
-        "power": "7500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Male Impersonator",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, put the top card of your deck into your waiting room. If that card is a 《Male Impersonator》 or 《Female Impersonator》 character, you may put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Now is the time! Let's go!",
-        "set": "P4",
-        "release": "01",
-        "sid": "072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_072.jpg"
-    },
-    {
-        "name": "\"The 2000-IQ Killjoy Detective\" Naoto Shirogane",
-        "code": "P4/S01-073",
-        "rarity": "RR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Male Impersonator",
-            "Detective"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Male Impersonator》 or 《Female Impersonator》 characters you have is three or more, this card gets +1000 power and the following ability. \"【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may draw a card.\"",
-            "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand and put it into your waiting room."
-        ],
-        "flavor_text": "\"The body of a child, the brain of a genius!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_073.jpg"
-    },
-    {
         "name": "Yosuke in Yukata",
         "code": "P4/S01-002",
         "rarity": "R",
@@ -341,6 +140,479 @@
         "release": "01",
         "sid": "005",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_005.jpg"
+    },
+    {
+        "name": "Nanako Dojima",
+        "code": "P4/S01-006",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "TV",
+            "Junes"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Protagonist(P4)\" [(1)] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Protagonist(P4)\" in your waiting room, and return it to your hand.)",
+            "【ACT】 [(1) 【REST】 this card] Choose one of your characters with 《Hero》 or \"Protagonist(主人公)\" in its card name, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "My school's on the way, so… let's go together.",
+        "set": "P4",
+        "release": "01",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_006.jpg"
+    },
+    {
+        "name": "Liquor Store's Daughter, Saki Konishi",
+        "code": "P4/S01-007",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Junes",
+            "Liquor"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Junes》 characters get +1000 power.",
+            "【CONT】 Alarm When this card is the top card of your clock, all of your 《Junes》 characters get +1000 power."
+        ],
+        "flavor_text": "He doesn't have too many friends, so I hope you two get along good.",
+        "set": "P4",
+        "release": "01",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_007.jpg"
+    },
+    {
+        "name": "Friendly Siblings, Protagonist & Nanako",
+        "code": "P4/S01-008",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Junes",
+            "TV"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the level of the character facing this card.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
+        ],
+        "flavor_text": "But I'm not lonely… You're here with me.",
+        "set": "P4",
+        "release": "01",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_008.jpg"
+    },
+    {
+        "name": "Leader, Protagonist",
+        "code": "P4/S01-009",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(4) Put a climax from your waiting room into your memory] This ability activates up to one time per turn. When this card attacks, if a card named \"Never More\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Margaret: \"Get up. You are not someone allowed to fall here.\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_009.jpg"
+    },
+    {
+        "name": "Signs of a Family, Dojima",
+        "code": "P4/S01-010",
+        "rarity": "C",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Police",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Bond／\"Friendly Siblings, Protagonist & Nanako\" [(1)] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Friendly Siblings, Protagonist & Nanako\" in your waiting room, and return it to your hand.)",
+            "【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn."
+        ],
+        "flavor_text": "So, I'll fill yours and Nanako's mugs anytime.",
+        "set": "P4",
+        "release": "01",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_010.jpg"
+    },
+    {
+        "name": "Declaration of Marriage, Nanako",
+        "code": "P4/S01-011",
+        "rarity": "C",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Junes",
+            "TV"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with 《Brave》 or \"Protagonist(主人公)\" in its card name get +500 power.",
+            "【ACT】 [【REST】 this card] Choose one of your characters named \"Protagonist & Izanagi-no-Okami\", and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "When I grow up, I want to marry you, Big Bro.",
+        "set": "P4",
+        "release": "01",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_011.jpg"
+    },
+    {
+        "name": "WILD Power, Protagonist",
+        "code": "P4/S01-012",
+        "rarity": "C",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose another character, and that character gets +1 level until end of turn.",
+            "【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Protagonist & Izanagi-no-Okami\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Teddie: \"I'm sure together, we can do things that no one could do alone…\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_012.jpg"
+    },
+    {
+        "name": "Prince of Disappointment, Yosuke",
+        "code": "P4/S01-013",
+        "rarity": "C",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Junes",
+            "Female Impersonator"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your deck into your waiting room. If you do, choose another of your characters with 《Junes》, for each 【SOUL】 trigger icon on the card put into your waiting room, that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "An eloquent heiress of the noble Junes, she's pure disappointment from the moment she opens her mouth!",
+        "set": "P4",
+        "release": "01",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_013.jpg"
+    },
+    {
+        "name": "Ryotaro Dojima",
+        "code": "P4/S01-014",
+        "rarity": "C",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Police",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your characters with 《Brave》 or \"Protagonist(主人公)\" in its card name, and that character gets +3000 power and +1 soul until end of turn.",
+            "【AUTO】 At the end of your turn, if you have a character in your memory, return this card to your hand."
+        ],
+        "flavor_text": "So long as you're here, you're part of the family, so make yourself at home.",
+        "set": "P4",
+        "release": "01",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_014.jpg"
+    },
+    {
+        "name": "Junes",
+        "code": "P4/S01-015",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Search your deck for up to one character with 《Junes》 or \"Protagonist(主人公)\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
+        ],
+        "flavor_text": "Everyday's great at your Junes♪",
+        "set": "P4",
+        "release": "01",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_015.jpg"
+    },
+    {
+        "name": "Midnight Channel",
+        "code": "P4/S01-016",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock."
+        ],
+        "flavor_text": "I am thou…, thou art I… thou art the one… who opens the door…",
+        "set": "P4",
+        "release": "01",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_016.jpg"
+    },
+    {
+        "name": "Myriad Truths",
+        "code": "P4/S01-017",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Dispelling Thousand Curses, an ultimate mantra to define the truth.",
+        "set": "P4",
+        "release": "01",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_017.jpg"
+    },
+    {
+        "name": "Emerged Izanagi",
+        "code": "P4/S01-018",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I am thou…, thou art I… open thine eyes and call forth what is within.",
+        "set": "P4",
+        "release": "01",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_018.jpg"
+    },
+    {
+        "name": "Never More",
+        "code": "P4/S01-019",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Yosuke: \"Distance doesn't matter to us! Even if we are separated, we are still friends-!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_019.jpg"
+    },
+    {
+        "name": "\"Yasogami's Steel Council President!\" Labrys",
+        "code": "P4/S01-020",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Mecha",
+            "Student Council"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] When a card named \"Labrys's Wrath\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -4000 power until end of turn."
+        ],
+        "flavor_text": "\"Don't break the rules, or you'll get chain-knuckled!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_020.jpg"
+    },
+    {
+        "name": "Kung Fu Club, Chie",
+        "code": "P4/S01-021",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Sports",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, search your deck for up to one 《Sports》 character, reveal it to your opponent, and put it into your stock. Shuffle your deck afterwards.",
+            "【AUTO】 [(5)] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if your opponent does not have any 【STAND】 characters, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Y'know, for training!",
+        "set": "P4",
+        "release": "01",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_021.jpg"
+    },
+    {
+        "name": "\"The Raging Bull of Destruction\" Shadow Labrys",
+        "code": "P4/S01-022",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Shadow",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, if a card named \"Arrival of Asterius\" is in your climax area, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters on the center stage, and put it into your opponent's clock."
+        ],
+        "flavor_text": "Now, are you ready to die?",
+        "set": "P4",
+        "release": "01",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_022.jpg"
     },
     {
         "name": "Show Biz People, Rise",
@@ -510,442 +782,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_028.jpg"
     },
     {
-        "name": "Promise with Allies, Yukiko",
-        "code": "P4/S01-053",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fan",
-            "Magic"
-        ],
-        "ability": [
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waitimg room. For each climax revealed, choose up to one character in your waiting room and return it to your hand."
-        ],
-        "flavor_text": "Don't worry, we're behind you too.",
-        "set": "P4",
-        "release": "01",
-        "sid": "053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_053.jpg"
-    },
-    {
-        "name": "\"The Bloodcurdling Beefcake Emperor\" Kanji Tatsumi",
-        "code": "P4/S01-054",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Delinquent",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put the top card of your deck into your clock] When a card named \"Bond with Fists\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's cost 0 or lower characters, put it into your opponent's waiting room, and this card gets +3000 power until end of turn."
-        ],
-        "flavor_text": "\"Blooming roses and bulging muscles!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_054.jpg"
-    },
-    {
-        "name": "“The Unconquerable Snow Black” Yukiko Amagi",
-        "code": "P4/S01-055",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Fan",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If the number of other 《Fan》 or 《Japanese Clothes》 characters you have is three or more, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
-        ],
-        "flavor_text": "\"Please escort me to the ring, my prince!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_055.jpg"
-    },
-    {
-        "name": "Yukiko & Konohana Sakuya",
-        "code": "P4/S01-056",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "2",
-        "power": "7000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fan",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 When this card is played from your hand, you may choose one of your cards named \"Yukiko Amagi\", and put it into your waiting room. If you do, you may play this card with 0 cost.",
-            "【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters.",
-            "【AUTO】 When this card is placed on stage from your hand, choose one of your opponent's 【STAND】 characters, and 【REST】 it."
-        ],
-        "flavor_text": "\"I want to run away\"… \"I want someone to save me\"… You're right, those feelings are part of me too.",
-        "set": "P4",
-        "release": "01",
-        "sid": "056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_056.jpg"
-    },
-    {
-        "name": "Full Power Follow Up, Naoto",
-        "code": "P4/S01-074",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Male Impersonator",
-            "Detective"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put this card into your waiting room] When another of your characters is being frontal attacked, you may pay the cost. If you do, return that character to your hand."
-        ],
-        "flavor_text": "Try not to overdo it. There is a limit to how much I can follow up.",
-        "set": "P4",
-        "release": "01",
-        "sid": "074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_074.jpg"
-    },
-    {
-        "name": "Middle of a Long Journey, Elizabeth",
-        "code": "P4/S01-075",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "God"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your hand is five or more, this card gets +2000 power.",
-            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "I now have a wish of my own…",
-        "set": "P4",
-        "release": "01",
-        "sid": "075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_075.jpg"
-    },
-    {
-        "name": "Infinite Possibilities, Naoto",
-        "code": "P4/S01-076",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Male Impersonator",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if a card named \"Megidolaon\" is in your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
-            "【AUTO】 Change [(3) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do so, choose a card named \"Naoto & Yamato Takeru\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "This potential… was still dormant within me…",
-        "set": "P4",
-        "release": "01",
-        "sid": "076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_076.jpg"
-    },
-    {
-        "name": "Paper Thin Teddie",
-        "code": "P4/S01-077",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Shadow",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 [(4)] At the beginning of your opponent's encore step, if this card is on the back stage, you may pay the cost. If you do, all of your characters get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
-        ],
-        "flavor_text": "Wh-What in the world!? Nooo… My fine, silky fur… I was so proud of it! Waaaah…",
-        "set": "P4",
-        "release": "01",
-        "sid": "077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_077.jpg"
-    },
-    {
-        "name": "Naoto Shirogane",
-        "code": "P4/S01-078",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Detective",
-            "Police"
-        ],
-        "ability": [
-            "【AUTO】 When you use this card's \"Backup\", choose one of your characters with 《Police》 or \"Protagonist(主人公)\" in its card name, and that character gets +1000 power until end of turn.",
-            "【ACT】【COUNTER】 Backup 2000 Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
-        ],
-        "flavor_text": "Your \"game\" will soon reach its end…",
-        "set": "P4",
-        "release": "01",
-        "sid": "078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_078.jpg"
-    },
-    {
-        "name": "One who Wields Power, Margaret",
-        "code": "P4/S01-079",
-        "rarity": "R",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "God"
-        ],
-        "ability": [
-            "【AUTO】 [(3)] This ability activates up to one time per turn. When this card attacks, you may pay the cost. If you do, put three cards from the top of your deck into your waiting room. If there is a climax among those cards, put up to one card from the top of your clock into your waiting room. If there is an event among those cards, put all cards in your stock into your waiting room, and 【STAND】 this card."
-        ],
-        "flavor_text": "As the one who rules over power… I will fight with the utmost deference to you.",
-        "set": "P4",
-        "release": "01",
-        "sid": "079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_079.jpg"
-    },
-    {
-        "name": "Nanako Dojima",
-        "code": "P4/S01-006",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "TV",
-            "Junes"
-        ],
-        "ability": [
-            "【AUTO】 Bond／\"Protagonist(P4)\" [(1)] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Protagonist(P4)\" in your waiting room, and return it to your hand.)",
-            "【ACT】 [(1) 【REST】 this card] Choose one of your characters with 《Hero》 or \"Protagonist(主人公)\" in its card name, and that character gets +1 soul until end of turn."
-        ],
-        "flavor_text": "My school's on the way, so… let's go together.",
-        "set": "P4",
-        "release": "01",
-        "sid": "006",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_006.jpg"
-    },
-    {
-        "name": "Liquor Store's Daughter, Saki Konishi",
-        "code": "P4/S01-007",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Junes",
-            "Liquor"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Junes》 characters get +1000 power.",
-            "【CONT】 Alarm When this card is the top card of your clock, all of your 《Junes》 characters get +1000 power."
-        ],
-        "flavor_text": "He doesn't have too many friends, so I hope you two get along good.",
-        "set": "P4",
-        "release": "01",
-        "sid": "007",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_007.jpg"
-    },
-    {
-        "name": "Friendly Siblings, Protagonist & Nanako",
-        "code": "P4/S01-008",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "7000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Junes",
-            "TV"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the level of the character facing this card.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)"
-        ],
-        "flavor_text": "But I'm not lonely… You're here with me.",
-        "set": "P4",
-        "release": "01",
-        "sid": "008",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_008.jpg"
-    },
-    {
-        "name": "Leader, Protagonist",
-        "code": "P4/S01-009",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "8500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Magic",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [(4) Put a climax from your waiting room into your memory] This ability activates up to one time per turn. When this card attacks, if a card named \"Never More\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card."
-        ],
-        "flavor_text": "Margaret: \"Get up. You are not someone allowed to fall here.\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "009",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_009.jpg"
-    },
-    {
-        "name": "Junes",
-        "code": "P4/S01-015",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Search your deck for up to one character with 《Junes》 or \"Protagonist(主人公)\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."
-        ],
-        "flavor_text": "Everyday's great at your Junes♪",
-        "set": "P4",
-        "release": "01",
-        "sid": "015",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_015.jpg"
-    },
-    {
-        "name": "Midnight Channel",
-        "code": "P4/S01-016",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock."
-        ],
-        "flavor_text": "I am thou…, thou art I… thou art the one… who opens the door…",
-        "set": "P4",
-        "release": "01",
-        "sid": "016",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_016.jpg"
-    },
-    {
         "name": "Reliable Prince, Chie",
         "code": "P4/S01-029",
         "rarity": "U",
@@ -1106,575 +942,6 @@
         "release": "01",
         "sid": "034",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_034.jpg"
-    },
-    {
-        "name": "King's Game",
-        "code": "P4/S01-043",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose a character in your clock, return it to your hand, and put the top card of your deck into your clock.",
-            "If your opponent does not have any 【STAND】 characters, put this card into your stock."
-        ],
-        "flavor_text": "Times like this, adults play the King's Game. It's the law… *hic*",
-        "set": "P4",
-        "release": "01",
-        "sid": "043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_043.jpg"
-    },
-    {
-        "name": "Fishing for the River Guardian",
-        "code": "P4/S01-044",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Put the top card of your deck into your stock. Search your stock for up to one character, reveal it to your opponent, and return it to your hand. Shuffle your stock afterwards."
-        ],
-        "flavor_text": ">You caught the Guardian!",
-        "set": "P4",
-        "release": "01",
-        "sid": "044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_044.jpg"
-    },
-    {
-        "name": "Yukiko's Laughing Fits",
-        "code": "P4/S01-057",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Fan",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When your opponent's 【STAND】 character becomes 【REST】, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "I-I can't stop… laugh--\nHeehee! Ohhh, my stomach, ahaha…",
-        "set": "P4",
-        "release": "01",
-        "sid": "057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_057.jpg"
-    },
-    {
-        "name": "Brains of the Station, Adachi",
-        "code": "P4/S01-058",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Police",
-            "Junes"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "We'll hear your story down at the station… Ohh, how I've waited to use that line!",
-        "set": "P4",
-        "release": "01",
-        "sid": "058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_058.jpg"
-    },
-    {
-        "name": "Totally Wrong, Miss Kanji",
-        "code": "P4/S01-059",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Delinquent",
-            "Female Impersonator"
-        ],
-        "ability": [
-            "【AUTO】 [(3)] When you use this card's \"Backup\", you may pay the cost. If you do so, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500 Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
-        ],
-        "flavor_text": "She's a runaway express train who's Inaba born and bred, and can kill with both her fists and her looks!",
-        "set": "P4",
-        "release": "01",
-        "sid": "059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_059.jpg"
-    },
-    {
-        "name": "Inedible Curry",
-        "code": "P4/S01-066",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.",
-            "If your opponent has no 【STAND】 characters, you may choose a card in your opponent's waiting room, and put it on the top of your opponent's deck."
-        ],
-        "flavor_text": "Curry's supposed to be like \"really spicy\" or \"kinda mild\"! This just stinks!",
-        "set": "P4",
-        "release": "01",
-        "sid": "066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_066.jpg"
-    },
-    {
-        "name": "One Strike",
-        "code": "P4/S01-067",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, and deal one damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Rise: \"Y-Yukiko!?\"\nKanji: \"Sure enough… One strike.\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_067.jpg"
-    },
-    {
-        "name": "It's my turn!",
-        "code": "P4/S01-068",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, choose one of your opponent's level 2 or lower characters on the center stage, and put it into your opponent's waiting room."
-        ],
-        "flavor_text": "Here goes, Persona!",
-        "set": "P4",
-        "release": "01",
-        "sid": "068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_068.jpg"
-    },
-    {
-        "name": "Detective Prince, Naoto",
-        "code": "P4/S01-080",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Male Impersonator",
-            "Detective"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Male Impersonator》 or 《Female Impersonator》 characters get +500 power.",
-            "【AUTO】 This ability activates up to three times per turn. When your other 《Male Impersonator》 or 《Female Impersonator》 character is placed on stage from hand, choose one of your characters, and that character gets +500 power until end of turn."
-        ],
-        "flavor_text": "My name is Naoto Shirogane. I'm investigating the multiple murders that have occurred here.",
-        "set": "P4",
-        "release": "01",
-        "sid": "080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_080.jpg"
-    },
-    {
-        "name": "Teddie in Yukata",
-        "code": "P4/S01-081",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Shadow",
-            "Japanese Clothes"
-        ],
-        "ability": [
-            "【CONT】 During your opponent's turn, all of your other characters get +500 power.",
-            "【AUTO】 This ability activates up to three times per turn. When you play an event, choose one of your characters, and that character gets power +1000 until end of turn."
-        ],
-        "flavor_text": "A couple walking together at a festival… Unused to wearing it, the girl's yukata comes loose… Summer has begun.",
-        "set": "P4",
-        "release": "01",
-        "sid": "081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_081.jpg"
-    },
-    {
-        "name": "\"The Beast in Heat\" Teddie",
-        "code": "P4/S01-082",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Shadow",
-            "Animal"
-        ],
-        "ability": [
-            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】."
-        ],
-        "flavor_text": "\"The void that swallows all!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_082.jpg"
-    },
-    {
-        "name": "\"Assertion of Youth\" Teddie",
-        "code": "P4/S01-083",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Shadow",
-            "Rose"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards."
-        ],
-        "flavor_text": "The splattering fruit juice! Bursts of joy! One night of love… The bitter sweetness of those days is the essence of youth!!",
-        "set": "P4",
-        "release": "01",
-        "sid": "083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_083.jpg"
-    },
-    {
-        "name": "Companion on a Journey, Margaret",
-        "code": "P4/S01-084",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Gag",
-            "Book"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.",
-            "【AUTO】 [(1)] When this card is placed on stage from hand, you may pay the cost. If you do, choose a card named \"Aria of the Soul\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Hence, Block Fro……… I didn't mispronounce it.",
-        "set": "P4",
-        "release": "01",
-        "sid": "084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_084.jpg"
-    },
-    {
-        "name": "Undercover Investigation, Naoto",
-        "code": "P4/S01-085",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Male Impersonator",
-            "Detective"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power or each of your other 《Male Impersonator》 or 《Female Impersonator》 characters.",
-            "【AUTO】 [(1)]: When this card attacks, if a card named \"Charging into the Announcement Room!\" is in your climax area, you may pay the cost. If you do, draw two cards, choose a card in your hand, put it into your waiting room, and this card gets +1000 power until end of turn."
-        ],
-        "flavor_text": "I will stop her... no matter what!",
-        "set": "P4",
-        "release": "01",
-        "sid": "085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_085.jpg"
-    },
-    {
-        "name": "Aria of the Soul",
-        "code": "P4/S01-095",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your characters, and until end of turn that character gets +3000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\""
-        ],
-        "flavor_text": "Welcome… to the Velvet Room.",
-        "set": "P4",
-        "release": "01",
-        "sid": "095",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_095.jpg"
-    },
-    {
-        "name": "Maggie's Tarot Reading",
-        "code": "P4/S01-096",
-        "rarity": "U",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "3",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 Your opponent may choose one of your characters, and return that character to your hand. Choose one of your opponent's characters, and 【REST】 it."
-        ],
-        "flavor_text": "Ai: \"I challenge you read one fortune, no time limit! If I win, which I will, I'm going to destroy this stand!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_096.jpg"
-    },
-    {
-        "name": "Signs of a Family, Dojima",
-        "code": "P4/S01-010",
-        "rarity": "C",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Police",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 Bond／\"Friendly Siblings, Protagonist & Nanako\" [(1)] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Friendly Siblings, Protagonist & Nanako\" in your waiting room, and return it to your hand.)",
-            "【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn."
-        ],
-        "flavor_text": "So, I'll fill yours and Nanako's mugs anytime.",
-        "set": "P4",
-        "release": "01",
-        "sid": "010",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_010.jpg"
-    },
-    {
-        "name": "Declaration of Marriage, Nanako",
-        "code": "P4/S01-011",
-        "rarity": "C",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Junes",
-            "TV"
-        ],
-        "ability": [
-            "【CONT】 All of your other characters with 《Brave》 or \"Protagonist(主人公)\" in its card name get +500 power.",
-            "【ACT】 [【REST】 this card] Choose one of your characters named \"Protagonist & Izanagi-no-Okami\", and that character gets +1 soul until end of turn."
-        ],
-        "flavor_text": "When I grow up, I want to marry you, Big Bro.",
-        "set": "P4",
-        "release": "01",
-        "sid": "011",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_011.jpg"
-    },
-    {
-        "name": "WILD Power, Protagonist",
-        "code": "P4/S01-012",
-        "rarity": "C",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Magic",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, choose another character, and that character gets +1 level until end of turn.",
-            "【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Protagonist & Izanagi-no-Okami\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Teddie: \"I'm sure together, we can do things that no one could do alone…\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "012",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_012.jpg"
-    },
-    {
-        "name": "Prince of Disappointment, Yosuke",
-        "code": "P4/S01-013",
-        "rarity": "C",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Junes",
-            "Female Impersonator"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your deck into your waiting room. If you do, choose another of your characters with 《Junes》, for each 【SOUL】 trigger icon on the card put into your waiting room, that character gets +1 soul until end of turn."
-        ],
-        "flavor_text": "An eloquent heiress of the noble Junes, she's pure disappointment from the moment she opens her mouth!",
-        "set": "P4",
-        "release": "01",
-        "sid": "013",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_013.jpg"
-    },
-    {
-        "name": "Ryotaro Dojima",
-        "code": "P4/S01-014",
-        "rarity": "C",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Police",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on stage from your hand, choose one of your characters with 《Brave》 or \"Protagonist(主人公)\" in its card name, and that character gets +3000 power and +1 soul until end of turn.",
-            "【AUTO】 At the end of your turn, if you have a character in your memory, return this card to your hand."
-        ],
-        "flavor_text": "So long as you're here, you're part of the family, so make yourself at home.",
-        "set": "P4",
-        "release": "01",
-        "sid": "014",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_014.jpg"
     },
     {
         "name": "Unit #024",
@@ -1897,6 +1164,485 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_042.jpg"
     },
     {
+        "name": "King's Game",
+        "code": "P4/S01-043",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose a character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+            "If your opponent does not have any 【STAND】 characters, put this card into your stock."
+        ],
+        "flavor_text": "Times like this, adults play the King's Game. It's the law… *hic*",
+        "set": "P4",
+        "release": "01",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_043.jpg"
+    },
+    {
+        "name": "Fishing for the River Guardian",
+        "code": "P4/S01-044",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put the top card of your deck into your stock. Search your stock for up to one character, reveal it to your opponent, and return it to your hand. Shuffle your stock afterwards."
+        ],
+        "flavor_text": ">You caught the Guardian!",
+        "set": "P4",
+        "release": "01",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_044.jpg"
+    },
+    {
+        "name": "Labrys's Wrath",
+        "code": "P4/S01-045",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "I made her a promise!",
+        "set": "P4",
+        "release": "01",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_045.jpg"
+    },
+    {
+        "name": "Arrival of Asterius",
+        "code": "P4/S01-046",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Shadow Labrys: \"Now, I can be myself!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_046.jpg"
+    },
+    {
+        "name": "God's Hand",
+        "code": "P4/S01-047",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Go, Suzuka Gongen!",
+        "set": "P4",
+        "release": "01",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_047.jpg"
+    },
+    {
+        "name": "Full Analysis",
+        "code": "P4/S01-048",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "That was so cool!",
+        "set": "P4",
+        "release": "01",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_048.jpg"
+    },
+    {
+        "name": "Chie's Pursuit",
+        "code": "P4/S01-049",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Ooh ooh! Can I have this one?",
+        "set": "P4",
+        "release": "01",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_049.jpg"
+    },
+    {
+        "name": "Active Teen Idol",
+        "code": "P4/S01-050",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +3 soul until end of turn."
+        ],
+        "flavor_text": "You've come so far, that makes Risette sooo happy!",
+        "set": "P4",
+        "release": "01",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_050.jpg"
+    },
+    {
+        "name": "Yukiko in Yukata",
+        "code": "P4/S01-051",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fan",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Fan》 or 《Japanese Clothes》 characters get +1000 power.",
+            "【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Young Okami, Yukiko\" in your waiting room, and put it on the stage position that this card was on.",
+            "【ACT】 [【REST】 this card] Choose one of your opponent's 【STAND】 characters, and 【REST】 it."
+        ],
+        "flavor_text": "Oh, n-not at all. You're probably just used to seeing me in one…",
+        "set": "P4",
+        "release": "01",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_051.jpg"
+    },
+    {
+        "name": "Young Okami, Yukiko",
+        "code": "P4/S01-052",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fan",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If the revealed card is a 《Fan》 or 《Japanese Clothes》 character, deal one damage to your opponent.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Then… we'll always be together…",
+        "set": "P4",
+        "release": "01",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_052.jpg"
+    },
+    {
+        "name": "Promise with Allies, Yukiko",
+        "code": "P4/S01-053",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fan",
+            "Magic"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waitimg room. For each climax revealed, choose up to one character in your waiting room and return it to your hand."
+        ],
+        "flavor_text": "Don't worry, we're behind you too.",
+        "set": "P4",
+        "release": "01",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_053.jpg"
+    },
+    {
+        "name": "\"The Bloodcurdling Beefcake Emperor\" Kanji Tatsumi",
+        "code": "P4/S01-054",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Delinquent",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When a card named \"Bond with Fists\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's cost 0 or lower characters, put it into your opponent's waiting room, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "\"Blooming roses and bulging muscles!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_054.jpg"
+    },
+    {
+        "name": "“The Unconquerable Snow Black” Yukiko Amagi",
+        "code": "P4/S01-055",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Fan",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Fan》 or 《Japanese Clothes》 characters you have is three or more, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "\"Please escort me to the ring, my prince!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_055.jpg"
+    },
+    {
+        "name": "Yukiko & Konohana Sakuya",
+        "code": "P4/S01-056",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fan",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 When this card is played from your hand, you may choose one of your cards named \"Yukiko Amagi\", and put it into your waiting room. If you do, you may play this card with 0 cost.",
+            "【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters.",
+            "【AUTO】 When this card is placed on stage from your hand, choose one of your opponent's 【STAND】 characters, and 【REST】 it."
+        ],
+        "flavor_text": "\"I want to run away\"… \"I want someone to save me\"… You're right, those feelings are part of me too.",
+        "set": "P4",
+        "release": "01",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_056.jpg"
+    },
+    {
+        "name": "Yukiko's Laughing Fits",
+        "code": "P4/S01-057",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Fan",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When your opponent's 【STAND】 character becomes 【REST】, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I-I can't stop… laugh--\nHeehee! Ohhh, my stomach, ahaha…",
+        "set": "P4",
+        "release": "01",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_057.jpg"
+    },
+    {
+        "name": "Brains of the Station, Adachi",
+        "code": "P4/S01-058",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Police",
+            "Junes"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "We'll hear your story down at the station… Ohh, how I've waited to use that line!",
+        "set": "P4",
+        "release": "01",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_058.jpg"
+    },
+    {
+        "name": "Totally Wrong, Miss Kanji",
+        "code": "P4/S01-059",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Delinquent",
+            "Female Impersonator"
+        ],
+        "ability": [
+            "【AUTO】 [(3)] When you use this card's \"Backup\", you may pay the cost. If you do so, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500 Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)"
+        ],
+        "flavor_text": "She's a runaway express train who's Inaba born and bred, and can kill with both her fists and her looks!",
+        "set": "P4",
+        "release": "01",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_059.jpg"
+    },
+    {
         "name": "Reliable Princess, Yukiko",
         "code": "P4/S01-060",
         "rarity": "C",
@@ -2058,6 +1804,556 @@
         "release": "01",
         "sid": "065",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_065.jpg"
+    },
+    {
+        "name": "Inedible Curry",
+        "code": "P4/S01-066",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.",
+            "If your opponent has no 【STAND】 characters, you may choose a card in your opponent's waiting room, and put it on the top of your opponent's deck."
+        ],
+        "flavor_text": "Curry's supposed to be like \"really spicy\" or \"kinda mild\"! This just stinks!",
+        "set": "P4",
+        "release": "01",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_066.jpg"
+    },
+    {
+        "name": "One Strike",
+        "code": "P4/S01-067",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, and deal one damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Rise: \"Y-Yukiko!?\"\nKanji: \"Sure enough… One strike.\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_067.jpg"
+    },
+    {
+        "name": "It's my turn!",
+        "code": "P4/S01-068",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, choose one of your opponent's level 2 or lower characters on the center stage, and put it into your opponent's waiting room."
+        ],
+        "flavor_text": "Here goes, Persona!",
+        "set": "P4",
+        "release": "01",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_068.jpg"
+    },
+    {
+        "name": "Scoring a Hot Stud",
+        "code": "P4/S01-069",
+        "rarity": "CR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "( 【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Tonight, Princess Yukiko has a big surprise, I'm going to score myself a hot stud.",
+        "set": "P4",
+        "release": "01",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_069.jpg"
+    },
+    {
+        "name": "Will of the World",
+        "code": "P4/S01-070",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "The world is about to change, your existence won't belong here.",
+        "set": "P4",
+        "release": "01",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_070.jpg"
+    },
+    {
+        "name": "Bond with Fists",
+        "code": "P4/S01-071",
+        "rarity": "CC",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SALVAGE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "( 【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "If you're really me, you should already know... Fists never lie!",
+        "set": "P4",
+        "release": "01",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_071.jpg"
+    },
+    {
+        "name": "Naoto & Yamato Takeru",
+        "code": "P4/S01-072",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Male Impersonator",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, put the top card of your deck into your waiting room. If that card is a 《Male Impersonator》 or 《Female Impersonator》 character, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Now is the time! Let's go!",
+        "set": "P4",
+        "release": "01",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_072.jpg"
+    },
+    {
+        "name": "\"The 2000-IQ Killjoy Detective\" Naoto Shirogane",
+        "code": "P4/S01-073",
+        "rarity": "RR",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Male Impersonator",
+            "Detective"
+        ],
+        "ability": [
+            "【CONT】 If the number of other 《Male Impersonator》 or 《Female Impersonator》 characters you have is three or more, this card gets +1000 power and the following ability. \"【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may draw a card.\"",
+            "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand and put it into your waiting room."
+        ],
+        "flavor_text": "\"The body of a child, the brain of a genius!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_073.jpg"
+    },
+    {
+        "name": "Full Power Follow Up, Naoto",
+        "code": "P4/S01-074",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Male Impersonator",
+            "Detective"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your waiting room] When another of your characters is being frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "Try not to overdo it. There is a limit to how much I can follow up.",
+        "set": "P4",
+        "release": "01",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_074.jpg"
+    },
+    {
+        "name": "Middle of a Long Journey, Elizabeth",
+        "code": "P4/S01-075",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Magic",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your hand is five or more, this card gets +2000 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "I now have a wish of my own…",
+        "set": "P4",
+        "release": "01",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_075.jpg"
+    },
+    {
+        "name": "Infinite Possibilities, Naoto",
+        "code": "P4/S01-076",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Male Impersonator",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if a card named \"Megidolaon\" is in your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
+            "【AUTO】 Change [(3) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do so, choose a card named \"Naoto & Yamato Takeru\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "This potential… was still dormant within me…",
+        "set": "P4",
+        "release": "01",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_076.jpg"
+    },
+    {
+        "name": "Paper Thin Teddie",
+        "code": "P4/S01-077",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Shadow",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 [(4)] At the beginning of your opponent's encore step, if this card is on the back stage, you may pay the cost. If you do, all of your characters get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
+        ],
+        "flavor_text": "Wh-What in the world!? Nooo… My fine, silky fur… I was so proud of it! Waaaah…",
+        "set": "P4",
+        "release": "01",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_077.jpg"
+    },
+    {
+        "name": "Naoto Shirogane",
+        "code": "P4/S01-078",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Detective",
+            "Police"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose one of your characters with 《Police》 or \"Protagonist(主人公)\" in its card name, and that character gets +1000 power until end of turn.",
+            "【ACT】【COUNTER】 Backup 2000 Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)"
+        ],
+        "flavor_text": "Your \"game\" will soon reach its end…",
+        "set": "P4",
+        "release": "01",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_078.jpg"
+    },
+    {
+        "name": "One who Wields Power, Margaret",
+        "code": "P4/S01-079",
+        "rarity": "R",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Magic",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [(3)] This ability activates up to one time per turn. When this card attacks, you may pay the cost. If you do, put three cards from the top of your deck into your waiting room. If there is a climax among those cards, put up to one card from the top of your clock into your waiting room. If there is an event among those cards, put all cards in your stock into your waiting room, and 【STAND】 this card."
+        ],
+        "flavor_text": "As the one who rules over power… I will fight with the utmost deference to you.",
+        "set": "P4",
+        "release": "01",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_079.jpg"
+    },
+    {
+        "name": "Detective Prince, Naoto",
+        "code": "P4/S01-080",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Male Impersonator",
+            "Detective"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Male Impersonator》 or 《Female Impersonator》 characters get +500 power.",
+            "【AUTO】 This ability activates up to three times per turn. When your other 《Male Impersonator》 or 《Female Impersonator》 character is placed on stage from hand, choose one of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "My name is Naoto Shirogane. I'm investigating the multiple murders that have occurred here.",
+        "set": "P4",
+        "release": "01",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_080.jpg"
+    },
+    {
+        "name": "Teddie in Yukata",
+        "code": "P4/S01-081",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Shadow",
+            "Japanese Clothes"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other characters get +500 power.",
+            "【AUTO】 This ability activates up to three times per turn. When you play an event, choose one of your characters, and that character gets power +1000 until end of turn."
+        ],
+        "flavor_text": "A couple walking together at a festival… Unused to wearing it, the girl's yukata comes loose… Summer has begun.",
+        "set": "P4",
+        "release": "01",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_081.jpg"
+    },
+    {
+        "name": "\"The Beast in Heat\" Teddie",
+        "code": "P4/S01-082",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Shadow",
+            "Animal"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】."
+        ],
+        "flavor_text": "\"The void that swallows all!\"",
+        "set": "P4",
+        "release": "01",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_082.jpg"
+    },
+    {
+        "name": "\"Assertion of Youth\" Teddie",
+        "code": "P4/S01-083",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Shadow",
+            "Rose"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards."
+        ],
+        "flavor_text": "The splattering fruit juice! Bursts of joy! One night of love… The bitter sweetness of those days is the essence of youth!!",
+        "set": "P4",
+        "release": "01",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_083.jpg"
+    },
+    {
+        "name": "Companion on a Journey, Margaret",
+        "code": "P4/S01-084",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Gag",
+            "Book"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.",
+            "【AUTO】 [(1)] When this card is placed on stage from hand, you may pay the cost. If you do, choose a card named \"Aria of the Soul\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Hence, Block Fro……… I didn't mispronounce it.",
+        "set": "P4",
+        "release": "01",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_084.jpg"
+    },
+    {
+        "name": "Undercover Investigation, Naoto",
+        "code": "P4/S01-085",
+        "rarity": "U",
+        "expansion": "Persona 4 ver.E",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Male Impersonator",
+            "Detective"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power or each of your other 《Male Impersonator》 or 《Female Impersonator》 characters.",
+            "【AUTO】 [(1)]: When this card attacks, if a card named \"Charging into the Announcement Room!\" is in your climax area, you may pay the cost. If you do, draw two cards, choose a card in your hand, put it into your waiting room, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I will stop her... no matter what!",
+        "set": "P4",
+        "release": "01",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_085.jpg"
     },
     {
         "name": "Teddie",
@@ -2311,178 +2607,56 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_094.jpg"
     },
     {
-        "name": "Myriad Truths",
-        "code": "P4/S01-017",
-        "rarity": "CR",
+        "name": "Aria of the Soul",
+        "code": "P4/S01-095",
+        "rarity": "U",
         "expansion": "Persona 4 ver.E",
         "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +2 soul."
+            "Choose one of your characters, and until end of turn that character gets +3000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\""
         ],
-        "flavor_text": "Dispelling Thousand Curses, an ultimate mantra to define the truth.",
+        "flavor_text": "Welcome… to the Velvet Room.",
         "set": "P4",
         "release": "01",
-        "sid": "017",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_017.jpg"
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_095.jpg"
     },
     {
-        "name": "Labrys's Wrath",
-        "code": "P4/S01-045",
-        "rarity": "CR",
+        "name": "Maggie's Tarot Reading",
+        "code": "P4/S01-096",
+        "rarity": "U",
         "expansion": "Persona 4 ver.E",
         "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "3",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +2 soul."
+            "【COUNTER】 Your opponent may choose one of your characters, and return that character to your hand. Choose one of your opponent's characters, and 【REST】 it."
         ],
-        "flavor_text": "I made her a promise!",
+        "flavor_text": "Ai: \"I challenge you read one fortune, no time limit! If I win, which I will, I'm going to destroy this stand!\"",
         "set": "P4",
         "release": "01",
-        "sid": "045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_045.jpg"
-    },
-    {
-        "name": "Arrival of Asterius",
-        "code": "P4/S01-046",
-        "rarity": "CR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Shadow Labrys: \"Now, I can be myself!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_046.jpg"
-    },
-    {
-        "name": "God's Hand",
-        "code": "P4/S01-047",
-        "rarity": "CR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)"
-        ],
-        "flavor_text": "Go, Suzuka Gongen!",
-        "set": "P4",
-        "release": "01",
-        "sid": "047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_047.jpg"
-    },
-    {
-        "name": "Full Analysis",
-        "code": "P4/S01-048",
-        "rarity": "CR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "That was so cool!",
-        "set": "P4",
-        "release": "01",
-        "sid": "048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_048.jpg"
-    },
-    {
-        "name": "Scoring a Hot Stud",
-        "code": "P4/S01-069",
-        "rarity": "CR",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "( 【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Tonight, Princess Yukiko has a big surprise, I'm going to score myself a hot stud.",
-        "set": "P4",
-        "release": "01",
-        "sid": "069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_069.jpg"
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_096.jpg"
     },
     {
         "name": "Megidolaon",
@@ -2505,7 +2679,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "Come, Yamato Takeru!",
         "set": "P4",
@@ -2541,180 +2715,6 @@
         "release": "01",
         "sid": "098",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_098.jpg"
-    },
-    {
-        "name": "Emerged Izanagi",
-        "code": "P4/S01-018",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "I am thou…, thou art I… open thine eyes and call forth what is within.",
-        "set": "P4",
-        "release": "01",
-        "sid": "018",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_018.jpg"
-    },
-    {
-        "name": "Never More",
-        "code": "P4/S01-019",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Yosuke: \"Distance doesn't matter to us! Even if we are separated, we are still friends-!\"",
-        "set": "P4",
-        "release": "01",
-        "sid": "019",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_019.jpg"
-    },
-    {
-        "name": "Chie's Pursuit",
-        "code": "P4/S01-049",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "Ooh ooh! Can I have this one?",
-        "set": "P4",
-        "release": "01",
-        "sid": "049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_049.jpg"
-    },
-    {
-        "name": "Active Teen Idol",
-        "code": "P4/S01-050",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +3 soul until end of turn."
-        ],
-        "flavor_text": "You've come so far, that makes Risette sooo happy!",
-        "set": "P4",
-        "release": "01",
-        "sid": "050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_050.jpg"
-    },
-    {
-        "name": "Will of the World",
-        "code": "P4/S01-070",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "The world is about to change, your existence won't belong here.",
-        "set": "P4",
-        "release": "01",
-        "sid": "070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_070.jpg"
-    },
-    {
-        "name": "Bond with Fists",
-        "code": "P4/S01-071",
-        "rarity": "CC",
-        "expansion": "Persona 4 ver.E",
-        "side": "S",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SALVAGE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "( 【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "If you're really me, you should already know... Fists never lie!",
-        "set": "P4",
-        "release": "01",
-        "sid": "071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_P4EN_S01_071.jpg"
     },
     {
         "name": "Charging into the Announcement Room!",
@@ -3102,7 +3102,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "（【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.）"
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
         ],
         "flavor_text": "Let's go, Susano-O!",
         "set": "P4",

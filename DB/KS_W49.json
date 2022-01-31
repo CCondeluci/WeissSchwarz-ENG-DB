@@ -61,181 +61,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E002.png"
     },
     {
-        "name": "“Crimson Demon” Megumin",
-        "code": "KS/W49-E034",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to one of your opponent's level X or lower characters, and put it into his or her waiting room. X is equal to that card's level. (Climax are regarded as level 0)",
-            "【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] At the beginning of your encore step, if a card named \"Explosion Magic\" is in your climax area, and you have another card named \"“Lots of Anxiety” Kazuma\", and this card is in your center stage, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Show me thine resolve to peer into the ultimate abyss with me.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E034.png"
-    },
-    {
-        "name": "Megumin",
-        "code": "KS/W49-E035",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
-            "【AUTO】 【CXCOMBO】 [(1)] At the beginning of your attack phase, if a card named \"Real Explosion Magic\" is in your climax area, and this card is 【STAND】in your center stage, you may pay the cost. If you do, deal four damage to your opponent, choose a level 3 or lower character facing this card, put it into your opponent's clock, and 【REST】 this card. (This damage may be canceled)"
-        ],
-        "flavor_text": "I'll show you what real explosion magic is!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E035.png"
-    },
-    {
-        "name": "“Lich” Wiz",
-        "code": "KS/W49-E036",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "11000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Death",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 When this card is placed on the stage from your hand, your opponent may choose a cost 0 or lower character in your opponent's waiting room, and put it on any position of his or her stage."
-        ],
-        "flavor_text": "I still have something I need to do……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E036.png"
-    },
-    {
-        "name": "“Troublemaker” Aqua",
-        "code": "KS/W49-E071",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of your center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
-            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one cost 0 or lower character in your waiting room, and put it on separate positions of your stage."
-        ],
-        "flavor_text": "Hey, what's all the commotion?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E071",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E071.png"
-    },
-    {
-        "name": "“Blessed With Kind Encounters” Eris",
-        "code": "KS/W49-E072",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Goddess",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If a card named \"“Significance of Killing Snow Sprites?” Aqua\" is in your clock, this card gets -1 level while in your hand.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may choose an《Adventurer》 or 《Goddess》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When your character in the middle position of your center stage attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, 【STAND】 this card. (The revealed card is returned to its original place)"
-        ],
-        "flavor_text": "……after you've been reborn, may you be blessed once more with kind encounters……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E072.png"
-    },
-    {
-        "name": "Aqua",
-        "code": "KS/W49-E073",
-        "rarity": "RR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.",
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses two climax in your opponent's waiting room, returns all cards in your opponent's waiting room except those cards into your opponent's deck, and your opponent shuffles his or her deck.",
-            "【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When a card named \"Resurrection\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose an 《Adventurer》 or 《Goddess》 character in your clock, and put it on any position of your stage."
-        ],
-        "flavor_text": "Feel the power of a goddess!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E073.png"
-    },
-    {
         "name": "Kazuma",
         "code": "KS/W49-E003",
         "rarity": "R",
@@ -395,383 +220,6 @@
         "release": "49",
         "sid": "E008",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E008.png"
-    },
-    {
-        "name": "“Board Game” Megumin",
-        "code": "KS/W49-E037",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose an 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.",
-            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
-        ],
-        "flavor_text": "Heh heh heh.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E037.png"
-    },
-    {
-        "name": "“Knowledge of Learning A Skill” Megumin",
-        "code": "KS/W49-E038",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "If you use your points on that entry, you'll finish learning it.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E038.png"
-    },
-    {
-        "name": "“Polite” Yunyun",
-        "code": "KS/W49-E039",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other characters, this card gets +2000 power.",
-            "【AUTO】 Bond/\"Megumin\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Megumin\" in your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Thank you.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E039.png"
-    },
-    {
-        "name": "“Nuisance” Megumin",
-        "code": "KS/W49-E040",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Magic》 character from among them, reveal it to your opponent,put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E040.png"
-    },
-    {
-        "name": "“Pouring Tea” Wiz",
-        "code": "KS/W49-E041",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Death",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Kazuma: \"Her name is Wiz. She may look like an ordinary human, but she's actually a lich.\"",
-        "set": "KS",
-        "release": "49",
-        "sid": "E041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E041.png"
-    },
-    {
-        "name": "“Nice Explosion!” Megumin",
-        "code": "KS/W49-E042",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
-            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
-        ],
-        "flavor_text": "You've come to understand the path of explosions, Kazuma…… How about it? Why not learn explosion magic for real?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E042.png"
-    },
-    {
-        "name": "“Can't Say It Straight” Yunyun",
-        "code": "KS/W49-E043",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Megumin's Rival\" is in your climax area, and you have another character with \"Megumin(めぐみん)\" in its card name, look at up to four cards from the top of your deck, choose up to one 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "I-I……have……friends, too……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E043.png"
-    },
-    {
-        "name": "“Concurrent Strike!!” Wiz",
-        "code": "KS/W49-E044",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Death",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 【CXCOMBO】 [(1) Put two cards from your hand into your waiting room] At the beginning of your attack phase, if a card named \"Real Explosion Magic\" is in your climax area, and you have another card named \"Megumin\", you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
-        ],
-        "flavor_text": "Megumin, launch a concurrent strike!!……!?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E044",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E044.png"
-    },
-    {
-        "name": "“Gentle Goddess” Eris",
-        "code": "KS/W49-E074",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Goddess",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Goddess》 characters, and that character gets +1000 power until end of turn.",
-            "【AUTO】 [Return this card to your hand] When a climax is put on your climax area, you may pay the cost. If you do, draw a card, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "Your life in this world……is now over……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E074.png"
-    },
-    {
-        "name": "“Significance of Killing Snow Sprites?” Aqua",
-        "code": "KS/W49-E075",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 [Put a card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Goddess》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "You lived in Japan, so I'm sure you've at least heard the name in the news and weather forecasts?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E075.png"
-    },
-    {
-        "name": "“Gentle Smile” Eris",
-        "code": "KS/W49-E076",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Goddess",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 When a card named \"Revival\" is placed on your climax area, if this card is in your center stage, and you have another 《Goddess》 character, you may choose a cost 0 or lower 《Adventurer》 or 《Goddess》 character in your waiting room, and put it on any position of your stage."
-        ],
-        "flavor_text": "-",
-        "set": "KS",
-        "release": "49",
-        "sid": "E076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E076.png"
-    },
-    {
-        "name": "“Sacred Create Water” Aqua",
-        "code": "KS/W49-E077",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one 《Adventurer》 or 《Goddess》 character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
-        ],
-        "flavor_text": "\"Sacred Create Water\"",
-        "set": "KS",
-        "release": "49",
-        "sid": "E077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E077.png"
-    },
-    {
-        "name": "“Sacred Turn Undead” Aqua",
-        "code": "KS/W49-E078",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
-            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory."
-        ],
-        "flavor_text": "\"Sacred Turn Undead\"!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E078.png"
-    },
-    {
-        "name": "“Being Shy” Eris",
-        "code": "KS/W49-E079",
-        "rarity": "R",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Goddess",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room with level lower than or equal to your level, and put it on any position of your stage.",
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character on the bottom of your opponent's deck."
-        ],
-        "flavor_text": "Kazuma: \"I don't mind if they're pads.\"",
-        "set": "KS",
-        "release": "49",
-        "sid": "E079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E079.png"
     },
     {
         "name": "“Decide What They Were Worth on My Own” Chris",
@@ -964,573 +412,6 @@
         "release": "49",
         "sid": "E015",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E015.png"
-    },
-    {
-        "name": "Freeze",
-        "code": "KS/W49-E028",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If your level is 2 or lower and your opponent's level is 1 or lower, you may choose three cards in your hand, and put them into your waiting room. If you do, put this card into your level, and you get one more turn."
-        ],
-        "flavor_text": "I messed up!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E028.png"
-    },
-    {
-        "name": "Tremble With Pleasure",
-        "code": "KS/W49-E029",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Put this card into your memory.",
-            "【AUTO】 Memory [Put this card into your waiting room] When the damage you received is not canceled, if this card is in your memory, and the damage is three or more, you may pay the cost. If you do, search your deck for up to two 《Worries》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your stock, and shuffle your deck."
-        ],
-        "flavor_text": "Mm……!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E029.png"
-    },
-    {
-        "name": "“Highly-skilled Arch Wizard” Wiz",
-        "code": "KS/W49-E045",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Death",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 【CLOCK】 Alarm [Put a card from your hand into your waiting room] If this card is the top card of your clock, at the beginning of your climax phase, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "At this rate, the city will become a sea of flames!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E045",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E045.png"
-    },
-    {
-        "name": "“Involving Megumin” Yunyun",
-        "code": "KS/W49-E046",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 All of your other cards named \"“Marbled Red Crab” Megumin\" get +1000 power.",
-            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "I'll take on that duel. I won't lose to Megumin again!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E046",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E046.png"
-    },
-    {
-        "name": "“Shaken” Megumin",
-        "code": "KS/W49-E047",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put two cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
-            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
-        ],
-        "flavor_text": "!?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E047",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E047.png"
-    },
-    {
-        "name": "“Awfully Reserved Today” Megumin",
-        "code": "KS/W49-E048",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Experience If a card named \"Keeps Firing Explosion Magic Every Single Day!\" is in your level, this card gets +2000 power and +1 soul.",
-            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Keeps Firing Explosion Magic Every Single Day!\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Huh?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E048",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E048.png"
-    },
-    {
-        "name": "“Town Celebrity” Wiz",
-        "code": "KS/W49-E049",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Death",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If this card is on the stage, this card gets -1 level and 《Adventurer》.",
-            "【CONT】 The character facing this card gets \"【AUTO】 Encore [Put the top card of your deck into your clock]\"."
-        ],
-        "flavor_text": "I'm a qualified adventurer, so I've come to help……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E049",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E049.png"
-    },
-    {
-        "name": "“Fear of Dolls” Megumin",
-        "code": "KS/W49-E050",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +3000 power until end of turn.",
-            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. Deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)"
-        ],
-        "flavor_text": "So, um, I was going to have Aqua protect me……and thought we could……go to the bathroom together……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E050",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E050.png"
-    },
-    {
-        "name": "“Calling for Teacher” Megumin",
-        "code": "KS/W49-E051",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
-            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Teacher! If you would!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E051",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E051.png"
-    },
-    {
-        "name": "Keeps Firing Explosion Magic Every Single Day!",
-        "code": "KS/W49-E064",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If your level is 2 or lower and your opponent's level is 1 or lower, you may choose a 《Magic》 character in your hand, and put it into your waiting room. If you do, put this card into your level, and perform the following action six times. \"Deal one damage to your opponent.\" (This damage may be canceled)"
-        ],
-        "flavor_text": "Explosion!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E064.png"
-    },
-    {
-        "name": "Drain Touch",
-        "code": "KS/W49-E065",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Wiz(ウィズ)\" or \"Kazuma(カズマ)\" in its card name, this card cannot be played from your hand.",
-            "You may choose one of your opponent's level 1 or lower characters, and put it into your opponent's waiting room. If you do, your opponent chooses up to one level 0 or lower character in his or her waiting room, and puts it on the stage position that character was on.",
-            "Put this card into your stock."
-        ],
-        "flavor_text": "I'm sorry! Drain Touch-!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E065.png"
-    },
-    {
-        "name": "Destroyer Alert!",
-        "code": "KS/W49-E066",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "3",
-        "cost": "9",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Return all of your opponent's level 3 or lower characters to your opponent's deck, and your opponent shuffles his or her deck. Put this card into your clock."
-        ],
-        "flavor_text": "Emergency Quest -Kill the Destroyer-",
-        "set": "KS",
-        "release": "49",
-        "sid": "E066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E066.png"
-    },
-    {
-        "name": "“Covered in Snot” Aqua",
-        "code": "KS/W49-E080",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top two cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)"
-        ],
-        "flavor_text": "Thank you…… Kazuma……",
-        "set": "KS",
-        "release": "49",
-        "sid": "E080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E080.png"
-    },
-    {
-        "name": "“Full of Smiles” Aqua",
-        "code": "KS/W49-E081",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Adventurer》 or 《Goddess》 characters, and that character gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Yeah, leave it to me.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E081.png"
-    },
-    {
-        "name": "“Flattering” Aqua",
-        "code": "KS/W49-E082",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 characters, and 【REST】 it.",
-            "【AUTO】 [(1)] At the beginning of your encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card."
-        ],
-        "flavor_text": "Kazuma!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E082.png"
-    },
-    {
-        "name": "“In Deep Sleep” Aqua",
-        "code": "KS/W49-E083",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
-        ],
-        "flavor_text": "*snore*-------",
-        "set": "KS",
-        "release": "49",
-        "sid": "E083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E083.png"
-    },
-    {
-        "name": "“Provoking Style” Aqua",
-        "code": "KS/W49-E084",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your stock is three or less, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
-        ],
-        "flavor_text": "Fine. Absorb as much as you can. Go right ahead.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E084.png"
-    },
-    {
-        "name": "“Providing Magic” Aqua",
-        "code": "KS/W49-E085",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 All of your other cards named \"“Crimson Demon” Megumin\" get the following ability. \"【AUTO】 At the beginning of your encore step, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it on the top of his or her deck.\"",
-            "【CONT】 All of your other 《Adventurer》 or 《Goddess》 characters get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room].\""
-        ],
-        "flavor_text": "Hey, Megumin, are you finished? I think you've absorbed more than enough already!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E085.png"
-    },
-    {
-        "name": "“Going All Out!” Aqua",
-        "code": "KS/W49-E086",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 This card gets +1000 power for each of your other 《Adventurer》 or 《Goddess》 characters.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Sacred Break Spell\" is in your climax area, choose a character in your opponent's center stage, and until end of turn, that character gets -3000 power and the following ability. \"【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from your hand.\""
-        ],
-        "flavor_text": "Sacred-!! Break Spell!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E086.png"
-    },
-    {
-        "name": "God Blow",
-        "code": "KS/W49-E096",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose one of your 《Goddess》 characters, and until end of turn, that character gets +50 soul and the following three abilities. \"【CONT】 This card cannot side attack.\" \"【CONT】 The character facing this card cannot become 【REVERSE】.\" \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, draw up to three cards, choose two cards in your hand, and put them into your waiting room.\""
-        ],
-        "flavor_text": "\"God Blow\" is a lethal fist that carries a goddess's rage and sorrow! Any it strikes will perish!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E096.png"
-    },
-    {
-        "name": "Senpai Appears",
-        "code": "KS/W49-E097",
-        "rarity": "U",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 If you do not have a 《Goddess》 character, this card cannot be played from your hand.",
-            "Choose up to two of your 《Adventurer》 or 《Goddess》 characters, and they get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
-        ],
-        "flavor_text": "Th-This voice… Aqua-senpai!? Is it really you!?",
-        "set": "KS",
-        "release": "49",
-        "sid": "E097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E097.png"
     },
     {
         "name": "“Create Water” Kazuma",
@@ -1858,6 +739,673 @@
         "release": "49",
         "sid": "E027",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E027.png"
+    },
+    {
+        "name": "Freeze",
+        "code": "KS/W49-E028",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If your level is 2 or lower and your opponent's level is 1 or lower, you may choose three cards in your hand, and put them into your waiting room. If you do, put this card into your level, and you get one more turn."
+        ],
+        "flavor_text": "I messed up!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E028.png"
+    },
+    {
+        "name": "Tremble With Pleasure",
+        "code": "KS/W49-E029",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【AUTO】 Memory [Put this card into your waiting room] When the damage you received is not canceled, if this card is in your memory, and the damage is three or more, you may pay the cost. If you do, search your deck for up to two 《Worries》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your stock, and shuffle your deck."
+        ],
+        "flavor_text": "Mm……!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E029.png"
+    },
+    {
+        "name": "Thief Skill",
+        "code": "KS/W49-E030",
+        "rarity": "CR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Steal--!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E030.png"
+    },
+    {
+        "name": "Charging Power",
+        "code": "KS/W49-E031",
+        "rarity": "CC",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "We've reached a compromise.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E031.png"
+    },
+    {
+        "name": "Masochistic Crusader",
+        "code": "KS/W49-E032",
+        "rarity": "CC",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "It appears my eyes didn't lead me astray!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E032.png"
+    },
+    {
+        "name": "Shaming By the Devil King's Army…?",
+        "code": "KS/W49-E033",
+        "rarity": "CC",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "He's been shaving away at my armor a little at a time for a while now……!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E033.png"
+    },
+    {
+        "name": "“Crimson Demon” Megumin",
+        "code": "KS/W49-E034",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to one of your opponent's level X or lower characters, and put it into his or her waiting room. X is equal to that card's level. (Climax are regarded as level 0)",
+            "【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] At the beginning of your encore step, if a card named \"Explosion Magic\" is in your climax area, and you have another card named \"“Lots of Anxiety” Kazuma\", and this card is in your center stage, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Show me thine resolve to peer into the ultimate abyss with me.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E034.png"
+    },
+    {
+        "name": "Megumin",
+        "code": "KS/W49-E035",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1)] At the beginning of your attack phase, if a card named \"Real Explosion Magic\" is in your climax area, and this card is 【STAND】in your center stage, you may pay the cost. If you do, deal four damage to your opponent, choose a level 3 or lower character facing this card, put it into your opponent's clock, and 【REST】 this card. (This damage may be canceled)"
+        ],
+        "flavor_text": "I'll show you what real explosion magic is!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E035.png"
+    },
+    {
+        "name": "“Lich” Wiz",
+        "code": "KS/W49-E036",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, your opponent may choose a cost 0 or lower character in your opponent's waiting room, and put it on any position of his or her stage."
+        ],
+        "flavor_text": "I still have something I need to do……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E036.png"
+    },
+    {
+        "name": "“Board Game” Megumin",
+        "code": "KS/W49-E037",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose an 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Heh heh heh.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E037.png"
+    },
+    {
+        "name": "“Knowledge of Learning A Skill” Megumin",
+        "code": "KS/W49-E038",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "If you use your points on that entry, you'll finish learning it.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E038.png"
+    },
+    {
+        "name": "“Polite” Yunyun",
+        "code": "KS/W49-E039",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other characters, this card gets +2000 power.",
+            "【AUTO】 Bond/\"Megumin\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Megumin\" in your waiting room, and return it to your hand.)"
+        ],
+        "flavor_text": "Thank you.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E039.png"
+    },
+    {
+        "name": "“Nuisance” Megumin",
+        "code": "KS/W49-E040",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Magic》 character from among them, reveal it to your opponent,put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E040.png"
+    },
+    {
+        "name": "“Pouring Tea” Wiz",
+        "code": "KS/W49-E041",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Kazuma: \"Her name is Wiz. She may look like an ordinary human, but she's actually a lich.\"",
+        "set": "KS",
+        "release": "49",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E041.png"
+    },
+    {
+        "name": "“Nice Explosion!” Megumin",
+        "code": "KS/W49-E042",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+            "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "You've come to understand the path of explosions, Kazuma…… How about it? Why not learn explosion magic for real?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E042.png"
+    },
+    {
+        "name": "“Can't Say It Straight” Yunyun",
+        "code": "KS/W49-E043",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Megumin's Rival\" is in your climax area, and you have another character with \"Megumin(めぐみん)\" in its card name, look at up to four cards from the top of your deck, choose up to one 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I-I……have……friends, too……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E043.png"
+    },
+    {
+        "name": "“Concurrent Strike!!” Wiz",
+        "code": "KS/W49-E044",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 【CXCOMBO】 [(1) Put two cards from your hand into your waiting room] At the beginning of your attack phase, if a card named \"Real Explosion Magic\" is in your climax area, and you have another card named \"Megumin\", you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)"
+        ],
+        "flavor_text": "Megumin, launch a concurrent strike!!……!?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E044.png"
+    },
+    {
+        "name": "“Highly-skilled Arch Wizard” Wiz",
+        "code": "KS/W49-E045",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Alarm [Put a card from your hand into your waiting room] If this card is the top card of your clock, at the beginning of your climax phase, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "At this rate, the city will become a sea of flames!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E045.png"
+    },
+    {
+        "name": "“Involving Megumin” Yunyun",
+        "code": "KS/W49-E046",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other cards named \"“Marbled Red Crab” Megumin\" get +1000 power.",
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I'll take on that duel. I won't lose to Megumin again!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E046.png"
+    },
+    {
+        "name": "“Shaken” Megumin",
+        "code": "KS/W49-E047",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put two cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "!?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E047.png"
+    },
+    {
+        "name": "“Awfully Reserved Today” Megumin",
+        "code": "KS/W49-E048",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Experience If a card named \"Keeps Firing Explosion Magic Every Single Day!\" is in your level, this card gets +2000 power and +1 soul.",
+            "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Keeps Firing Explosion Magic Every Single Day!\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Huh?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E048.png"
+    },
+    {
+        "name": "“Town Celebrity” Wiz",
+        "code": "KS/W49-E049",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Death",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If this card is on the stage, this card gets -1 level and 《Adventurer》.",
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore [Put the top card of your deck into your clock]\"."
+        ],
+        "flavor_text": "I'm a qualified adventurer, so I've come to help……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E049.png"
+    },
+    {
+        "name": "“Fear of Dolls” Megumin",
+        "code": "KS/W49-E050",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +3000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. Deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)"
+        ],
+        "flavor_text": "So, um, I was going to have Aqua protect me……and thought we could……go to the bathroom together……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E050.png"
+    },
+    {
+        "name": "“Calling for Teacher” Megumin",
+        "code": "KS/W49-E051",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Teacher! If you would!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E051.png"
     },
     {
         "name": "“Insufficient Magic” Wiz",
@@ -2189,6 +1737,640 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E063.png"
     },
     {
+        "name": "Keeps Firing Explosion Magic Every Single Day!",
+        "code": "KS/W49-E064",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If your level is 2 or lower and your opponent's level is 1 or lower, you may choose a 《Magic》 character in your hand, and put it into your waiting room. If you do, put this card into your level, and perform the following action six times. \"Deal one damage to your opponent.\" (This damage may be canceled)"
+        ],
+        "flavor_text": "Explosion!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E064.png"
+    },
+    {
+        "name": "Drain Touch",
+        "code": "KS/W49-E065",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Wiz(ウィズ)\" or \"Kazuma(カズマ)\" in its card name, this card cannot be played from your hand.",
+            "You may choose one of your opponent's level 1 or lower characters, and put it into your opponent's waiting room. If you do, your opponent chooses up to one level 0 or lower character in his or her waiting room, and puts it on the stage position that character was on.",
+            "Put this card into your stock."
+        ],
+        "flavor_text": "I'm sorry! Drain Touch-!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E065.png"
+    },
+    {
+        "name": "Destroyer Alert!",
+        "code": "KS/W49-E066",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "9",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Return all of your opponent's level 3 or lower characters to your opponent's deck, and your opponent shuffles his or her deck. Put this card into your clock."
+        ],
+        "flavor_text": "Emergency Quest -Kill the Destroyer-",
+        "set": "KS",
+        "release": "49",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E066.png"
+    },
+    {
+        "name": "Real Explosion Magic",
+        "code": "KS/W49-E067",
+        "rarity": "CR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Explosion!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E067.png"
+    },
+    {
+        "name": "Megumin's Rival",
+        "code": "KS/W49-E068",
+        "rarity": "CR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "Now, Megumin. Please have a duel with me!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E068.png"
+    },
+    {
+        "name": "Explosion Magic",
+        "code": "KS/W49-E069",
+        "rarity": "CC",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Explosion!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E069.png"
+    },
+    {
+        "name": "Sending Spirits Home",
+        "code": "KS/W49-E070",
+        "rarity": "CC",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Kazuma: \"Although Wiz is a lich, she's a kind girl. Every night, she'd send spirits wandering the graveyard home to Heaven.\"",
+        "set": "KS",
+        "release": "49",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E070.png"
+    },
+    {
+        "name": "“Troublemaker” Aqua",
+        "code": "KS/W49-E071",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of your center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one cost 0 or lower character in your waiting room, and put it on separate positions of your stage."
+        ],
+        "flavor_text": "Hey, what's all the commotion?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E071.png"
+    },
+    {
+        "name": "“Blessed With Kind Encounters” Eris",
+        "code": "KS/W49-E072",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Goddess",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If a card named \"“Significance of Killing Snow Sprites?” Aqua\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose an《Adventurer》 or 《Goddess》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When your character in the middle position of your center stage attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, 【STAND】 this card. (The revealed card is returned to its original place)"
+        ],
+        "flavor_text": "……after you've been reborn, may you be blessed once more with kind encounters……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E072.png"
+    },
+    {
+        "name": "Aqua",
+        "code": "KS/W49-E073",
+        "rarity": "RR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses two climax in your opponent's waiting room, returns all cards in your opponent's waiting room except those cards into your opponent's deck, and your opponent shuffles his or her deck.",
+            "【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When a card named \"Resurrection\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose an 《Adventurer》 or 《Goddess》 character in your clock, and put it on any position of your stage."
+        ],
+        "flavor_text": "Feel the power of a goddess!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E073.png"
+    },
+    {
+        "name": "“Gentle Goddess” Eris",
+        "code": "KS/W49-E074",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Goddess",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Goddess》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 [Return this card to your hand] When a climax is put on your climax area, you may pay the cost. If you do, draw a card, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Your life in this world……is now over……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E074.png"
+    },
+    {
+        "name": "“Significance of Killing Snow Sprites?” Aqua",
+        "code": "KS/W49-E075",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 [Put a card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Goddess》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You lived in Japan, so I'm sure you've at least heard the name in the news and weather forecasts?",
+        "set": "KS",
+        "release": "49",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E075.png"
+    },
+    {
+        "name": "“Gentle Smile” Eris",
+        "code": "KS/W49-E076",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Goddess",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When a card named \"Revival\" is placed on your climax area, if this card is in your center stage, and you have another 《Goddess》 character, you may choose a cost 0 or lower 《Adventurer》 or 《Goddess》 character in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "KS",
+        "release": "49",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E076.png"
+    },
+    {
+        "name": "“Sacred Create Water” Aqua",
+        "code": "KS/W49-E077",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one 《Adventurer》 or 《Goddess》 character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "\"Sacred Create Water\"",
+        "set": "KS",
+        "release": "49",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E077.png"
+    },
+    {
+        "name": "“Sacred Turn Undead” Aqua",
+        "code": "KS/W49-E078",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory."
+        ],
+        "flavor_text": "\"Sacred Turn Undead\"!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E078.png"
+    },
+    {
+        "name": "“Being Shy” Eris",
+        "code": "KS/W49-E079",
+        "rarity": "R",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Goddess",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room with level lower than or equal to your level, and put it on any position of your stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character on the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Kazuma: \"I don't mind if they're pads.\"",
+        "set": "KS",
+        "release": "49",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E079.png"
+    },
+    {
+        "name": "“Covered in Snot” Aqua",
+        "code": "KS/W49-E080",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top two cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Thank you…… Kazuma……",
+        "set": "KS",
+        "release": "49",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E080.png"
+    },
+    {
+        "name": "“Full of Smiles” Aqua",
+        "code": "KS/W49-E081",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Adventurer》 or 《Goddess》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Yeah, leave it to me.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E081.png"
+    },
+    {
+        "name": "“Flattering” Aqua",
+        "code": "KS/W49-E082",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 characters, and 【REST】 it.",
+            "【AUTO】 [(1)] At the beginning of your encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "Kazuma!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E082.png"
+    },
+    {
+        "name": "“In Deep Sleep” Aqua",
+        "code": "KS/W49-E083",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card."
+        ],
+        "flavor_text": "*snore*-------",
+        "set": "KS",
+        "release": "49",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E083.png"
+    },
+    {
+        "name": "“Provoking Style” Aqua",
+        "code": "KS/W49-E084",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your stock is three or less, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Fine. Absorb as much as you can. Go right ahead.",
+        "set": "KS",
+        "release": "49",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E084.png"
+    },
+    {
+        "name": "“Providing Magic” Aqua",
+        "code": "KS/W49-E085",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 All of your other cards named \"“Crimson Demon” Megumin\" get the following ability. \"【AUTO】 At the beginning of your encore step, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it on the top of his or her deck.\"",
+            "【CONT】 All of your other 《Adventurer》 or 《Goddess》 characters get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room].\""
+        ],
+        "flavor_text": "Hey, Megumin, are you finished? I think you've absorbed more than enough already!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E085.png"
+    },
+    {
+        "name": "“Going All Out!” Aqua",
+        "code": "KS/W49-E086",
+        "rarity": "U",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Adventurer》 or 《Goddess》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Sacred Break Spell\" is in your climax area, choose a character in your opponent's center stage, and until end of turn, that character gets -3000 power and the following ability. \"【CONT】 During this card's battle, you cannot play event cards and \"Backup\" from your hand.\""
+        ],
+        "flavor_text": "Sacred-!! Break Spell!!",
+        "set": "KS",
+        "release": "49",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E086.png"
+    },
+    {
         "name": "“Adventure About to Begin…?” Aqua",
         "code": "KS/W49-E087",
         "rarity": "C",
@@ -2432,92 +2614,57 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E095.png"
     },
     {
-        "name": "Thief Skill",
-        "code": "KS/W49-E030",
-        "rarity": "CR",
+        "name": "God Blow",
+        "code": "KS/W49-E096",
+        "rarity": "U",
         "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
         "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
+            "Choose one of your 《Goddess》 characters, and until end of turn, that character gets +50 soul and the following three abilities. \"【CONT】 This card cannot side attack.\" \"【CONT】 The character facing this card cannot become 【REVERSE】.\" \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, draw up to three cards, choose two cards in your hand, and put them into your waiting room.\""
         ],
-        "flavor_text": "Steal--!!",
+        "flavor_text": "\"God Blow\" is a lethal fist that carries a goddess's rage and sorrow! Any it strikes will perish!",
         "set": "KS",
         "release": "49",
-        "sid": "E030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E030.png"
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E096.png"
     },
     {
-        "name": "Real Explosion Magic",
-        "code": "KS/W49-E067",
-        "rarity": "CR",
+        "name": "Senpai Appears",
+        "code": "KS/W49-E097",
+        "rarity": "U",
         "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
         "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+            "【COUNTER】 If you do not have a 《Goddess》 character, this card cannot be played from your hand.",
+            "Choose up to two of your 《Adventurer》 or 《Goddess》 characters, and they get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
         ],
-        "flavor_text": "Explosion!",
+        "flavor_text": "Th-This voice… Aqua-senpai!? Is it really you!?",
         "set": "KS",
         "release": "49",
-        "sid": "E067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E067.png"
-    },
-    {
-        "name": "Megumin's Rival",
-        "code": "KS/W49-E068",
-        "rarity": "CR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "Now, Megumin. Please have a duel with me!!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E068",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E068.png"
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E097.png"
     },
     {
         "name": "Resurrection",
@@ -2541,160 +2688,13 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)"
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "Now you can have that drink together!",
         "set": "KS",
         "release": "49",
         "sid": "E098",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E098.png"
-    },
-    {
-        "name": "Charging Power",
-        "code": "KS/W49-E031",
-        "rarity": "CC",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn."
-        ],
-        "flavor_text": "We've reached a compromise.",
-        "set": "KS",
-        "release": "49",
-        "sid": "E031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E031.png"
-    },
-    {
-        "name": "Masochistic Crusader",
-        "code": "KS/W49-E032",
-        "rarity": "CC",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SHOT"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)"
-        ],
-        "flavor_text": "It appears my eyes didn't lead me astray!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E032.png"
-    },
-    {
-        "name": "Shaming By the Devil King's Army…?",
-        "code": "KS/W49-E033",
-        "rarity": "CC",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)"
-        ],
-        "flavor_text": "He's been shaving away at my armor a little at a time for a while now……!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E033.png"
-    },
-    {
-        "name": "Explosion Magic",
-        "code": "KS/W49-E069",
-        "rarity": "CC",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Explosion!",
-        "set": "KS",
-        "release": "49",
-        "sid": "E069",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E069.png"
-    },
-    {
-        "name": "Sending Spirits Home",
-        "code": "KS/W49-E070",
-        "rarity": "CC",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
-        ],
-        "flavor_text": "Kazuma: \"Although Wiz is a lich, she's a kind girl. Every night, she'd send spirits wandering the graveyard home to Heaven.\"",
-        "set": "KS",
-        "release": "49",
-        "sid": "E070",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E070.png"
     },
     {
         "name": "Revival",
@@ -2717,7 +2717,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【DRAW】: When this card triggers, you may draw a card.)"
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
         ],
         "flavor_text": "You have now been connected to the living world.",
         "set": "KS",
@@ -2753,6 +2753,195 @@
         "release": "49",
         "sid": "E100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E100.png"
+    },
+    {
+        "name": "Petit Kazuma",
+        "code": "KS/W49-E101",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "KONOSUBA--",
+        "set": "KS",
+        "release": "49",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E101.png"
+    },
+    {
+        "name": "Petit Darkness",
+        "code": "KS/W49-E102",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Adventurer",
+            "Worries"
+        ],
+        "ability": [
+            "【CONT】 If the number of cards in your clock is one or less, this card cannot attack.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +4500 power until end of turn."
+        ],
+        "flavor_text": "KONOSUBA--",
+        "set": "KS",
+        "release": "49",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E102.png"
+    },
+    {
+        "name": "Petit Megumin",
+        "code": "KS/W49-E103",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Magic》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "KONOSUBA--",
+        "set": "KS",
+        "release": "49",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E103.png"
+    },
+    {
+        "name": "Petit Aqua",
+        "code": "KS/W49-E104",
+        "rarity": "PR",
+        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw two cards. If your opponent does, your opponent chooses two cards in your opponent's hand, and puts them into his or her waiting room."
+        ],
+        "flavor_text": "KONOSUBA--",
+        "set": "KS",
+        "release": "49",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E104.png"
+    },
+    {
+        "name": "“Middle of a Journey” Darkness",
+        "code": "KS/W49-PE01",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Worries"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 If the number of cards in your clock is three o more, this card gets +1000 power."
+        ],
+        "flavor_text": "I'll charge to the front line, so please use me as a shield!",
+        "set": "KS",
+        "release": "49",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE01.png"
+    },
+    {
+        "name": "“Crimson Demon With Red Eyes” Megumin",
+        "code": "KS/W49-PE03",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you do not have any other 《Adventurer》 or 《Magic》 characters, this card cannot 【STAND】 during your stand phase.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I am Megumin, user of the finest magic crimson demons possess!",
+        "set": "KS",
+        "release": "49",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE03.png"
+    },
+    {
+        "name": "“Construction Operator” Aqua",
+        "code": "KS/W49-PE06",
+        "rarity": "PR",
+        "expansion": "PR Card 【Weiẞ Side】",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Adventurer",
+            "Goddess"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When a climax is put on your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Kazuma: \"We didn't come here to be laborers.\"",
+        "set": "KS",
+        "release": "49",
+        "sid": "PE06",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE06.png"
     },
     {
         "name": "“Choosing A Goddess” Kazuma",
@@ -3049,7 +3238,7 @@
         ],
         "ability": [
             "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)"
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
         ],
         "flavor_text": "-",
         "set": "KS",
@@ -3303,194 +3492,5 @@
         "release": "49",
         "sid": "TE20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_TE20.png"
-    },
-    {
-        "name": "Petit Kazuma",
-        "code": "KS/W49-E101",
-        "rarity": "PR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "KONOSUBA--",
-        "set": "KS",
-        "release": "49",
-        "sid": "E101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E101.png"
-    },
-    {
-        "name": "Petit Darkness",
-        "code": "KS/W49-E102",
-        "rarity": "PR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "9000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Adventurer",
-            "Worries"
-        ],
-        "ability": [
-            "【CONT】 If the number of cards in your clock is one or less, this card cannot attack.",
-            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +4500 power until end of turn."
-        ],
-        "flavor_text": "KONOSUBA--",
-        "set": "KS",
-        "release": "49",
-        "sid": "E102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E102.png"
-    },
-    {
-        "name": "Petit Megumin",
-        "code": "KS/W49-E103",
-        "rarity": "PR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Magic》 characters get +500 power.",
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
-        ],
-        "flavor_text": "KONOSUBA--",
-        "set": "KS",
-        "release": "49",
-        "sid": "E103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E103.png"
-    },
-    {
-        "name": "Petit Aqua",
-        "code": "KS/W49-E104",
-        "rarity": "PR",
-        "expansion": "KONOSUBA -God’s blessing on this wonderful world!",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "6500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw two cards. If your opponent does, your opponent chooses two cards in your opponent's hand, and puts them into his or her waiting room."
-        ],
-        "flavor_text": "KONOSUBA--",
-        "set": "KS",
-        "release": "49",
-        "sid": "E104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_E104.png"
-    },
-    {
-        "name": "“Middle of a Journey” Darkness",
-        "code": "KS/W49-PE01",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Worries"
-        ],
-        "ability": [
-            "【CONT】 This card cannot side attack.",
-            "【CONT】 If the number of cards in your clock is three o more, this card gets +1000 power."
-        ],
-        "flavor_text": "I'll charge to the front line, so please use me as a shield!",
-        "set": "KS",
-        "release": "49",
-        "sid": "PE01",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE01.png"
-    },
-    {
-        "name": "“Crimson Demon With Red Eyes” Megumin",
-        "code": "KS/W49-PE03",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If you do not have any other 《Adventurer》 or 《Magic》 characters, this card cannot 【STAND】 during your stand phase.",
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "I am Megumin, user of the finest magic crimson demons possess!",
-        "set": "KS",
-        "release": "49",
-        "sid": "PE03",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE03.png"
-    },
-    {
-        "name": "“Construction Operator” Aqua",
-        "code": "KS/W49-PE06",
-        "rarity": "PR",
-        "expansion": "PR Card 【Weiẞ Side】",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Adventurer",
-            "Goddess"
-        ],
-        "ability": [
-            "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
-            "【AUTO】 When a climax is put on your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
-        ],
-        "flavor_text": "Kazuma: \"We didn't come here to be laborers.\"",
-        "set": "KS",
-        "release": "49",
-        "sid": "PE06",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KS_W49_PE06.png"
     }
 ]

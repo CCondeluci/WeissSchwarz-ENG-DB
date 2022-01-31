@@ -112,182 +112,6 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_004.png"
     },
     {
-        "name": "Syaoran Li",
-        "code": "CCS/WX01-033",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Tomoeda》 or 《Magic》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
-            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
-        ],
-        "flavor_text": "This Sakura stayed by my side the whole time.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "033",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_033.png"
-    },
-    {
-        "name": "Cardcaptor Sakura: RECORD",
-        "code": "CCS/WX01-034",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If this card is on your center stage, all of your 《Tomoeda》 or 《Magic》 characters get +1500 power.",
-            "【AUTO】 【CXCOMBO】 [(2)] When \"Release! RECORD!\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to 2 《Tomoeda》 or 《Magic》 characters, reveal them to your opponent, put them into your hand, choose up to 1 \"Cardcaptor Sakura: RECORD\" in your hand, put it on any position of your stage, and shuffle your deck.",
-            "【AUTO】 [Put 2 characters from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that battle opponent into your opponent's clock."
-        ],
-        "flavor_text": "Record the area directly around me!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "034",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_034.png"
-    },
-    {
-        "name": "Cardcaptor Sakura: REFLECT",
-        "code": "CCS/WX01-057",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If all of your characters are 《Tomoeda》 or 《Magic》, this card gets +2000 power.",
-            "【CONT】 The character facing this card gets -1 soul.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Release! REFLECT!\" is in your climax area, this card gets +1000 power and the following 2 abilities until the end of your opponent's next turn. \"【CONT】 During this card's battle, you cannot receive damage by 【AUTO】 effects of your opponent's characters.\" \"【AUTO】 When the character facing this card attacks, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
-        ],
-        "flavor_text": "It's dangerous! Reflect!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "057",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_057.png"
-    },
-    {
-        "name": "Kero",
-        "code": "CCS/WX01-058",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
-            "【AUTO】 When this card attacks, choose 1 of your 《Tomoeda》 or 《Magic》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×500."
-        ],
-        "flavor_text": "Man, do I look good!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "058",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_058.png"
-    },
-    {
-        "name": "Cardcaptor Sakura: SIEGE",
-        "code": "CCS/WX01-077",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If you have 2 or more other 《Tomoeda》 or 《Magic》 characters, this card gets +2000 power.",
-            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
-            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Release! SIEGE!\" is in your climax area, and you have another 《Tomoeda》 or 《Magic》 character, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose up to 2 of your opponent's characters, and those characters get -1 soul until end of turn.\""
-        ],
-        "flavor_text": "Now they’re trapped. Siege!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "077",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_077.png"
-    },
-    {
-        "name": "Yue: Moon Guardian",
-        "code": "CCS/WX01-078",
-        "rarity": "RR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "3",
-        "cost": "2",
-        "power": "9500",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 During your turn, this card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters.",
-            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
-            "【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
-        ],
-        "flavor_text": "Be certain to tell him. Even the smallest things.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "078",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_078.png"
-    },
-    {
         "name": "Sakura: Sudden Showers",
         "code": "CCS/WX01-005",
         "rarity": "R",
@@ -479,421 +303,6 @@
         "release": "X01",
         "sid": "011",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_011.png"
-    },
-    {
-        "name": "Sakura: Pure White Dress",
-        "code": "CCS/WX01-035",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
-            "【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 or 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
-        ],
-        "flavor_text": "I know. There’s another card!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "035",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_035.png"
-    },
-    {
-        "name": "Sakura: Stunned",
-        "code": "CCS/WX01-036",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
-            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
-        ],
-        "flavor_text": "Eh?",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "036",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_036.png"
-    },
-    {
-        "name": "Syaoran: Sword Summoning",
-        "code": "CCS/WX01-037",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "power": "10000",
-        "soul": 2,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, and this card gets +2000 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Fire God, Come Forth!\" is in your climax area, you may pay the cost. If you do, this card gets +1000 power until end of turn, and reveal the top card of your deck. If that card is level 2 or higher, deal 2 damage to your opponent, and otherwise, deal 1 damage to your opponent. (Climax are regarded as level 0. Damage may be canceled. Return the revealed card to its original place)"
-        ],
-        "flavor_text": "Fire God, come forth!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "037",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_037.png"
-    },
-    {
-        "name": "Tomoyo",
-        "code": "CCS/WX01-059",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "1000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Video Camera"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "059",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_059.png"
-    },
-    {
-        "name": "Sakura: Slip of the Tongue",
-        "code": "CCS/WX01-060",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
-        ],
-        "flavor_text": "He just seemed so mature because he was always calm and collected.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "060",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_060.png"
-    },
-    {
-        "name": "Tomoyo: Best Friend",
-        "code": "CCS/WX01-061",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Video Camera"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Tomoeda》 characters, and that character gets +1500 power until end of turn.",
-            "【AUTO】 【CXCOMBO】 [Return this card to your hand] When \"Dress Designer's Delight\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
-        ],
-        "flavor_text": "Oh?",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "061",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_061.png"
-    },
-    {
-        "name": "Kero: Insatiable Hunger",
-        "code": "CCS/WX01-062",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "4000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Tomoeda》 or 《Magic》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
-            "【AUTO】 Change [(1) Put 2 《Tomoeda》 or 《Magic》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Kero: Beast Mode\" in your waiting room, and put it on the stage position that this card was on."
-        ],
-        "flavor_text": "Yay!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "062",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_062.png"
-    },
-    {
-        "name": "Cardcaptor Sakura: LUCID",
-        "code": "CCS/WX01-063",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Tomoeda》 or 《Magic》 characters get +1000 power.",
-            "【ACT】 [【REST】 this card] Choose 1 of your 《Tomoeda》 or 《Magic》 characters, and that character gets +1000 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
-        ],
-        "flavor_text": "Lucid!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "063",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_063.png"
-    },
-    {
-        "name": "Kero: Beast Mode",
-        "code": "CCS/WX01-064",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 This card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters on your back stage.",
-            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Hunger Overwhelming\" is in your climax area, and you have 4 or more other 《Tomoeda》 or 《Magic》 characters, draw up to 1 card, choose up to 1 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Look at me now and say I’m a runt, I dare ya!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "064",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_064.png"
-    },
-    {
-        "name": "Sakura: Abashed",
-        "code": "CCS/WX01-079",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "1500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
-            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "079",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_079.png"
-    },
-    {
-        "name": "Akiho: Just Visiting",
-        "code": "CCS/WX01-080",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 【CXCOMBO】 When \"Birds of a Feather\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
-        ],
-        "flavor_text": "I’m glad I came.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "080",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_080.png"
-    },
-    {
-        "name": "Yue",
-        "code": "CCS/WX01-081",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "3000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters revealed among those cards ×1000.",
-            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "081",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_081.png"
-    },
-    {
-        "name": "Yukito: Just Visiting",
-        "code": "CCS/WX01-082",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Tomoeda》 characters, and that character gets +2000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
-        ],
-        "flavor_text": "Thank you for the hospitality.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "082",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_082.png"
-    },
-    {
-        "name": "Sakura: Choices, Choices",
-        "code": "CCS/WX01-083",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "6000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
-            "【AUTO】 [Put 1 card from your hand into your waiting room] When a climax is placed on your climax area, you may pay the cost. If you do, draw 1 card."
-        ],
-        "flavor_text": "How ‘bout…",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "083",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_083.png"
-    },
-    {
-        "name": "Yukito: Dual Identity",
-        "code": "CCS/WX01-084",
-        "rarity": "R",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "7000",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Glasses"
-        ],
-        "ability": [
-            "【AUTO】 Encore [Put 1 《Tomoeda》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
-            "【ACT】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] Choose up to 1 \"Yue: Moon Guardian\" in your hand, put it on the stage position that this card was on, and at the beginning of the encore step, return that character to your hand, choose 1 \"Yukito: Dual Identity\" in your memory, and put it on the stage position that character was on."
-        ],
-        "flavor_text": "I'm changing.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "084",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_084.png"
     },
     {
         "name": "Cardcaptor Sakura: GRAVITATION",
@@ -1178,606 +587,6 @@
         "release": "X01",
         "sid": "017",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_017.png"
-    },
-    {
-        "name": "Speaking of Which…",
-        "code": "CCS/WX01-027",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Yamazaki\" in its card name, this card cannot be played from your hand.",
-            "All of your opponent's or your characters with \"Sakura\" or \"Syaoran\" or \"Akiho\" in its card name get +1500 power until end of turn.",
-            "All of your opponent's or your characters without \"Sakura\" or \"Syaoran\" or \"Akiho\" or \"Yamazaki\" in its card name get -500 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "027",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_027.png"
-    },
-    {
-        "name": "Rare Cheesecake Recipe",
-        "code": "CCS/WX01-028",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "All of your 《Tomoeda》 characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Chiharu: \"Let me know how it turns out!\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "028",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_028.png"
-    },
-    {
-        "name": "Clear Card: GALE",
-        "code": "CCS/WX01-029",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "YELLOW",
-        "level": "1",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
-            "Choose up to 1 of your opponent's characters, return it to his or her hand, choose 1 of your characters, and that character gets +2000 power until end of turn. Put this card into your memory.",
-            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: GALE\" get +1000 power."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "029",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_029.png"
-    },
-    {
-        "name": "Syaoran & Sakura",
-        "code": "CCS/WX01-038",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Tomoeda》 or 《Magic》 character is placed on the stage from your hand, this card gets +1500 power until end of turn."
-        ],
-        "flavor_text": "Sakura: \"And we’ll always be together?\"\nSyaoran: \"Yeah.\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "038",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_038.png"
-    },
-    {
-        "name": "Meiling Li",
-        "code": "CCS/WX01-039",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
-        ],
-        "flavor_text": "You're on a date, so be sure to take the lead! Don't be all shy the whole time!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "039",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_039.png"
-    },
-    {
-        "name": "Sakura: Aquarium Date",
-        "code": "CCS/WX01-040",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If you have another \"Syaoran: Aquarium Date\", this card gets +1000 power.",
-            "【AUTO】 【CXCOMBO】 When \"Intertwining Hearts\" is placed on your climax area, if this card is on your center stage, you may choose 1 \"Syaoran: Aquarium Date\" in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "Yeah. Right.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "040",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_040.png"
-    },
-    {
-        "name": "Syaoran: Aquarium Date",
-        "code": "CCS/WX01-041",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If you have another \"Sakura: Aquarium Date\", this card gets +1000 power.",
-            "【AUTO】 【CXCOMBO】 When \"Intertwining Hearts\" is placed on your climax area, if this card is on your center stage, choose 1 of your other characters with \"Sakura\" in its card name and this card, and those characters get +2000 power until end of turn."
-        ],
-        "flavor_text": "Let’s go.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "041",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_041.png"
-    },
-    {
-        "name": "Sakura: Befriending the Card",
-        "code": "CCS/WX01-042",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
-            "【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top or at the bottom of your deck."
-        ],
-        "flavor_text": "I’m so glad we’re friends now!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "042",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_042.png"
-    },
-    {
-        "name": "Syaoran",
-        "code": "CCS/WX01-043",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "043",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_043.png"
-    },
-    {
-        "name": "Treasured Teddy",
-        "code": "CCS/WX01-052",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Put this card into your memory.",
-            "Reveal the top card of your deck. If that card is a character with \"Sakura\" or \"Syaoran\" in its card name, put it into your hand. (Otherwise, return it to its original place)",
-            "【CONT】 Memory During your turn, if this card is in your memory, all of your characters with \"Sakura\" or \"Syaoran\" in its card name get +500 power."
-        ],
-        "flavor_text": "Sakura: \"Can I call him Syaoran?\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "052",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_052.png"
-    },
-    {
-        "name": "Clear Card: RECORD",
-        "code": "CCS/WX01-053",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "GREEN",
-        "level": "2",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
-            "Search your deck for up to 1 character with the same card name as a character on your stage, reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.",
-            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: RECORD\" get +1000 power."
-        ],
-        "flavor_text": "Sakura: \"Start recording!\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "053",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_053.png"
-    },
-    {
-        "name": "Sakura: Invisible Books",
-        "code": "CCS/WX01-065",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Tomoeda》 or 《Magic》 character in your waiting room, and return it to your hand."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "065",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_065.png"
-    },
-    {
-        "name": "Sakura: In the Torrential Flame",
-        "code": "CCS/WX01-066",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Tomoeda》 or 《Magic》 characters you have ×1000."
-        ],
-        "flavor_text": "Hah!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "066",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_066.png"
-    },
-    {
-        "name": "Tomoyo: Carefree Camerawoman",
-        "code": "CCS/WX01-067",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "power": "7500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Video Camera"
-        ],
-        "ability": [
-            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may 【REVERSE】 that character."
-        ],
-        "flavor_text": "Don’t worry about it. Really!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "067",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_067.png"
-    },
-    {
-        "name": "Secure!",
-        "code": "CCS/WX01-072",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "1",
-        "cost": "0",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose 1 of your characters with \"Sakura\" in its card name, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory, and draw up to 1 card.\""
-        ],
-        "flavor_text": "Force without master, heed the call of my Staff of Dreams, and become my power!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "072",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_072.png"
-    },
-    {
-        "name": "Clear Card: REFLECT",
-        "code": "CCS/WX01-073",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "RED",
-        "level": "2",
-        "cost": "4",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【COUNTER】 If you do not have character with \"Sakura\" in its card name, this card cannot be played from your hand.",
-            "Choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Put this card into your memory.",
-            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: REFLECT\" get +1000 power."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "073",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_073.png"
-    },
-    {
-        "name": "Yukito & Toya",
-        "code": "CCS/WX01-085",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Glasses"
-        ],
-        "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +500 power.",
-            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
-        ],
-        "flavor_text": "Yukito: \"I’m staying, too.\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "085",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_085.png"
-    },
-    {
-        "name": "Sakura: Lunch Break",
-        "code": "CCS/WX01-086",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Akiho: Just Visiting\", put it on any position of your stage, and shuffle your deck."
-        ],
-        "flavor_text": "Sakura: \"Before Hong Kong, she was in France. Before that, Germany, and... uh…\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "086",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_086.png"
-    },
-    {
-        "name": "Akiho: New Transfer Student",
-        "code": "CCS/WX01-087",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "3500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your stock] Choose up to 1 \"Sakura: Hospitable\" in your hand, and put it on the stage position that this card was on.\"",
-            "【AUTO】 Bond/\"Sakura: Hospitable\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Sakura: Hospitable\" in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "I’m Akiho Shinomoto. I’m excited to be here.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "087",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_087.png"
-    },
-    {
-        "name": "Sakura: Hospitable",
-        "code": "CCS/WX01-088",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "power": "9500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 This card gets -2 level while on the stage.",
-            "【CONT】 This card gets +2000 power for each of your other \"Sakura: Hospitable\" on your center stage."
-        ],
-        "flavor_text": "Let’s eat in my room. I even made iced tea, too.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "088",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_088.png"
-    },
-    {
-        "name": "Clear Card: SIEGE",
-        "code": "CCS/WX01-096",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "1",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
-            "All of your opponent's or your characters without \"Sakura\" in its card name get the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another stage position.\" Put this card into your memory.",
-            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: SIEGE\" get +1000 power."
-        ],
-        "flavor_text": "Sakura: \"Enclose it! Siege, go!\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "096",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_096.png"
-    },
-    {
-        "name": "Mysterious Hooded Figure",
-        "code": "CCS/WX01-097",
-        "rarity": "U",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Event",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "2",
-        "power": "-",
-        "soul": 0,
-        "trigger": [],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "Choose 1 of your 【STAND】 characters with \"Sakura\" in its card name, and 【REST】 it. If you do, choose 1 card in your clock, and return it to your hand. Put this card into your memory."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "097",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_097.png"
     },
     {
         "name": "Takashi Yamazaki",
@@ -2074,6 +883,482 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_026.png"
     },
     {
+        "name": "Speaking of Which…",
+        "code": "CCS/WX01-027",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Yamazaki\" in its card name, this card cannot be played from your hand.",
+            "All of your opponent's or your characters with \"Sakura\" or \"Syaoran\" or \"Akiho\" in its card name get +1500 power until end of turn.",
+            "All of your opponent's or your characters without \"Sakura\" or \"Syaoran\" or \"Akiho\" or \"Yamazaki\" in its card name get -500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_027.png"
+    },
+    {
+        "name": "Rare Cheesecake Recipe",
+        "code": "CCS/WX01-028",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "All of your 《Tomoeda》 characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Chiharu: \"Let me know how it turns out!\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_028.png"
+    },
+    {
+        "name": "Clear Card: GALE",
+        "code": "CCS/WX01-029",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
+            "Choose up to 1 of your opponent's characters, return it to his or her hand, choose 1 of your characters, and that character gets +2000 power until end of turn. Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: GALE\" get +1000 power."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_029.png"
+    },
+    {
+        "name": "Lunch Break",
+        "code": "CCS/WX01-030",
+        "rarity": "CR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Akiho: \"So what events are in the tournament, then?\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_030.png"
+    },
+    {
+        "name": "Flower Viewing",
+        "code": "CCS/WX01-031",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Yamazaki: \"So, rolled omelets! They’re like Castella.\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_031.png"
+    },
+    {
+        "name": "Release! GALE!",
+        "code": "CCS/WX01-032",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Sakura: \"The key, it’s shining!\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_032.png"
+    },
+    {
+        "name": "Syaoran Li",
+        "code": "CCS/WX01-033",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Tomoeda》 or 《Magic》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "This Sakura stayed by my side the whole time.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_033.png"
+    },
+    {
+        "name": "Cardcaptor Sakura: RECORD",
+        "code": "CCS/WX01-034",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If this card is on your center stage, all of your 《Tomoeda》 or 《Magic》 characters get +1500 power.",
+            "【AUTO】 【CXCOMBO】 [(2)] When \"Release! RECORD!\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to 2 《Tomoeda》 or 《Magic》 characters, reveal them to your opponent, put them into your hand, choose up to 1 \"Cardcaptor Sakura: RECORD\" in your hand, put it on any position of your stage, and shuffle your deck.",
+            "【AUTO】 [Put 2 characters from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that battle opponent into your opponent's clock."
+        ],
+        "flavor_text": "Record the area directly around me!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_034.png"
+    },
+    {
+        "name": "Sakura: Pure White Dress",
+        "code": "CCS/WX01-035",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 or 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I know. There’s another card!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_035.png"
+    },
+    {
+        "name": "Sakura: Stunned",
+        "code": "CCS/WX01-036",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Eh?",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_036.png"
+    },
+    {
+        "name": "Syaoran: Sword Summoning",
+        "code": "CCS/WX01-037",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, and this card gets +2000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Fire God, Come Forth!\" is in your climax area, you may pay the cost. If you do, this card gets +1000 power until end of turn, and reveal the top card of your deck. If that card is level 2 or higher, deal 2 damage to your opponent, and otherwise, deal 1 damage to your opponent. (Climax are regarded as level 0. Damage may be canceled. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Fire God, come forth!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_037.png"
+    },
+    {
+        "name": "Syaoran & Sakura",
+        "code": "CCS/WX01-038",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Tomoeda》 or 《Magic》 character is placed on the stage from your hand, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Sakura: \"And we’ll always be together?\"\nSyaoran: \"Yeah.\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_038.png"
+    },
+    {
+        "name": "Meiling Li",
+        "code": "CCS/WX01-039",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "You're on a date, so be sure to take the lead! Don't be all shy the whole time!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_039.png"
+    },
+    {
+        "name": "Sakura: Aquarium Date",
+        "code": "CCS/WX01-040",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Syaoran: Aquarium Date\", this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Intertwining Hearts\" is placed on your climax area, if this card is on your center stage, you may choose 1 \"Syaoran: Aquarium Date\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Yeah. Right.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_040.png"
+    },
+    {
+        "name": "Syaoran: Aquarium Date",
+        "code": "CCS/WX01-041",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Sakura: Aquarium Date\", this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Intertwining Hearts\" is placed on your climax area, if this card is on your center stage, choose 1 of your other characters with \"Sakura\" in its card name and this card, and those characters get +2000 power until end of turn."
+        ],
+        "flavor_text": "Let’s go.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_041.png"
+    },
+    {
+        "name": "Sakura: Befriending the Card",
+        "code": "CCS/WX01-042",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top or at the bottom of your deck."
+        ],
+        "flavor_text": "I’m so glad we’re friends now!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_042.png"
+    },
+    {
+        "name": "Syaoran",
+        "code": "CCS/WX01-043",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_043.png"
+    },
+    {
         "name": "Sakura: Not a Polyglot",
         "code": "CCS/WX01-044",
         "rarity": "C",
@@ -2288,6 +1573,455 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_051.png"
     },
     {
+        "name": "Treasured Teddy",
+        "code": "CCS/WX01-052",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "Reveal the top card of your deck. If that card is a character with \"Sakura\" or \"Syaoran\" in its card name, put it into your hand. (Otherwise, return it to its original place)",
+            "【CONT】 Memory During your turn, if this card is in your memory, all of your characters with \"Sakura\" or \"Syaoran\" in its card name get +500 power."
+        ],
+        "flavor_text": "Sakura: \"Can I call him Syaoran?\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_052.png"
+    },
+    {
+        "name": "Clear Card: RECORD",
+        "code": "CCS/WX01-053",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to 1 character with the same card name as a character on your stage, reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: RECORD\" get +1000 power."
+        ],
+        "flavor_text": "Sakura: \"Start recording!\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_053.png"
+    },
+    {
+        "name": "Release! RECORD!",
+        "code": "CCS/WX01-054",
+        "rarity": "CR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Key, that hides the forces of dreams...",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_054.png"
+    },
+    {
+        "name": "Intertwining Hearts",
+        "code": "CCS/WX01-055",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_055.png"
+    },
+    {
+        "name": "Fire God, Come Forth!",
+        "code": "CCS/WX01-056",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_056.png"
+    },
+    {
+        "name": "Cardcaptor Sakura: REFLECT",
+        "code": "CCS/WX01-057",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Tomoeda》 or 《Magic》, this card gets +2000 power.",
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Release! REFLECT!\" is in your climax area, this card gets +1000 power and the following 2 abilities until the end of your opponent's next turn. \"【CONT】 During this card's battle, you cannot receive damage by 【AUTO】 effects of your opponent's characters.\" \"【AUTO】 When the character facing this card attacks, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "It's dangerous! Reflect!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_057.png"
+    },
+    {
+        "name": "Kero",
+        "code": "CCS/WX01-058",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Tomoeda》 or 《Magic》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×500."
+        ],
+        "flavor_text": "Man, do I look good!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_058.png"
+    },
+    {
+        "name": "Tomoyo",
+        "code": "CCS/WX01-059",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Video Camera"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_059.png"
+    },
+    {
+        "name": "Sakura: Slip of the Tongue",
+        "code": "CCS/WX01-060",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+        ],
+        "flavor_text": "He just seemed so mature because he was always calm and collected.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_060.png"
+    },
+    {
+        "name": "Tomoyo: Best Friend",
+        "code": "CCS/WX01-061",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Video Camera"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Tomoeda》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Return this card to your hand] When \"Dress Designer's Delight\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Oh?",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_061.png"
+    },
+    {
+        "name": "Kero: Insatiable Hunger",
+        "code": "CCS/WX01-062",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Tomoeda》 or 《Magic》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 Change [(1) Put 2 《Tomoeda》 or 《Magic》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Kero: Beast Mode\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Yay!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_062.png"
+    },
+    {
+        "name": "Cardcaptor Sakura: LUCID",
+        "code": "CCS/WX01-063",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Tomoeda》 or 《Magic》 characters get +1000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Tomoeda》 or 《Magic》 characters, and that character gets +1000 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "Lucid!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_063.png"
+    },
+    {
+        "name": "Kero: Beast Mode",
+        "code": "CCS/WX01-064",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters on your back stage.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Hunger Overwhelming\" is in your climax area, and you have 4 or more other 《Tomoeda》 or 《Magic》 characters, draw up to 1 card, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Look at me now and say I’m a runt, I dare ya!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_064.png"
+    },
+    {
+        "name": "Sakura: Invisible Books",
+        "code": "CCS/WX01-065",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Tomoeda》 or 《Magic》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_065.png"
+    },
+    {
+        "name": "Sakura: In the Torrential Flame",
+        "code": "CCS/WX01-066",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Tomoeda》 or 《Magic》 characters you have ×1000."
+        ],
+        "flavor_text": "Hah!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_066.png"
+    },
+    {
+        "name": "Tomoyo: Carefree Camerawoman",
+        "code": "CCS/WX01-067",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Video Camera"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Don’t worry about it. Really!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_067.png"
+    },
+    {
         "name": "Sakura: D?j? Vu",
         "code": "CCS/WX01-068",
         "rarity": "C",
@@ -2395,6 +2129,481 @@
         "release": "X01",
         "sid": "071",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_071.png"
+    },
+    {
+        "name": "Secure!",
+        "code": "CCS/WX01-072",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your characters with \"Sakura\" in its card name, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory, and draw up to 1 card.\""
+        ],
+        "flavor_text": "Force without master, heed the call of my Staff of Dreams, and become my power!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_072.png"
+    },
+    {
+        "name": "Clear Card: REFLECT",
+        "code": "CCS/WX01-073",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "4",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have character with \"Sakura\" in its card name, this card cannot be played from your hand.",
+            "Choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: REFLECT\" get +1000 power."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_073.png"
+    },
+    {
+        "name": "Release! REFLECT!",
+        "code": "CCS/WX01-074",
+        "rarity": "CR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I bid you to show me your true form.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_074.png"
+    },
+    {
+        "name": "Hunger Overwhelming",
+        "code": "CCS/WX01-075",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "…...!!!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_075.png"
+    },
+    {
+        "name": "Dress Designer's Delight",
+        "code": "CCS/WX01-076",
+        "rarity": "CC",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Fortunately, I always have a selection of costumes ready and waiting for exactly this type of emergency.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_076.png"
+    },
+    {
+        "name": "Cardcaptor Sakura: SIEGE",
+        "code": "CCS/WX01-077",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Tomoeda》 or 《Magic》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Release! SIEGE!\" is in your climax area, and you have another 《Tomoeda》 or 《Magic》 character, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose up to 2 of your opponent's characters, and those characters get -1 soul until end of turn.\""
+        ],
+        "flavor_text": "Now they’re trapped. Siege!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_077.png"
+    },
+    {
+        "name": "Yue: Moon Guardian",
+        "code": "CCS/WX01-078",
+        "rarity": "RR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Be certain to tell him. Even the smallest things.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_078.png"
+    },
+    {
+        "name": "Sakura: Abashed",
+        "code": "CCS/WX01-079",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of the center stage gets +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_079.png"
+    },
+    {
+        "name": "Akiho: Just Visiting",
+        "code": "CCS/WX01-080",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Birds of a Feather\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "I’m glad I came.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_080.png"
+    },
+    {
+        "name": "Yue",
+        "code": "CCS/WX01-081",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters revealed among those cards ×1000.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_081.png"
+    },
+    {
+        "name": "Yukito: Just Visiting",
+        "code": "CCS/WX01-082",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Tomoeda》 characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Thank you for the hospitality.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_082.png"
+    },
+    {
+        "name": "Sakura: Choices, Choices",
+        "code": "CCS/WX01-083",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When a climax is placed on your climax area, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "How ‘bout…",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_083.png"
+    },
+    {
+        "name": "Yukito: Dual Identity",
+        "code": "CCS/WX01-084",
+        "rarity": "R",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Glasses"
+        ],
+        "ability": [
+            "【AUTO】 Encore [Put 1 《Tomoeda》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+            "【ACT】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] Choose up to 1 \"Yue: Moon Guardian\" in your hand, put it on the stage position that this card was on, and at the beginning of the encore step, return that character to your hand, choose 1 \"Yukito: Dual Identity\" in your memory, and put it on the stage position that character was on."
+        ],
+        "flavor_text": "I'm changing.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_084.png"
+    },
+    {
+        "name": "Yukito & Toya",
+        "code": "CCS/WX01-085",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Glasses"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Yukito: \"I’m staying, too.\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_085.png"
+    },
+    {
+        "name": "Sakura: Lunch Break",
+        "code": "CCS/WX01-086",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Akiho: Just Visiting\", put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "Sakura: \"Before Hong Kong, she was in France. Before that, Germany, and... uh…\"",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_086.png"
+    },
+    {
+        "name": "Akiho: New Transfer Student",
+        "code": "CCS/WX01-087",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your stock] Choose up to 1 \"Sakura: Hospitable\" in your hand, and put it on the stage position that this card was on.\"",
+            "【AUTO】 Bond/\"Sakura: Hospitable\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Sakura: Hospitable\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I’m Akiho Shinomoto. I’m excited to be here.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_087.png"
+    },
+    {
+        "name": "Sakura: Hospitable",
+        "code": "CCS/WX01-088",
+        "rarity": "U",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "9500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 This card gets -2 level while on the stage.",
+            "【CONT】 This card gets +2000 power for each of your other \"Sakura: Hospitable\" on your center stage."
+        ],
+        "flavor_text": "Let’s eat in my room. I even made iced tea, too.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_088.png"
     },
     {
         "name": "Cardcaptor Sakura: AQUA",
@@ -2587,92 +2796,58 @@
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_095.png"
     },
     {
-        "name": "Lunch Break",
-        "code": "CCS/WX01-030",
-        "rarity": "CR",
+        "name": "Clear Card: SIEGE",
+        "code": "CCS/WX01-096",
+        "rarity": "U",
         "expansion": "Cardcaptor Sakura : Clear Card",
         "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+            "If you do not have a character with \"Sakura\" in its card name, this card cannot be played from your hand.",
+            "All of your opponent's or your characters without \"Sakura\" in its card name get the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another stage position.\" Put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your \"Cardcaptor Sakura: SIEGE\" get +1000 power."
         ],
-        "flavor_text": "Akiho: \"So what events are in the tournament, then?\"",
+        "flavor_text": "Sakura: \"Enclose it! Siege, go!\"",
         "set": "CCS",
         "release": "X01",
-        "sid": "030",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_030.png"
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_096.png"
     },
     {
-        "name": "Release! RECORD!",
-        "code": "CCS/WX01-054",
-        "rarity": "CR",
+        "name": "Mysterious Hooded Figure",
+        "code": "CCS/WX01-097",
+        "rarity": "U",
         "expansion": "Cardcaptor Sakura : Clear Card",
         "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
         "power": "-",
         "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
+        "trigger": [],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+            "Choose 1 of your 【STAND】 characters with \"Sakura\" in its card name, and 【REST】 it. If you do, choose 1 card in your clock, and return it to your hand. Put this card into your memory."
         ],
-        "flavor_text": "Key, that hides the forces of dreams...",
+        "flavor_text": "-",
         "set": "CCS",
         "release": "X01",
-        "sid": "054",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_054.png"
-    },
-    {
-        "name": "Release! REFLECT!",
-        "code": "CCS/WX01-074",
-        "rarity": "CR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "I bid you to show me your true form.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "074",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_074.png"
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_097.png"
     },
     {
         "name": "Release! SIEGE!",
@@ -2703,181 +2878,6 @@
         "release": "X01",
         "sid": "098",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_098.png"
-    },
-    {
-        "name": "Flower Viewing",
-        "code": "CCS/WX01-031",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Yamazaki: \"So, rolled omelets! They’re like Castella.\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "031",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_031.png"
-    },
-    {
-        "name": "Release! GALE!",
-        "code": "CCS/WX01-032",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "YELLOW",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "RETURN"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
-        ],
-        "flavor_text": "Sakura: \"The key, it’s shining!\"",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "032",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_032.png"
-    },
-    {
-        "name": "Intertwining Hearts",
-        "code": "CCS/WX01-055",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "POOL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【POOL】: When this card triggers, you may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "055",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_055.png"
-    },
-    {
-        "name": "Fire God, Come Forth!",
-        "code": "CCS/WX01-056",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "GREEN",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "TREASURE"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "056",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_056.png"
-    },
-    {
-        "name": "Hunger Overwhelming",
-        "code": "CCS/WX01-075",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "…...!!!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "075",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_075.png"
-    },
-    {
-        "name": "Dress Designer's Delight",
-        "code": "CCS/WX01-076",
-        "rarity": "CC",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Climax",
-        "color": "RED",
-        "level": "-",
-        "cost": "-",
-        "power": "-",
-        "soul": 0,
-        "trigger": [
-            "COMEBACK"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul.",
-            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
-        ],
-        "flavor_text": "Fortunately, I always have a selection of costumes ready and waiting for exactly this type of emergency.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "076",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_076.png"
     },
     {
         "name": "Otherworldly Encounter",
@@ -2936,6 +2936,190 @@
         "release": "X01",
         "sid": "100",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_100.png"
+    },
+    {
+        "name": "Mini Sakura: School Uniform",
+        "code": "CCS/WX01-101",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Tomoeda》 or 《Magic》 characters get +1000 power.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "See ya!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_101.png"
+    },
+    {
+        "name": "Mini Sakura: White Dress",
+        "code": "CCS/WX01-102",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +X power until the end of your opponent's next turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×500."
+        ],
+        "flavor_text": "Kay!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_102.png"
+    },
+    {
+        "name": "Mini Sakura: Pink Dress",
+        "code": "CCS/WX01-103",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
+        ],
+        "flavor_text": "It’s been a long time since I’ve used this.",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_103.png"
+    },
+    {
+        "name": "Mini Sakura: Oriental Dress",
+        "code": "CCS/WX01-104",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Tomoeda》 or 《Magic》 character, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "The trees in the courtyard were moving!",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_104.png"
+    },
+    {
+        "name": "Sakura: Amphibian Apparel",
+        "code": "CCS/WX01-BSF2019-02",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "BSF2019-02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BCS2018-WS02EN.png"
+    },
+    {
+        "name": "Sakura & Kero",
+        "code": "CCS/WX01-P01",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card  attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "P01",
+        "image": "https://tcgplayer-cdn.tcgplayer.com/product/205839_200w.jpg"
+    },
+    {
+        "name": "Sakura & Akiho",
+        "code": "CCS/WX01-P02",
+        "rarity": "PR",
+        "expansion": "Cardcaptor Sakura : Clear Card",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Tomoeda"
+        ],
+        "ability": [
+            "If your stock has two or less cards, this card gets +1 level and +1000 power."
+        ],
+        "flavor_text": "-",
+        "set": "CCS",
+        "release": "X01",
+        "sid": "P02",
+        "image": "https://tcgplayer-cdn.tcgplayer.com/product/205840_200w.jpg"
     },
     {
         "name": "Syaoran: Athletic",
@@ -3486,189 +3670,5 @@
         "release": "X01",
         "sid": "T20",
         "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_T20.png"
-    },
-    {
-        "name": "Mini Sakura: School Uniform",
-        "code": "CCS/WX01-101",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [
-            "SOUL"
-        ],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 All of your other 《Tomoeda》 or 《Magic》 characters get +1000 power.",
-            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1 soul until end of turn."
-        ],
-        "flavor_text": "See ya!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "101",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_101.png"
-    },
-    {
-        "name": "Mini Sakura: White Dress",
-        "code": "CCS/WX01-102",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "1",
-        "cost": "0",
-        "power": "4500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When a climax is placed on your climax area, this card gets +X power until the end of your opponent's next turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×500."
-        ],
-        "flavor_text": "Kay!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "102",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_102.png"
-    },
-    {
-        "name": "Mini Sakura: Pink Dress",
-        "code": "CCS/WX01-103",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "RED",
-        "level": "1",
-        "cost": "1",
-        "power": "5500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
-        ],
-        "flavor_text": "It’s been a long time since I’ve used this.",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "103",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_103.png"
-    },
-    {
-        "name": "Mini Sakura: Oriental Dress",
-        "code": "CCS/WX01-104",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "1",
-        "cost": "0",
-        "power": "5000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Tomoeda》 or 《Magic》 character, this card gets +2000 power until end of turn."
-        ],
-        "flavor_text": "The trees in the courtyard were moving!",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "104",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/CCS_WX01_104.png"
-    },
-    {
-        "name": "Sakura & Kero",
-        "code": "CCS/WX01-P01",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "power": "2000",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 When this card  attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "P01",
-        "image": "https://tcgplayer-cdn.tcgplayer.com/product/205839_200w.jpg"
-    },
-    {
-        "name": "Sakura & Akiho",
-        "code": "CCS/WX01-P02",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda"
-        ],
-        "ability": [
-            "If your stock has two or less cards, this card gets +1 level and +1000 power."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "P02",
-        "image": "https://tcgplayer-cdn.tcgplayer.com/product/205840_200w.jpg"
-    },
-    {
-        "name": "Sakura: Amphibian Apparel",
-        "code": "CCS/WX01-BSF2019-02",
-        "rarity": "PR",
-        "expansion": "Cardcaptor Sakura : Clear Card",
-        "side": "W",
-        "type": "Character",
-        "color": "Yellow",
-        "level": "0",
-        "cost": "0",
-        "power": "2500",
-        "soul": 1,
-        "trigger": [],
-        "attributes": [
-            "Tomoeda",
-            "Magic"
-        ],
-        "ability": [
-            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
-        ],
-        "flavor_text": "-",
-        "set": "CCS",
-        "release": "X01",
-        "sid": "BSF2019-02",
-        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BCS2018-WS02EN.png"
     }
 ]
