@@ -1,0 +1,3519 @@
+[
+    {
+        "name": "\"Talent for Magic\" Rudeus",
+        "code": "MTI/S83-E001",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage."
+        ],
+        "flavor_text": "Oh, dear magnificent water spirit, the thunder god which rose to heaven! Grant my wish and lend us your ferocious blessings. Show the insignificant beings your power!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E001.png"
+    },
+    {
+        "name": "\"Living Earnestly\" Rudeus",
+        "code": "MTI/S83-E002",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Six-Sided World》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\""
+        ],
+        "flavor_text": "※「男」\nI know that it wasn't on purpose... But, I respect that petite girl.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E002.png"
+    },
+    {
+        "name": "\"In the Sunlight\" Rudeus",
+        "code": "MTI/S83-E003",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Little Magician\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\"",
+            "【ACT】 [(1) Put 1 \"\"Talented Swordsman\" Paul\" from your hand into your waiting room & 【REST】 2 of your 《Six-Sided World》 characters] Choose up to 2 《Maid》 or 《Younger Sister》 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "Sylph! Wait up!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E003.png"
+    },
+    {
+        "name": "\"Adventurer Party Dead End\" Rudeus",
+        "code": "MTI/S83-E004",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"Adventurer Party Dead End\" Eris\" and \"\"Adventurer Party Dead End\" Ruijerd\" get +2000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Six-Sided World》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Hey hey! Are you guys here really adventurers?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E004.png"
+    },
+    {
+        "name": "\"Daily Growth\" Rudeus",
+        "code": "MTI/S83-E005",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put 1 \"\"Talent for Magic\" Rudeus\" from your hand into your waiting room] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to 1 \"From Master to Disciple\", put it on your climax area, and shuffle your deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into their stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Such a valuable item... Thank you so much!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E005.png"
+    },
+    {
+        "name": "\"Words of Encouragement\" Rudeus",
+        "code": "MTI/S83-E006",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"\"Things I Can Give You\" Roxy\" in your back stage, this card gets +3000 power and +1 soul.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Aqua Heartia\" is in your climax area, and you have another 《Six-Sided World》 character, choose 1 《Six-Sided World》 character in your waiting room, return it to your hand, and this card gets the following ability until end of turn. \"【AUTO】 When damage dealt by this card is canceled, this card gets +4000 power until the end of your opponent's next turn.\""
+        ],
+        "flavor_text": "Master, you did not fail. You are just gaining experience.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E006.png"
+    },
+    {
+        "name": "\"Life's Starting Line\" Rudeus",
+        "code": "MTI/S83-E007",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "Wow...!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E007.png"
+    },
+    {
+        "name": "\"Courageous Young Man\" Rudeus",
+        "code": "MTI/S83-E008",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Six-Sided World》 characters get +500 power.",
+            "【ACT】 Experience [【REST】 this card] If \"\"Living Earnestly\" Rudeus\" is in your level, draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Stop it...!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E008.png"
+    },
+    {
+        "name": "\"Just a Child\" Rudeus",
+        "code": "MTI/S83-E009",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 [(4) Put 1 《Six-Sided World》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and 【REST】 it.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Uiiiee~!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E009.png"
+    },
+    {
+        "name": "\"Talented Swordsman\" Paul",
+        "code": "MTI/S83-E010",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage, all of your 《Six-Sided World》 characters get +1500 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+            "【AUTO】 [Put 1 character from your hand into your waiting room] This ability activates up to 1 time per turn. During this card's battle, when the damage you received is canceled, put the top card of your deck into your waiting room. If that card has in its trigger icon, you may pay the cost. If you do, deal the same damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "※「男」\nPaul is trash, to say the least. But I recognize this man despite all his flaws. Why? Because he is strong.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E010.png"
+    },
+    {
+        "name": "\"Friends\" Rudeus",
+        "code": "MTI/S83-E011",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Six-Sided World》 character in the middle position of your center stage gets +1500 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"\"Overflowing Tears\" Sylphiette\" from your hand into your waiting room] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to 1 \"The Smile You Gave\", put it on your climax area, and shuffle your deck."
+        ],
+        "flavor_text": "※「男」\nHe looks like someone who can't refuse others. I guess if an older guy was into young boys he would be completely smitten by him.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E011.png"
+    },
+    {
+        "name": "\"Unraveling Heart\" Lilia",
+        "code": "MTI/S83-E012",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Maid"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\"",
+            "【ACT】 [Put 1 event card from your hand into your waiting room & 【REST】 this card] Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "※「男」\nAfter that day, Lilia began opening up to me. Surprisingly, Lilia and Paul studied swordsmanship together in the same training hall during her younger days.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E012.png"
+    },
+    {
+        "name": "\"Offering a Hand\" Rudeus",
+        "code": "MTI/S83-E013",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Six-Sided World》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "May I have this dance?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E013.png"
+    },
+    {
+        "name": "Aisha & Norn",
+        "code": "MTI/S83-E014",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Younger Sister"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\"",
+            "【AUTO】 When your other 《Six-Sided World》 character attacks, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Paul: \"Look it's papa~\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E014.png"
+    },
+    {
+        "name": "\"Blessed With Life\" Zenith",
+        "code": "MTI/S83-E015",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 Bond/\"\"Living Earnestly\" Rudeus\" \"\"Talented Swordsman\" Paul\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Living Earnestly\" Rudeus\" or \"\"Talented Swordsman\" Paul\" in your waiting room, and return it to your hand)",
+            "【ACT】 [【REST】 this card] Choose 1 of your \"\"Living Earnestly\" Rudeus\" or \"\"Talented Swordsman\" Paul\", and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "Hello. Nice to meet you.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E015.png"
+    },
+    {
+        "name": "Holy Relic",
+        "code": "MTI/S83-E016",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【AUTO】 Memory At the beginning of your climax phase, if this card is in your memory, choose 1 of your characters with \"Rudeus(ルーデウス)\" in its card name, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "※「男」\nThose are the panties I stole from Roxy a few months ago... I'm sorry.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E016.png"
+    },
+    {
+        "name": "Figure Making",
+        "code": "MTI/S83-E017a",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Put this card into your memory. Choose up to X 《Six-Sided World》 characters in your waiting room, and return them to your hand. X is equal to the number of \"Figure Making\" in your memory."
+        ],
+        "flavor_text": "Rudeus: \"It's done! Fufu... This is well-made, even if I say so myself.\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E017a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E017a.png"
+    },
+    {
+        "name": "Man-God",
+        "code": "MTI/S83-E018",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "5",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Perform the following effects 1 time each in any order. \"Choose 1 of your opponent's characters, 【STAND】 it, and move it to another open position of their stage, or choose another of your opponent's characters, and exchange them as 【STAND】.\" \"Your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.\" \"Your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, and shuffles their deck.\""
+        ],
+        "flavor_text": "Ahahahaha...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E018.png"
+    },
+    {
+        "name": "Aqua Heartia",
+        "code": "MTI/S83-E019",
+        "rarity": "CR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. ( When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Oh gather, magical power!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E019.png"
+    },
+    {
+        "name": "Little Magician",
+        "code": "MTI/S83-E020",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. ( When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "I request upon here the great blessing of water. Come now, refreshing stream of water... \"Water Ball\".",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E020.png"
+    },
+    {
+        "name": "\"Smile to Be Protected\" Sylphiette",
+        "code": "MTI/S83-E021",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Six-Sided World》 characters get +500 power.",
+            "【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "※「男」\nI must put all my effort into treasuring this friend that I have made in this new world.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E021.png"
+    },
+    {
+        "name": "\"Pure and Innocent Heart\" Sylphiette",
+        "code": "MTI/S83-E022",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"The Smile You Gave\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【AUTO】 Memory When this card attacks, if \"\"Smile to Be Protected\" Sylphiette\" is in your memory, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Ahaha! Fufu-!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E022.png"
+    },
+    {
+        "name": "\"Warrior of Superd Race\" Ruijerd",
+        "code": "MTI/S83-E023",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all of your opponent's characters get -X power until end of turn. X is equal to that character's level ×1000.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Dead End\" is in your climax area, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of their deck in any order, put the rest into their waiting room, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, put them on the top of your deck in any order, and put the rest into your waiting room."
+        ],
+        "flavor_text": "If I abandoned you here, it would be a disgrace to the Superd race. Well... Not like we have a good reputation in the first place.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E023.png"
+    },
+    {
+        "name": "\"Angel's Haven\" Sylphiette",
+        "code": "MTI/S83-E024",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"\"Smile to Be Protected\" Sylphiette\" is in your memory, all of your other 《Six-Sided World》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Haa... Ha...Ha...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E024.png"
+    },
+    {
+        "name": "\"Eye on the Forehead\" Ruijerd",
+        "code": "MTI/S83-E025",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Ah, you're right.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E025.png"
+    },
+    {
+        "name": "\"Adventurer Party Dead End\" Ruijerd",
+        "code": "MTI/S83-E026",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【CONT】 If you have \"\"Adventurer Party Dead End\" Rudeus\" and \"\"Adventurer Party Dead End\" Eris\", this card gets -1 level while in your hand.",
+            "【CONT】 If you have \"\"Adventurer Party Dead End\" Rudeus\" and \"\"Adventurer Party Dead End\" Eris\", this card gets +1 soul and the following abilities. \"【CONT】 During this card's battle, your opponent cannot play event cards from their hand.\" \"【AUTO】 When this card direct attacks, you may choose 1 《Six-Sided World》 character in your waiting room, and put it into your stock.\""
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E026.png"
+    },
+    {
+        "name": "\"Tomboyish Childhood Friend\" Sylphiette",
+        "code": "MTI/S83-E027",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Memory If your memory has 2 or more \"\"Smile to Be Protected\" Sylphiette\", this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E027.png"
+    },
+    {
+        "name": "\"Battle Stance\" Ruijerd",
+        "code": "MTI/S83-E028",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【CONT】 If \"\"Talent for Magic\" Rudeus\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the bottom card of your clock into your waiting room.",
+            "【AUTO】 Change [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 1 \"\"Warrior of Superd Race\" Ruijerd\" in your hand, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "It's so frustrating... Don't they realize that they are surrounded by monsters?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E028.png"
+    },
+    {
+        "name": "\"Quarter-Elf Girl\" Sylphiette",
+        "code": "MTI/S83-E029",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【CONT】 Memory If your memory has 3 or more cards, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Future Magician\" is in your climax area, and you have 2 or more other 《Six-Sided World》 characters, put up to 1 card from the top of your clock into your waiting room, and this card gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -1 soul.\""
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E029.png"
+    },
+    {
+        "name": "\"Pretty Boy?\" Sylphiette",
+        "code": "MTI/S83-E030",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "※「男」\nMy, what a surprise! A shockingly pretty boy. I guess if an older woman was into young boys she would be completely smitten by him.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E030.png"
+    },
+    {
+        "name": "Adventurer's Guild Receptionist",
+        "code": "MTI/S83-E031",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Guild"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Six-Sided World》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "Are you sure you are ok with \"Dead End\" as your party name?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E031.png"
+    },
+    {
+        "name": "Tokurabu Toughs",
+        "code": "MTI/S83-E032a",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put it on any position of your back stage.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Bachirou!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E032a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E032a.png"
+    },
+    {
+        "name": "P Hunter",
+        "code": "MTI/S83-E033a",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Dead End's Ruijerd\".",
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E033a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E033a.png"
+    },
+    {
+        "name": "\"Magic Practice\" Sylphiette",
+        "code": "MTI/S83-E034",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if there is a card in your memory, this card gets +2500 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\"",
+            "【CONT】 Experience If \"\"Living Earnestly\" Rudeus\" is in your level, this card gets +1000 power and the following ability. \"【CONT】 This card can be played from your hand without fulfilling color requirements.\""
+        ],
+        "flavor_text": "Teach that to me!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E034.png"
+    },
+    {
+        "name": "\"Sparkly Eyes\" Sylphiette",
+        "code": "MTI/S83-E035",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" in its card name, this card gets +6000 power.",
+            "【AUTO】 【CXCOMBO】 [(1) Put this card into your memory] When \"Future Magician\" is placed on your climax area, if you have a 《Six-Sided World》 character, you may pay the cost. If you do, choose 1 \"\"Quarter-Elf Girl\" Sylphiette\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Uwaa......!!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E035.png"
+    },
+    {
+        "name": "\"Feared Race\" Ruijerd",
+        "code": "MTI/S83-E036",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Superd's Soul\" in your waiting room, and return it to your hand.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 0 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E036.png"
+    },
+    {
+        "name": "Nokopara",
+        "code": "MTI/S83-E037",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "See. You. Soon! Newbie!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E037.png"
+    },
+    {
+        "name": "\"Overflowing Tears\" Sylphiette",
+        "code": "MTI/S83-E038",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "N-No...! Please don't go...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E038.png"
+    },
+    {
+        "name": "\"Alone Time for Two\" Sylphiette",
+        "code": "MTI/S83-E039",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" or \"Sylphiette(シルフィエット)\" in its card name, this card gets +3000 power."
+        ],
+        "flavor_text": "Sorry, did you wait long?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E039.png"
+    },
+    {
+        "name": "\"Friends\" Sylphiette",
+        "code": "MTI/S83-E040",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +1000 power.",
+            "【AUTO】 Memory When this card attacks, if \"\"Smile to Be Protected\" Sylphiette\" is in your memory, choose 1 of your other 《Six-Sided World》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "......Yes...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E040.png"
+    },
+    {
+        "name": "\"Intense Outrage\" Ruijerd",
+        "code": "MTI/S83-E041",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Six-Sided World》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "You are wrong! That isn't the truth. It is a scheme of Laplace's!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E041.png"
+    },
+    {
+        "name": "\"Studying with Rudy\" Sylphiette",
+        "code": "MTI/S83-E042",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your memory has 2 or less cards, you may choose 1 \"\"Smile to Be Protected\" Sylphiette\" in your waiting room, and put it into your memory.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Huh?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E042.png"
+    },
+    {
+        "name": "\"In the Sunlight\" Sylphiette",
+        "code": "MTI/S83-E043",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Six-Sided World》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it in your waiting room."
+        ],
+        "flavor_text": "Rudy, what shall we do today?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E043.png"
+    },
+    {
+        "name": "\"Wounded Pride\" Ruijerd",
+        "code": "MTI/S83-E044",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Warrior"
+        ],
+        "ability": [
+            "【CONT】 Memory If \"Superd's Soul\" is in your memory, this card gets +4500 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Children and Warriors\" is in your climax area, choose up to 1 《Six-Sided World》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is \"Superd's Soul\" or a 《Six-Sided World》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "You never learn. Do I seem that untrustworthy?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E044.png"
+    },
+    {
+        "name": "Superd's Soul",
+        "code": "MTI/S83-E045",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your characters, and that character gets +4000 power until end of turn. Put this card into your memory.",
+            "【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "This spear is the soul of my son who sacrificed himself to save me from the curse. The Superd's notoriety is our punishment for our carelessness in believing Laplace and accepting his cursed spears.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E045.png"
+    },
+    {
+        "name": "Sylph",
+        "code": "MTI/S83-E046",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you have 1 or less 《Six-Sided World》 characters, this card cannot be played from your hand.",
+            "Choose 1 of the following effects, and perform it.",
+            "\"Choose 1 of your characters, and that character gets +4000 power until end of turn.\"",
+            "\"You may choose 1 \"Sylph\" in your hand, and put it into your waiting room. If you do, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\"\""
+        ],
+        "flavor_text": "Rudeus: \"You'll catch a cold if you don't hurry.\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E046.png"
+    },
+    {
+        "name": "The Smile You Gave",
+        "code": "MTI/S83-E047",
+        "rarity": "CR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Sylphiette: \"I've done it! I've done it!\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E047.png"
+    },
+    {
+        "name": "Dead End",
+        "code": "MTI/S83-E048",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E048.png"
+    },
+    {
+        "name": "Future Magician",
+        "code": "MTI/S83-E049",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "I did it!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E049.png"
+    },
+    {
+        "name": "Children and Warriors",
+        "code": "MTI/S83-E050",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with level equal to or lower than your level in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Ruijerd: \"Well then...\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E050.png"
+    },
+    {
+        "name": "\"Swordsman of Beauty\" Eris",
+        "code": "MTI/S83-E051",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if there is a marker underneath this card, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"You Can't Buy Dere With Money!\" or a 《Six-Sided World》 character, you may put it face down underneath this card as a marker. (Otherwise, return to its original place)",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other characters, 【REST】 it, and move it to an open position in your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E051.png"
+    },
+    {
+        "name": "\"Violent Tsundere Young Lady\" Eris",
+        "code": "MTI/S83-E052",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Six-Sided World》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Eris's Request\" is placed on your climax area, if this card is in your center stage, and you have another 《Six-Sided World》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Six-Sided World》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "How conceited!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E052.png"
+    },
+    {
+        "name": "\"Strong Swordswoman\" Ghislaine",
+        "code": "MTI/S83-E053",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 4 or more other 《Six-Sided World》 characters, this card gets +5000 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play event cards or \"Backup\" from their hand.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"Right Demon Eye\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "I swear upon the names of my master, Sword God Gal Farion and my clan Dedoldia!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E053.png"
+    },
+    {
+        "name": "\"Seductive Invitation\" Eris",
+        "code": "MTI/S83-E054",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "※「男」\nSuch smooth hair. Her daily training means that her hair is usually more unkempt.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E054.png"
+    },
+    {
+        "name": "\"Swordsmanship Coach\" Ghislaine",
+        "code": "MTI/S83-E055",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters.",
+            "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Use your legs more! Don't only move your hands!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E055.png"
+    },
+    {
+        "name": "\"Sword God Style\" Ghislaine",
+        "code": "MTI/S83-E056",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Rudeus! Bring young mistress back to safety!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E056.png"
+    },
+    {
+        "name": "\"Strong Body\" Ghislaine",
+        "code": "MTI/S83-E057",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "5000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Six-Sided World》 character in your back stage.",
+            "【CONT】 All of your other 《Six-Sided World》 characters get +1000 power."
+        ],
+        "flavor_text": "Yeah.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E057.png"
+    },
+    {
+        "name": "\"Boreas Family's Daughter\" Eris",
+        "code": "MTI/S83-E058",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +1500 power and the following ability. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】, you may pay the cost. If you do, return this card to your hand.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"You Can't Buy Dere With Money!\" or a 《Six-Sided World》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Hurry up and follow me.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E058.png"
+    },
+    {
+        "name": "\"Hidden Strength\" Eris",
+        "code": "MTI/S83-E059",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand, choose up to 1 \"Special\" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When damage dealt by this card is not canceled, if \"Special\" is in your climax area, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E059.png"
+    },
+    {
+        "name": "\"Adventurer Party Dead End\" Eris",
+        "code": "MTI/S83-E060",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"\"Adventurer Party Dead End\" Rudeus\" in your back stage, this card gets +2000 power.",
+            "【CONT】 If you have another \"\"Adventurer Party Dead End\" Ruijerd\", this card gets +3000 power."
+        ],
+        "flavor_text": "I can't read this!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E060.png"
+    },
+    {
+        "name": "\"Angelic Sleeping Face\" Eris",
+        "code": "MTI/S83-E061",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room."
+        ],
+        "flavor_text": "Zzz...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E061.png"
+    },
+    {
+        "name": "\"Magic Practice\" Eris",
+        "code": "MTI/S83-E062",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Six-Sided World》 characters, this card gets +2000 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Yes, I did it-!!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E062.png"
+    },
+    {
+        "name": "\"Boreas Family's Bodyguard\" Ghislaine",
+        "code": "MTI/S83-E063",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" or \"Eris(エリス)\" in its card name, this card gets +1500 power.",
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E063.png"
+    },
+    {
+        "name": "\"Beast Race\" Ghislaine",
+        "code": "MTI/S83-E064",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Six-Sided World》 character in your back stage.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 character from your hand into your waiting room] When \"Sword King Ghislaine\" is placed on your climax area, if this card is in your center stage, and you have 2 or more other 《Six-Sided World》 characters, you may pay the cost. If you do, choose 1 level 3 or lower character in your opponent's center stage, put it into their waiting room, and reveal the top card of your deck. If that card is a 《Six-Sided World》 character, choose 1 level 2 or lower character in your opponent's back stage, and put it in their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E064.png"
+    },
+    {
+        "name": "Philip Boreas Greyrat",
+        "code": "MTI/S83-E065",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "5000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Noble"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each marker underneath this card.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 3 \"Beast Race Maids of the Boreas Family\" in your waiting room, and put them face down underneath this card as markers."
+        ],
+        "flavor_text": "I am Philip Boreas Greyrat, the mayor of this town. Paul and I are cousins.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E065.png"
+    },
+    {
+        "name": "Sauros Boreas Greyrat",
+        "code": "MTI/S83-E066",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Noble"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Philip Boreas Greyrat\" in your hand, and put it on the stage position that this card was on.\"",
+            "【AUTO】 Bond/\"\"Violent Tsundere Young Lady\" Eris\" \"Philip Boreas Greyrat\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Violent Tsundere Young Lady\" Eris\" or \"Philip Boreas Greyrat\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "※「男」\nWow, he is identical to Eris... Could it be that Eris became that way because she followed this guy's footsteps?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E066.png"
+    },
+    {
+        "name": "Beast Race Maids of the Boreas Family",
+        "code": "MTI/S83-E067",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 You can put any number of cards with the same card name as this card into your deck.",
+            "【CONT】 All of your other red characters or characters with \"Rudeus (ルーデウス)\" in their card names get +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. If \"Beast Race Maids of the Boreas Family\" is among those cards, search your deck for up to 1 red character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Philip: \"My, you understand the greatness of that?\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E067b.png"
+    },
+    {
+        "name": "Hilda Boreas Greyrat",
+        "code": "MTI/S83-E068",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Noble"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "※「男」\nShe is Philip's wife, huh...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E068.png"
+    },
+    {
+        "name": "\"Study Time\" Eris",
+        "code": "MTI/S83-E069",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 During your turn, this card gets +2000 power."
+        ],
+        "flavor_text": "How about this!?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E069.png"
+    },
+    {
+        "name": "\"Magic Practice\" Ghislaine",
+        "code": "MTI/S83-E070",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your 《Six-Sided World》 characters, and that character gets the following ability until end of turn. \"【AUTO】 At the beginning of your attack phase, choose 1 of your other \"\"Insolence\" Eris\", and 【STAND】 it.\""
+        ],
+        "flavor_text": "I request upon here the great blessing of fire. Come now, warmth of bold light... \"Fire Ball\".",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E070.png"
+    },
+    {
+        "name": "\"Penetrating Gaze\" Eris",
+        "code": "MTI/S83-E071",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is level 0 or lower, choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. (Climax are regarded as level 0)",
+            "【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not become a direct attack)"
+        ],
+        "flavor_text": "You're not quite there yet, Rudeus!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E071.png"
+    },
+    {
+        "name": "\"What Lies Beyond Effort\" Eris",
+        "code": "MTI/S83-E072",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "......Sure.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E072.png"
+    },
+    {
+        "name": "\"Fine Feathers Make Fine Birds\" Eris",
+        "code": "MTI/S83-E073",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Six-Sided World》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "※「男」\nFine feathers make fine birds indeed...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E073.png"
+    },
+    {
+        "name": "\"Insolence\" Eris",
+        "code": "MTI/S83-E074",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E074.png"
+    },
+    {
+        "name": "Fangs of the Black Wolf",
+        "code": "MTI/S83-E075",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand.",
+            "Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand. Choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Our party was called \"Fangs of the Black Wolf\". We had 6 members - 2 swordsmen, a warrior, a thief, a priest, as well as a magician.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E075.png"
+    },
+    {
+        "name": "You Can't Buy Dere With Money!",
+        "code": "MTI/S83-E076",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose up to 1 of your 《Six-Sided World》 characters in battle, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E076.png"
+    },
+    {
+        "name": "Eris's Request",
+        "code": "MTI/S83-E077",
+        "rarity": "CR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E077.png"
+    },
+    {
+        "name": "Right Demon Eye",
+        "code": "MTI/S83-E078",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "...Such tremendous magic power.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E078.png"
+    },
+    {
+        "name": "Special",
+        "code": "MTI/S83-E079",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E079.png"
+    },
+    {
+        "name": "Sword King Ghislaine",
+        "code": "MTI/S83-E080",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E080.png"
+    },
+    {
+        "name": "\"Things I Can Give You\" Roxy",
+        "code": "MTI/S83-E081",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Around here should be fine.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E081.png"
+    },
+    {
+        "name": "\"Warm Gaze\" Roxy",
+        "code": "MTI/S83-E082",
+        "rarity": "RR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 At the end of this card's attack, if \"Blessing\" is in your climax area, and you have another 《Six-Sided World》 character, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"Choose 2 cards in your hand, and put them into your waiting room. If you put 2 cards into your waiting room, deal 3 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E082.png"
+    },
+    {
+        "name": "\"Audible Gasps\" Roxy",
+        "code": "MTI/S83-E083",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top and bottom cards of your opponent's deck. (Return the cards you saw to their original place)",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Amulet of Migurd Race\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Haa...Haa...Haa...Nngh.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E083.png"
+    },
+    {
+        "name": "\"Future Guide\" Roxy",
+        "code": "MTI/S83-E084",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Six-Sided World》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Look. You can see the small mountain over there, right?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E084.png"
+    },
+    {
+        "name": "\"Culinary Class\" Roxy",
+        "code": "MTI/S83-E085",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"\"Migurd Race Magician\" Roxy\" in your hand, and put it on the stage position this card was on.\"",
+            "【CONT】 All of your other \"\"Jobless Reincarnation\" Rudeus\" get +1000 power.",
+            "【CONT】 All of your other 《Six-Sided World》 characters get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E085.png"
+    },
+    {
+        "name": "\"In the Sunlight\" Roxy",
+        "code": "MTI/S83-E086",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters.",
+            "【AUTO】 【CXCOMBO】 [(1)] When your character's trigger check reveals \"From Master to Disciple\" or \"Blessing\", you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E086.png"
+    },
+    {
+        "name": "\"Migurd Race Magician\" Roxy",
+        "code": "MTI/S83-E087",
+        "rarity": "R",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "3500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E087.png"
+    },
+    {
+        "name": "\"Composing a Letter\" Roxy",
+        "code": "MTI/S83-E088",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, this card's soul does not decrease by side attacking until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, choose 1 of your 《Six-Sided World》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Dear Rudeus. I have read your letter.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E088.png"
+    },
+    {
+        "name": "Almanfi the Radiant",
+        "code": "MTI/S83-E089",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Familiar"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Almanfi the Radiant\" in your memory, and put it on any position on your stage."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E089.png"
+    },
+    {
+        "name": "Pax Shirone",
+        "code": "MTI/S83-E090",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character with \"Roxy(ロキシー)\" in its card name, this card cannot attack.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "Roxy: \"Speaking of which, the prince bought this sculpture which looks exactly like me the other day. The robe was removable, and its body was identical to mine down to the positions of the moles.\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E090.png"
+    },
+    {
+        "name": "\"Rudy's Home Tutor\" Roxy",
+        "code": "MTI/S83-E091",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Six-Sided World》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Cumulonimbus\" is in your climax area, perform the following action 2 times. \"Reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, put it into your hand.\" (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "You rarely encounter monsters around here.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E091.png"
+    },
+    {
+        "name": "Kishirika Kishirisu",
+        "code": "MTI/S83-E092",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Great Demon Emperor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, choose up to 1 card from among them, put it at the bottom of their deck, put the rest on top of their deck in any order, and this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Six-Sided World》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "The Empress of the Demon Realm! Kishirika Kishirisu!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E092.png"
+    },
+    {
+        "name": "\"Mischievous Smile\" Roxy",
+        "code": "MTI/S83-E093",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Six-Sided World》, this card gets +1000 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "...Oh? You're scared, aren't you? Of the horses.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E093.png"
+    },
+    {
+        "name": "Rokari Migurdia",
+        "code": "MTI/S83-E094",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Demon Continent"
+        ],
+        "ability": [
+            "【AUTO】 Bond/ \"\"Warm Gaze\" Roxy\" \"Rowin Migurdia\" [(1)]",
+            "(When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Warm Gaze\" Roxy\" or \"Rowin Migurdia\" in your waiting room, and return it to your hand)",
+            "【AUTO】 Resonate [Reveal 1 \"Rowin Migurdia\" in your hand] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, all of your other characters get +2000 power until end of turn."
+        ],
+        "flavor_text": "Such flattery. I'm already 1-2 years old.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E094.png"
+    },
+    {
+        "name": "Rowin Migurdia",
+        "code": "MTI/S83-E095",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Demon Continent"
+        ],
+        "ability": [
+            "【AUTO】 Bond/ \"\"Things I Can Give You\" Roxy\" \"Rokari Migurdia\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Things I Can Give You\" Roxy\" or \"Rokari Migurdia\" in your waiting room, and return it to your hand)",
+            "【AUTO】 Resonate [Reveal 1 \"Rokari Migurdia\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E095.png"
+    },
+    {
+        "name": "Orsted",
+        "code": "MTI/S83-E096",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Dragon God"
+        ],
+        "ability": [
+            "【CONT】 If you have 1 or less other characters in your center stage, this card gets +3500 power, and the character facing this card gets the following ability. \"【CONT】 This card gets -1 level while in the stage.\"",
+            "【CONT】 The character facing this card gets the following ability. \"【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.\""
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E096.png"
+    },
+    {
+        "name": "\"Cringe\" Roxy",
+        "code": "MTI/S83-E097",
+        "rarity": "C",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Experience If \"\"Living Earnestly\" Rudeus\" is in your level, this card gets +2000 power, and \"【AUTO】 Encore [Put 1 《Six-Sided World》 character from your hand into your waiting room] \".",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×1000."
+        ],
+        "flavor_text": "......?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E097.png"
+    },
+    {
+        "name": "Amulet of Migurd Race",
+        "code": "MTI/S83-E098",
+        "rarity": "U",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Roxy(ロキシー)\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. If you put a character into your hand, choose 1 card in your hand, and put it into your waiting room. Put this card into your memory.",
+            "【AUTO】 Memory [Put this card into your waiting room] When you level up, if this card is in your memory, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Roxy: \"This is an amulet from my hometown. I didn't have time to prepare a gift for your graduation, so you would have to make do with this.\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E098.png"
+    },
+    {
+        "name": "Blessing",
+        "code": "MTI/S83-E099",
+        "rarity": "CR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Congratulations. You are now a saint-level water magician.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E099.png"
+    },
+    {
+        "name": "Cumulonimbus",
+        "code": "MTI/S83-E100",
+        "rarity": "CC",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E100.png"
+    },
+    {
+        "name": "Rudeus Greyrat",
+        "code": "MTI/S83-E101",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Nice to meet you, I am Rudeus Greyrat.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E101.png"
+    },
+    {
+        "name": "Sylphiette",
+        "code": "MTI/S83-E102",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Six-Sided World》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "......Syl...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E102.png"
+    },
+    {
+        "name": "Ghislaine Dedoldia",
+        "code": "MTI/S83-E103",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character, this card gets +1 level and +1500 power.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "Name's Ghislaine. Will be in your care from tomorrow on.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E103.png"
+    },
+    {
+        "name": "Eris Boreas Greyrat",
+        "code": "MTI/S83-E104",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "9000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When your other 《Six-Sided World》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×500."
+        ],
+        "flavor_text": "I will specially allow you to call me \"Eris\"!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E104.png"
+    },
+    {
+        "name": "Roxy Migurdia",
+        "code": "MTI/S83-E105",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [【REST】 1 of your other 《Six-Sided World》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, and exchange them."
+        ],
+        "flavor_text": "I'm Roxy Migurdia. I will be in your care.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E105.png"
+    },
+    {
+        "name": "\"The Beautiful Scenery of Buena Village\" Roxy & Rudeus",
+        "code": "MTI/S83-PE02",
+        "rarity": "PR",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Roxy & Rudeus: \"Good day!\"",
+        "set": "MTI",
+        "release": "83",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_PE02.png"
+    },
+    {
+        "name": "\"Good Wife, Wise Mother\" Zenith",
+        "code": "MTI/S83-TE01",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"The Beginning of a New Life\" Rudeus\" and \"\"Sword Training\" Paul\" get +1000 power.",
+            "【AUTO】 Bond/\"\"The Beginning of a New Life\" Rudeus\" \"\"Sword Training\" Paul\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"The Beginning of a New Life\" Rudeus\" or \"\"Sword Training\" Paul\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Well, we should introduce ourselves first.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE01.png"
+    },
+    {
+        "name": "\"Graduation Exam\" Rudeus",
+        "code": "MTI/S83-TE02",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Six-Sided World》 characters, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE02.png"
+    },
+    {
+        "name": "Paul Greyrat",
+        "code": "MTI/S83-TE03",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Well, this sword may be too early for you, but a man should always carry a sword inside his heart.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE03.png"
+    },
+    {
+        "name": "Zenith Greyrat",
+        "code": "MTI/S83-TE04",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Six-Sided World》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Six-Sided World》 character in your waiting room, and exchange them."
+        ],
+        "flavor_text": "As expected, our son is a genius!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE04.png"
+    },
+    {
+        "name": "Lilia Greyrat",
+        "code": "MTI/S83-TE05",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Maid"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Milady, it's a little hard to say... But I suspect young master Rudeus is... Possessed by something evil...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE05.png"
+    },
+    {
+        "name": "\"Jobless Reincarnation\" Rudeus",
+        "code": "MTI/S83-TE06",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"From Master to Disciple\" is in your climax area, and the total level of the cards in your level is 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Huuuuh... Haaaah.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE06.png"
+    },
+    {
+        "name": "\"The Beginning of a New Life\" Rudeus",
+        "code": "MTI/S83-TE07",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "※「男」\n...What?",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE07.png"
+    },
+    {
+        "name": "\"Magic Practice\" Rudeus",
+        "code": "MTI/S83-TE08",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Hehe! I did it! It flew-!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE08.png"
+    },
+    {
+        "name": "\"Sword Training\" Paul",
+        "code": "MTI/S83-TE09",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Swordsman"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×1000.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE09.png"
+    },
+    {
+        "name": "\"Chant\" Rudeus",
+        "code": "MTI/S83-TE10",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1000 power and cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Six-Sided World》 characters you have."
+        ],
+        "flavor_text": "I request upon here the great blessing of water...Hah!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE10.png"
+    },
+    {
+        "name": "Previous Life's Trauma",
+        "code": "MTI/S83-TE11",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "－",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand.",
+            "Choose 1 of the following effects, and perform it. \"Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Choose 1 of your 《Six-Sided World》 characters, and that character gets +3500 power until the end of your opponent's next turn. That character cannot 【STAND】 during your next stand phase.\""
+        ],
+        "flavor_text": "※「男」\nIf I look outside it all comes back to me. The memories of those days...",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE11.png"
+    },
+    {
+        "name": "From Master to Disciple",
+        "code": "MTI/S83-TE12",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Oh...!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE12.png"
+    },
+    {
+        "name": "Amidst the Passing Days",
+        "code": "MTI/S83-TE13",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE13.png"
+    },
+    {
+        "name": "\"Loli, Scornful Eyes, Unfriendly\" Roxy",
+        "code": "MTI/S83-TE14",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Six-Sided World》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "※「男」\nLoli, scornful eyes, unfriendly, a perfect combination. I really want to make her my wife.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE14.png"
+    },
+    {
+        "name": "\"Demon Race\" Roxy",
+        "code": "MTI/S83-TE15",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "My hair looks green under varying lighting conditions.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE15.png"
+    },
+    {
+        "name": "\"Depressed Feelings\" Roxy",
+        "code": "MTI/S83-TE16",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, your opponent may put the top 2 cards of their stock into their waiting room. If they do, this card cannot frontal attack until end of turn."
+        ],
+        "flavor_text": "Rudy, you will understand some day.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE16.png"
+    },
+    {
+        "name": "\"Welcome Party\" Roxy",
+        "code": "MTI/S83-TE17",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, this card gets +1000 power for each other 《Six-Sided World》 character in your back stage.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Six-Sided World》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×500."
+        ],
+        "flavor_text": "Wah!",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE17.png"
+    },
+    {
+        "name": "\"Unexpected Failure\" Roxy",
+        "code": "MTI/S83-TE18",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Six-Sided World》 character in your waiting room, and exchange them."
+        ],
+        "flavor_text": "-",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE18.png"
+    },
+    {
+        "name": "\"Chant\" Roxy",
+        "code": "MTI/S83-TE19",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Six-Sided World",
+            "Magical Arts"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "I request upon here the great blessing of water. Come now, refreshing stream of water... \"Water Ball\".",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE19.png"
+    },
+    {
+        "name": "Little Master",
+        "code": "MTI/S83-TE20",
+        "rarity": "TD",
+        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)",
+            "(【DRAW】: When this card triggers, you may draw 1 card)"
+        ],
+        "flavor_text": "※「男」\nRoxy is a good tutor. The lessons were interesting and enjoyable. Thanks to her, I am able to use intermediate attack magic with relative ease.",
+        "set": "MTI",
+        "release": "83",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE20.png"
+    }
+]
