@@ -1383,5 +1383,32 @@
         "release": "E33",
         "sid": "E050",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_E050.png"
+    },
+    {
+        "name": "Derived Answer, Kurumi",
+        "code": "DAL/WE33-PE01",
+        "rarity": "C",
+        "expansion": "Date A Bullet",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "Date",
+            "Celestial Spirit"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand.",
+            "【AUTO】 When this card attacks, choose 1 of your other characters with \"Kurumi(狂三)\" or \"Hibiki(響)\" in its card name, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "DAL",
+        "release": "E33",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DAB/DAL_WE33_PE01P.png"
     }
 ]
