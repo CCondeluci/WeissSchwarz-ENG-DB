@@ -1,0 +1,2927 @@
+[
+    {
+        "name": "Bearer of the Holy Lance, The Lion King",
+        "code": "FGO/S87-E001",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +1000 power.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is \"The Ritual of Holy Selection\" or a 《Chaldea》 or 《Camelot》 character, deal X damage to your opponent. X is equal to that card's level. (Damage may be canceled. Return the revealed card to its original place)",
+            "【AUTO】 【CXCOMBO】 When \"Rhongomyniad\" is placed on your climax area, if this card is in your center stage, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "I shall gather the purest souls worthy of remaining in the next world, freeze and archive them. Where is the mistake in that?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E001.png"
+    },
+    {
+        "name": "Divine Spirit, The Lion King",
+        "code": "FGO/S87-E002",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Knight of the Round Table》 characters with markers get 《Gift》.",
+            "【CONT】 All of your other 《Chaldea》 or 《Camelot》 characters get +500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.",
+            "【ACT】 [Put 1 marker underneath this card into your waiting room] Choose 1 of your other characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Sir Bedivere... There was meaning in your mistake. There was meaning in the Lion King. For me, that is...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E002.png"
+    },
+    {
+        "name": "Aide to the Lion King, Agravain",
+        "code": "FGO/S87-E003",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 When your card is put underneath this card as a marker, put all markers underneath this card into your waiting room.",
+            "【AUTO】 When this card or your other 《Knight of the Round Table》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "No, I'm not worthy, and I still have work left.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E003.png"
+    },
+    {
+        "name": "Unwavering Loyalty, Gawain & The Lion King",
+        "code": "FGO/S87-E004",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"The Ritual of Holy Selection\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The Lion King: \"Go and collect them, Sir Gawain.\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E004.png"
+    },
+    {
+        "name": "Knight of Sorrow, Tristan",
+        "code": "FGO/S87-E005",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Chaldea》 or 《Camelot》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You would confront the current king?\nI know no sadder tale.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E005.png"
+    },
+    {
+        "name": "As Long as the Sun Shines, Gawain",
+        "code": "FGO/S87-E006",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets the following ability. \"【CONT】 If your clock has 3 or more cards, this card gets +3000 power.\"",
+            "【CONT】 If your clock has 3 or less cards, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Excalibur Galatine\" is in your climax area, you may choose 1 level X or lower 《Chaldea》 or 《Camelot》 character in your waiting room, and return it to your hand. X is equal to the total number of markers underneath your characters."
+        ],
+        "flavor_text": "As long as the sun shines, my power is blessed like that of a saint. You have no chance of victory.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E006.png"
+    },
+    {
+        "name": "In the Name of the King of Storms, The Lion King",
+        "code": "FGO/S87-E007",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [(2) 【REST】 this card and 1 of your \"Aide to the Lion King, Agravain\"] Choose up to 1 \"Bearer of the Holy Lance, The Lion King\" in your hand, and put it on any position of your stage.\"",
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [(1) 【REST】 this card and 1 of your other characters] Choose 1 \"The Ritual of Holy Selection\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Camelot will be visited by a time of stormy seas.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E007.png"
+    },
+    {
+        "name": "Blessed Rampage, Mordred",
+        "code": "FGO/S87-E008",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, if you have another \"Divine Spirit, The Lion King\" or \"In the Name of the King of Storms, The Lion King\" in your back stage, this card gets +4000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "This time, I'll finally die as one of Father's knights!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E008.png"
+    },
+    {
+        "name": "Reduced to a Monster, Tristan",
+        "code": "FGO/S87-E009",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Knight of the Round Table》 characters get +500 power.",
+            "【AUTO】 [(1)] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 《Knight of the Round Table》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "In the end, it seems I saw something amusing...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E009.png"
+    },
+    {
+        "name": "Monster With the Heart of a Beast, Tristan",
+        "code": "FGO/S87-E010",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E010.png"
+    },
+    {
+        "name": "King Who Governs the Holy City, The Lion King",
+        "code": "FGO/S87-E011",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "...Very well.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E011.png"
+    },
+    {
+        "name": "Knight of Iron, Agravain",
+        "code": "FGO/S87-E012",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"King Who Governs the Holy City, The Lion King\" in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Create the ideal country which threatens no one and which no one may invade.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E012.png"
+    },
+    {
+        "name": "Agravain of Iron",
+        "code": "FGO/S87-E013",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, move it to another open position of their stage, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Traitor? Me? The same as you?\nHaha, hahahaha. I can't stop laughing!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E013.png"
+    },
+    {
+        "name": "Raider Knight, Mordred",
+        "code": "FGO/S87-E014",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 \"Unwavering Loyalty, Gawain & The Lion King\" from your hand into your waiting room] When your climax is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose 1 level 2 or lower character in your opponent's center stage, put it into their waiting room, and at the end of the turn, put this card into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Leave this to me. I'll go kill him real quick.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E014.png"
+    },
+    {
+        "name": "Crumbling Tower at the Ends of the World, Agravain",
+        "code": "FGO/S87-E015",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a character with \"Lancelot(ランスロット)\" in its card name, this card gets +4000 power.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Nonsense. Not when compared to you.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E015.png"
+    },
+    {
+        "name": "Knight of Treachery, Mordred",
+        "code": "FGO/S87-E016",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, return it to your hand, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Clarent Blood Arthur\" is in your climax area, and you have another 《Chaldea》 or 《Camelot》 character, you may choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "O body, meet a glorious death for the prosperity of Camelot!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E016.png"
+    },
+    {
+        "name": "Nightless Holy Punishment, Gawain",
+        "code": "FGO/S87-E017",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [(1) Put this card into your waiting room] Choose up to 1 \"Knight of the Sun, Gawain\" in your hand, and put it on the stage position that this card was on.\"",
+            "【AUTO】 Resonate [Reveal 1 \"The Ritual of Holy Selection\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 2 《Chaldea》 or 《Camelot》 characters in your clock, put them into your memory, and this card gets +1000 power until end of turn. At the end of the turn, choose 2 characters in your memory, and put them at the bottom of your clock in any order."
+        ],
+        "flavor_text": "This is the price you must pay!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E017.png"
+    },
+    {
+        "name": "Return of the Sacred Sword, The Lion King",
+        "code": "FGO/S87-E018",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Knight of the Round Table》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "Be proud, Bedivere. You have truly fulfilled the order of your king.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E018.png"
+    },
+    {
+        "name": "The Mercy of Buddha, Mordred",
+        "code": "FGO/S87-E019",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +2000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "But you know, monks who aren't all talk... do exist, huh?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E019.png"
+    },
+    {
+        "name": "Setting Sun, Gawain",
+        "code": "FGO/S87-E020",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Chaldea》 or 《Camelot》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "I won't make it to the king's fight again...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E020.png"
+    },
+    {
+        "name": "Reversed Fairy Strings User, Tristan",
+        "code": "FGO/S87-E021",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +2500 power and the following ability. \"【CONT】 This card's power does not decrease by your opponent's effects.\"",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Failnaught\" is in your climax area, and you have another 《Knight of the Round Table》 character, choose 1 of the following effects and perform it. \"Choose up to 3 《Knight of the Round Table》 characters in your waiting room, and put them into your stock in any order.\" \"Choose 1 level 1 or lower character in your opponent's back stage, and put it into their waiting room.\""
+        ],
+        "flavor_text": "Ah... This truly makes me sad.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E021.png"
+    },
+    {
+        "name": "Knight of the Sun, Gawain",
+        "code": "FGO/S87-E022",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "3",
+        "power": "7000",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Chaldea》 or 《Camelot》 character in your back stage."
+        ],
+        "flavor_text": "I am now Gawain, a knight serving the Lion King! What you want to protect and what I must protect are like oil and water!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E022.png"
+    },
+    {
+        "name": "The Ritual of Holy Selection",
+        "code": "FGO/S87-E023",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"The Lion King(獅子王)\" in its card name, this card cannot be played from your hand.",
+            "Choose 1 of your 《Knight of the Round Table》 characters without markers, put this card face up underneath that character as a marker, and that character gets +1000 power until end of turn.",
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Chaldea》 or 《Camelot》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "There are few who can be led to the end of this world. The roots of humanity rot and fall. And thus, I must choose.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E023.png"
+    },
+    {
+        "name": "Rhongomyniad",
+        "code": "FGO/S87-E024",
+        "rarity": "CR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E024.png"
+    },
+    {
+        "name": "Excalibur Galatine",
+        "code": "FGO/S87-E025",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "This sword is a replica of the Sun. Its flame shall cleanse all the impurity of this world!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E025.png"
+    },
+    {
+        "name": "Clarent Blood Arthur",
+        "code": "FGO/S87-E026",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E026.png"
+    },
+    {
+        "name": "Failnaught",
+        "code": "FGO/S87-E027",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Dance as my heart sees fit!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E027.png"
+    },
+    {
+        "name": "Ancient Queen of the Heavens, Nitocris",
+        "code": "FGO/S87-E028",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 character in your waiting room, and return it to your hand.",
+            "【ACT】 Resonate [(1) Reveal 1 \"The Sun King, Ozymandias\" in your hand & 【REST】 this card] Look at up to 3 cards from the top of your deck, choose up to 1 《Chaldea》 or 《Camelot》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "My name is Nitocris! I'm a Servant summoned to this land along with the Sun King!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E028.png"
+    },
+    {
+        "name": "Bonze Traveling the Wastelands, Xuanzang Sanzang",
+        "code": "FGO/S87-E029",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Five Elements Mountain Buddha Palm\" is in your climax area, and you have 2 or more other 《Chaldea》 or 《Camelot》 characters, you may pay the cost. If you do, this card gets +2000 power until end of turn, and perform the following action 2 times. \"Look at up to 2 cards from the top of your deck, choose up to 1 《Chaldea》 or 《Camelot》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Punishment exists... to save your soul from the burden of sin.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E029.png"
+    },
+    {
+        "name": "The Sun King, Ozymandias",
+        "code": "FGO/S87-E030",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 If there is a face up marker underneath this card, this card gets +6000 power.",
+            "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of the encore step, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Ramesseum Tentyris\" is in your climax area, you may pay the cost. If you do, put that character into your opponent's clock, and deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Mage King, huh? Nothing to be afraid of!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E030.png"
+    },
+    {
+        "name": "Rescue of the World, Ozymandias",
+        "code": "FGO/S87-E031",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Pharaoh》 characters get \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Still, \"save the world\" they say.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E031.png"
+    },
+    {
+        "name": "The Mercy of Buddha, Xuanzang Sanzang",
+        "code": "FGO/S87-E032",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Chaldea》 or 《Camelot》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "To people who can't even see their true desires, I have to show the mercy of Buddha to the very end, don't I?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E032.png"
+    },
+    {
+        "name": "As a Pharaoh, Nitocris",
+        "code": "FGO/S87-E033",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are green or 《Chaldea》, this card gets +1000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"To the Land of Eternity\" is in your climax area, you may choose 1 green or 《Chaldea》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Ozymandias: \"I'm taking a rest now. You rest, too, Pharaoh Nitocris.\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E033.png"
+    },
+    {
+        "name": "The God King, Ozymandias",
+        "code": "FGO/S87-E034",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Alarm At the beginning of your climax phase, if this card is the top card of your clock, and you have 4 or more green or 《Chaldea》 characters, you may put the top card of your deck into your stock.",
+            "【ACT】 [Put this 【STAND】 card into your waiting room] You may choose 1 of your \"The Sun King, Ozymandias\", and put this card face up underneath that card as a marker.",
+            "【ACT】 [【REST】 this card] Choose 1 of your green or 《Chaldea》 characters, and that character gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Cooping up without fighting is not like me.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E034.png"
+    },
+    {
+        "name": "Compassionate Mage Queen, Nitocris",
+        "code": "FGO/S87-E035",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Chaldea》 or 《Camelot》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each other 《Chaldea》 or 《Camelot》 character in your back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the bottom card of your clock into your waiting room."
+        ],
+        "flavor_text": "I ask of you, as well, Pharaoh! The refugees are injured, and some of them are children.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E035.png"
+    },
+    {
+        "name": "Influence of the Mage Queen, Nitocris",
+        "code": "FGO/S87-E036",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Wake up! That is disrespectful!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E036.png"
+    },
+    {
+        "name": "Where Justice Is, Xuanzang Sanzang",
+        "code": "FGO/S87-E037",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "My disciple has taught me!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E037.png"
+    },
+    {
+        "name": "Magnanimous Like the Sun, Ozymandias",
+        "code": "FGO/S87-E038",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Listen! Don't think that I will show you mercy ever again! Stand firm by that whim of yours!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E038.png"
+    },
+    {
+        "name": "Condition for the Alliance, Ozymandias",
+        "code": "FGO/S87-E039",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Chaldea》 or 《Camelot》 characters you have.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "So, you're Lancelot? Good. You understand the concept of opportunity.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E039.png"
+    },
+    {
+        "name": "Body Outside Body, Xuanzang Sanzang",
+        "code": "FGO/S87-E040",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 1 of your 【STAND】 《Chaldea》 or 《Camelot》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 \"Where Justice Is, Xuanzang Sanzang\", put them on separate positions of your stage, and shuffle your deck.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Caster, Xuanzang Sanzang!\nI shall use my wrath to propagate Buddhism!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E040.png"
+    },
+    {
+        "name": "Guardian of the Egyptian Region, Nitocris",
+        "code": "FGO/S87-E041",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [(1) Put 1 card from your hand into your waiting room & 【REST】 this card] Choose 1 \"The God King, Ozymandias\" in your waiting room, and put it on any position of your stage.\"",
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power."
+        ],
+        "flavor_text": "Do you intend to invade this land, aware that it is the Sun King's territory?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E041.png"
+    },
+    {
+        "name": "Provocative Gaze, Nitocris",
+        "code": "FGO/S87-E042",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Chaldea》 or 《Camelot》 character, this card gets +3000 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "Heh...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E042.png"
+    },
+    {
+        "name": "Joining Up With Counterattack Forces, Xuanzang Sanzang",
+        "code": "FGO/S87-E043",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Chaldea》 or 《Camelot》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "This is serious treason, Lancelot! But it's fantastic! Come on, Mash!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E043.png"
+    },
+    {
+        "name": "King Among Kings, Ozymandias",
+        "code": "FGO/S87-E044",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"The Sun King's Holy Grail\" in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put this card into your waiting room] When your other 《Chaldea》 or 《Camelot》 character becomes 【REVERSE】 in battle, if this card is in your back stage, you may pay the cost. If you do, 【REST】 that character."
+        ],
+        "flavor_text": "I, the great and mighty pharaoh, have manifested here, and my territory is right here. Humanity is as good as saved already.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E044.png"
+    },
+    {
+        "name": "Confrontation Against the Strong, Xuanzang Sanzang",
+        "code": "FGO/S87-E045",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Bonze"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Chaldea》 or 《Camelot》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn."
+        ],
+        "flavor_text": "Mordred: \"Because in the next round of humanity, there won't be any war! Idiots like me won't be born, either!\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E045.png"
+    },
+    {
+        "name": "Pharaoh's Divine Authority, Ozymandias",
+        "code": "FGO/S87-E046",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if all of your characters are 《Chaldea》 or 《Camelot》, this card gets +1 level and +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E046.png"
+    },
+    {
+        "name": "Delivery of an Unneeded Item, Nitocris",
+        "code": "FGO/S87-E047",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+            "【AUTO】 When your other 《Chaldea》 or 《Camelot》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Have all the troops before the gate stand back immediately. They're in the way.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E047.png"
+    },
+    {
+        "name": "The Sun King's Holy Grail",
+        "code": "FGO/S87-E048",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1."
+        ],
+        "flavor_text": "As I have so rashly taken the Holy Grail, I may have engrossed myself with something out of character.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E048.png"
+    },
+    {
+        "name": "Ramesseum Tentyris",
+        "code": "FGO/S87-E049",
+        "rarity": "CR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Look upon my works, ye Mighty! All judgment is to be passed down by the hands of pharaohs!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E049.png"
+    },
+    {
+        "name": "To the Land of Eternity",
+        "code": "FGO/S87-E050",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "I don't want you being taken to the underworld.\nI don't really like that dark place.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E050.png"
+    },
+    {
+        "name": "Five Elements Mountain Buddha Palm",
+        "code": "FGO/S87-E051",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Then, I shall free you of your reservations.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E051.png"
+    },
+    {
+        "name": "Girl of Poison, Hassan of the Serenity",
+        "code": "FGO/S87-E052",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Chaldea》 or 《Camelot》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "My bodily fluids are poisonous. My breath, my sweat and my saliva are all deadly poison...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E052.png"
+    },
+    {
+        "name": "Radiant Agateram, Bedivere",
+        "code": "FGO/S87-E053",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Switch On - Agateram\" is in your climax area, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Chaldea》 or 《Camelot》 character in your waiting room, return it to your hand, and this card gets +2000 power until end of turn. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "No matter the cost, this time... This time for sure, I will... kill my king with my own hands!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E053.png"
+    },
+    {
+        "name": "Silver Knight of Violet, Bedivere",
+        "code": "FGO/S87-E054",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +1000 power for each character in your opponent's back stage.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "I also love Camelot. The smiles of the people in this city...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E054.png"
+    },
+    {
+        "name": "Night Before the Decisive Battle, Hassan of the Serenity",
+        "code": "FGO/S87-E055",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Hearing that the time for the decisive battle has come, I, as Serenity, have rushed over.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E055.png"
+    },
+    {
+        "name": "Loyal Knight, Bedivere",
+        "code": "FGO/S87-E056",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Chaldea》 or 《Camelot》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "On behalf of the Knights of the Round Table... thank you.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E056.png"
+    },
+    {
+        "name": "Replica, Bedivere",
+        "code": "FGO/S87-E057",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【ACT】 【CXCOMBO】 [(2) Put the top card of your deck into your clock] Choose 1 \"Switch On - Agateram\" in your waiting room, put it on your climax area, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "This is the end of my duty and my journey. The final exploration offered by the man in Paradise.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E057.png"
+    },
+    {
+        "name": "Arrow of All His Strength, Arash",
+        "code": "FGO/S87-E058",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(3) Put this card into your waiting room] At the end of this card's attack, if \"Stella\" is in your climax area, you may pay the cost. If you do, put all level 2 or lower characters from your opponent's center stage into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E058.png"
+    },
+    {
+        "name": "Independent Knight, Lancelot",
+        "code": "FGO/S87-E059",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When \"Lancelot of the Light of the Lake\" is placed on your climax area, if this card is in your center stage, choose up to 2 cards in your opponent's waiting room, return them to their deck, your opponent shuffles their deck, and this card gets +2000 power and +1 soul until end of turn."
+        ],
+        "flavor_text": "In a world where ruin is imminent, the path demonstrated by my king is just and unwavering above all!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E059.png"
+    },
+    {
+        "name": "First Hassan-i Sabbah \"Old Man of the Mountain\"",
+        "code": "FGO/S87-E060",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【CONT】 If you have 1 or less characters in your back stage, this card cannot attack.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -4500 power until end of turn.",
+            "【AUTO】 At the beginning of all players' attack phase, if this card is in the center stage, all players cannot use \"【AUTO】 Encore\" until end of turn. （The \"【AUTO】 Encore [(3)]\" rule cannot be used either）"
+        ],
+        "flavor_text": "O wandering knight, there is but one way thou might liberate the one thou servest.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E060.png"
+    },
+    {
+        "name": "Arash Kamangir",
+        "code": "FGO/S87-E061",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Hero"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Stella\" is placed on your climax area, if your level is 1 or higher, you may pay the cost. If you do, choose up to 1 \"Arrow of All His Strength, Arash\" in your hand, and put it on the stage position that this card was on.",
+            "【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "Do you know why you know my name?\nBecause there was a life after I died.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E061.png"
+    },
+    {
+        "name": "Grand Assassin \"Old Man of the Mountain\"",
+        "code": "FGO/S87-E062",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Evening Bell\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The will of Heaven has already been demonstrated. Destiny, in due time, will provide the two of ye with appropriate recompense.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E062.png"
+    },
+    {
+        "name": "The Way of a Round Table Knight, Lancelot",
+        "code": "FGO/S87-E063",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, 【REST】 it, and move it to an open position of your back stage.\"",
+            "【AUTO】 When this card is placed on the stage from your hand or waiting room, if you have another \"Divine Spirit, The Lion King\" or \"In the Name of the King of Storms, The Lion King\", you may choose 1 \"The Ritual of Holy Selection\" in your waiting room, and put it face up underneath this card as a marker."
+        ],
+        "flavor_text": "Calling me that is bad for my heart.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E063.png"
+    },
+    {
+        "name": "Dance of Pale Death, Hassan of the Serenity",
+        "code": "FGO/S87-E064",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【CONT】 If this card is 【REST】, all players' characters in their center stage without \"Fujimaru(藤丸)\" or \"Arash(アーラシュ)\" or \"Hassan(ハサン)\" in their card names get -500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Iseult of the White Hands has finally caught up with you.\nBrace yourself.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E064.png"
+    },
+    {
+        "name": "Confrontation Against the Strong, Lancelot",
+        "code": "FGO/S87-E065",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Arash: \"An ambush? Knights of the Round Table? It's disgraceful!\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E065.png"
+    },
+    {
+        "name": "Return of the Sacred Sword, Bedivere",
+        "code": "FGO/S87-E066",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage, all of your 《Chaldea》 or 《Camelot》 characters get + 1500 power.",
+            "【AUTO】 【CXCOMBO】 [(4) Put 2 cards from your hand into your waiting room] At the end of this card's attack, if \"Switch On - Agateram\" is in your climax area, and you have another 《Chaldea》 or 《Camelot》 character, you may pay the cost. If you do, deal 3 damage to your opponent 2 times, and put this card into your memory. (Damage may be canceled)"
+        ],
+        "flavor_text": "My king, my liege... Now... No, this time... I will return this sword to you.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E066.png"
+    },
+    {
+        "name": "Zabaniya, Hassan of the Serenity",
+        "code": "FGO/S87-E067",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Chaldea》 or 《Camelot》 characters get +500 power.",
+            "【AUTO】 [Put 1 marker underneath this card into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【ACT】 [【REST】 this card] If there are no markers underneath this card, put the top card of your deck face up underneath this card as a marker."
+        ],
+        "flavor_text": "...! What have I done?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E067.png"
+    },
+    {
+        "name": "Journey for Somebody's Sake, Bedivere",
+        "code": "FGO/S87-E068",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\""
+        ],
+        "flavor_text": "I hope so. No... if you believe so.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E068.png"
+    },
+    {
+        "name": "Original Law, Hassan of the Cursed Arm",
+        "code": "FGO/S87-E069",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Chaldea》 or 《Camelot》 character, you may put it face up underneath this card as a marker. (Otherwise, return it to its original place)",
+            "【AUTO】 [(1)] When this card frontal attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 level until end of turn."
+        ],
+        "flavor_text": "We loved the people who lived on this land!\nWe lived for that, and for that we died!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E069.png"
+    },
+    {
+        "name": "Great Hero of Persia, Arash",
+        "code": "FGO/S87-E070",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Hero"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "I do have Clairvoyance, after all.\nI can see all kinds of things, you know.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E070.png"
+    },
+    {
+        "name": "Setting Sun, Bedivere",
+        "code": "FGO/S87-E071",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E071.png"
+    },
+    {
+        "name": "Proud Assassin, Hassan of the Cursed Arm",
+        "code": "FGO/S87-E072",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "That knight over there is among those of the Round Table.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E072.png"
+    },
+    {
+        "name": "Reality of the Sacred Lance, Bedivere",
+        "code": "FGO/S87-E073",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Wandering Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 4 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "That was not Camelot to begin with!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E073.png"
+    },
+    {
+        "name": "Fierce Knight of the Lake, Lancelot",
+        "code": "FGO/S87-E074",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each character in your opponent's back stage.",
+            "【AUTO】 Encore [Put 1 《Chaldea》 or 《Camelot》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "As fellow traitors, I will show you mercy if you admit to your wrongdoings.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E074.png"
+    },
+    {
+        "name": "Evening Bell",
+        "code": "FGO/S87-E075",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you have 2 or less red characters, this card cannot be played from your hand. Put this card into your memory.",
+            "【AUTO】 Memory At the beginning of your attack phase, if this card is in your memory, put this card into your waiting room, choose 1 of your characters, and that character and the character facing that character get the following 2 abilities until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Once again, thou turnst thy back upon thy friend, pursuing instead hollow salvation. Is this the source of thy radiance?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E075.png"
+    },
+    {
+        "name": "Exploration of the Sixth Singularity",
+        "code": "FGO/S87-E076",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to 2 characters in your waiting room, return them to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "The Mage of Flowers: \"I shall grant a sinner's promise. Know that this is your one last chance.\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E076.png"
+    },
+    {
+        "name": "Switch On - Agateram",
+        "code": "FGO/S87-E077",
+        "rarity": "CR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Devour my soul and come forth!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E077.png"
+    },
+    {
+        "name": "Lancelot of the Light of the Lake",
+        "code": "FGO/S87-E078",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "For all those who live in these lands! To arms, everyone! We must return the Holy Land to its rightful glory!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E078.png"
+    },
+    {
+        "name": "Stella",
+        "code": "FGO/S87-E079",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "After I unleash this last arrow with all my strength, even my iron body shall shatter and annihilate me where I stand!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E079.png"
+    },
+    {
+        "name": "With This Flesh and Bone, Mash Kyrielight",
+        "code": "FGO/S87-E080",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if your hand has 5 or more cards, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "With this flesh and bone I've been granted, I will purge the filth from the proud Knights of the Round Table!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E080.png"
+    },
+    {
+        "name": "Great Genius, Leonardo da Vinci",
+        "code": "FGO/S87-E081",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The great genius, Leonardo da Vinci!\nI'm a member of Chaldea Security Organization.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E081.png"
+    },
+    {
+        "name": "Knight of the Sacred Shield, Mash Kyrielight",
+        "code": "FGO/S87-E082",
+        "rarity": "RR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Chaldea》 or 《Camelot》 character in your back stage.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Lord Camelot\" is in your climax area, choose 1 of your characters, and that character gets the following 2 abilities until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -3 soul.\" \"【AUTO】 [(1) Put 1 《Chaldea》 or 《Camelot》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card cannot become 【REVERSE】 until end of turn.\""
+        ],
+        "flavor_text": "...That is why I fight even if I'm afraid. For that beautiful moment I witnessed...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E082.png"
+    },
+    {
+        "name": "Rousing Resolution, Mash Kyrielight",
+        "code": "FGO/S87-E083",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Lord Camelot\" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Ritsuka Fujimaru: \"Create a shining wall of rousing resolution, and protect the powerless!\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E083.png"
+    },
+    {
+        "name": "Qualified to Know Her Origins, Mash Kyrielight",
+        "code": "FGO/S87-E084",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Lord Camelot\" is placed on your climax area, you may pay the cost. If you do, choose up to 1 \"Knight of the Sacred Shield, Mash Kyrielight\" in your hand, and put it on the stage position that this card was on.",
+            "【ACT】 [【REST】 this card] Draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Bedivere: \"You are more than qualified. Qualified to know of your own origins.\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E084.png"
+    },
+    {
+        "name": "Indestructible Genius, Leonardo da Vinci",
+        "code": "FGO/S87-E085",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Chaldea》 or 《Camelot》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand or memory, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 Memory [(2) Put 1 card from your hand into your waiting room] At the beginning of your climax phase, if your level is 3 or higher, and this card is in your memory, you may pay the cost. If you do, put this card on an open position of your stage, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Hey, nice reaction!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E085.png"
+    },
+    {
+        "name": "The Way of a Round Table Knight, Mash Kyrielight",
+        "code": "FGO/S87-E086",
+        "rarity": "R",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose 1 of your characters, and that character gets +4000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "Isn't that right... Dad?",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E086.png"
+    },
+    {
+        "name": "Ci Vediamo, Leonardo da Vinci",
+        "code": "FGO/S87-E087",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Chaldea》 or 《Camelot》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is put into your waiting room from the stage, if your memory has 2 or less cards, you may choose 1 \"Indestructible Genius, Leonardo da Vinci\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "Ritsuka Fujimaru: \"Da Vinci?\"",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E087.png"
+    },
+    {
+        "name": "Reason for the Good Mood, Leonardo da Vinci",
+        "code": "FGO/S87-E088",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Of course! I couldn't come with you to previous Singularities, after all!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E088.png"
+    },
+    {
+        "name": "Journey for Somebody's Sake, Ritsuka Fujimaru",
+        "code": "FGO/S87-E089",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Master"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Chaldea》 or 《Camelot》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "That's why I'm sure there'll be a meaning to the end of this journey. A final salvation that measures up to the long path you've walked.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E089.png"
+    },
+    {
+        "name": "Heroic Spirit Within Me, Mash Kyrielight",
+        "code": "FGO/S87-E090",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "But I don't know who the Heroic Spirit dormant within me is.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E090.png"
+    },
+    {
+        "name": "Truth of the Holy Selection, Leonardo da Vinci",
+        "code": "FGO/S87-E091",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Chaldea》 or 《Camelot》 characters you have ×500.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Sir Gawain! He's the Knight of the Sun!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E091.png"
+    },
+    {
+        "name": "Journey for Somebody's Sake, Mash Kyrielight",
+        "code": "FGO/S87-E092",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Chaldea》 or 《Camelot》 characters get +500 power.",
+            "【AUTO】 [Put 1 《Chaldea》 or 《Camelot》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E092.png"
+    },
+    {
+        "name": "Chaldea's Master, Ritsuka Fujimaru",
+        "code": "FGO/S87-E093",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Master"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Truth of the Holy Selection, Mash Kyrielight\" get the following 2 abilities. \"【CONT】 During your opponent's turn, this card gets +1000 power.\" \"【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your characters with \"Fujimaru(藤丸)\" in its card name, and exchange them as 【STAND】.\"",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "Let's go, Mash!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E093.png"
+    },
+    {
+        "name": "Entrusted With Goodness, Mash Kyrielight",
+        "code": "FGO/S87-E094",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"\"Goodness\" of Humans\" in your waiting room, and return it to your hand.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I wasn't rescued. Something was entrusted to me. That I should live for people like that.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E094.png"
+    },
+    {
+        "name": "Truth of the Holy Selection, Mash Kyrielight",
+        "code": "FGO/S87-E095",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Enemy knight eliminated.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E095.png"
+    },
+    {
+        "name": "Turn for a Genius, Leonardo da Vinci",
+        "code": "FGO/S87-E096",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Genius"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Chaldea》 or 《Camelot》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CXCOMBO】 When \"Worth Tagging Along\" is placed on your climax area, if you have another 《Chaldea》 or 《Camelot》 character, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Chaldea》 or 《Camelot》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "It's fine. Faking death once is enough.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E096.png"
+    },
+    {
+        "name": "Whereabouts of the Holy Grail, Romani Archaman",
+        "code": "FGO/S87-E097",
+        "rarity": "C",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Chaldea",
+            "Doctor"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 《Chaldea》 or 《Camelot》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of their deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "It's likely that the remnants of the crusaders have gotten a hold of the Holy Grail. After all, it's always been the case that the losers got a hold of the Holy Grail.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E097.png"
+    },
+    {
+        "name": "\"Goodness\" of Humans",
+        "code": "FGO/S87-E098",
+        "rarity": "U",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Mash(マシュ)\" in its card name, this card cannot be played from your hand.",
+            "Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "You may choose 1 of your characters, and put it into your waiting room. If you do, choose up to 2 \"Qualified to Know Her Origins, Mash Kyrielight\" in your waiting room, and put them on any position of your stage."
+        ],
+        "flavor_text": "He trusted that Senpai and I... He believed in the goodness of humans that could do such acts.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E098.png"
+    },
+    {
+        "name": "Lord Camelot",
+        "code": "FGO/S87-E099",
+        "rarity": "CR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "That which heals all wounds and grudges, our glorious homeland... Manifest yourself...",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E099.png"
+    },
+    {
+        "name": "Worth Tagging Along",
+        "code": "FGO/S87-E100",
+        "rarity": "CC",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I can't let you go any further from here!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E100.png"
+    },
+    {
+        "name": "Ruling of Death, The Lion King",
+        "code": "FGO/S87-E101",
+        "rarity": "PR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Knight of the Round Table"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Chaldea》 or 《Camelot》, this card gets +1000 power."
+        ],
+        "flavor_text": "Very well then, raise your head, Gawain. You may remain on your knees. For you have no need to ever stand again.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E101.png"
+    },
+    {
+        "name": "Pharaoh's Bath, Nitocris",
+        "code": "FGO/S87-E102",
+        "rarity": "PR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Pharaoh"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Pharaoh's Bath, Nitocris\" in your memory, and put it on any position of your stage."
+        ],
+        "flavor_text": "You are truly strange. You have the same scent as us Servants, but something is different.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E102.png"
+    },
+    {
+        "name": "Rewarded Feelings, Hassan of the Serenity",
+        "code": "FGO/S87-E103",
+        "rarity": "PR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Camelot",
+            "Old Man of the Mountain"
+        ],
+        "ability": [
+            "【AUTO】 When your climax with in its trigger icon is placed on your climax area, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Camelot》 character in your waiting room, return it to your hand, choose 1 of your other 《Chaldea》 or 《Camelot》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "I... have been rewarded more than enough.",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E103.png"
+    },
+    {
+        "name": "Unexpected Sight, Mash Kyrielight",
+        "code": "FGO/S87-E104",
+        "rarity": "PR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Chaldea》 or 《Camelot》 characters, this card gets +2000 power.",
+            "【CONT】 During your opponent's turn, this card gets +1000 power."
+        ],
+        "flavor_text": "Senpa—",
+        "set": "FGO",
+        "release": "87",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_E104.png"
+    },
+    {
+        "name": "Commencing Duel, Mash Kyrielight",
+        "code": "FGO/S87-PE01",
+        "rarity": "PR",
+        "expansion": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Chaldea",
+            "Shielder"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Trust in Her Master, Mash Kyrielight\" get +1000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Belief in Her \"Choice\"\" or \"Lord Camelot\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Belief in Her \"Choice\"\" or \"Lord Camelot\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Leave this to me, Master. I won't lose to that person!",
+        "set": "FGO",
+        "release": "87",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/FGO6/S87_PE01.png"
+    }
+]
