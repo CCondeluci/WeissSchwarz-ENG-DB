@@ -1,0 +1,3435 @@
+[
+    {
+        "name": "Exploring the Dungeon, Lili",
+        "code": "DDM/S88-E001",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Put the top card of your deck into your waiting room, and if that card is the level your opponent declared, draw up to X cards. X is equal to the number your opponent declared +1. (Climax are regarded as level 0)",
+            "【AUTO】 At the beginning of your opponent's draw phase, put the top card of your deck into your waiting room. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E001.png"
+    },
+    {
+        "name": "Reason for Her Strength, Ais",
+        "code": "DDM/S88-E002",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, choose 1 of your other characters, and that character gets +2500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Put 1 yellow card from your hand into your waiting room] When this card attacks, if \"Battle Practice\" is in your climax area, and your stock has 5 or less cards, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Don't create blind spots.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E002.png"
+    },
+    {
+        "name": "【Sword Princess】 Ais",
+        "code": "DDM/S88-E003",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 Experience If \"【Sword Princess】 Ais\" is in your level, this card gets +1500 power, and cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\""
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E003.png"
+    },
+    {
+        "name": "Encounter by the River, Ais & Hestia",
+        "code": "DDM/S88-E004",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters you have.",
+            "【ACT】 [(2) Put this card into your waiting room] If your level is 3 or higher, choose 1 \"Moment Between the Two, Ais\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "Bell, you naughty boy!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E004.png"
+    },
+    {
+        "name": "Victory Feast, Tiona",
+        "code": "DDM/S88-E005",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E005.png"
+    },
+    {
+        "name": "Victory Feast, Tione",
+        "code": "DDM/S88-E006",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E006.png"
+    },
+    {
+        "name": "Rivals, Hestia & Lili",
+        "code": "DDM/S88-E007",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Thanks for taking care of MY Bell.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E007.png"
+    },
+    {
+        "name": "Cue for the Feast, Loki",
+        "code": "DDM/S88-E008",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Reason for Her Strength, Ais\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Tonight, we feast!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E008.png"
+    },
+    {
+        "name": "Supporter, Lili",
+        "code": "DDM/S88-E009",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, return it to their hand, and this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 [(2) Put 1 \"Exploring the Dungeon, Lili\" from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose this card and 1 of your other characters, and those characters get the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E009.png"
+    },
+    {
+        "name": "Expedition to the Lower Levels, Finn",
+        "code": "DDM/S88-E010",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, you may choose 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters in your waiting room, and put them at the bottom of your clock in any order. If you put 2 cards into your clock, at the end of the turn, put the bottom 2 cards of your clock into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "We will now launch our expedition into the lower levels of the dungeon.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E010.png"
+    },
+    {
+        "name": "Foul-Mouthed Werewolf, Bete",
+        "code": "DDM/S88-E011",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and return it to your hand."
+        ],
+        "flavor_text": "What's he even doing here?!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E011.png"
+    },
+    {
+        "name": "Senior Mage, Riveria",
+        "code": "DDM/S88-E012",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other characters get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+            "【ACT】 [【REST】 this card] All characters in your opponent's center stage get -500 power until end of turn."
+        ],
+        "flavor_text": "I came to stock up on items.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E012.png"
+    },
+    {
+        "name": "Unstoppable Words, Lili",
+        "code": "DDM/S88-E013",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【CONT】 This card gets +4000 power for each marker underneath this card.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"One More Time\" is in your climax area, and you have 4 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker."
+        ],
+        "flavor_text": "Master Bell... How did you get here?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E013.png"
+    },
+    {
+        "name": "Moment Between the Two, Ais",
+        "code": "DDM/S88-E014",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Encounter by the River, Ais & Hestia\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"Expedition to the Lower Levels\" is in your climax area, you may pay the cost. If you do, look at up to 3 cards from the top of your opponent's deck, choose up to 3 cards from among them, put them on the top of their deck in any order, and put the rest into their waiting room."
+        ],
+        "flavor_text": "I was a little worried about you.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E014.png"
+    },
+    {
+        "name": "End of Special Training, Ais",
+        "code": "DDM/S88-E015",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 【CXCOMBO】 If \"Battle Practice\" or \"Expedition to the Lower Levels\" is in your climax area, this card in all of your zones gets in the trigger icon.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "I enjoyed it.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E015.png"
+    },
+    {
+        "name": "Lure of Alcohol, Loki",
+        "code": "DDM/S88-E016",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your memory] When your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Well, in a word, what the children there worship isn't Soma. It's wine.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E016.png"
+    },
+    {
+        "name": "Returning From an Expedition, Tione",
+        "code": "DDM/S88-E017",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your clock has 3 or more cards, this card gets +3000 power."
+        ],
+        "flavor_text": "Never mind bringing down that Minotaur, that's an impressive feat!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E017.png"
+    },
+    {
+        "name": "Transformation Magic, Lili",
+        "code": "DDM/S88-E018",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 of your other characters from your stage into your waiting room] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the start of your next encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "\"The clock is tolling midnight.\"",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E018.png"
+    },
+    {
+        "name": "Fairy Tale, Tiona",
+        "code": "DDM/S88-E019",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your clock has 3 or more cards, this card gets +4000 power."
+        ],
+        "flavor_text": "We just happened to see you fight that Minotaur.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E019.png"
+    },
+    {
+        "name": "Linked Wishes, Lili",
+        "code": "DDM/S88-E020",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【CONT】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+            "【ACT】 [(1)] This card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Master Bell!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E020.png"
+    },
+    {
+        "name": "Veteran Adventurer, Gareth",
+        "code": "DDM/S88-E021",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +1 level and +2500 power.",
+            "【CONT】 If this card is level 3 or higher, this card gets +4500 power."
+        ],
+        "flavor_text": "So, your first foray into the middle levels, and you get all the way down to Level 18, huh?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E021.png"
+    },
+    {
+        "name": "All Fired Up, Bete",
+        "code": "DDM/S88-E022",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your clock has 3 or more cards, this card gets +8000 power."
+        ],
+        "flavor_text": "GwaAAAAAAAAAR!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E022.png"
+    },
+    {
+        "name": "Compensating With a Lap Pillow, Ais",
+        "code": "DDM/S88-E023",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "It's not a hallucination.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E023.png"
+    },
+    {
+        "name": "Battle Practice",
+        "code": "DDM/S88-E024",
+        "rarity": "CR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "How are you able to get so strong so quickly?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E024.png"
+    },
+    {
+        "name": "Expedition to the Lower Levels",
+        "code": "DDM/S88-E025",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E025.png"
+    },
+    {
+        "name": "One More Time",
+        "code": "DDM/S88-E026",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with in its trigger icon in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Miss Supporter? Miss Supporter? Are you looking for an adventurer?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E026.png"
+    },
+    {
+        "name": "City-Savvy Maiden, Syr",
+        "code": "DDM/S88-E027",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 [(1) 【REST】 this card] Choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E027.png"
+    },
+    {
+        "name": "Gale, Ryu",
+        "code": "DDM/S88-E028",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 Experience [Put 1 card from your hand into your waiting room] When this card attacks, if \"【Luminous Wind】\" is in your climax area, and the total level of the cards in your level is 2 or higher, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 3 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E028.png"
+    },
+    {
+        "name": "Cunning Appeal, Syr",
+        "code": "DDM/S88-E029",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1500 power until the end of your opponent's next turn.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Love Is Blind\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 level X or lower cards from among them, reveal them to your opponent, put them into your stock in any order, and put the rest into your waiting room. X is equal to the number of \"\"Grimoire\"\" in your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Can't I?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E029.png"
+    },
+    {
+        "name": "A Man's Dream, Hermes",
+        "code": "DDM/S88-E030",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters and 1 trait of that character, and that character loses all of that trait until end of turn.",
+            "【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Aah...",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E030.png"
+    },
+    {
+        "name": "Past Sins, Ryu",
+        "code": "DDM/S88-E031",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Well, now... That's one you got on me.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E031.png"
+    },
+    {
+        "name": "Unusual Interest, Syr",
+        "code": "DDM/S88-E032",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters in front of this card get +2000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Maybe it's how coming in contact with others is an interest of mine.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E032.png"
+    },
+    {
+        "name": "Ex-Adventurer, Ryu",
+        "code": "DDM/S88-E033",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your clock, and put it at the bottom of your deck.",
+            "【AUTO】 [Put 2 characters from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that battle opponent into your opponent's clock."
+        ],
+        "flavor_text": "This is too much for one person. Let me help.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E033.png"
+    },
+    {
+        "name": "Sharing Potions, Miach",
+        "code": "DDM/S88-E034",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Bell, take these.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E034.png"
+    },
+    {
+        "name": "【Perseus】 Asfi",
+        "code": "DDM/S88-E035",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +1 level and +500 power.",
+            "【CONT】 If this card is level 2 or higher, this card gets +3000 power."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E035.png"
+    },
+    {
+        "name": "Celebration, Syr",
+        "code": "DDM/S88-E036",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Think of it as getting popular.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E036.png"
+    },
+    {
+        "name": "Mysterious Backup, Ryu",
+        "code": "DDM/S88-E037",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E037.png"
+    },
+    {
+        "name": "Chance Meeting in the Back Alley, Ryu",
+        "code": "DDM/S88-E038",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets \"【CONT】 Assist All of your characters in front of this card get +500 power.\".",
+            "【CONT】 All of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters get +500 power."
+        ],
+        "flavor_text": "If you got hurt, Syr would be sad.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E038.png"
+    },
+    {
+        "name": "Owner of \"Hostess of Fertility\", Mia",
+        "code": "DDM/S88-E039",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Waitress of \"Hostess of Fertility\", Syr\" and \"Waitress of \"Hostess of Fertility\", Ryu\" get +1000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "Are you a friend of Syr's?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E039.png"
+    },
+    {
+        "name": "Waitress of \"Hostess of Fertility\", Syr",
+        "code": "DDM/S88-E040",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I have to help serve.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E040.png"
+    },
+    {
+        "name": "Waitress of \"Hostess of Fertility\", Ryu",
+        "code": "DDM/S88-E041",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "There you have it.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E041.png"
+    },
+    {
+        "name": "Having It Hard, Asfi",
+        "code": "DDM/S88-E042",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your back stage.",
+            "【AUTO】 Encore [Put 2 characters from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "She's my ace, so you can relax.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E042.png"
+    },
+    {
+        "name": "Today's Lunch Box, Syr",
+        "code": "DDM/S88-E043",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Hostess of Fertility",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +X power until end of turn. X is equal to the number of event cards in your waiting room ×1500."
+        ],
+        "flavor_text": "Won't you...?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E043.png"
+    },
+    {
+        "name": "Birth of a Hero, Hermes",
+        "code": "DDM/S88-E044",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn."
+        ],
+        "flavor_text": "Write the Familia Myth!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E044.png"
+    },
+    {
+        "name": "\"Grimoire\"",
+        "code": "DDM/S88-E045",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "Choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When this card attacks, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "\"Modern Magic Even a Goblin Can Get\"...?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E045.png"
+    },
+    {
+        "name": "【Luminous Wind】",
+        "code": "DDM/S88-E046",
+        "rarity": "CR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "LUMINOUS WIND!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E046.png"
+    },
+    {
+        "name": "Love Is Blind",
+        "code": "DDM/S88-E047",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "I can lend you this, if you like.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E047.png"
+    },
+    {
+        "name": "First Adventure, Bell",
+        "code": "DDM/S88-E048",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of \"【Fire Bolt】\" in your waiting room ×1500.",
+            "【AUTO】 【CXCOMBO】 When \"Unyielding Feelings\" is placed on your climax area, if this card is in your center stage, and you have another 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, choose 1 of the following effects, and perform it. \"Choose 1 \"《Hestia Knife》\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"《Hestia Knife》\", reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa!!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E048.png"
+    },
+    {
+        "name": "Argonaut, Bell",
+        "code": "DDM/S88-E049",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +7000 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 Experience [(3)] This ability activates up to 1 time per turn. At the end of this card's attack, if \"\"The Heroic Shot\"\" is in your climax area, the total level of the cards in your level is 7 or higher, and you have 3 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E049.png"
+    },
+    {
+        "name": "The Story Begins Here, Bell & Hestia",
+        "code": "DDM/S88-E050",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you reveal 1 or more cards, choose up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E050.png"
+    },
+    {
+        "name": "Turf War, Welf",
+        "code": "DDM/S88-E051",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【CONT】 \"Pyonkichi\" gets -1 cost while in your hand.",
+            "【ACT】 [(1) 【REST】 this card] Look at up to X cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. X is equal to the number of \"Pyonkichi\" in your waiting room +1. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "You've come to buy my stuff twice.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E051.png"
+    },
+    {
+        "name": "Cursed Clan, Welf",
+        "code": "DDM/S88-E052",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"A Blacksmith's Obstinance\" is in your climax area, and you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the number of \"《Ushiwakamaru》\" in your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "I had more than enough clients.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E052.png"
+    },
+    {
+        "name": "【Little Rookie】 Bell",
+        "code": "DDM/S88-E053",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +1500 power for each marker underneath this card.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card attacks, if there are no markers underneath this card, you may choose up to 1 \"《Hestia Knife》\" and up to 1 \"《Ushiwakamaru》\" in your waiting room, and put them face up underneath this card in any order as markers."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E053.png"
+    },
+    {
+        "name": "Adventurer, Bell",
+        "code": "DDM/S88-E054",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters you have.",
+            "【AUTO】 [(1) Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room] When this card attacks, if \"《Hestia Knife》\" is in your waiting room, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E054.png"
+    },
+    {
+        "name": "Qualifications of a Hero, Bell",
+        "code": "DDM/S88-E055",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock & Return this card to your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and return it to your hand.",
+            "【ACT】 [(1) Put this card into your waiting room] If your level is 2 or higher, choose 1 \"Argonaut, Bell\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "So that I save the companions I so cherish...!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E055.png"
+    },
+    {
+        "name": "Message, Hephaistos",
+        "code": "DDM/S88-E056",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+            "【ACT】 [(1) Put this card into your memory] Choose 1 \"Cursed Clan, Welf\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Hestia, if you meet up with Welf, there's something I'd like you to give him.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E056.png"
+    },
+    {
+        "name": "【God of the Masses】 Ganesha",
+        "code": "DDM/S88-E057",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand.",
+            "【ACT】 [(1) Put this card into your waiting room] Choose 1 level 0 or lower character in your waiting room, put it on any position of your stage, and at the end of the turn, put that character into your memory."
+        ],
+        "flavor_text": "I am... Ganesha!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E057.png"
+    },
+    {
+        "name": "Meeting Up for a Date, Bell",
+        "code": "DDM/S88-E058",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +1 level and +1500 power.",
+            "【CONT】 If this card is level 2 or higher, this card gets +3000 power."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E058.png"
+    },
+    {
+        "name": "A Blacksmith's Resolve, Welf",
+        "code": "DDM/S88-E059",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"\"Crozzo's Magic Sword\"\" or a 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)",
+            "【AUTO】 [(1) Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 1 \"\"Crozzo's Magic Sword\"\" in your hand, and if the level and color requirements are fulfilled, play it without paying the cost."
+        ],
+        "flavor_text": "Please! Give me the strength to smash it!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E059.png"
+    },
+    {
+        "name": "Present Self, Bell",
+        "code": "DDM/S88-E060",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【ACT】 【CXCOMBO】 [【REST】 this card] Choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 When damage dealt by this card is canceled, you may choose 1 \"【Familia Myth】\" in your climax area, and return it to your hand.\""
+        ],
+        "flavor_text": "And as its master, as you grow, it will grow even stronger!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E060.png"
+    },
+    {
+        "name": "Goddess of Beauty, Freya",
+        "code": "DDM/S88-E061",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in the middle position of your center stage gets +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 \"Trials of an Adventurer, Ottarl\" from among them, put it on any position of your stage as 【REST】, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Now, will he show me a fine adventure?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E061.png"
+    },
+    {
+        "name": "Wavering Heart, Welf",
+        "code": "DDM/S88-E062",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\"",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card has in its trigger icon, choose 1 of your other characters, 【REST】 it, and move it to an open position of your back stage. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Stop weighing your obstinance against your companions.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E062.png"
+    },
+    {
+        "name": "Aiming for Greater Heights, Bell",
+        "code": "DDM/S88-E063",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if your level is 3 or higher, all of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters get +1000 power.",
+            "【CONT】 During your turn, all of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters get +1000 power."
+        ],
+        "flavor_text": "I want to be strong.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E063.png"
+    },
+    {
+        "name": "Encouraging Words, Bell",
+        "code": "DDM/S88-E064",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Our Familia is only just getting started!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E064.png"
+    },
+    {
+        "name": "Trials of an Adventurer, Ottarl",
+        "code": "DDM/S88-E065",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +5 levels and +2500 power."
+        ],
+        "flavor_text": "Are you finished?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E065.png"
+    },
+    {
+        "name": "Anti-Magic Fire, Welf",
+        "code": "DDM/S88-E066",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each character in your opponent's back stage.",
+            "【AUTO】 Encore [(1) Put 1 character from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Blaze forth, Heretic Magic!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E066.png"
+    },
+    {
+        "name": "《Ushiwakamaru》",
+        "code": "DDM/S88-E067",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If all of your characters are 《Familia》 or 《Guild》 or 《Hostess of Fertility》, draw 1 card."
+        ],
+        "flavor_text": "I had nice material to work with.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E067.png"
+    },
+    {
+        "name": "【Fire Bolt】",
+        "code": "DDM/S88-E068",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 level X or lower 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand. X is equal to the number of \"First Adventure, Bell\" in your waiting room."
+        ],
+        "flavor_text": "Fire Bolt!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E068.png"
+    },
+    {
+        "name": "Pyonkichi",
+        "code": "DDM/S88-E069",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, return it to your hand, choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "There it is, Adventurer. Armor by Welf Crozzo.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E069.png"
+    },
+    {
+        "name": "\"Crozzo's Magic Sword\"",
+        "code": "DDM/S88-E070",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, this card cannot be played from your hand. Deal 3 damage to your opponent. Put this card into your memory. (Damage may be canceled)"
+        ],
+        "flavor_text": "Kazuki!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E070.png"
+    },
+    {
+        "name": "\"The Heroic Shot\"",
+        "code": "DDM/S88-E071",
+        "rarity": "CR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Let your feelings burn, and cry out your desire!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E071.png"
+    },
+    {
+        "name": "Unyielding Feelings",
+        "code": "DDM/S88-E072",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I can't be rescued by Ais Wallenstein anymore!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E072.png"
+    },
+    {
+        "name": "【Familia Myth】",
+        "code": "DDM/S88-E073",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "My goddess.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E073.png"
+    },
+    {
+        "name": "A Blacksmith's Obstinance",
+        "code": "DDM/S88-E074",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "It's wrong. That's not what weapons are about.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E074.png"
+    },
+    {
+        "name": "Human Activity, Hestia",
+        "code": "DDM/S88-E075",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Let me help out this much, okay?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E075.png"
+    },
+    {
+        "name": "Advisor of the Labyrinth's Exploration, Eina",
+        "code": "DDM/S88-E076",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guild",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] If there is an event card in your waiting room, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards or \"Backup\" from your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E076.png"
+    },
+    {
+        "name": "Proof of Trust, Hestia",
+        "code": "DDM/S88-E077",
+        "rarity": "RR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your back stage.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"I Shall Make You Win\" is in your climax area, choose 1 of your characters, and that character gets +1 soul and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 2 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E077.png"
+    },
+    {
+        "name": "Goddess's Judgment, Hestia",
+        "code": "DDM/S88-E078",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "So, you're the Supporter I've heard so much about.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E078.png"
+    },
+    {
+        "name": "Balance Between Friends, Mikoto",
+        "code": "DDM/S88-E079",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.",
+            "【ACT】 [Put this card into your waiting room] If your level is 1 or higher, choose 1 \"Gravity Cage, Mikoto\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E079.png"
+    },
+    {
+        "name": "\"Guild\" Receptionist, Eina",
+        "code": "DDM/S88-E080",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guild",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+            "【ACT】 [Put 1 \"\"Magic Stone\"\" from your hand into your waiting room & 【REST】 this card] Choose up to 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters in your waiting room, and put them into your stock in any order."
+        ],
+        "flavor_text": "Bell.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E080.png"
+    },
+    {
+        "name": "Gift From Goddess, Hestia",
+        "code": "DDM/S88-E081",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level X or lower 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand. X is equal to the number of \"Argonaut, Bell\" in your waiting room."
+        ],
+        "flavor_text": "You said you wanted to be strong, right?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E081.png"
+    },
+    {
+        "name": "Receptionist's Day Off, Eina",
+        "code": "DDM/S88-E082",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guild",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 \"Eina's Present\" event cards get 【COUNTER】 while in your hand.",
+            "【CONT】 Assist All of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When your character's trigger check reveals a climax, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Just be quiet and go. A boy shouldn't sound so wishy-washy.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E082.png"
+    },
+    {
+        "name": "Loli Goddess, Hestia",
+        "code": "DDM/S88-E083",
+        "rarity": "R",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 If \"Human Activity, Hestia\" is in your clock, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the bottom card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E083.png"
+    },
+    {
+        "name": "Case's Conclusion, Eina",
+        "code": "DDM/S88-E084",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guild",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "I wonder what it was all about.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E084.png"
+    },
+    {
+        "name": "Role of Sending Off, Takemikazuchi",
+        "code": "DDM/S88-E085",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters you have ×500."
+        ],
+        "flavor_text": "Your Little Rookie is headed down there, too, isn't he?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E085.png"
+    },
+    {
+        "name": "Gravity Cage, Mikoto",
+        "code": "DDM/S88-E086",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"【Futsu-no-Mitama】\" is in your climax area, and you have 4 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your stock in any order."
+        ],
+        "flavor_text": "Jinmu Tousei!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E086.png"
+    },
+    {
+        "name": "Belief in His Victory, Hestia",
+        "code": "DDM/S88-E087",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you play \"《Hestia Knife》\", this card gets +4000 power until end of turn."
+        ],
+        "flavor_text": "Bell!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E087.png"
+    },
+    {
+        "name": "Meeting Up for a Date, Hestia",
+        "code": "DDM/S88-E088",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Bell(ベル)\" in its card name, this card gets +7500 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Paradise in Heaven\" is in your climax area, and you have another character with \"Bell(ベル)\" in its card name, choose up to 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters in your waiting room, put them into your stock in any order, look at up to 4 cards from the top of your deck, choose up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Sorry, Bell. Were you waiting long?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E088.png"
+    },
+    {
+        "name": "Present of Croquettes, Hestia",
+        "code": "DDM/S88-E089",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck."
+        ],
+        "flavor_text": "I bought you a tasty treat!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E089.png"
+    },
+    {
+        "name": "Pursuit of Truth, Eina",
+        "code": "DDM/S88-E090",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guild",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Where could it be?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E090.png"
+    },
+    {
+        "name": "Part-Time Job on the Side, Hestia",
+        "code": "DDM/S88-E091",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\""
+        ],
+        "flavor_text": "Welcome!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E091.png"
+    },
+    {
+        "name": "Support Role, Chigusa",
+        "code": "DDM/S88-E092",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"A Man's Obstinance, Ouka\" get +3000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E092.png"
+    },
+    {
+        "name": "Drunken Goddess, Hestia",
+        "code": "DDM/S88-E093",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of their deck.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Bell was... Bell was... He was cheating on me!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E093.png"
+    },
+    {
+        "name": "A Man's Obstinance, Ouka",
+        "code": "DDM/S88-E094",
+        "rarity": "C",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "8500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "I don't want to be a guy who's all talk...",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E094.png"
+    },
+    {
+        "name": "《Hestia Knife》",
+        "code": "DDM/S88-E095",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a character with \"Hestia(ヘスティア)\" or \"Bell(ベル)\" in its card name, this card cannot be played from your hand. If you do not have a character with \"Bell(ベル)\" in its card name, this card cannot be played from your hand during the counter step. This card can be played from your hand without fulfilling color requirements. Look at up to 4 cards from the top of your deck, choose up to 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "The question is how much Bell's Status is rising.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E095.png"
+    },
+    {
+        "name": "Eina's Present",
+        "code": "DDM/S88-E096",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "You may choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and put it into your waiting room. If you do, put this card into your memory.",
+            "【CONT】 Memory If this card is in your memory, all of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters get +1000 power."
+        ],
+        "flavor_text": "A present, from me. Just make sure you use it.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E096.png"
+    },
+    {
+        "name": "\"Magic Stone\"",
+        "code": "DDM/S88-E097",
+        "rarity": "U",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you have 3 or more 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, your opponent returns all cards from their stock to their deck, shuffles their deck, and puts the same number of cards from the top of their deck into their stock."
+        ],
+        "flavor_text": "Now Ganesha owes us one.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E097.png"
+    },
+    {
+        "name": "I Shall Make You Win",
+        "code": "DDM/S88-E098",
+        "rarity": "CR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I'll say it again.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E098.png"
+    },
+    {
+        "name": "Paradise in Heaven",
+        "code": "DDM/S88-E099",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Hey, Demeter! Long time, no see.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E099.png"
+    },
+    {
+        "name": "【Futsu-no-Mitama】",
+        "code": "DDM/S88-E100",
+        "rarity": "CC",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "([[draw.gif]]: When this card triggers, you may draw a card)"
+        ],
+        "flavor_text": "Futsu-no-Mitama!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E100.png"
+    },
+    {
+        "name": "Choice for Survival, Lili",
+        "code": "DDM/S88-E101",
+        "rarity": "PR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, return it to your hand, choose 1 of your other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "There might be a way to get back alive, if we can make it down to Level 18.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E101.png"
+    },
+    {
+        "name": "Conquering the Middle Levels, Welf",
+        "code": "DDM/S88-E102",
+        "rarity": "PR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+            "【AUTO】 When this card attacks, if you have another 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Well, pretty good for our first mid-level battle, huh?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E102.png"
+    },
+    {
+        "name": "Fleeing From Despair, Bell",
+        "code": "DDM/S88-E103",
+        "rarity": "PR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "Run! Run! Run! Run! RUN!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E103.png"
+    },
+    {
+        "name": "\"Skill\" Activation, Hestia",
+        "code": "DDM/S88-E104",
+        "rarity": "PR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When you play an event, you may put this card into your stock.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Congratulations, Bell.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_E104.png"
+    },
+    {
+        "name": "Sleeping Goddess, Hestia",
+        "code": "DDM/S88-PE02",
+        "rarity": "PR",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [(1) Put 1 event from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 event in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "PE02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_p02.png"
+    },
+    {
+        "name": "Chienthrope? Girl, Lili",
+        "code": "DDM/S88-TE01",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "Pardon my intrusion, but are you looking for a Supporter?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE01.png"
+    },
+    {
+        "name": "First Class Adventurer, Ais",
+        "code": "DDM/S88-TE02",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 1 or less other characters, this card gets +1500 power.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "I guess we need to fight.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE02.png"
+    },
+    {
+        "name": "Blacksmith Master, Welf",
+        "code": "DDM/S88-TE03",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Blacksmith Master"
+        ],
+        "ability": [
+            "【AUTO】 [Put the top card of your deck into your clock] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE03.png"
+    },
+    {
+        "name": "Shy Maiden, Lili",
+        "code": "DDM/S88-TE04",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE04.png"
+    },
+    {
+        "name": "Encounter in the Dungeon, Ais",
+        "code": "DDM/S88-TE05",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Excuse me. Are you all right?",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE05.png"
+    },
+    {
+        "name": "Monster Feria, Ais",
+        "code": "DDM/S88-TE06",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE06.png"
+    },
+    {
+        "name": "Vow of Atonement, Lili",
+        "code": "DDM/S88-TE07",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Supporter"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [(2) 【REST】 this card] Choose 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Yes, I swear.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE07.png"
+    },
+    {
+        "name": "【Hestia Familia】",
+        "code": "DDM/S88-TE08",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE08.png"
+    },
+    {
+        "name": "Start of a Day, Hestia",
+        "code": "DDM/S88-TE09",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Trying to Pick Up Girls, Bell\" get the following ability. \"【AUTO】 When this card attacks, look at the top card of your deck, put it on the top or at the bottom of your deck, and this card gets +1000 power until end of turn.\"",
+            "【AUTO】 Bond/\"Trying to Pick Up Girls, Bell\" [(1)] (When this card is played and placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Trying to Pick Up Girls, Bell\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE09.png"
+    },
+    {
+        "name": "Moment in Labyrinth City, Hestia",
+        "code": "DDM/S88-TE10",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Status Update\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Let's have a date, Bell!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE10.png"
+    },
+    {
+        "name": "Towards His Aspiration, Bell",
+        "code": "DDM/S88-TE11",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck."
+        ],
+        "flavor_text": "And that's the one thing I want more than anything!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE11.png"
+    },
+    {
+        "name": "Familia of Just Two People, Hestia",
+        "code": "DDM/S88-TE12",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters you have ×500.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"A God's Role\" is in your climax area, you may choose 1 \"Status Update\" in your hand, and put it into your memory."
+        ],
+        "flavor_text": "Welcome back, Bell!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE12.png"
+    },
+    {
+        "name": "Trying to Pick Up Girls, Bell",
+        "code": "DDM/S88-TE13",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE13.png"
+    },
+    {
+        "name": "Flattery Can Do Wonders, Bell",
+        "code": "DDM/S88-TE14",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters you have ×1000."
+        ],
+        "flavor_text": "Wow, I can buy Goddess something great to eat with this.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE14.png"
+    },
+    {
+        "name": "Moment in Labyrinth City, Bell",
+        "code": "DDM/S88-TE15",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "Adventurer"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each character in your opponent's back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "W-wait a second, please, Goddess!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE15.png"
+    },
+    {
+        "name": "Goddess, Hestia",
+        "code": "DDM/S88-TE16",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Familia",
+            "God"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it on any position of your stage, and that character gets +2000 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, all players return all cards from their waiting rooms to their decks, and shuffle their decks."
+        ],
+        "flavor_text": "I'm so happy to have met someone like you.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE16.png"
+    },
+    {
+        "name": "Status Update",
+        "code": "DDM/S88-TE17",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put this card into your memory.",
+            "【AUTO】 Memory [Put 1 《Familia》 or 《Guild》 or 《Hostess of Fertility》 character from your hand into your waiting room & Return this card to your hand] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 4 《Familia》 or 《Guild》 or 《Hostess of Fertility》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Bell, you dream about dungeons too much.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE17.png"
+    },
+    {
+        "name": "Next Stage",
+        "code": "DDM/S88-TE18",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Yeah, let's go!",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE18.png"
+    },
+    {
+        "name": "A God's Role",
+        "code": "DDM/S88-TE19",
+        "rarity": "TD",
+        "expansion": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "The one you're to meet may be right next to you the whole time.",
+        "set": "DDM",
+        "release": "88",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/DDM/DDM_S88_TE19.png"
+    }
+]
