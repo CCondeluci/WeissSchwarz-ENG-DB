@@ -1,0 +1,3892 @@
+[
+    {
+        "name": "Armin: Lending a Hand",
+        "code": "AOT/SX04-001",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Eldian》 or 《Corps》 character in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [(2) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "They can’t want us to repeat the past, so why won’t they consider peace?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_001.png"
+    },
+    {
+        "name": "Eren: Determined",
+        "code": "AOT/SX04-002",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Eldian》 or 《Corps》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +25-- power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "I’ll just keep moving forward.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_002.png"
+    },
+    {
+        "name": "Eren Titan: Declaration of War",
+        "code": "AOT/SX04-003",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each character in your opponent's back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Declaration of War\" is in your climax area, and you have 2 or more other 《Eldian》 or 《Corps》 characters, you may pay the cost. If you do, put the bottom 4 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of level - or lower cards among those cards. (Climax are regarded as level -. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_003.png"
+    },
+    {
+        "name": "Colossal Titan: Painful Sight from Above",
+        "code": "AOT/SX04-004",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_004.png"
+    },
+    {
+        "name": "Eren Titan: Alternative Plan",
+        "code": "AOT/SX04-005",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 [Put 1 《Eldian》 or 《Corps》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_005.png"
+    },
+    {
+        "name": "Eren: Embarking on a Different Path",
+        "code": "AOT/SX04-006",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Eldian》 or 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_006.png"
+    },
+    {
+        "name": "Conny: Strengthened Resolve",
+        "code": "AOT/SX04-007",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Eldian》 or 《Corps》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_007.png"
+    },
+    {
+        "name": "Floch: Smug Face",
+        "code": "AOT/SX04-008",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, choose 1 of your characters, and that character gets +3--- power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Eldian》 or 《Corps》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Keep it down, will ya? This is a family restaurant.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_008.png"
+    },
+    {
+        "name": "Conny: Taken Aback",
+        "code": "AOT/SX04-009",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2---, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "What is that guy’s problem?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_009.png"
+    },
+    {
+        "name": "Colossal Titan: Facing a Foreign Land",
+        "code": "AOT/SX04-010",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another 《Eldian》 or 《Corps》 character, this card gets +3--- power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return the revealed card to its original place. Climax are regarded as level -)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_010.png"
+    },
+    {
+        "name": "Armin: Exiting the Titan",
+        "code": "AOT/SX04-011",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Eldian》 or 《Corps》 characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【AUTO】 When your climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_011.png"
+    },
+    {
+        "name": "Eren: Conversation at Sunset",
+        "code": "AOT/SX04-012",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"A Rare Confession\" is in your climax area, and you have another 《Eldian》 or 《Corps》 character, search your deck for up to 1 《Eldian》 or 《Corps》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Because you’re important to me. More than anyone else. I hope you’ll live long lives.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_012.png"
+    },
+    {
+        "name": "Floch: Leading the Jaegerists",
+        "code": "AOT/SX04-013",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +1500 power for each other 《Eldian》 or 《Corps》 character in your back stage.",
+            "【AUTO】 【CXCOMBO】 When \"Jaegerists\" is placed on your climax area, if this card is in your center stage, choose up to 1 of your opponent's characters, return it to their hand, choose up to 2 《Eldian》 or 《Corps》 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_013.png"
+    },
+    {
+        "name": "Armin: Fight Among Friends",
+        "code": "AOT/SX04-014",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Old Friends\" is in your climax area, reveal the top 9 cards of your deck, shuffle your deck, and you may deal X damage to your opponent. X is equal to the total number of in the trigger icons of those cards. (Damage may be canceled. Return the revealed cards to their original places)"
+        ],
+        "flavor_text": "Eren: \"The two of us’ve never actually fought before, have we?\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_014.png"
+    },
+    {
+        "name": "Armin: Conversation at Sunset",
+        "code": "AOT/SX04-015",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Eldian》 or 《Corps》 characters get +500 power.",
+            "【AUTO】 [Put 1 《Eldian》 or 《Corps》 character from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 《Eldian》 or 《Corps》 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Jean. It’s just the sunset. That’s what’s making our faces red.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_015.png"
+    },
+    {
+        "name": "Dot Pyxis",
+        "code": "AOT/SX04-016",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Eldian》 or 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_016.png"
+    },
+    {
+        "name": "Conny: Providing Support",
+        "code": "AOT/SX04-017",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +3--- power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, that character cannot use \"【AUTO】 Encore\" until end of turn. (The \"【AUTO】 Encore [(3)]\" rule cannot be used either)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_017.png"
+    },
+    {
+        "name": "Conny: Conversation at Sunset",
+        "code": "AOT/SX04-018",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1500 power for each of your other 《Eldian》 or 《Corps》 characters.",
+            "【AUTO】 When your climax with in its trigger icon is placed on your climax area, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "You’re more of an idiot than me, which means, you just contradicted yourself, right?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_018.png"
+    },
+    {
+        "name": "Eren: Advancing",
+        "code": "AOT/SX04-019",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6--- power until end of turn.",
+            "【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "I am free.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_019.png"
+    },
+    {
+        "name": "New Omni Directional Mobility Gear",
+        "code": "AOT/SX04-020",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If your waiting room has 2 or more climax, choose 1 of the following actions, and perform it.",
+            "\"Choose up to 1 of your 《Corps》 characters in battle, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+            "\"Choose up to 1 of your 《Corps》 characters in battle, move it to an open position of your stage, choose up to 1 《Corps》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_020.png"
+    },
+    {
+        "name": "Anti-Marleyan Volunteers",
+        "code": "AOT/SX04-021",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Reveal the top 9 cards of your deck, shuffle your deck, and deal X damage to your opponent. X is equal to the total number of in the trigger icons of those cards. (Damage may be canceled. Return the revealed cards to their original places)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_021.png"
+    },
+    {
+        "name": "Declaration of War",
+        "code": "AOT/SX04-022",
+        "rarity": "CR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_022.png"
+    },
+    {
+        "name": "Jaegerists",
+        "code": "AOT/SX04-023",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_023.png"
+    },
+    {
+        "name": "A Rare Confession",
+        "code": "AOT/SX04-024",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_024.png"
+    },
+    {
+        "name": "Old Friends",
+        "code": "AOT/SX04-025",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_025.png"
+    },
+    {
+        "name": "Levi: Merciless Assault",
+        "code": "AOT/SX04-026",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When your other 《Eldian》 or 《Corps》 character attacks, this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "What gave you the idea that you could escape from me?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_026.png"
+    },
+    {
+        "name": "Falco: Turning Point",
+        "code": "AOT/SX04-027",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Eldian》 characters, choose 1 of your 《Eldian》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Entering the Enemy Airship\" is in your climax area, choose 1 of your 《Eldian》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Eldian》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_027.png"
+    },
+    {
+        "name": "Gabi: Fatal Shot",
+        "code": "AOT/SX04-028",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Sasha: \"Wandering the Forest\"\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 4 cards of your opponent's deck into their waiting room, deal X damage to your opponent, and this card gets +1000 power until end of turn. X is equal to the number of climax among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_028.png"
+    },
+    {
+        "name": "Hange: Growing Suspicions",
+        "code": "AOT/SX04-029",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level - or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_029.png"
+    },
+    {
+        "name": "Gabi: Involuntary Witness",
+        "code": "AOT/SX04-030",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Eldian》 character, this card gets +1 level and +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Eldian》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_030.png"
+    },
+    {
+        "name": "Hange: Scout Regiment Commanding Officer",
+        "code": "AOT/SX04-031",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, you may put the top card of your opponent's clock into their waiting room. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their clock.",
+            "【ACT】 【COUNTER】 Backup 1---, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "Erwin. This is the one time you bet on the wrong horse.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_031.png"
+    },
+    {
+        "name": "Levi: Keeping Watch",
+        "code": "AOT/SX04-032",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Eldian》 or 《Corps》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost - or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_032.png"
+    },
+    {
+        "name": "Levi: Drawing Boundaries",
+        "code": "AOT/SX04-033",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 other 《Eldian》 or 《Corps》 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 soul until end of turn.",
+            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+        ],
+        "flavor_text": "This meeting is as far as we’re willing to go.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_033.png"
+    },
+    {
+        "name": "Levi: Deep Grudge",
+        "code": "AOT/SX04-034",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《Eldian》 or 《Corps》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Deep Grudge\" is in your climax area, you may pay the cost. If you do, put that character into your opponent's clock, and deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_034.png"
+    },
+    {
+        "name": "Hange: Introduction to New Technology",
+        "code": "AOT/SX04-035",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_035.png"
+    },
+    {
+        "name": "Eren: Mr. Kruger",
+        "code": "AOT/SX04-036",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_036.png"
+    },
+    {
+        "name": "Gabi: On the Run",
+        "code": "AOT/SX04-037",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another 《Eldian》 character, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "This is the devil’s doing!",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_037.png"
+    },
+    {
+        "name": "Falco: On the Run",
+        "code": "AOT/SX04-038",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Eldian》 characters, and that character gets +500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.\""
+        ],
+        "flavor_text": "Kaya: \"Both of you are quick learners. You’re hard-working too.\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_038.png"
+    },
+    {
+        "name": "Falco: Involuntary Witness",
+        "code": "AOT/SX04-039",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_039.png"
+    },
+    {
+        "name": "Theo Magath",
+        "code": "AOT/SX04-040",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Military",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +25-- power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_040.png"
+    },
+    {
+        "name": "Falco: Running Errands",
+        "code": "AOT/SX04-041",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Eldian》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 【CXCOMBO】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each \"Entering the Enemy Airship\" or \"Fatal Wound\" revealed among those cards, search your deck for up to 1 《Eldian》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_041.png"
+    },
+    {
+        "name": "Colt Grice",
+        "code": "AOT/SX04-042",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place)",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "We need to get him to the hospital.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_042.png"
+    },
+    {
+        "name": "Gabi: War Hero",
+        "code": "AOT/SX04-043",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 characters, this card gets +1 level, +1000 power, and cannot be chosen by your opponent's effects.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×1---."
+        ],
+        "flavor_text": "Thank you! Woo!",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_043.png"
+    },
+    {
+        "name": "Azumabito",
+        "code": "AOT/SX04-044",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to 2 《Eldian》 characters in your waiting room, and return them to your hand. If you have a character with \"Mikasa\" in its card name, you may choose 1 《Eldian》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_044.png"
+    },
+    {
+        "name": "Deep Grudge",
+        "code": "AOT/SX04-045",
+        "rarity": "CR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_045.png"
+    },
+    {
+        "name": "Entering the Enemy Airship",
+        "code": "AOT/SX04-046",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Colt: \"Falco!\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_046.png"
+    },
+    {
+        "name": "Mikasa: Recovery Mission",
+        "code": "AOT/SX04-047",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 or 《Corps》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Perfect Timing\" is in your climax area, and all of your characters are 《Eldian》 or 《Corps》, look at up to 4 cards from the top of your deck, choose up to 1 \"New Omni Directional Mobility Gear\" or 《Eldian》 or 《Corps》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Please. Eren. Come home.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_047.png"
+    },
+    {
+        "name": "Sasha: \"Wandering the Forest\"",
+        "code": "AOT/SX04-048",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Eldian》 or 《Corps》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room & Put this card into your memory] At the end of this card's attack, if \"Fatal Wound\" is in your climax area, and all of your characters are 《Eldian》 or 《Corps》, you may pay the cost. If you do, choose 1 《Eldian》 or 《Corps》 character except \"Sasha: \"Wandering the Forest\"\" in your waiting room, and put it on the stage position this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_048.png"
+    },
+    {
+        "name": "Historia: Political Meeting",
+        "code": "AOT/SX04-049",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level -. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "You’ve always worn that wristwrap.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_049.png"
+    },
+    {
+        "name": "Jean: Overseeing the Celebrations",
+        "code": "AOT/SX04-050",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand.",
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level -. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_050.png"
+    },
+    {
+        "name": "Sasha: High Praise",
+        "code": "AOT/SX04-051",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "It’s so good!",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_051.png"
+    },
+    {
+        "name": "Jean: Strengthened Resolve",
+        "code": "AOT/SX04-052",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《Eldian》 or 《Corps》 character, you may choose 1 level - or lower character in your opponent's center stage, and put it into their waiting room."
+        ],
+        "flavor_text": "Eren. Sasha only died because you dragged the Scouts into this.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_052.png"
+    },
+    {
+        "name": "Jean: Covering Fire",
+        "code": "AOT/SX04-053",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Eldian》 or 《Corps》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character in your hand with level equal to or lower than your level, put it on any position of your stage, and that character gets +2000 power until end of turn.",
+            "【AUTO】 [(3) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 4 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_053.png"
+    },
+    {
+        "name": "Mikasa: Conversation at Sunset",
+        "code": "AOT/SX04-054",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Eldian》 or 《Corps》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 When your climax with in its trigger icon is placed on your climax area, choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_054.png"
+    },
+    {
+        "name": "Jean: Conversation at Sunset",
+        "code": "AOT/SX04-055",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax with in its trigger icon in your climax area, you may put that character on the top of your opponent's deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Hold on! What are you turning red for?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_055.png"
+    },
+    {
+        "name": "Mikasa: Providing Support",
+        "code": "AOT/SX04-056",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_056.png"
+    },
+    {
+        "name": "Mikasa: Mourning",
+        "code": "AOT/SX04-057",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 [【REST】 1 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in your waiting room, you return all cards except that card from your waiting room to your deck, and shuffle your deck.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1---."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_057.png"
+    },
+    {
+        "name": "Artur Braus",
+        "code": "AOT/SX04-058",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [【REST】 2 of your characters] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+        ],
+        "flavor_text": "Y’all were friends with my daughter, Sasha?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_058.png"
+    },
+    {
+        "name": "Kaya: Murderous Rage",
+        "code": "AOT/SX04-059",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3--- power until end of turn.",
+            "【AUTO】 [(1) Put this card into your waiting room] When your other 《Eldian》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_059.png"
+    },
+    {
+        "name": "Kaya: Delivering Lunch",
+        "code": "AOT/SX04-060",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Ready for a lunch break?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_060.png"
+    },
+    {
+        "name": "Historia: Expecting",
+        "code": "AOT/SX04-061",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Eldian》 or 《Corps》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_061.png"
+    },
+    {
+        "name": "Sasha: Conversation at Sunset",
+        "code": "AOT/SX04-062",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"A Rare Confession\" or \"Old Friends\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"A Rare Confession\" or \"Old Friends\" in your waiting room, and return it to your hand.",
+            "【AUTO】 When your climax with in its trigger icon is placed on your climax area, all of your characters get +1500 power until end of turn."
+        ],
+        "flavor_text": "I get that I have to, but still, I really don’t wanna.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_062.png"
+    },
+    {
+        "name": "Crest Mark",
+        "code": "AOT/SX04-063",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Mikasa\" in its card name, this card cannot be played from your hand.",
+            "Look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Eldian》 or 《Corps》 characters you have +1."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_063.png"
+    },
+    {
+        "name": "Spiked Wine",
+        "code": "AOT/SX04-064",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "You may choose 1 of your 《Eldian》 characters, and put it into your waiting room. If you do, choose 1 《Titan》 character with level equal to or less than your level in your waiting room, put it on any position of your stage, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_064.png"
+    },
+    {
+        "name": "Fatal Wound",
+        "code": "AOT/SX04-065",
+        "rarity": "CR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_065.png"
+    },
+    {
+        "name": "Perfect Timing",
+        "code": "AOT/SX04-066",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_066.png"
+    },
+    {
+        "name": "Zeke: Succeeding the Beast Titan",
+        "code": "AOT/SX04-067",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is an 《Eldian》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "I’m not here to fight you, Eren.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_067.png"
+    },
+    {
+        "name": "Reiner: Haunted by His Own Advice",
+        "code": "AOT/SX04-068",
+        "rarity": "RR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Eldian》 character, this card gets +1500 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Reunion\" is in your climax area, and you have 4 or more other 《Eldian》 characters, you may pay the cost. If you do, put the top 2 cards of your deck into your waiting room, choose up to 2 level X or lower 《Eldian》 characters in your waiting room, and return them to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level -)"
+        ],
+        "flavor_text": "Just do what you have to. Keep moving forward. That’s all we can do.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_068.png"
+    },
+    {
+        "name": "Cart Titan: Providing Cover",
+        "code": "AOT/SX04-069",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Eldian》 or 《Titan》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Eldian》 or 《Titan》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_069.png"
+    },
+    {
+        "name": "Reiner: Trying to Give Up",
+        "code": "AOT/SX04-070",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Eldian》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_070.png"
+    },
+    {
+        "name": "Beast Titan: Supreme Artillery",
+        "code": "AOT/SX04-071",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Titan》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Eldian》 or 《Titan》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_071.png"
+    },
+    {
+        "name": "Jaw Titan: Retaking of the Founding Titan",
+        "code": "AOT/SX04-072",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 or 《Titan》 characters, this card gets +500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_072.png"
+    },
+    {
+        "name": "Armored Titan: Show of Resistance",
+        "code": "AOT/SX04-073",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 or 《Titan》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 《Eldian》 or 《Titan》 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"Facing Off\" is in your climax area, and you have 4 or more other 《Eldian》 or 《Titan》 characters, you may pay the cost. If you do, reveal the top 9 cards of your deck, shuffle your deck, and deal X damage to your opponent 2 times. X is equal to the total number of in the trigger icons of those cards. (Damage may be canceled. Return the revealed cards to their original places)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_073.png"
+    },
+    {
+        "name": "Zeke: Reliable Marleyan Warrior",
+        "code": "AOT/SX04-074",
+        "rarity": "R",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you have \"Porco: Harsh Words\" and \"Pieck: Mediator\", this card gets -1 level while in your hand.",
+            "【CONT】 This card gets +500 power for each of your other 《Eldian》 characters.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "Grandpa! Grandma! It’s so good to see you.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_074.png"
+    },
+    {
+        "name": "Porco: Growing Unease",
+        "code": "AOT/SX04-075",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level - or lower, you may put that character at the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Eldian》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_075.png"
+    },
+    {
+        "name": "Pieck: Mediator",
+        "code": "AOT/SX04-076",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Eldian》 character in the middle position of your center stage gets \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_076.png"
+    },
+    {
+        "name": "War Hammer Titan: Variety of Weapons",
+        "code": "AOT/SX04-077",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, all of your other 《Eldian》 or 《Titan》 characters get +1000 power.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_077.png"
+    },
+    {
+        "name": "War Hammer Titan: Facing the Usurper",
+        "code": "AOT/SX04-078",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Titan》 characters you have ×5--.",
+            "【AUTO】 [(3) Put 1 card from your hand into your waiting room & Put 1 other character from your stage into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, at the end of this card's attack, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_078.png"
+    },
+    {
+        "name": "Reiner: Past Shadows",
+        "code": "AOT/SX04-079",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【ACT】 [Put this card into your waiting room] Choose 1 \"Armored Titan: Show of Resistance\" in your waiting room, and put it on the stage position that this card was on."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_079.png"
+    },
+    {
+        "name": "Lara Tybur",
+        "code": "AOT/SX04-080",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 [(1)] At the beginning of your encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_080.png"
+    },
+    {
+        "name": "Willy Tybur",
+        "code": "AOT/SX04-081",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×5--.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] If you have another 《Eldian》 character, choose 1 of your opponent's characters, and move it to another open position of their stage."
+        ],
+        "flavor_text": "I’m Willy. Head of the Tyburs.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_081.png"
+    },
+    {
+        "name": "Jaw Titan: Sharp Teeth",
+        "code": "AOT/SX04-082",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Eldian》 or 《Titan》 characters get +500 power.",
+            "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Sharp Teeth\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《Eldian》 or 《Titan》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_082.png"
+    },
+    {
+        "name": "Tom Ksaver",
+        "code": "AOT/SX04-083",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Baseball\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "You’re a smart kid. A good kid.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_083.png"
+    },
+    {
+        "name": "Porco: Taken Aback",
+        "code": "AOT/SX04-084",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【ACT】 [Put this card into your waiting room] Choose 1 \"Jaw Titan: Retaking of the Founding Titan\" in your waiting room, and put it on the stage position that this card was on.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Eldian》 characters, and that character gets +25-- power until end of turn."
+        ],
+        "flavor_text": "What the hell? Can’t you see I’m a Titan?",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_084.png"
+    },
+    {
+        "name": "Pieck: Pointing Out the Enemy",
+        "code": "AOT/SX04-085",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters among those cards ×1---.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level - or lower character in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "Right there.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_085.png"
+    },
+    {
+        "name": "Zeke: Whistleblower",
+        "code": "AOT/SX04-086",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Eldian》 characters.",
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_086.png"
+    },
+    {
+        "name": "Armored Titan: Marley Mid-East War",
+        "code": "AOT/SX04-087",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each other 《Eldian》 or 《Titan》 character in your back stage.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1---."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_087.png"
+    },
+    {
+        "name": "Cart Titan: Fending Off",
+        "code": "AOT/SX04-088",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 level 3 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_088.png"
+    },
+    {
+        "name": "Reiner: Overseeing the Celebrations",
+        "code": "AOT/SX04-089",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×2---.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your 《Eldian》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Not the first time I’ve seen her up there.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_089.png"
+    },
+    {
+        "name": "Porco: Harsh Words",
+        "code": "AOT/SX04-090",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "If I had inherited the Armored Titan nine years ago, then none of this would’ve happened.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_090.png"
+    },
+    {
+        "name": "Pieck: Trusted by Her Squad",
+        "code": "AOT/SX04-091",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×15--.",
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Eldian》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_091.png"
+    },
+    {
+        "name": "Zeke: Scream",
+        "code": "AOT/SX04-092",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more other 《Eldian》 or 《Titan》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Spinal Fluid Activation\" from your climax area into your waiting room] When this card attacks, if you have 4 or more other 《Eldian》 or 《Titan》 characters, you may pay the cost. If you do, search your deck for up to 2 《Eldian》 or 《Titan》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_092.png"
+    },
+    {
+        "name": "Beast Titan: Marley Mid-East War",
+        "code": "AOT/SX04-093",
+        "rarity": "C",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 or 《Titan》 characters, this card gets +4--- power and the following ability. \"【CONT】 The character facing this card cannot side attack.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Eldian》 or 《Titan》 characters, you may choose 1 《Eldian》 or 《Titan》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_093.png"
+    },
+    {
+        "name": "The Panzer Unit",
+        "code": "AOT/SX04-094",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Pieck\" or \"Cart Titan\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to 2 cost - or lower 《Military》 characters, put them on separate positions of your stage, shuffle your deck, and those characters get +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_094.png"
+    },
+    {
+        "name": "Baseball",
+        "code": "AOT/SX04-095",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Perform the following action 2 times.",
+            "\"Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 The character facing this card gets -1 soul.\"\"",
+            "Put this card into your memory."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_095.png"
+    },
+    {
+        "name": "Ready to End",
+        "code": "AOT/SX04-096",
+        "rarity": "U",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【REST】 1 of your 【STAND】 characters with \"Reiner\" in its card name. If you do, search your deck for up to 3 《Eldian》 characters, reveal them to your opponent, put them into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_096.png"
+    },
+    {
+        "name": "Facing Off",
+        "code": "AOT/SX04-097",
+        "rarity": "CR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_097.png"
+    },
+    {
+        "name": "Reunion",
+        "code": "AOT/SX04-098",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_098.png"
+    },
+    {
+        "name": "Spinal Fluid Activation",
+        "code": "AOT/SX04-099",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_099.png"
+    },
+    {
+        "name": "Sharp Teeth",
+        "code": "AOT/SX04-100",
+        "rarity": "CC",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/BP/AOT_SX04_100.png"
+    },
+    {
+        "name": "Chimi Eren: Branching Paths",
+        "code": "AOT/SX04-101",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_101PR.png"
+    },
+    {
+        "name": "Chimi Armin: Branching Paths",
+        "code": "AOT/SX04-102",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 During your turn, your other character the middle position of your center stage gets +1500 power.",
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】 in battle, choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_102PR.png"
+    },
+    {
+        "name": "Chimi Levi: Branching Paths",
+        "code": "AOT/SX04-103",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level - or lower characters in front of this card get +1000 power.",
+            "【AUTO】 [Put this card into your waiting room] When your other 《Eldian》 or 《Corps》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_103PR.png"
+    },
+    {
+        "name": "Chimi Gabi",
+        "code": "AOT/SX04-104",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_104PR.png"
+    },
+    {
+        "name": "Chimi Falco",
+        "code": "AOT/SX04-105",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Eldian》 characters.",
+            "【AUTO】 Encore [Put 1 《Eldian》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_105PR.png"
+    },
+    {
+        "name": "Chimi Mikasa: Branching Paths",
+        "code": "AOT/SX04-106",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Corps"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1---.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_106PR.png"
+    },
+    {
+        "name": "Chimi Reiner",
+        "code": "AOT/SX04-107",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another character, this card gets +1 level and +1500 power.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "107",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_107PR.png"
+    },
+    {
+        "name": "Armin: Optimistic",
+        "code": "AOT/SX04-108",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Corps》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Corps》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Corps》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "If we fix the world’s misconceptions about us, threats won’t be needed.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "108",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_108PR.png"
+    },
+    {
+        "name": "Eren: Asking for Advice",
+        "code": "AOT/SX04-109",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, if all of your characters are 《Corps》, this card gets +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "Thanks for the advice.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "109",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_109PR.png"
+    },
+    {
+        "name": "Eren Titan: Welcoming Foreigners",
+        "code": "AOT/SX04-110",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose up to 3 of your 《Corps》 characters, and those characters get +500 power and +1 soul until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level -. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "110",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_110PR.png"
+    },
+    {
+        "name": "Erwin: Receiving a Promise",
+        "code": "AOT/SX04-111",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Corps》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 cost - or lower 《Corps》 character with level equal to or lower than your level, put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "111",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_111PR.png"
+    },
+    {
+        "name": "Levi: Making a Promise",
+        "code": "AOT/SX04-112",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Corps》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "112",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_112PR.png"
+    },
+    {
+        "name": "Mikasa: Hopeful",
+        "code": "AOT/SX04-113",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another 《Corps》 character, this card gets +1500 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Corps》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "There are some Marleyans who like us.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "113",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_113PR.png"
+    },
+    {
+        "name": "Reiner: Giving Advice",
+        "code": "AOT/SX04-114",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Corps》 or 《Titan》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "I’m sure you can do it.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "114",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_114PR.png"
+    },
+    {
+        "name": "Historia: Political Pawn",
+        "code": "AOT/SX04-115",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Corps",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Corps》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6--- power until end of turn."
+        ],
+        "flavor_text": "Eren: \"Let’s use what time we have to look at our options.\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "115",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_115PR.png"
+    },
+    {
+        "name": "Ymir: Titan Inheritance Ritual",
+        "code": "AOT/SX04-116",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Corps》 or 《Titan》 characters, this card gets +500 power and \"【AUTO】 Encore [Put 1 《Corps》 or 《Titan》 character from your hand into your waiting room]\".",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6--- power until end of turn."
+        ],
+        "flavor_text": "Porco: \"An ironically grand name for such a pitiful woman.\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "116",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_116PR.png"
+    },
+    {
+        "name": "Bertholdt: Reserved Thoughts",
+        "code": "AOT/SX04-117",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Corps",
+            "Titan"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Corps》 or 《Titan》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Corps》 or 《Titan》 characters you have.",
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Corps》 or 《Titan》 characters, choose 1 of your characters, and that character gets +3--- power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "117",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_117PR.png"
+    },
+    {
+        "name": "Reiner: Gloating",
+        "code": "AOT/SX04-P01",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost - or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Haven’t you figured it out? You’re at the bottom.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "P01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_P01PR.png"
+    },
+    {
+        "name": "Eren Titan: Incoming Battle",
+        "code": "AOT/SX04-P02",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan",
+            "Corps"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Eldian》 or 《Corps》, this card gets +2000 power.",
+            "【AUTO】 [(1)] When this card attacks, if there is a climax in your climax area, you may pay the cost. If you do, during that attack, this card gets +1 level, and perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "P02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_P02PR.png"
+    },
+    {
+        "name": "Eren: Undercover",
+        "code": "AOT/SX04-P03",
+        "rarity": "PR",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "P03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/PR/AOT_SX04_P03PR.png"
+    },
+    {
+        "name": "Colt: Ferrying to Safety",
+        "code": "AOT/SX04-T01",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Falco Grice\" and \"Falco: Warrior Candidate\" get +1000 power.",
+            "【AUTO】 Bond/\"Falco Grice\" \"Falco: Warrior Candidate\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Falco Grice\" or \"Falco: Warrior Candidate\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I’ll carry you back. Try to hold on!",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T01.png"
+    },
+    {
+        "name": "Eren: Undercover",
+        "code": "AOT/SX04-T02",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 《Eldian》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T02.png"
+    },
+    {
+        "name": "Gabi Braun",
+        "code": "AOT/SX04-T03",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 2 times per turn. When your other 《Eldian》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded are level -)"
+        ],
+        "flavor_text": "If you'll let me. I’m sure that I can take out that armored train by myself!",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T03.png"
+    },
+    {
+        "name": "Falco Grice",
+        "code": "AOT/SX04-T04",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Eldian》 character in your waiting room, return it to your hand, choose 1 of your other 《Eldian》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Eldian》 characters, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T04.png"
+    },
+    {
+        "name": "Falco: Warrior Candidate",
+        "code": "AOT/SX04-T05",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×5--.",
+            "【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 [Put 1 climax from your hand into your waiting room] When this card's trigger check reveals a climax, you may pay the cost. If you do, choose 1 《Eldian》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Udo: \"\"You filthy devil,\" he says.\"",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T05.png"
+    },
+    {
+        "name": "Zofia: Warrior Candidate",
+        "code": "AOT/SX04-T06",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T06.png"
+    },
+    {
+        "name": "Udo: Warrior Candidate",
+        "code": "AOT/SX04-T07",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×1---."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T07.png"
+    },
+    {
+        "name": "Gabi: Warrior Candidate",
+        "code": "AOT/SX04-T08",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"War Heroine\" is in your climax area, you may put that character into your opponent's clock."
+        ],
+        "flavor_text": "I’ll destroy that train and prove no warrior candidate deserves to inherit the Armor more than me.",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T08.png"
+    },
+    {
+        "name": "Eldian Armband",
+        "code": "AOT/SX04-T09",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Eldian》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level -)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T09.png"
+    },
+    {
+        "name": "War Heroine",
+        "code": "AOT/SX04-T10",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T10.png"
+    },
+    {
+        "name": "Zeke: Warrior Candidate",
+        "code": "AOT/SX04-T11",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【ACT】 [(1)] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "-The Beast Titan is more potent than ever.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T11.png"
+    },
+    {
+        "name": "Pieck: Warrior Candidate",
+        "code": "AOT/SX04-T12",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if there is 1 or less characters in your opponent's center stage, you may choose 1 cost - or lower character in your opponent's center stage, and put it at the bottom of their deck.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Eldian》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-The Cart Titan’s outstanding endurance makes it well-suited for lengthy missions on the field.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T12.png"
+    },
+    {
+        "name": "Annie: Warrior Candidate",
+        "code": "AOT/SX04-T13",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Eldian》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-The Female Titan. Its greatest strength is its versatility.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T13.png"
+    },
+    {
+        "name": "Marcel: Warrior Candidate",
+        "code": "AOT/SX04-T14",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "-The Jaw Titan is an assault weapon.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T14.png"
+    },
+    {
+        "name": "Reiner: Warrior Candidate",
+        "code": "AOT/SX04-T15",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Eldian》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-The Armored Titan naturally specializes in defense.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T15.png"
+    },
+    {
+        "name": "Jaw Titan: Marley Mid-East War",
+        "code": "AOT/SX04-T16",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have another 《Eldian》 or 《Titan》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T16.png"
+    },
+    {
+        "name": "Bertholdt: Warrior Candidate",
+        "code": "AOT/SX04-T17",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【ACT】 [【REST】 this card] Draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-Finally, there's the Colossal Titan. It is a god of destruction.-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T17.png"
+    },
+    {
+        "name": "Cart Titan: Marley Mid-East War",
+        "code": "AOT/SX04-T18",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Titan"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Titan》 characters you have ×5--."
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T18.png"
+    },
+    {
+        "name": "Reiner: Man on a Mission",
+        "code": "AOT/SX04-T19",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [],
+        "attributes": [
+            "Eldian",
+            "Military"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Eldian》 characters you have.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the top 5 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T19.png"
+    },
+    {
+        "name": "Raining Titans",
+        "code": "AOT/SX04-T20",
+        "rarity": "TD",
+        "expansion": "Attack On Titan: Final Season",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "AOT",
+        "release": "X04",
+        "sid": "T20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AOTFS/TD/AOT_SX04_T20.png"
+    }
+]
