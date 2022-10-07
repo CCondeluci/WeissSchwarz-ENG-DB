@@ -47,7 +47,7 @@
         ],
         "ability": [
             "【CONT】 If you have 4 or more 《Eldian》 or 《Corps》 characters, this card gets -1 level while in your hand.",
-            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +25-- power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\"",
+            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\"",
             "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
         ],
         "flavor_text": "I’ll just keep moving forward.",
@@ -134,7 +134,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×500.",
             "【AUTO】 [Put 1 《Eldian》 or 《Corps》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
         ],
         "flavor_text": "-",
@@ -215,7 +215,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, choose 1 of your characters, and that character gets +3--- power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, choose 1 of your characters, and that character gets +3000 power until end of turn. (Return the revealed card to its original place)",
             "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Eldian》 or 《Corps》 character in your waiting room, and return it to your hand."
         ],
         "flavor_text": "Keep it down, will ya? This is a family restaurant.",
@@ -245,7 +245,7 @@
         ],
         "ability": [
             "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is an 《Eldian》 or 《Corps》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
-            "【ACT】 【COUNTER】 Backup 2---, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
         ],
         "flavor_text": "What is that guy’s problem?",
         "set": "AOT",
@@ -272,7 +272,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, if you have another 《Eldian》 or 《Corps》 character, this card gets +3--- power until end of turn.",
+            "【AUTO】 When this card attacks, if you have another 《Eldian》 or 《Corps》 character, this card gets +3000 power until end of turn.",
             "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return the revealed card to its original place. Climax are regarded as level -)"
         ],
         "flavor_text": "-",
@@ -301,7 +301,7 @@
             "Corps"
         ],
         "ability": [
-            "【CONT】 Assist All of your 《Eldian》 or 《Corps》 characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【CONT】 Assist All of your 《Eldian》 or 《Corps》 characters in front of this card get +X power. X is equal to that character's level ×500.",
             "【AUTO】 When your climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn."
         ],
         "flavor_text": "-",
@@ -328,7 +328,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Corps》 characters you have ×500.",
             "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"A Rare Confession\" is in your climax area, and you have another 《Eldian》 or 《Corps》 character, search your deck for up to 1 《Eldian》 or 《Corps》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +1000 power until end of turn."
         ],
         "flavor_text": "Because you’re important to me. More than anyone else. I hope you’ll live long lives.",
@@ -468,7 +468,7 @@
             "Corps"
         ],
         "ability": [
-            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +3--- power.",
+            "【CONT】 During your turn, if you have another 《Eldian》 or 《Corps》 character, this card gets +3000 power.",
             "【AUTO】 When this card's battle opponent becomes 【REVERSE】, that character cannot use \"【AUTO】 Encore\" until end of turn. (The \"【AUTO】 Encore [(3)]\" rule cannot be used either)"
         ],
         "flavor_text": "-",
@@ -526,7 +526,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6--- power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
             "【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."
         ],
         "flavor_text": "I am free.",
@@ -862,7 +862,7 @@
         ],
         "ability": [
             "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, you may put the top card of your opponent's clock into their waiting room. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their clock.",
-            "【ACT】 【COUNTER】 Backup 1---, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
         ],
         "flavor_text": "Erwin. This is the one time you bet on the wrong horse.",
         "set": "AOT",
@@ -918,7 +918,7 @@
         ],
         "ability": [
             "【AUTO】 [(1) Put 1 other 《Eldian》 or 《Corps》 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 soul until end of turn.",
-            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
         ],
         "flavor_text": "This meeting is as far as we’re willing to go.",
         "set": "AOT",
@@ -1115,7 +1115,7 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +25-- power until end of turn."
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn."
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -1198,7 +1198,7 @@
         ],
         "ability": [
             "【CONT】 If you have 2 or more other 《Eldian》 characters, this card gets +1 level, +1000 power, and cannot be chosen by your opponent's effects.",
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×1---."
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×1000."
         ],
         "flavor_text": "Thank you! Woo!",
         "set": "AOT",
@@ -1559,7 +1559,7 @@
         ],
         "ability": [
             "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
-            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -1588,7 +1588,7 @@
         ],
         "ability": [
             "【AUTO】 [【REST】 1 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in your waiting room, you return all cards except that card from your waiting room to your deck, and shuffle your deck.",
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1---."
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1000."
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -1641,7 +1641,7 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3--- power until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn.",
             "【AUTO】 [(1) Put this card into your waiting room] When your other 《Eldian》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."
         ],
         "flavor_text": "-",
@@ -1695,7 +1695,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When your other 《Eldian》 or 《Corps》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×5--.",
+            "【AUTO】 When your other 《Eldian》 or 《Corps》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×500.",
             "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
         ],
         "flavor_text": "-",
@@ -1724,7 +1724,7 @@
             "Corps"
         ],
         "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
             "【AUTO】 【CXCOMBO】 [Put 1 \"A Rare Confession\" or \"Old Friends\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"A Rare Confession\" or \"Old Friends\" in your waiting room, and return it to your hand.",
             "【AUTO】 When your climax with in its trigger icon is placed on your climax area, all of your characters get +1500 power until end of turn."
         ],
@@ -2168,7 +2168,7 @@
             "Titan"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Titan》 characters you have ×5--.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Titan》 characters you have ×500.",
             "【AUTO】 [(3) Put 1 card from your hand into your waiting room & Put 1 other character from your stage into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, at the end of this card's attack, you may pay the cost. If you do, 【STAND】 this card."
         ],
         "flavor_text": "-",
@@ -2251,7 +2251,7 @@
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×5--.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×500.",
             "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] If you have another 《Eldian》 character, choose 1 of your opponent's characters, and move it to another open position of their stage."
         ],
         "flavor_text": "I’m Willy. Head of the Tyburs.",
@@ -2334,7 +2334,7 @@
         ],
         "ability": [
             "【ACT】 [Put this card into your waiting room] Choose 1 \"Jaw Titan: Retaking of the Founding Titan\" in your waiting room, and put it on the stage position that this card was on.",
-            "【ACT】 [【REST】 this card] Choose 1 of your 《Eldian》 characters, and that character gets +25-- power until end of turn."
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Eldian》 characters, and that character gets +2500 power until end of turn."
         ],
         "flavor_text": "What the hell? Can’t you see I’m a Titan?",
         "set": "AOT",
@@ -2360,7 +2360,7 @@
             "Military"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters among those cards ×1---.",
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters among those cards ×1000.",
             "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level - or lower character in your waiting room, and put it on any position of your stage."
         ],
         "flavor_text": "Right there.",
@@ -2415,7 +2415,7 @@
         ],
         "ability": [
             "【CONT】 This card gets +500 power for each other 《Eldian》 or 《Titan》 character in your back stage.",
-            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1---."
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000."
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -2472,7 +2472,7 @@
             "Military"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×2---.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×2000.",
             "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your 《Eldian》 characters, and that character gets +2000 power until end of turn."
         ],
         "flavor_text": "Not the first time I’ve seen her up there.",
@@ -2530,7 +2530,7 @@
             "Military"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×15--.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×1500.",
             "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Eldian》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
         ],
         "flavor_text": "-",
@@ -2588,7 +2588,7 @@
             "Titan"
         ],
         "ability": [
-            "【CONT】 If you have 2 or more other 《Eldian》 or 《Titan》 characters, this card gets +4--- power and the following ability. \"【CONT】 The character facing this card cannot side attack.\"",
+            "【CONT】 If you have 2 or more other 《Eldian》 or 《Titan》 characters, this card gets +4000 power and the following ability. \"【CONT】 The character facing this card cannot side attack.\"",
             "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Eldian》 or 《Titan》 characters, you may choose 1 《Eldian》 or 《Titan》 character in your waiting room, and put it into your stock."
         ],
         "flavor_text": "-",
@@ -2957,7 +2957,7 @@
             "Corps"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1---.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 or 《Corps》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 or 《Corps》 characters you have ×1000.",
             "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
         ],
         "flavor_text": "-",
@@ -3205,7 +3205,7 @@
         ],
         "ability": [
             "【CONT】 During your turn, if you have 2 or more other 《Corps》 characters, this card gets +2000 power.",
-            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6--- power until end of turn."
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
         ],
         "flavor_text": "Eren: \"Let’s use what time we have to look at our options.\"",
         "set": "AOT",
@@ -3234,7 +3234,7 @@
         ],
         "ability": [
             "【CONT】 If you have 2 or more other 《Corps》 or 《Titan》 characters, this card gets +500 power and \"【AUTO】 Encore [Put 1 《Corps》 or 《Titan》 character from your hand into your waiting room]\".",
-            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6--- power until end of turn."
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
         ],
         "flavor_text": "Porco: \"An ironically grand name for such a pitiful woman.\"",
         "set": "AOT",
@@ -3264,7 +3264,7 @@
         "ability": [
             "【CONT】 If you have 4 or more 《Corps》 or 《Titan》 characters, this card gets -1 level while in your hand.",
             "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Corps》 or 《Titan》 characters you have.",
-            "【AUTO】 When this card attacks, if you have 4 or more other 《Corps》 or 《Titan》 characters, choose 1 of your characters, and that character gets +3--- power until end of turn."
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Corps》 or 《Titan》 characters, choose 1 of your characters, and that character gets +3000 power until end of turn."
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -3479,7 +3479,7 @@
             "Military"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×5--.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Eldian》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Eldian》 characters you have ×500.",
             "【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 [Put 1 climax from your hand into your waiting room] When this card's trigger check reveals a climax, you may pay the cost. If you do, choose 1 《Eldian》 character in your waiting room, and return it to your hand.\""
         ],
         "flavor_text": "Udo: \"\"You filthy devil,\" he says.\"",
@@ -3532,7 +3532,7 @@
             "Military"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×1---."
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Eldian》 characters you have ×1000."
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -3774,7 +3774,7 @@
         ],
         "ability": [
             "【AUTO】 When you use this card's \"Backup\", if you have another 《Eldian》 or 《Titan》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
-            "【ACT】 【COUNTER】 Backup 25--, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +25-- power until end of turn)"
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
         ],
         "flavor_text": "-",
         "set": "AOT",
@@ -3800,7 +3800,7 @@
             "Military"
         ],
         "ability": [
-            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×5--.",
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
             "【ACT】 [【REST】 this card] Draw 1 card, choose 1 card in your hand, and put it into your waiting room."
         ],
         "flavor_text": "-Finally, there's the Colossal Titan. It is a god of destruction.-",
@@ -3827,7 +3827,7 @@
             "Titan"
         ],
         "ability": [
-            "【AUTO】 When this card attacks, choose 1 of your 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Titan》 characters you have ×5--."
+            "【AUTO】 When this card attacks, choose 1 of your 《Eldian》 or 《Titan》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Eldian》 or 《Titan》 characters you have ×500."
         ],
         "flavor_text": "-",
         "set": "AOT",
