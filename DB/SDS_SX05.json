@@ -1,0 +1,3315 @@
+[
+    {
+        "name": "Elizabeth: Trust in the Promise",
+        "code": "SDS/SX05-001",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"A World Without You\" is placed on your climax area, if you have another 《Britannia》 character, put the top card of your deck into your waiting room, choose up to 1 level X or lower 《Britannia》 character in your waiting room, and return it to your hand. X is equal to the level of that card. (Climax are regarded as level 0)",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "After all, he promised me!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_001.png"
+    },
+    {
+        "name": "Hawk: Pride of a Hero",
+        "code": "SDS/SX05-002",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Pig"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Britannia》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Wow, the whole town is lauding Sir Hawk's dazzling medal!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_002.png"
+    },
+    {
+        "name": "Meliodas: Wielder of Lostvayne",
+        "code": "SDS/SX05-003",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Meliodas: Wielder of Lostvayne\" in your center stage, this card gets the following 2 abilities. \"【CONT】 This card gets +500 power for each of your other 《Britannia》 characters.\" \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\"",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Meliodas: Wielder of Lostvayne\", put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_003.png"
+    },
+    {
+        "name": "Escanor: Arrogant and Powerful",
+        "code": "SDS/SX05-004",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 \"Escanor: Master of the Tavern\" from your hand into your waiting room] When this card attacks, if \"Master of the Sun\" is in your climax area, this card's soul is 4 or lower, and you have 4 or more other 《Britannia》 characters, you may pay the cost. If you do, during that attack, when this card deals attack damage to your opponent, deal 1 damage X times to your opponent instead. X is equal to this card's soul. (This damage is not damage caused by an 【AUTO】 effect. Damage may be canceled)"
+        ],
+        "flavor_text": "I told you, didn't I? That your death wouldn't be easy?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_004.png"
+    },
+    {
+        "name": "Escanor: Wielder of Rhitta",
+        "code": "SDS/SX05-005",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level X or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. X is equal to the number of \"Escanor: Wielder of Rhitta\" in your waiting room."
+        ],
+        "flavor_text": "A battle-axe adorned by the sun, bearing a maiden's name. A mere Demon who writhes in the darkness isn't worthy of touching it.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_005.png"
+    },
+    {
+        "name": "Meliodas: Fulfilling His Promise",
+        "code": "SDS/SX05-006",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "Elizabeth, I know I've kept you waiting for a while.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_006.png"
+    },
+    {
+        "name": "Escanor: Master of the Tavern",
+        "code": "SDS/SX05-007",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Britannia》 character from your waiting room at the bottom of your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Britannia》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "W-Welcome to My Sweet Gluttony.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_007.png"
+    },
+    {
+        "name": "Elizabeth: Strong Heart",
+        "code": "SDS/SX05-008",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Britannia》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your \"Meliodas: To the Rescue\" in battle, and that card gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\"",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "I'll do anything if it will help me to accomplish it!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_008.png"
+    },
+    {
+        "name": "Meliodas: Overcoming His Past",
+        "code": "SDS/SX05-009",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Britannia》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"The Trial\" from your climax area into your waiting room] At the beginning of your encore step, if this card is in your center stage, and you have 4 or more other 《Britannia》 characters, you may pay the cost. If you do, choose up to 2 《Britannia》 characters in your waiting room, return them to your hand, and this card gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Easy, right, Meliodas? It's not a big deal.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_009.png"
+    },
+    {
+        "name": "Meliodas: Internal Strife",
+        "code": "SDS/SX05-010",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Britannia》 characters, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put 2 《Britannia》 characters from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 4 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "What is it you want to say, King?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_010.png"
+    },
+    {
+        "name": "Hawk: Transpork",
+        "code": "SDS/SX05-011",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "30",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Pig"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1 level and +2970 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at your opponent's hand, choose up to 1 \"Balor's Magical Eye\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "With my ears transformed into wings, I can soar across the sky!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_011.png"
+    },
+    {
+        "name": "Meliodas: The Dragon Sin of Wrath",
+        "code": "SDS/SX05-012",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_012.png"
+    },
+    {
+        "name": "Hawk Mama: Casually Saving the Day",
+        "code": "SDS/SX05-013",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Pig"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", all characters in battle get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\"",
+            "【ACT】 【COUNTER】 Backup 0, Level 1 [Put this card from your hand into your waiting room] （Choose 1 of your characters that is being frontal attacked, and that character gets +0 power until end of turn）"
+        ],
+        "flavor_text": "But seriously, you’re unbelievable, Hawk Mama! To swallow that intense magical power in a single gulp!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_013.png"
+    },
+    {
+        "name": "Escanor: Flashback",
+        "code": "SDS/SX05-014",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Britannia》 character, this card gets +3000 power.",
+            "【AUTO】 When this card's trigger check reveals a level 0 or lower card, this card gets +1 soul until end of turn. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Just seeing Ms. Merlin makes my heart pound...",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_014.png"
+    },
+    {
+        "name": "Nanashi: Mysterious Swordsman",
+        "code": "SDS/SX05-015",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 level 3 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_015.png"
+    },
+    {
+        "name": "Escanor: The Lion Sin of Pride",
+        "code": "SDS/SX05-016",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Britannia》 characters, this card gets +4000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "I'm going to allow you to atone with your flesh, for the great sin of toying with others' hearts!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_016.png"
+    },
+    {
+        "name": "Elizabeth: New Power",
+        "code": "SDS/SX05-017",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Britannia》 characters get +1500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "How can it be so easy for you to take another's life?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_017.png"
+    },
+    {
+        "name": "Druid Chief Zaneri",
+        "code": "SDS/SX05-018",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If this card is in your memory, \"Meliodas: Overcoming His Past\" gets -1 cost while in your hand.",
+            "【ACT】 【CXCOMBO】 [Put 1 climax from your hand into your waiting room & Put this 【STAND】 card into your memory] Search your deck for up to 1 \"The Trial\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_018.png"
+    },
+    {
+        "name": "Druid Chief Jenna",
+        "code": "SDS/SX05-019",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Memory If this card is in your memory, all of your \"Meliodas: Overcoming His Past\" get +500 power.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"Meliodas: Overcoming His Past\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "We know your purpose for coming to the Holy Land.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_019.png"
+    },
+    {
+        "name": "Liz: Happier Times",
+        "code": "SDS/SX05-020",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 character with \"Elizabeth\" in its card name in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_020.png"
+    },
+    {
+        "name": "Elizabeth: Emotional Support",
+        "code": "SDS/SX05-021",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_021.png"
+    },
+    {
+        "name": "Elizabeth: Through Thick and Thin",
+        "code": "SDS/SX05-022",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be chosen by your opponent's effects.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Britannia》 characters, that character gets +1500 power until end of turn, choose another of your characters with the same card name as the character chosen, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "No matter what happens, no matter who becomes my enemy, I'll always be by your side.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_022.png"
+    },
+    {
+        "name": "Arthur: Monster Cat Companion",
+        "code": "SDS/SX05-023",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 If you have another character with \"Merlin\" in its card name, this card gets +8500 power and \"【AUTO】 Encore [Put 1 《Britannia》 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "Nanashi: \"So long as that monster cat is with you, you'll never die.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_023.png"
+    },
+    {
+        "name": "Meliodas: Mid-Match Squabble",
+        "code": "SDS/SX05-024",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Britannia》 characters, you may draw 2 cards. If you do, choose 2 cards from your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Ban: \"Captain, what's that you're wearing on your head?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_024.png"
+    },
+    {
+        "name": "Arthur: Tearful Apology",
+        "code": "SDS/SX05-025",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000.",
+            "【AUTO】 When this card attacks, if you have 4 or more other 《Britannia》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn."
+        ],
+        "flavor_text": "I'm sorry, Merlin. I'm always the one being protected.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_025.png"
+    },
+    {
+        "name": "Balor's Magical Eye",
+        "code": "SDS/SX05-026",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If your opponent's hand has 1 or more cards, your opponent chooses 1 card in their hand. Declare any number, and they reveal the chosen card. If that card's power is the same as the number you declared, choose up to 2 《Britannia》 characters in your waiting room, and put them into your stock in any order. (Climax and events are regarded as 0 power)",
+            "Search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Hawk: \"You mean I can actually see how strong someone is?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_026.png"
+    },
+    {
+        "name": "The Trial",
+        "code": "SDS/SX05-027",
+        "rarity": "CR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_027.png"
+    },
+    {
+        "name": "A World Without You",
+        "code": "SDS/SX05-028",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Elizabeth: \"To live in a world without you... I can't bear it!\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_028.png"
+    },
+    {
+        "name": "Master of the Sun",
+        "code": "SDS/SX05-029",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_029.png"
+    },
+    {
+        "name": "Diane: Importance of Memories",
+        "code": "SDS/SX05-030",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CLOCK】 Alarm Memory [Put 1 card from your hand into your waiting room] If this card is the top card of your clock, and \"Diane: Importance of Memories\" is in your memory, at the beginning of your main phase, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "No matter the reason, there's no way it's ever okay to manipulate someone's memories!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_030.png"
+    },
+    {
+        "name": "King: Greedy",
+        "code": "SDS/SX05-031",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if there is a green card in your memory, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When \"True Spirit Spear Chastiefol\" is placed on your climax area, if all of your characters are 《Britannia》, this card gets the following 2 abilities until end of turn. \"【CONT】 The character facing this card cannot be returned to hand, move to another stage position, or be put into memory.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "Sacred Treasure, release!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_031.png"
+    },
+    {
+        "name": "Deldry: Love Manipulator",
+        "code": "SDS/SX05-032",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 1 of your 《Holy Knight》 characters] Choose 1 《Holy Knight》 character in your waiting room and the bottom card of your clock, and exchange them.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The slightest goodwill morphs into passionate devotion. And then it becomes blind loyalty.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_032.png"
+    },
+    {
+        "name": "Deathpierce: Realization",
+        "code": "SDS/SX05-033",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, look at up to 3 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put a card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Denzel: \"If we were to kill Dreyfus, it's clear that we would be subjected to its Commandment curse.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_033.png"
+    },
+    {
+        "name": "Griamore: Reverted to a Child",
+        "code": "SDS/SX05-034",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Britannia》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Britannia》 characters, at the beginning of your climax phase, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CLOCK】 Shift, Level 0 （At the beginning of your main phase, you may choose this card in your clock and 1 green card in your hand, and exchange them）"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_034.png"
+    },
+    {
+        "name": "King: Protective",
+        "code": "SDS/SX05-035",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×1000.",
+            "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "Diane, I won't let you feel scared ever again!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_035.png"
+    },
+    {
+        "name": "Diane: Believing in Her Friends",
+        "code": "SDS/SX05-036",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 Memory If your memory has 3 or more green cards, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCOMBO】 When \"Friends\" is placed on your climax area, if this card is in your center stage, you may choose 1 character in your waiting room, and put it on any position of your stage. If you do not, deal 1 damage to your opponent, and this card gets +1500 power until the end of your opponent's next turn. (Damage may be canceled)"
+        ],
+        "flavor_text": "Elizabeth, you're amazing!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_036.png"
+    },
+    {
+        "name": "Gilthunder: Training Buddies",
+        "code": "SDS/SX05-037",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Howzer: Training Buddies\", this card gets +1500 power and the following ability. \"【AUTO】 When this card direct attacks, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock.\"",
+            "【AUTO】 [(2)] When this card attacks, put the top card of your deck into your waiting room. If that card is a 《Holy Knight》 character, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Howzer, there's something I'd like to try.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_037.png"
+    },
+    {
+        "name": "Gerheade: Matter-of-Factly",
+        "code": "SDS/SX05-038",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Fairy King's Forest\" in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into their waiting room. If you do, your opponent puts the top card of their deck into their clock."
+        ],
+        "flavor_text": "Harlequin is the one who should be King. You, after all, are nothing more than this forest's nutrients.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_038.png"
+    },
+    {
+        "name": "Helbram: Adviser in the Helmet",
+        "code": "SDS/SX05-039",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 Memory If this card is in your memory, at the beginning of your climax phase, choose 1 of your \"King: Greedy\" or \"King: Wielder of Chastiefol\" or \"King: Protective\", and that character gets +500 power until end of turn.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 event or 《Britannia》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "You could be more selfish, you know, Harlequin.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_039.png"
+    },
+    {
+        "name": "King: The Grizzly Sin of Sloth",
+        "code": "SDS/SX05-040",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room & Put 1 character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, return it to your hand, choose 1 of your other 《Britannia》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_040.png"
+    },
+    {
+        "name": "Diane: Learning to Dance",
+        "code": "SDS/SX05-041",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Britannia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has."
+        ],
+        "flavor_text": "It's way more fun to smile and dance than to shed blood and fight, isn't it?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_041.png"
+    },
+    {
+        "name": "Matrona: Warrior Chief",
+        "code": "SDS/SX05-042",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if there is a climax in your opponent's climax area, choose 1 of your 《Britannia》 characters in battle, and that character gets +2000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "You’re grossly underestimating the Giant race, who can control the earth.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_042.png"
+    },
+    {
+        "name": "Diane: The Serpent Sin of Envy",
+        "code": "SDS/SX05-043",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +10000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_043.png"
+    },
+    {
+        "name": "Arden: Draining Enemies",
+        "code": "SDS/SX05-044",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 During your turn, events get +1 cost while in your opponent's hand.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "If you're hit by a weapon suffused with my magical power, it increases the demand on your magical powers like crazy.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_044.png"
+    },
+    {
+        "name": "Dogedo: Happily Unaware",
+        "code": "SDS/SX05-045",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1 level and +1000 power.",
+            "【AUTO】 Accelerate [Put 1 《Britannia》 character from your waiting room at the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1500 power and +1 soul until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Are you guys done guarding the research building?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_045.png"
+    },
+    {
+        "name": "Diane: Retaliating",
+        "code": "SDS/SX05-046",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, if all of your characters are 《Britannia》, you may put the top card of your deck into your waiting room. If that card is a level 2 or lower character, this card gets the following ability until end of turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\""
+        ],
+        "flavor_text": "To fight for the sake of fighting... that's... too sad!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_046.png"
+    },
+    {
+        "name": "Gilthunder: Second Thoughts",
+        "code": "SDS/SX05-047",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Britannia》 characters get +500 power.",
+            "【AUTO】 [Put 1 《Britannia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Gilthunder: Smile of Relief\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 [【REST】 this card] Choose 1 of your \"Gilthunder: Smile of Relief\", and that card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Were the three of us going on this journey the best decision?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_047.png"
+    },
+    {
+        "name": "King: Internal Strife",
+        "code": "SDS/SX05-048",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Britannia》 characters.",
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Why do you know so much about the Ten Commandments, who were sealed 3,--- years ago?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_048.png"
+    },
+    {
+        "name": "Denzel: Demon Clan Researcher",
+        "code": "SDS/SX05-049",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Holy Knight》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put this card into your waiting room] At the beginning of your encore step, if \"Summoning a Goddess\" is in your climax area, and this card is in your center stage, you may pay the cost. If you do, choose 1 character with a level equal to or lower than your level +1 in your hand, and put it on the stage position this card was on."
+        ],
+        "flavor_text": "What I want to prove today is that even a Human can defeat an ancient Demon.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_049.png"
+    },
+    {
+        "name": "King: Protecting the Forest",
+        "code": "SDS/SX05-050",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +3000 power until the end of your opponent's next turn.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Don't think you can do as you like in my homeland!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_050.png"
+    },
+    {
+        "name": "Waillo: Seeking Marriage",
+        "code": "SDS/SX05-051",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Deldry: Love Manipulator\", this card gets +7000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Well then, Ms. Deldry, will you seriously consider dating me with the intent of marriage now?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_051.png"
+    },
+    {
+        "name": "Fairy King's Forest",
+        "code": "SDS/SX05-052",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Britannia》 character, this card cannot be played from your hand.",
+            "Choose 1 of the following effects, and perform it.",
+            "\"Choose 1 《Britannia》 character in your waiting room, and return it to your hand.\"",
+            "\"Choose 1 《Britannia》 character in your waiting room, put it into your stock, choose 1 of your 《Britannia》 characters, and that character gets +1500 power until the end of your opponent's next turn.\"",
+            "If your memory has 2 or less cards, put this card into your memory."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_052.png"
+    },
+    {
+        "name": "True Spirit Spear Chastiefol",
+        "code": "SDS/SX05-053",
+        "rarity": "CR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_053.png"
+    },
+    {
+        "name": "Friends",
+        "code": "SDS/SX05-054",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Diane: \"Well, I was a little vague on the details, but I envisioned my precious friends!\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_054.png"
+    },
+    {
+        "name": "Summoning a Goddess",
+        "code": "SDS/SX05-055",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "Deathpierce: \"Sir Denzel decided to manifest, in his body in exchange for his life, a member of the Goddess Clan.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_055.png"
+    },
+    {
+        "name": "Gowther: Fighting It Out",
+        "code": "SDS/SX05-056",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Britannia》, this card gets +1 level and +1500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_056.png"
+    },
+    {
+        "name": "Merlin: True Identity",
+        "code": "SDS/SX05-057",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Britannia》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Striking Fear\" is placed on your climax area, if this card is in your center stage, and you have 2 or more other 《Britannia》 characters, choose 1 of your characters, and that character gets the following 2 abilities until the end of your opponent's next turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\""
+        ],
+        "flavor_text": "Daughter of Belialuin. Surely you Ten Commandments are at least somewhat familiar with that name?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_057.png"
+    },
+    {
+        "name": "Ban: Facing Off",
+        "code": "SDS/SX05-058",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have another 《Britannia》 character, this card gets +1000 power and \"【AUTO】 Encore [Put 1 《Britannia》 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 《Britannia》 character from your stage into your waiting room] During your climax phase, when this card is placed on the stage by the effect of \"Caught In a Trap\", you may pay the cost. If you do, 【STAND】 this card, and perform the following 2 effects 1 time each in any order. \"You may put the top 4 cards of your opponent's deck into their waiting room.\" \"You may choose 1 card in your opponent's waiting room, and put it into their memory.\""
+        ],
+        "flavor_text": "I'm not interested in being your king!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_058.png"
+    },
+    {
+        "name": "Gowther: Reflecting",
+        "code": "SDS/SX05-059",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Britannia》, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Britannia》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "Please lock me up. Away from everyone else. Before I cease being myself.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_059.png"
+    },
+    {
+        "name": "Merlin: Handy Ability",
+        "code": "SDS/SX05-060",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Britannia》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your climax is placed on your climax area, you may put the top card of your deck into your waiting room. If that card is level 1 or higher, choose 1 of your characters, and that character gets +1 soul until end of turn. (Climax are regarded as level 0)",
+            "【ACT】 [Put 1 character with \"Merlin\" in its card name from your hand into your waiting room & 【REST】 this card] Choose 1 character with \"Escanor\" or \"Arthur\" in its card name in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Captain. I just located him.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_060.png"
+    },
+    {
+        "name": "Merlin: Miscalculation",
+        "code": "SDS/SX05-061",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【ACT】 [Put 2 cards from your hand into your waiting room & 【REST】 this card] Draw 2 cards.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, you may choose this card and 1 of your 《Britannia》 characters, and exchange them as 【STAND】.\""
+        ],
+        "flavor_text": "Galland: \"You lied to me, didn't you?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_061.png"
+    },
+    {
+        "name": "Ban: Mid-Match Squabble",
+        "code": "SDS/SX05-062",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Britannia》 character in your center stage.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Why is this one dead?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_062.png"
+    },
+    {
+        "name": "Elaine: Capable Saint",
+        "code": "SDS/SX05-063",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "3500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Ban! You don’t have to worry about me, either!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_063.png"
+    },
+    {
+        "name": "Merlin: Wielder of Aldan",
+        "code": "SDS/SX05-064",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of the following 3 effects, and perform it. \"Choose 1 card in your hand, and put it into your waiting room. If you do, put the top card of your clock into your stock.\" \"Choose 1 of your opponent's characters, and return it to their hand.\" \"Choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Magic Cancel.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_064.png"
+    },
+    {
+        "name": "Zhivago: Taking Under His Wing",
+        "code": "SDS/SX05-065",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Ban: Rough Childhood\" get the following ability. \"【AUTO】 When this card attacks, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets +1000 power until end of turn.\"",
+            "【AUTO】 Bond/\"Ban: Rough Childhood\" [Put 1 《Britannia》 character from your waiting room at the bottom of your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Ban: Rough Childhood\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I'm Zhivago. Nice to meet you, Ban.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_065.png"
+    },
+    {
+        "name": "Elaine: Revived",
+        "code": "SDS/SX05-066",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Back From the Dead\" is placed on your climax area, if you have another 《Britannia》 character, you may choose 1 \"Ban: Mid-Match Squabble\" in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [Put 1 other character from your stage into your waiting room & 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Wait for me.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_066.png"
+    },
+    {
+        "name": "Elaine: Coming to Her Senses",
+        "code": "SDS/SX05-067",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Jericho: \"You're still oozing with affection for Ban, right?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_067.png"
+    },
+    {
+        "name": "Gowther: The Goat Sin of Lust",
+        "code": "SDS/SX05-068",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, you may put the top 3 cards of your deck into your waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "I don't understand. Because I have no heart.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_068.png"
+    },
+    {
+        "name": "Ban: The Fox Sin of Greed",
+        "code": "SDS/SX05-069",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Britannia》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+        ],
+        "flavor_text": "There's no one who can kill me.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_069.png"
+    },
+    {
+        "name": "Merlin: The Boar Sin of Gluttony",
+        "code": "SDS/SX05-070",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Britannia》 characters, this card gets -1 cost while in your hand.",
+            "【AUTO】 Experience When this card attacks, if your level has a yellow card, and the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "No matter how difficult it may be to sustain a spell, all I need to do is activate it once. And unless I disable it myself, it will be sustained.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_070.png"
+    },
+    {
+        "name": "Ban: To Save a Friend",
+        "code": "SDS/SX05-071",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character among those cards, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "Zero Sign!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_071.png"
+    },
+    {
+        "name": "Merlin: Recruitment",
+        "code": "SDS/SX05-072",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 \"Wanted Poster\" or 《Deadly Sin》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Would you lend us your strength?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_072.png"
+    },
+    {
+        "name": "Zhivago & Ban: A Final Reunion",
+        "code": "SDS/SX05-073",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 Memory [Put this card at the bottom of your deck] If this card is in your memory, when your other character with \"Ban\" in its card name is frontal attacked, you may pay the cost. If you do, put that character into your memory, and at the beginning of the encore step, put that character from your memory to its previous stage position.",
+            "【ACT】 [(1)] Put this card into your memory."
+        ],
+        "flavor_text": "Zhivago: \"When did you get so damned big?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_073.png"
+    },
+    {
+        "name": "Gowther: Original Form",
+        "code": "SDS/SX05-074",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Britannia》 characters you have ×500."
+        ],
+        "flavor_text": "Merlin: \"Gowther was created by a great magician long ago. He's a doll.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_074.png"
+    },
+    {
+        "name": "Ban: Rough Childhood",
+        "code": "SDS/SX05-075",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "If I fall asleep, he'll kick me in the stomach.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_075.png"
+    },
+    {
+        "name": "Gowther: Blunt",
+        "code": "SDS/SX05-076",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "Feelings? I don't understand the question. Surely they aren't necessary to erase someone's memories.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_076.png"
+    },
+    {
+        "name": "Delicious Meat",
+        "code": "SDS/SX05-077",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Choose 1 of your 《Britannia》 characters, that character gets +1500 power until end of turn, and perform the following action. \"You may choose 1 card in your hand, and put it into your waiting room. If you do, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" You may perform that action as many times as you like."
+        ],
+        "flavor_text": "Arthur: \"Even the palace chefs would be left speechless!\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_077.png"
+    },
+    {
+        "name": "Back From the Dead",
+        "code": "SDS/SX05-078",
+        "rarity": "CR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Ban: \"Elaine...\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_078.png"
+    },
+    {
+        "name": "Caught In a Trap",
+        "code": "SDS/SX05-079",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Gerheade: \"This man will live on for the sake of the forest, as its new Fountain of Youth.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_079.png"
+    },
+    {
+        "name": "Striking Fear",
+        "code": "SDS/SX05-080",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Merlin: \"I can't let my precious guinea pigs escape, can I?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_080.png"
+    },
+    {
+        "name": "Zeldris of the Ten Commandments",
+        "code": "SDS/SX05-081",
+        "rarity": "RR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Ten Commandments》, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Ten Commandments\" is in your climax area, you may pay the cost. If you do, put the bottom 5 cards of your opponent's deck into their waiting room, deal X damage to your opponent, and until the end of your opponent's next turn, during this card's battle, you cannot receive damage by the 【AUTO】 effect of your opponent's characters. X is equal to the number of climax among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "There's nothing for us to talk about.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_081.png"
+    },
+    {
+        "name": "Jericho: Passionate",
+        "code": "SDS/SX05-082",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "You keep saying you love Ban, but you're being so easily controlled right now!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_082.png"
+    },
+    {
+        "name": "Hendrickson: Usual Self",
+        "code": "SDS/SX05-083",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Britannia》 character, choose 1 of your characters, and that character gets +1000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "The thought that even a drop of your blood flowed inside my body fills me with rage and disgust towards myself!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_083.png"
+    },
+    {
+        "name": "Gustaf: Desperate Attempt",
+        "code": "SDS/SX05-084",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand, move to another stage position, or be put into memory.\"",
+            "【AUTO】 When your other 《Britannia》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×500."
+        ],
+        "flavor_text": "Freezing Field!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_084.png"
+    },
+    {
+        "name": "Gloxinia & Drole: Reasons for Switching",
+        "code": "SDS/SX05-085",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Ten Commandments》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Death-Trap Maze\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 2 level 1 or higher cards from among them, reveal them to your opponent, choose 1 card from the revealed cards, put it into your hand, choose 1 card from the revealed cards, put it into your stock, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Meliodas: \"I know why you two went over to that side, and how you felt about it.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_085.png"
+    },
+    {
+        "name": "Howzer: Training Buddies",
+        "code": "SDS/SX05-086",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 If \"Griamore: Reverted to a Child\" is in your clock, this card gets -1 level while in your hand.",
+            "【CONT】 If you have another \"Gilthunder: Training Buddies\", this card gets +2000 power and the following ability. \"【AUTO】 [Put 1 《Holy Knight》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand.\"",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Gilthunder: Training Buddies\" in your waiting room, and put it on any position of your stage."
+        ],
+        "flavor_text": "What a coincidence. Same here!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_086.png"
+    },
+    {
+        "name": "Gloxinia of the Ten Commandments",
+        "code": "SDS/SX05-087",
+        "rarity": "R",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Ten Commandments》 characters, this card gets +1500 power and the following ability. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】, you may pay the cost. If you do, return this card to your hand.\"",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "I’m going to wipe out all those little worms still lurking in the maze, okay?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_087.png"
+    },
+    {
+        "name": "Drole of the Ten Commandments",
+        "code": "SDS/SX05-088",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_088.png"
+    },
+    {
+        "name": "Fraudrin of the Ten Commandments",
+        "code": "SDS/SX05-089",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if there is a climax in your climax area, you may pay the cost. If you do, choose 1 《Ten Commandments》 character in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Ten Commandments》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Hendrickson: \"So this is the true form of the Ten Commandment, Fraudrin?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_089.png"
+    },
+    {
+        "name": "Galland of the Ten Commandments",
+        "code": "SDS/SX05-090",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Ten Commandments》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Speak any lies in my presence, and no matter who you are, you'll be turned to stone!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_090.png"
+    },
+    {
+        "name": "Derieri of the Ten Commandments",
+        "code": "SDS/SX05-091",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Ten Commandments》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ten Commandments》 characters you have ×500."
+        ],
+        "flavor_text": "Monspeet: \"As long as she lands those consecutive blows uninterrupted, the weight behind each blow is increased.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_091.png"
+    },
+    {
+        "name": "Grayroad of the Ten Commandments",
+        "code": "SDS/SX05-092",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Ten Commandments》 characters get +1000 power.",
+            "【AUTO】 When this card or your other 《Ten Commandments》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Britannia》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Anyone who commits murder before me shall have all of their time taken from them.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_092.png"
+    },
+    {
+        "name": "Monspeet of the Ten Commandments",
+        "code": "SDS/SX05-093",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if there is a climax in your opponent's climax area, choose 1 of your 《Ten Commandments》 characters in battle, and that character gets +2000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "This is why I detest people with no manners.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_093.png"
+    },
+    {
+        "name": "Jericho: Following Behind",
+        "code": "SDS/SX05-094",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Britannia》 characters you have.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Hey...",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_094.png"
+    },
+    {
+        "name": "Melascula of the Ten Commandments",
+        "code": "SDS/SX05-095",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Ten Commandments》 characters get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [(1) Put 1 blue climax from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn."
+        ],
+        "flavor_text": "Tell me, what do you think a soul becomes after it dies?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_095.png"
+    },
+    {
+        "name": "Estarossa of the Ten Commandments",
+        "code": "SDS/SX05-096",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Ten Commandments》 characters, you may choose 1 《Ten Commandments》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Anyone who stands before me with hatred in his heart loses the ability to hurt others.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_096.png"
+    },
+    {
+        "name": "Dreyfus: Usual Self",
+        "code": "SDS/SX05-097",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 [【REST】 1 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck."
+        ],
+        "flavor_text": "There's no wavering or conflict in my convictions. Therefore, there is nothing I cannot pierce!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_097.png"
+    },
+    {
+        "name": "Monspeet & Derieri: Taken Aback",
+        "code": "SDS/SX05-098",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Ten Commandments》 characters.",
+            "【AUTO】 [Put 1 blue climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ten Commandments》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_098.png"
+    },
+    {
+        "name": "Dreyfus: Unfortunate Investigation",
+        "code": "SDS/SX05-099",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Britannia》, this card gets +2000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 4 or less cards, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "My will is a sword that will sever anyone and anything, and a shield to protect my country, my people, my child, and my friends!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_099.png"
+    },
+    {
+        "name": "Slader: Pledging Loyalty",
+        "code": "SDS/SX05-100",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Your wish is my command!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_100.png"
+    },
+    {
+        "name": "Vivian: Disguised as Gilfrost",
+        "code": "SDS/SX05-101",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your waiting room] When your other 《Britannia》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "I'll use Teleportation to bring everyone here to a safe place.",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_101.png"
+    },
+    {
+        "name": "Grayroad & Fraudrin: Upper Hand",
+        "code": "SDS/SX05-102",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 0 or lower 《Ten Commandments》 character, put it on any position of your stage as 【REST】, and shuffle your deck."
+        ],
+        "flavor_text": "Grayroad: \"All Humans inside the castle have been captured!\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_102.png"
+    },
+    {
+        "name": "Zeldris & Estarossa: In the Heat of Battle",
+        "code": "SDS/SX05-103",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\"",
+            "【AUTO】 When this card attacks, choose 1 of your 《Ten Commandments》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Ten Commandments》 characters you have ×500."
+        ],
+        "flavor_text": "Zeldris: \"Brother!\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_103.png"
+    },
+    {
+        "name": "Zaratras: Heading to the Capital",
+        "code": "SDS/SX05-104",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Don't tell me they already noticed us?",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_104.png"
+    },
+    {
+        "name": "Galland & Melascula: Drinking",
+        "code": "SDS/SX05-105",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Ten Commandments"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Ten Commandments》 characters.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Galland Game!\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 1 character in your waiting room, return it to your hand, choose up to 2 《Ten Commandments》 characters in your waiting room, put them into your stock in any order, and all of your characters get the following ability until the end of your next stand phase. \"【CONT】 If this card's level is higher than your level, this card cannot 【STAND】 during your stand phase.\""
+        ],
+        "flavor_text": "Galland: \"That's good! Who would have thought that alcohol had progressed this far in 3,--- years?\"\nMelascula: \"Yummy! Who would have thought that alcohol had progressed this far in 3,--- years?\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_105.png"
+    },
+    {
+        "name": "Hendrickson: Unfortunate Investigation",
+        "code": "SDS/SX05-106",
+        "rarity": "C",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Holy Knight"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "There's no question, it's the legendary Demon Clan!",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_106.png"
+    },
+    {
+        "name": "Flyer Distributors",
+        "code": "SDS/SX05-107",
+        "rarity": "U",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Ten Commandments》 character, this card cannot be played from your hand.",
+            "Choose 1 of the following abilities, and perform it.",
+            "\"Choose 1 level X or lower 《Ten Commandments》 character in your waiting room, and return it to your hand. X is equal to the number of \"Gloxinia & Drole: Reasons for Switching\" in your waiting room.\"",
+            "\"[(1)] You may pay the cost. If you do, choose 1 of your opponent's characters, and move it to another open position of their stage.\""
+        ],
+        "flavor_text": "Gloxinia: \"Okay, you guys. Thanks for passing out those flyers.\"",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "107",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_107.png"
+    },
+    {
+        "name": "Ten Commandments",
+        "code": "SDS/SX05-108",
+        "rarity": "CR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "108",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_108.png"
+    },
+    {
+        "name": "Death-Trap Maze",
+        "code": "SDS/SX05-109",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "109",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_109.png"
+    },
+    {
+        "name": "Galland Game!",
+        "code": "SDS/SX05-110",
+        "rarity": "CC",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "110",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_110.png"
+    },
+    {
+        "name": "Petit Meliodas: New Chapter",
+        "code": "SDS/SX05-111",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Britannia》 character attacks, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "111",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_111.png"
+    },
+    {
+        "name": "Petit Elizabeth: New Chapter",
+        "code": "SDS/SX05-112",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Britannia》 characters get +500 power.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "112",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_112.png"
+    },
+    {
+        "name": "Petit Escanor: New Chapter",
+        "code": "SDS/SX05-113",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "6500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each other 《Britannia》 character in your back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "113",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_113.png"
+    },
+    {
+        "name": "Petit Diane: New Chapter",
+        "code": "SDS/SX05-114",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 If there is a marker underneath this card, this card gets +3000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Britannia》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "114",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_114.png"
+    },
+    {
+        "name": "Petit King: New Chapter",
+        "code": "SDS/SX05-115",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "115",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_115.png"
+    },
+    {
+        "name": "Petit Ban: New Chapter",
+        "code": "SDS/SX05-116",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Britannia》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "116",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_116.png"
+    },
+    {
+        "name": "Petit Gowther: New Chapter",
+        "code": "SDS/SX05-117",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your opponent's deck into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "117",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_117.png"
+    },
+    {
+        "name": "Petit Merlin: New Chapter",
+        "code": "SDS/SX05-118",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Deadly Sin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Britannia》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "118",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_118.png"
+    },
+    {
+        "name": "Elizabeth: In a Dream",
+        "code": "SDS/SX05-P01",
+        "rarity": "PR",
+        "expansion": "The Seven Deadly Sins: Revival of The Commandments",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Britannia",
+            "Royalty"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Britannia》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "SDS",
+        "release": "X05",
+        "sid": "P01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_P01.png"
+    }
+]
