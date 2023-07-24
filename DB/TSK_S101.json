@@ -1,0 +1,2980 @@
+[
+    {
+        "name": "Pride of a Secretary, Shion",
+        "code": "TSK/S101-E001",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E001.png"
+    },
+    {
+        "name": "All-Piercing Light, Rimuru",
+        "code": "TSK/S101-E002",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if　\"Shower of Light Under Clear Skies\" is in your climax area, and you have another 《Demon Continent》 character, deal 1 damage to your opponent, choose up to X cards in your hand, and put them into your waiting room. For each card put into your waiting room by this effect, perform the following action. \"This card gets +1000 power until end of turn, and put the top card of your opponent's deck into their waiting room. If that card is a level 0 or lower character, deal 1 damage to your opponent.\" X is equal to the number of \"All-Piercing Light, Rimuru\" in your center stage. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E002.png"
+    },
+    {
+        "name": "Heart-Pounding Cooking, Shion",
+        "code": "TSK/S101-E003",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 《Demon Continent》 character from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Culinary Genius\" is in your climax area, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 yellow character and up to 1 red character and up to 1 blue character from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "It'll be ready soon.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E003.png"
+    },
+    {
+        "name": "A 3.14% Hope, Rimuru",
+        "code": "TSK/S101-E004",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When your other 《Demon Continent》 character attacks, this card gets +2000 power until end of turn."
+        ],
+        "flavor_text": "I just don't want to lose them.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E004.png"
+    },
+    {
+        "name": "Loyal Servant, Diablo",
+        "code": "TSK/S101-E005",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another character with \"Rimuru(リムル)\" in its card name, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if you have \"The Joy of Being a Servant\" in your climax area, look at up to 4 cards from the top of your deck, choose up to 2 《Demon Continent》 characters from among them, reveal them to your opponent, choose 1 character from the revealed cards, put it into your hand, choose 1 character from the revealed cards, put it into your stock, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I, Diablo, swear my loyalty to you for eternity.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E005.png"
+    },
+    {
+        "name": "In a Dire Situation, Shion",
+        "code": "TSK/S101-E006",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Demon Continent》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E006.png"
+    },
+    {
+        "name": "Battle-Hungry, Shion",
+        "code": "TSK/S101-E007",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put all cards from your stock into your waiting room, and deal 4 damage to your opponent. (Damage may be canceled)",
+            "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, you may deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Rimuru: \"H-Hey, Shion, hang on a second!\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E007.png"
+    },
+    {
+        "name": "Cornered, Rimuru",
+        "code": "TSK/S101-E008",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 [Put 1 \"Shion's Home Cooking\" from your hand into your waiting room & 【REST】 this card] All of your characters get +2000 power until end of turn."
+        ],
+        "flavor_text": "How does it look so awful, but taste so amazing?!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E008.png"
+    },
+    {
+        "name": "Irrevocable Regret, Rimuru",
+        "code": "TSK/S101-E009",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters among those cards ×1000.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "What is all this? What... happened here?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E009.png"
+    },
+    {
+        "name": "She Who Entrusts Hope, Eren",
+        "code": "TSK/S101-E010",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Adventurer"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Demon Continent》 characters, and that character gets +500 power until end of turn."
+        ],
+        "flavor_text": "But there is a fairy tale about bringing the dead back to life!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E010.png"
+    },
+    {
+        "name": "Unrelenting Sharpness, Hakurou",
+        "code": "TSK/S101-E011",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Swordsmanship"
+        ],
+        "ability": [
+            "【CONT】 Experience If your level has a yellow card, this card gets +4500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage."
+        ],
+        "flavor_text": "You will train with the sword.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E011.png"
+    },
+    {
+        "name": "Overwhelming Difference in Power, Black",
+        "code": "TSK/S101-E012",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Demon Continent》 characters, this card gets +2000 power.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "Razen: \"Those golden eyes... The red pupils...\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E012.png"
+    },
+    {
+        "name": "Having a Meal, Ramiris",
+        "code": "TSK/S101-E013",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 character in battle, and that character gets +6 soul until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "What? Attend Walpurgis?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E013.png"
+    },
+    {
+        "name": "Sudden Assault, Shion",
+        "code": "TSK/S101-E014",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "Great Rimuru, may I?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E014.png"
+    },
+    {
+        "name": "An Expectation for the Next Time, Geld",
+        "code": "TSK/S101-E015",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Earnest"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or when this card attacks, choose 1 character in your opponent's center stage, and that character gets -500 power until end of turn."
+        ],
+        "flavor_text": "We lost this bout, but we are still alive. So long as we win next time, there's no problem.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E015.png"
+    },
+    {
+        "name": "Overflowing Charisma, Diablo",
+        "code": "TSK/S101-E016",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Demon Continent》 characters get +500 power.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 character with \"Rimuru(リムル)\" in its card name, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E016.png"
+    },
+    {
+        "name": "Spoiled Child, Shion",
+        "code": "TSK/S101-E017",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Demon Continent》 characters.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if your level has a yellow card and a red card, look at up to 4 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "WaaAAAAH!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E017.png"
+    },
+    {
+        "name": "“Crestwater Slash” Hakurou",
+        "code": "TSK/S101-E018",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Swordsmanship"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +10000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "No, you can't see nothing yet.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E018.png"
+    },
+    {
+        "name": "A Profound Man, Yuuki",
+        "code": "TSK/S101-E019",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Demon Continent》 characters.",
+            "【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "I've already prepared the reward I promised you.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E019.png"
+    },
+    {
+        "name": "Capable Second Secretary, Diablo",
+        "code": "TSK/S101-E020",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 2 or lower character in your opponent's back stage, and put it on top of their deck."
+        ],
+        "flavor_text": "Shuna: \"Next is our new second secretary, Diablo.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E020.png"
+    },
+    {
+        "name": "Daily Life Gone Up in Flames",
+        "code": "TSK/S101-E021",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《Demon Continent》 character, this card cannot be played from your hand.",
+            "Look at up to 4 cards from the top of your deck, choose up to 1 《Demon Continent》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. Choose 1 of your \"3 Rules, Rimuru\", and 【STAND】 it."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E021.png"
+    },
+    {
+        "name": "Shower of Light Under Clear Skies",
+        "code": "TSK/S101-E022",
+        "rarity": "CR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Great Sage: \"Notice. 1,788 have died. 1,9-3. 1,999.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E022.png"
+    },
+    {
+        "name": "Culinary Genius",
+        "code": "TSK/S101-E023",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "With this skill, anything I cook tastes just like I want it to, no matter how I cook it.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E023.png"
+    },
+    {
+        "name": "The Joy of Being a Servant",
+        "code": "TSK/S101-E024",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+        ],
+        "flavor_text": "Thank you so much, my lord!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E024.png"
+    },
+    {
+        "name": "Delightfully Embarrassed, Rimuru",
+        "code": "TSK/S101-E025",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【ACT】 [Put 2 cards from your hand into your waiting room & 【REST】 this card] Choose up to 1 cost 1 or lower character with \"Veldora(ヴェルドラ)\" in its card name in your waiting room with level equal to or lower than your level, and put it in any position of your stage.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Demon Continent》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Please stop! You're embarrassing me!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E025.png"
+    },
+    {
+        "name": "A Seal Released, Veldora",
+        "code": "TSK/S101-E026",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Demon Continent》, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Meeting After 2 Years\" is in your climax area, your hand has 6 or less cards, and you have another 《Demon Continent》 character, look at up to 3 cards from the top of your deck, choose up to 1 \"Sworn Friend Declaration!\" or 《Demon Continent》 character, reveal it to your opponent, put it into your hand, put the rest into your waiting room, look at up to 2 cards from the top of your deck, choose 1 card, put it on top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E026.png"
+    },
+    {
+        "name": "Heart-Pounding Introduction, Veldora",
+        "code": "TSK/S101-E027",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use \"Resonate\", choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Resonate [(1) Reveal 1 \"All-Piercing Light, Rimuru\" in your hand & 【REST】 this card] Look at up to 3 cards from the top of your deck, choose up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Rimuru: \"This is Veldora-kun!\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E027.png"
+    },
+    {
+        "name": "Magnificent Transformation, Luminus",
+        "code": "TSK/S101-E028",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock & Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 6 cards from the top of your deck, choose up to 2 《Demon Lord》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E028.png"
+    },
+    {
+        "name": "Friendship Transcending Time, Rimuru",
+        "code": "TSK/S101-E029",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Demon Continent》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 Bond/\"A Seal Released, Veldora\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"A Seal Released, Veldora\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Did you really just say \"BFF\"? That's so old.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E029.png"
+    },
+    {
+        "name": "Firm Friendship, Veldora",
+        "code": "TSK/S101-E030",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, and return it to their hand. You may choose 1 card in your hand, and put it into your waiting room. If you do, choose 1 of your opponent's character, and return it to their hand.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 character in your opponent's center stage, return it to their hand, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E030.png"
+    },
+    {
+        "name": "Calm and Collected Swordswoman, Hinata",
+        "code": "TSK/S101-E031",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Knight"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your deck into your stock, and perform the following action. \"You may choose 1 of your opponent's level 1 or higher characters. If you do, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.\"",
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of your opponent's 【REVERSE】 characters. (Damage may be canceled)"
+        ],
+        "flavor_text": "Just three attacks? Perhaps I underestimated you.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E031.png"
+    },
+    {
+        "name": "High Tension! Veldora",
+        "code": "TSK/S101-E032",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Demon Continent》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "WAHAHAHA! I get it! I'm the hero who arrives on a delay!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E032.png"
+    },
+    {
+        "name": "Vessel for a Friend, Rimuru",
+        "code": "TSK/S101-E033",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Demon Continent》 characters, you may choose 1 《Demon Continent》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 [(2) Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Friendship Transcending Time, Veldora\" in your waiting room, and put it in the stage position that this card was in. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)"
+        ],
+        "flavor_text": "If I do say so myself... I'm kind of... beautiful...",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E033.png"
+    },
+    {
+        "name": "Friendship Transcending Time, Veldora",
+        "code": "TSK/S101-E034",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 for each other 《Demon Continent》 character in your back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Vessel for a Friend, Rimuru\", you may choose 1 《Demon Continent》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I thank you, Rimuru Tempest! My BFF!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E034.png"
+    },
+    {
+        "name": "Hidden Talent, Veldora",
+        "code": "TSK/S101-E035",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Demon Continent》 character attacks, this card gets +1000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "I play shogi at the master level now, too! No, since I'm the Storm Dragon, I've reached the Ryuo level!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E035.png"
+    },
+    {
+        "name": "Unexpected Help, Rimuru",
+        "code": "TSK/S101-E036",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+            "【AUTO】 When this card is frontal attacked, choose 1 \"Sudden Intrusion, Veldora\" in your hand, and exchange it with this card as the defending character."
+        ],
+        "flavor_text": "Ve... Veldora?!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E036.png"
+    },
+    {
+        "name": "Sudden Intrusion, Veldora",
+        "code": "TSK/S101-E037",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +4000 power."
+        ],
+        "flavor_text": "What'd you do that for?! That's so mean!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E037.png"
+    },
+    {
+        "name": "Crazy About Manga, Veldora",
+        "code": "TSK/S101-E038",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 5 or higher, this card gets +4500 power.",
+            "【AUTO】 Experience [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if the total level of the cards in your level is 5 or higher, you may pay the cost. If you do, choose 1 of your opponent's characters, and move it to another open position of their stage as 【STAND】, or choose another of your opponent's characters and exchange them as 【STAND】."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E038.png"
+    },
+    {
+        "name": "On the Defense, Rimuru",
+        "code": "TSK/S101-E039",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1500 power for each of your other 《Demon Continent》 characters.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"A Secret Strategy of the Distressed\" is in your climax area, choose up to 1 《Demon Continent》 character in your waiting room, put it into your stock, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\""
+        ],
+        "flavor_text": "Pain Nullification isn't working?!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E039.png"
+    },
+    {
+        "name": "Sworn Friend Declaration!",
+        "code": "TSK/S101-E040",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Demon Continent》 character in your waiting room, and return it to your hand.\"",
+            "Put this card into your stock."
+        ],
+        "flavor_text": "Veldora: \"Rimuru is my bosom buddy! My other half! My sworｎ friend!\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E040.png"
+    },
+    {
+        "name": "Ultimate Skill \"Raphael\"",
+        "code": "TSK/S101-E041",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a character with \"Rimuru(リムル)\" in its card name, this card cannot be played from your hand.",
+            "Put this card into your memory. Look at up to 4 cards from the top of your deck, choose 1 card from among them, put it into your hand, and put the rest on the top of your deck in any order.",
+            "【AUTO】 Memory [Put 1 climax from your hand into your waiting room] If this card is in your memory, at the beginning of your main phase, you may pay the cost. If you do, return this card to your hand."
+        ],
+        "flavor_text": "Raphael: \"\"Great Sage\" evolved into the ultimate skill \"Raphael.\"\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E041.png"
+    },
+    {
+        "name": "Meeting After 2 Years",
+        "code": "TSK/S101-E042",
+        "rarity": "CR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E042.png"
+    },
+    {
+        "name": "A Secret Strategy of the Distressed",
+        "code": "TSK/S101-E043",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Hinata: \"This is a form specialized for combat incorporating the traits of various objects and monsters.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E043.png"
+    },
+    {
+        "name": "Mercy in Pink, Shuna",
+        "code": "TSK/S101-E044",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Demon Continent》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E044.png"
+    },
+    {
+        "name": "Power Out of This World, Milim",
+        "code": "TSK/S101-E045",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are 《Demon Continent》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"A Glimpse of Her Seriousness\" is in your climax area, choose up to 1 level 0 or lower character in your opponent's back stage, put it into their waiting room, and reveal the top card of your deck. If that card is a \"\"Octagram\"\" or 《Demon Continent》 character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E045.png"
+    },
+    {
+        "name": "Calamity-Destroying Black Flame, Benimaru",
+        "code": "TSK/S101-E046",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Flame"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Demon Continent》, this card gets +4500 power, and \"【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 Experience When \"Black Flame That Illuminates Darkness\" is placed on your climax area, if this card is in your center stage, if your level has a yellow card and a red card, choose 1 of the following effects, and perform it. \"You may choose 1 of your other 《Demon Continent》 characters, and 【STAND】 it.\" \"You may put the top card of your stock into your waiting room. If you do, deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E046.png"
+    },
+    {
+        "name": "“Newbie” Demon Lord, Rimuru",
+        "code": "TSK/S101-E047",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [Put 1 《Demon Continent》 character from you hand into your waiting room] When this card attacks, if \"A Miraculous Spirit Restoration Secret Art\" is in your climax area, and you have 3 or more other 《Demon Lord》 characters, you may pay the cost. If you do, deal 2 damage to your opponent, and this card gets +1500 power until end of turn. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E047.png"
+    },
+    {
+        "name": "According to Strategy, Milim",
+        "code": "TSK/S101-E048",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Demon Continent》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "You really thought I could be controlled with a thing like this?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E048.png"
+    },
+    {
+        "name": "Awakening of a True Demon Lord, Rimuru",
+        "code": "TSK/S101-E049",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other 《Demon Continent》 characters get +500 power.",
+            "【AUTO】 [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 2 or higher, you may pay the cost. If you do, choose 1 \"Conclusion to Enmity, Rimuru\" in your waiting room, and put it in the stage position that this card was in.",
+            "【ACT】 [(1) 【REST】 2 of your characters] Look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E049.png"
+    },
+    {
+        "name": "A New Journey, Rimuru",
+        "code": "TSK/S101-E050",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Demon Continent》 characters, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Insuppressible Anger\" is in your climax area, and you have another 《Demon Continent》 character, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E050.png"
+    },
+    {
+        "name": "A Sudden Request, Shuna",
+        "code": "TSK/S101-E051",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【AUTO】 Experience [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if your level has a yellow card, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Great Rimuru, please grant me permission to deploy.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E051.png"
+    },
+    {
+        "name": "Quiet Anger, Shuna",
+        "code": "TSK/S101-E052",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Demon Continent》 characters get +1000 power.",
+            "【CONT】 If you have another \"Captive Wizard, Mjurran\", all of your other 《Demon Continent》 characters get the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "You see... I am angry.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E052.png"
+    },
+    {
+        "name": "Pressured Decision, Milim",
+        "code": "TSK/S101-E053",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Demon Lord》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 If you have 2 or more other 《Demon Lord》 characters, this card gets +2500 power, and \"【AUTO】 Encore [Put 1 《Demon Lord》 character from your hand into your waiting room]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. Ｘ is equal to the number of 《Demon Lord》 characters you have."
+        ],
+        "flavor_text": "Carrion: \"You're obligated to take care of us now.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E053.png"
+    },
+    {
+        "name": "To the Strong, Benimaru",
+        "code": "TSK/S101-E054",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Flame"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 Experience [(1) Put 1 《Demon Continent》 character from your hand into your waiting room] When this card attacks, if your level has a yellow card, a red card and a blue card, you may pay the cost. If you do, reveal the top card of your deck, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "Albis, I have business to attend to.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E054.png"
+    },
+    {
+        "name": "At a Boastful Age, Milim",
+        "code": "TSK/S101-E055",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 If you have another 《Demon Continent》 character, all of your other \"Final Push, Rimuru\" get +1000 power, and the following ability. \"【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.\"",
+            "【AUTO】 Bond/\"Final Push, Rimuru\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Final Push, Rimuru\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Hey, Frey! It's another gorgeous day out there!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E055.png"
+    },
+    {
+        "name": "A Little Forgetful, Milim",
+        "code": "TSK/S101-E056",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 [Put 1 《Demon Continent》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "Milim: \"You know him, Leon?!\"\nRimuru: \"I'm more amazed that you don't know him.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E056.png"
+    },
+    {
+        "name": "A Goal to Achieve, Leon",
+        "code": "TSK/S101-E057",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put into your waiting room from the stage, look at up to 4 cards from the top of your deck, choose up to 1 climax with in its trigger icon from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "I have no intention of dying before I achieve my goal.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E057.png"
+    },
+    {
+        "name": "Conclusion to Enmity, Rimuru",
+        "code": "TSK/S101-E058",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 3 or higher, you may pay the cost. If you do, choose 1 \"To His Dear Friends, Rimuru\" in your waiting room, and put it in the stage position that this card was in."
+        ],
+        "flavor_text": "Don't think your death will be painless.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E058.png"
+    },
+    {
+        "name": "Primordial Demon Lord, Guy",
+        "code": "TSK/S101-E059",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"Newbie\" Demon Lord, Rimuru\" get +1000 power, and the following ability. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\"",
+            "【CONT】 Assist All of your 《Demon Lord》 characters in front of this card get +1500 power."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E059.png"
+    },
+    {
+        "name": "Moment of Affirmation, Rimuru",
+        "code": "TSK/S101-E060",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Demon Continent》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "So... this maid was the actual Demon Lord?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E060.png"
+    },
+    {
+        "name": "Seductive Beauty, Frey",
+        "code": "TSK/S101-E061",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Demon Lord》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Rimuru: \"Just... Just check out that overflowing sexiness!\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E061.png"
+    },
+    {
+        "name": "A Fight to Become the Demon Lord, Rimuru",
+        "code": "TSK/S101-E062",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Demon Lord》 characters get +500 power.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your opponent's level 1 or lower character, and that character gets -1 level until end of turn."
+        ],
+        "flavor_text": "Okay, Clayman, let's finish this.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E062.png"
+    },
+    {
+        "name": "Leader of the Delegation, Benimaru",
+        "code": "TSK/S101-E063",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Flame"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I will discern with my own eyes whether or not the Demon Lord Carrion can be trusted.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E063.png"
+    },
+    {
+        "name": "A Marionette Fallen to the Scheme, Milim",
+        "code": "TSK/S101-E064",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 3 or less cards, you may put that character on the top of your opponent's deck.",
+            "【AUTO】 When this card is put into your waiting room from the stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "Clayman: \"She's no more than a doll now!\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E064.png"
+    },
+    {
+        "name": "A Discussion for the Future, Shuna",
+        "code": "TSK/S101-E065",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Shuna: \"Of course. Leave it all to us.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E065.png"
+    },
+    {
+        "name": "Unconcealable Intimidation, Shuna",
+        "code": "TSK/S101-E066",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【CONT】 You cannot play event cards or \"Backup\" from your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\""
+        ],
+        "flavor_text": "Can I be of assistance?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E066.png"
+    },
+    {
+        "name": "Puppeteer in the Shadows, Clayman",
+        "code": "TSK/S101-E067",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Demon Continent》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower 《Demon Continent》 character in your waiting room, put it on any position of your stage, that character gets +3000 power until end of turn, and at the end of the turn, put that character into your waiting room."
+        ],
+        "flavor_text": "Poor woman.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E067.png"
+    },
+    {
+        "name": "A Treasured Place to Return To, Benimaru",
+        "code": "TSK/S101-E068",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Flame"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Demon Continent》, this card gets +2000 power.",
+            "【AUTO】 [Put this card into your waiting room] When your other 《Demon Continent》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E068.png"
+    },
+    {
+        "name": "Preparations for a Counterattack, Shuna",
+        "code": "TSK/S101-E069",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "5500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Demon Continent》 characters get +1000 power.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. Ｘ is equal to the number of other 《Demon Continent》 characters you have ×1500."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E069.png"
+    },
+    {
+        "name": "A 3.14% Miracle",
+        "code": "TSK/S101-E070",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "Choose 1 of your 《Demon Continent》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\""
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E070.png"
+    },
+    {
+        "name": "“Octagram”",
+        "code": "TSK/S101-E071",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you have 2 or less 《Demon Lord》 characters, this card cannot be played from your hand.",
+            "Choose up to 2 characters in your waiting room, return them to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Rimuru: \"On that day, the curtain rose on a new age of Demon Lords.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E071.png"
+    },
+    {
+        "name": "A Miraculous Spirit Restoration Secret Art",
+        "code": "TSK/S101-E072",
+        "rarity": "CR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Mjurran: \"All the magicules... were sucked away? Are those... spirits?\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E072.png"
+    },
+    {
+        "name": "A Glimpse of Her Seriousness",
+        "code": "TSK/S101-E073",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "That was fun! It's been ages since my left arm stung like that.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E073.png"
+    },
+    {
+        "name": "Black Flame That Illuminates Darkness",
+        "code": "TSK/S101-E074",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Charybdis, you present the perfect opportunity to test the power I have now...",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E074.png"
+    },
+    {
+        "name": "Insuppressible Anger",
+        "code": "TSK/S101-E075",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Don't expect a painless death.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E075.png"
+    },
+    {
+        "name": "For a World to Live In With a Smile, Rimuru",
+        "code": "TSK/S101-E076",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Demon Continent》, this card gets +1500 power and the following ability. \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.\"",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "I want to create a world that's comfortable to live in, the way I like it.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E076.png"
+    },
+    {
+        "name": "A Throbbing That Signals Freedom, Mjurran",
+        "code": "TSK/S101-E077",
+        "rarity": "RR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +5000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Everlasting Words of Love\" is placed on your climax area, if this card is in your center stage, and you have 4 or more other 《Demon Continent》 characters, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose up to 1 《Demon Continent》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E077.png"
+    },
+    {
+        "name": "A Treasured Place to Return To, Soei",
+        "code": "TSK/S101-E078",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shinobi"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E078.png"
+    },
+    {
+        "name": "Operation Dress-Up, Rimuru",
+        "code": "TSK/S101-E079",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other 《Demon Continent》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I don't think this is quite right...",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E079.png"
+    },
+    {
+        "name": "Ardent Relationship, Youm & Mjurran",
+        "code": "TSK/S101-E080",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Demon Continent》, this card gets +2500 power and \"【AUTO】 Encore [Put 1 《Demon Continent》 character from your waiting room at the bottom of your clock]\".",
+            "【AUTO】 [Put 1 《Demon Continent》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"A Throbbing That Signals Freedom, Mjurran\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E080.png"
+    },
+    {
+        "name": "Bodyguard in the Shadow, Ranga",
+        "code": "TSK/S101-E081",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shadow"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Demon Continent》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Demon Continent》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E081.png"
+    },
+    {
+        "name": "To His Dear Friends, Rimuru",
+        "code": "TSK/S101-E082",
+        "rarity": "R",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Conclusion to Enmity, Rimuru\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Memory [(2)] At the end of this card's attack, if \"To the Friends Awaiting His Return\" is in your climax area, and \"Awakening of a True Demon Lord, Rimuru\" and \"Conclusion to Enmity, Rimuru\" are in your memory, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E082.png"
+    },
+    {
+        "name": "Competent Right-Hand Woman, Soka",
+        "code": "TSK/S101-E083",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shinobi"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 level 2 or higher character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 0 or lower character, put it on any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E083.png"
+    },
+    {
+        "name": "Unsurpassable Difference in Power, Carrion",
+        "code": "TSK/S101-E084",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Power Out of This World, Milim\" get +1000 power and the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on top of your deck, and put the rest into your waiting room.\"",
+            "【AUTO】 [Put 1 《Demon Continent》 character into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Power Out of This World, Milim\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "She's... in another dimension entirely...",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E084.png"
+    },
+    {
+        "name": "Onwards to Paradise! Rimuru",
+        "code": "TSK/S101-E085",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When your other \"\"Dragonoid\" Milim\" is placed on the stage from your hand, that character gets +1500 power until end of turn, and put this card into your stock.",
+            "【AUTO】 Bond/\"\"Dragonoid\" Milim\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Dragonoid\" Milim\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "To the promised land we go!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E085.png"
+    },
+    {
+        "name": "News of Distress, Soei",
+        "code": "TSK/S101-E086",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Shinobi"
+        ],
+        "ability": [
+            "【AUTO】 Experience [(1) Put 1 《Demon Continent》 character from your stage into your waiting room] When you use this card's \"Backup\", if your level has a yellow card and a red card, you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, put it into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Enemies... and far more than—",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E086.png"
+    },
+    {
+        "name": "Signs of a Greed-Fueled Disaster, Rimuru",
+        "code": "TSK/S101-E087",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 [(4) 【REST】 this card] Choose 1 of your \"Shizu Resolutely Facing Off\", and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may 【STAND】 this card.\""
+        ],
+        "flavor_text": "But Tempest wouldn't be invaded…",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E087.png"
+    },
+    {
+        "name": "A Unique Fighting Style, Gobta",
+        "code": "TSK/S101-E088",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E088.png"
+    },
+    {
+        "name": "Battle in Dense Fog, Soei",
+        "code": "TSK/S101-E089",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Shinobi"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into your waiting room, and this card gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Soul-Slicing Thread\" is in your climax area, and your stock has 5 or less cards, you may pay the cost. If you do, deal 4 damage to your opponent, and put that card at the bottom of your deck. (Damage may be canceled)"
+        ],
+        "flavor_text": "I don't sense any enemies... What?!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E089.png"
+    },
+    {
+        "name": "Captive Wizard, Mjurran",
+        "code": "TSK/S101-E090",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Quiet Anger, Shuna\", all of your other 《Demon Continent》 characters get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Youm: \"Oh, this is Mjurran, our most skilled member.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E090.png"
+    },
+    {
+        "name": "A Scene in His Daily Life, Ranga",
+        "code": "TSK/S101-E091",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shadow"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E091.png"
+    },
+    {
+        "name": "Dependable Facilitator of a Kingdom, Rigurd",
+        "code": "TSK/S101-E092",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+        ],
+        "flavor_text": "Whether you befriend humans or become a Demon Lord, your wishes are the path we must follow.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E092.png"
+    },
+    {
+        "name": "Dependable Leader of the “Hiryu”, Gabiru",
+        "code": "TSK/S101-E093",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 1 of your 《Demon Continent》 characters] This card gets +4500 power until end of turn."
+        ],
+        "flavor_text": "Don't let a single man escape!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E093.png"
+    },
+    {
+        "name": "A Discussion for the Future, Rimuru",
+        "code": "TSK/S101-E094",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if there is a marker underneath this card, this card gets +4000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"A Discussion for the Future, Shuna\" in your waiting room, and put it face up underneath this card as a marker."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E094.png"
+    },
+    {
+        "name": "Gobta Getting His Heart Stolen",
+        "code": "TSK/S101-E095",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Wh...WhoAAHHASDFG!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E095.png"
+    },
+    {
+        "name": "Expanding Friendship, Rimuru",
+        "code": "TSK/S101-E096",
+        "rarity": "C",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your center stage, all of your 《Demon Continent》 characters get +1500 power.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Demon Continent》 character, all of your other characters get +1 soul until end of turn. (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I'd be happy to accept your offer.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E096.png"
+    },
+    {
+        "name": "Barrier Between Hope and Disaster",
+        "code": "TSK/S101-E097",
+        "rarity": "U",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose up to 5 of your opponent's characters, and they get the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\"",
+            "Your opponent cannot play event cards from their hand until the end of their next turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E097.png"
+    },
+    {
+        "name": "Everlasting Words of Love",
+        "code": "TSK/S101-E098",
+        "rarity": "CR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Youm: \"I love you, Mjurran.\"",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E098.png"
+    },
+    {
+        "name": "To the Friends Awaiting His Return",
+        "code": "TSK/S101-E099",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E099.png"
+    },
+    {
+        "name": "Soul-Slicing Thread",
+        "code": "TSK/S101-E100",
+        "rarity": "CC",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Arcane Thread Fetters!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E100.png"
+    },
+    {
+        "name": "Capable Secretary? Shion",
+        "code": "TSK/S101-E101",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Secretary"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Demon Continent》 character attacks, this card gets +2000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "The date for your visit to the Armed Nation of Dwargon has been set.",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E101.png"
+    },
+    {
+        "name": "Unnecessary Statement, Veldora",
+        "code": "TSK/S101-E102",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Dragon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Demon Continent》 character from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "If that's the case, my friend Rimuru is an expert!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E102.png"
+    },
+    {
+        "name": "Request for a Try-on, Shuna",
+        "code": "TSK/S101-E103",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Shrine Maiden"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Then how about this one?",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E103.png"
+    },
+    {
+        "name": "Full of Liveliness, Milim",
+        "code": "TSK/S101-E104",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place)",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E104.png"
+    },
+    {
+        "name": "Achieving Victory With Everyone, Rimuru",
+        "code": "TSK/S101-E105",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Demon Lord"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Demon Continent》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "Good. Now, win!",
+        "set": "TSK",
+        "release": "101",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_E105.png"
+    },
+    {
+        "name": "A Moment Under a Tree, Rimuru & Diablo",
+        "code": "TSK/S101-PE01",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Demon Continent",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_PE01.png"
+    },
+    {
+        "name": "The Children’s Reliable Teacher, Rimuru",
+        "code": "TSK/S101-PE02",
+        "rarity": "PR",
+        "expansion": "That Time I Got Reincarnated as a Slime Vol.3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Demon Continent",
+            "Slime"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "TSK",
+        "release": "101",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/TSK3/S101_PE02.png"
+    }
+]
