@@ -23,7 +23,9 @@
         ],
         "flavor_text": "Enemy ship locked, fire all main guns!",
         "set": "KC",
-        "release": "31"        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s31/KC_S31_E001.png"
+        "release": "31",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s31/KC_S31_E001.png"
     },
     {
         "name": "2nd Yamato-class Battleship, Musashi-Kai",
@@ -2718,94 +2720,6 @@
         "release": "31",
         "sid": "E100",
         "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s31/KC_S31_E100.png"
-ng"
-    },
-    {
-        "name": "Attack force, head out now-!",
-        "code": "KC/S31-E098",
-        "rarity": "CC",
-        "expansion": "Kancolle, 2nd Fleet",
-        "side": "S",
-        "type": "Climax",
-        "color": "BLUE",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "DRAW"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +1000 power and +1 soul. (DRAW@: When this card triggers, you may draw a card.)",
-            "(【DRAW】: When this card triggers, you may draw 1 card)"
-        ],
-        "flavor_text": "It's time for a counterattack… All planes on deck, sortie!",
-        "set": "KC",
-        "release": "31",
-        "sid": "E098",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S31_E098CCo.png"
-    },
-    {
-        "name": "From which ship do I start to repair?",
-        "code": "KC/S31-E099",
-        "rarity": "CC",
-        "expansion": "Kancolle, 2nd Fleet",
-        "side": "S",
-        "type": "Climax",
-        "color": "BLUE",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【CONT】 All of your characters get +2 soul."
-        ],
-        "flavor_text": "I can repair even more now! Thank you very much!",
-        "set": "KC",
-        "release": "31",
-        "sid": "E099",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S31_E099CCo.png"
-    },
-    {
-        "name": "Don't look down on us remodeled Aircraft Carriers!",
-        "code": "KC/S31-E100",
-        "rarity": "CC",
-        "expansion": "Kancolle, 2nd Fleet",
-        "side": "S",
-        "type": "Climax",
-        "color": "BLUE",
-        "level": "",
-        "cost": "",
-        "power": "",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
-        "attributes": [
-            "-",
-            "-"
-        ],
-        "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
-        ],
-        "flavor_text": "Continue the assault! Ryuho, Attack Squadron, launching!",
-        "set": "KC",
-        "release": "31",
-        "sid": "E100",
-        "image": "https://en.ws-tcg.com/cardlist/cardimages/WS_KC_S31_E100CCo.png"
     },
     {
         "name": "1st Akiduki-class Destroyer, Akiduki",
