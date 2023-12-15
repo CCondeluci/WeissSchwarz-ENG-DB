@@ -1,0 +1,3641 @@
+[
+    {
+        "name": "Nagoriyuki: Vampire Samurai",
+        "code": "GGST/SX06-001",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Guilty Gear》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Clash of Immortals\" is in your climax area, and all of your characters are 《Guilty Gear》, you may choose 1 《Guilty Gear》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Go ahead, try me.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_001.png"
+    },
+    {
+        "name": "May: Cheerful Pirate",
+        "code": "GGST/SX06-002",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Pirate"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room] When this card attacks, if \"Jellyfish Pirates\" is in your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 2 damage to your opponent 2 times.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "Totsugeki!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_002.png"
+    },
+    {
+        "name": "May: First Mate of Jellyfish Pirates",
+        "code": "GGST/SX06-003",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Pirate"
+        ],
+        "ability": [
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Guilty Gear》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Johnny likes people who are strong!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_003.png"
+    },
+    {
+        "name": "Goldlewis: Secretary of Defense",
+        "code": "GGST/SX06-004",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Guilty Gear》 characters, this card gets +5000 power and +1 soul.",
+            "【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Overdrive: Down With The System\" is in your climax area, and you have 2 or more other 《Guilty Gear》 characters, choose up to 1 《Guilty Gear》 character in your waiting room, return it to your hand, choose up to 1 《Guilty Gear》 character in your waiting room, put it into your stock, and this card gets +4000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Come and give me all you got.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_004.png"
+    },
+    {
+        "name": "Chipp: Ninja President",
+        "code": "GGST/SX06-005",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Chipp: Ninja President\" in your waiting room, and put it in any position of your stage.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power and +2 soul until end of turn."
+        ],
+        "flavor_text": "A president never gives up.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_005.png"
+    },
+    {
+        "name": "Leo: Second King of Illyria",
+        "code": "GGST/SX06-006",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other \"Ky: Greatest Rival\" get +4000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 \"Ky: Greatest Rival\" in your waiting room, return it to your hand, choose up to 1 《Guilty Gear》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "You're free to pull your punches, but don't complain when you lose.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_006.png"
+    },
+    {
+        "name": "Nagoriyuki: Wasureyuki",
+        "code": "GGST/SX06-007",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "11000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "Ougi...",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_007.png"
+    },
+    {
+        "name": "Goldlewis: Pillar of a Nation",
+        "code": "GGST/SX06-008",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 Experience This card gets +2500 power for each 《Guilty Gear》 character in your level.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock."
+        ],
+        "flavor_text": "You fixin' to start a war there, hoss?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_008.png"
+    },
+    {
+        "name": "Leo: Overworked King",
+        "code": "GGST/SX06-009",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Guilty Gear》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "Uwaaaaagh!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_009.png"
+    },
+    {
+        "name": "Nagoriyuki: Nightless",
+        "code": "GGST/SX06-010",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room & Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The game's over.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_010.png"
+    },
+    {
+        "name": "Goldlewis: Coffin Wielder",
+        "code": "GGST/SX06-011",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 You cannot play events or \"Backup\" from your hand.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "That's a top-secret UMA. I'm takin' you in.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_011.png"
+    },
+    {
+        "name": "Chipp: Incredible Memory",
+        "code": "GGST/SX06-012",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 [(1)] During your main phase, when this card is placed on the stage from your hand or deck, you may pay the cost. If you do, search your deck for up to 1 \"Chipp: Incredible Memory\", put it in any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "That didn't even kill much time.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_012.png"
+    },
+    {
+        "name": "May: Spunky Girl",
+        "code": "GGST/SX06-013",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Pirate"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", if you have 4 or more 《Guilty Gear》 characters, you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "It's too early to be acting cool.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_013.png"
+    },
+    {
+        "name": "Chipp: High Speed Battle",
+        "code": "GGST/SX06-014",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Guilty Gear》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] If your memory has 1 or less card, choose 1 《Guilty Gear》 character in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "I can't let you get away…",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_014.png"
+    },
+    {
+        "name": "Chipp: Calm and Collected Ninja",
+        "code": "GGST/SX06-015",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 3 times per turn. When your other character is placed on the stage from your waiting room, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Guilty Gear》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Goldlewis \"Wait, Chipp?\nAs in, the President of the Eastern Chipp Kingdom?\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_015.png"
+    },
+    {
+        "name": "Leo: Stance Cancel",
+        "code": "GGST/SX06-016",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +5500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\"",
+            "【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's draw phase, you may pay the cost. If you do, choose 1 \"Leo: Brynhildr Stance\" in your waiting room, put it in the stage position that this card was in, and that character gets +2500 power until end of turn."
+        ],
+        "flavor_text": "A kingly defense.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_016.png"
+    },
+    {
+        "name": "May & April: Johnny's Crew",
+        "code": "GGST/SX06-017",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Pirate"
+        ],
+        "ability": [
+            "【CONT】 This card cannot be chosen by your opponent's effects.",
+            "【CONT】 During your turn, this card gets +1000 power for each of your other 《Guilty Gear》 characters.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle or at the end of this card's attack, if your memory has 1 or less card, you may put this card into your memory."
+        ],
+        "flavor_text": "Well, I had Johnny…\nAnd so did you. The whole crew did.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_017.png"
+    },
+    {
+        "name": "Leo: Brynhildr Stance",
+        "code": "GGST/SX06-018",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+            "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Leo: Stance Cancel\" in your waiting room, and put it in the stage position that this card was in. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)"
+        ],
+        "flavor_text": "Our victory is sealed.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_018.png"
+    },
+    {
+        "name": "Goldlewis: Wall of Protection",
+        "code": "GGST/SX06-019",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets +1500 power until the end of your opponent's next turn.",
+            "【AUTO】 When this card attacks, if all of your characters are 《Guilty Gear》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Gaaaah!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_019.png"
+    },
+    {
+        "name": "Nagoriyuki: Against His Will",
+        "code": "GGST/SX06-020",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\""
+        ],
+        "flavor_text": "You fiend!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_020.png"
+    },
+    {
+        "name": "Rude Awakening",
+        "code": "GGST/SX06-021",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 face up card in your level, return it to your hand, put this card into your level, choose 1 of your 《Guilty Gear》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 Experience [(4) Put 2 cards from your hand into your waiting room & Put this card from face up to face down] If this card is in your level, when your character attacks, if your level is 3 or higher, you may pay the cost. If you do, choose 1 character in battle, and 【STAND】 it."
+        ],
+        "flavor_text": "I'll kill you.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_021.png"
+    },
+    {
+        "name": "Presidential Meeting",
+        "code": "GGST/SX06-022",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Brainstorm Flip over 3 cards from the top of your deck, and put them into your waiting room. Choose 1 level X or lower 《Guilty Gear》 character in your waiting room, and return it to your hand. X is equal to the number of 《Guilty Gear》 characters among those cards."
+        ],
+        "flavor_text": "It's to build a new generation, a new era of peace.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_022.png"
+    },
+    {
+        "name": "Clash of Immortals",
+        "code": "GGST/SX06-023",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "...What incredible strength...",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_023.png"
+    },
+    {
+        "name": "Jellyfish Pirates",
+        "code": "GGST/SX06-024",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Ready, set... BY THE WIND!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_024.png"
+    },
+    {
+        "name": "Overdrive: Down With the System",
+        "code": "GGST/SX06-025",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+        ],
+        "flavor_text": "Down the… Systeeeem!!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_025.png"
+    },
+    {
+        "name": "Ramlethal: Brigadier of Illyria",
+        "code": "GGST/SX06-026",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn, if your memory has 1 or less card, you may choose 1 \"Ramlethal: Brigadier of Illyria\" or \"Lucifero: Ramlethal's Familiar\" in your waiting room, and put it into your memory.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'll create... the future.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_026.png"
+    },
+    {
+        "name": "Millia: Master Assassin",
+        "code": "GGST/SX06-027",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are 《Guilty Gear》, this card gets +2000 power.",
+            "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "You won't even have the time to blink.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_027.png"
+    },
+    {
+        "name": "Giovanna: Special Operations Unit Officer",
+        "code": "GGST/SX06-028",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Spirit"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if there is a card in your memory, this card gets +3000 power.",
+            "【CONT】 Memory If your memory has 2 or more cards, this card gets +500 power and the following ability. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock.\" (Otherwise, return it to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Giovanna, reporting in.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_028.png"
+    },
+    {
+        "name": "Potemkin: Proud Soldier of Zepp",
+        "code": "GGST/SX06-029",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Guilty Gear》 characters, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "My heart remains unscathed.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_029.png"
+    },
+    {
+        "name": "Giovanna: Ventania",
+        "code": "GGST/SX06-030",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Spirit"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if your memory has 2 or more cards, this card gets +6000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck."
+        ],
+        "flavor_text": "Fear on the wind.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_030.png"
+    },
+    {
+        "name": "Zato=1: Dead Man Walking",
+        "code": "GGST/SX06-031",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Zato=1: Dead Man Walking\" in your waiting room, put it in any position of your stage, and at the end of your opponent's next turn, put that character into your waiting room.",
+            "【AUTO】 [Put 2 cards from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room] At the end of this card's attack, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Guilty Gear》 character, choose 1 of your \"Zato=1: Dead Man Walking\" and this card, and exchange them. （The cards' states do not change. Return the revealed card to its original place）"
+        ],
+        "flavor_text": "I'm tired of killing...",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_031.png"
+    },
+    {
+        "name": "Millia: Winger",
+        "code": "GGST/SX06-032",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 If \"Millia: Master Assassin\" is in your clock, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Overdrive: Winger\" is in your climax area, choose up to 1 character in your waiting room, return it to your hand, and this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_032.png"
+    },
+    {
+        "name": "Ramlethal Valentine",
+        "code": "GGST/SX06-033",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an event or a 《Guilty Gear》 character, you may deal 1 damage to your opponent. （Damage may be canceled. Return the revealed card to its original place）",
+            "【AUTO】 【CXCOMBO】 [Put 1 《Guilty Gear》 character from your memory into your waiting room] When \"Overdrive: Calvados\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, this card gets +3000 power until end of turn, and perform the following action 2 times. \"Declare your deck or your waiting room. Search the zone you declared for up to 1 \"Lucifero: Ramlethal's Familiar\", and put it in any position of your stage. If you declared your deck, shuffle your deck."
+        ],
+        "flavor_text": "I won't deny myself.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_033.png"
+    },
+    {
+        "name": "Giovanna: Possessing Rei",
+        "code": "GGST/SX06-034",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+            "【AUTO】 When this card is put into your waiting room from the stage, if your memory has 1 or less card, you may choose 1 \"Giovanna: Special Operations Unit Officer\" or \"Giovanna: Possessing Rei\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "Nagoriyuki \"You've won.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_034.png"
+    },
+    {
+        "name": "Millia: Impending Doom",
+        "code": "GGST/SX06-035",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your clock, and return it to your hand. If you do, choose 1 card in your hand, and put it into your clock.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Guilty Gear》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Operator \"Illyria is being targeted by weapons from the United States!\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_035.png"
+    },
+    {
+        "name": "Zato=1: Cursed Entity",
+        "code": "GGST/SX06-036",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your memory has 1 or less card, you may choose 1 《Guilty Gear》 character in your waiting room, and put it into your memory.",
+            "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I'm bringing you back with me.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_036.png"
+    },
+    {
+        "name": "Vernon: World Changer",
+        "code": "GGST/SX06-037",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 6 cards from the top of your deck, choose up to 2 《Guilty Gear》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Football is going to save the world.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_037.png"
+    },
+    {
+        "name": "Lucifero: Ramlethal's Familiar",
+        "code": "GGST/SX06-038",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your attack phase, if there is a climax in your climax area, this card gets +2500 power and +1 soul until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"Overdrive: Calvados\" is in your climax area, and \"Ramlethal Valentine\" is in the middle position of your center stage, you may pay the cost. If you do, deal 3 damage to your opponent, and this card gets +6000 power until end of turn. (Damage may be canceled)"
+        ],
+        "flavor_text": "We're like, the perfect coup--",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_038.png"
+    },
+    {
+        "name": "Potemkin: Heavenly Potemkin Buster",
+        "code": "GGST/SX06-039",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Guilty Gear》 characters.",
+            "【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room & Put 1 \"Overdrive: Heavenly Potemkin Buster\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 3 cards in your opponent's waiting room, put them on the top of their deck in any order, and deal 4 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "This is the end!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_039.png"
+    },
+    {
+        "name": "Zato=1: Shadow Wielder",
+        "code": "GGST/SX06-040",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, all of your other \"Millia: Winger\" get +2000 power.",
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【AUTO】 At the beginning of your main phase, you may choose the bottom card of your clock and 1 《Guilty Gear》 character in your waiting room, and exchange them."
+        ],
+        "flavor_text": "I will handle this myself.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_040.png"
+    },
+    {
+        "name": "Potemkin: In the Nick of Time",
+        "code": "GGST/SX06-041",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "Sol \"The main event's only getting started.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_041.png"
+    },
+    {
+        "name": "Giovanna: Beast Shaman",
+        "code": "GGST/SX06-042",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Spirit"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Guilty Gear》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "I'm gonna make sure this asshole can never fight again.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_042.png"
+    },
+    {
+        "name": "Millia: Bureau Director",
+        "code": "GGST/SX06-043",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another \"Zato=1: Bureau Administrator\" in your center stage, this card gets +4000 power.",
+            "【AUTO】 Bond/\"Zato=1: Bureau Administrator\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Zato=1: Bureau Administrator\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Here's where I judge you.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_043.png"
+    },
+    {
+        "name": "Zato=1: Bureau Administrator",
+        "code": "GGST/SX06-044",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another \"Millia: Bureau Director\" in your center stage, this card gets +4000 power.",
+            "【AUTO】 Bond/\"Millia: Winger\" \"Millia: Bureau Director\" [Put 1 card from your hand into your waiting room] （When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Millia: Winger\" or \"Millia: Bureau Director\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Let us begin.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_044.png"
+    },
+    {
+        "name": "Ramlethal: Reassuring Smile",
+        "code": "GGST/SX06-045",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Guilty Gear》 characters in front of this card get +1500 power.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "It's okay. You'll be fine.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_045.png"
+    },
+    {
+        "name": "Potemkin: Overwhelming Power",
+        "code": "GGST/SX06-046",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Army"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Potemkin: Overwhelming Power\" get +3000 power."
+        ],
+        "flavor_text": "Target decommissioned.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_046.png"
+    },
+    {
+        "name": "Shocking Revelation",
+        "code": "GGST/SX06-047a",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 face up card in your level, return it to your hand, put this card into your level, choose 1 of your 《Guilty Gear》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 Experience [(4) Put 1 card from your hand into your waiting room & Put this card from face up to face down] If this card is in your level, when your opponent's character attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, that character gets -3 soul until end of turn, and draw up to 1 card. If you draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Sin \"Later, dad's eye.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "047a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_047a.png"
+    },
+    {
+        "name": "Overdrive: Calvados",
+        "code": "GGST/SX06-048",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Calvados.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_048.png"
+    },
+    {
+        "name": "Overdrive: Winger",
+        "code": "GGST/SX06-049",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "I won't back down!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_049.png"
+    },
+    {
+        "name": "Overdrive: Heavenly Potemkin Buster",
+        "code": "GGST/SX06-050",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "HEAVENLY POTEMKIN BUSTER!!!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_050.png"
+    },
+    {
+        "name": "I-No: Time Travelling Musician",
+        "code": "GGST/SX06-051",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I will create the future.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_051.png"
+    },
+    {
+        "name": "Baiken: Avenging Swordswoman",
+        "code": "GGST/SX06-052",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Guilty Gear》, this card gets +3500 power and \"【AUTO】 Encore [Put 1 《Guilty Gear》 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Resolve of Steel\" from your climax area into your waiting room] At the beginning of your attack phase, you may pay the cost. If you do, 【STAND】 this card.",
+            "【ACT】 [Put this card at the bottom of your deck] Choose 1 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Hate has a way of sticking around.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_052.png"
+    },
+    {
+        "name": "Sol: Savior of the World",
+        "code": "GGST/SX06-053",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Guilty Gear》 character, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"0% Possible\" is in your climax area, and you have 2 or more other 《Guilty Gear》 characters, you may pay the cost. If you do, deal 4 damage to your opponent. (Damage may be canceled)",
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put the top card of your opponent's deck into their clock."
+        ],
+        "flavor_text": "Actually, I'm a self-employed guy trying to enjoy his vacation.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_053.png"
+    },
+    {
+        "name": "Anji: Fan Dancer",
+        "code": "GGST/SX06-054",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Fan"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "That's my cue!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_054.png"
+    },
+    {
+        "name": "Baiken: Samurai Slasher",
+        "code": "GGST/SX06-055",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Guilty Gear》 character from your hand into your clock] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "I'll cut you free…",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_055.png"
+    },
+    {
+        "name": "Sol: Hastily Summoned",
+        "code": "GGST/SX06-056",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Guilty Gear》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Yeah?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_056.png"
+    },
+    {
+        "name": "Jack-O' Valentine",
+        "code": "GGST/SX06-057",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn, if your memory has 1 or less card, choose up to 1 《Guilty Gear》 character in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "I think we're probably past that.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_057.png"
+    },
+    {
+        "name": "Axl: Time Manipulator",
+        "code": "GGST/SX06-058",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Guilty Gear》 characters you have ×1500.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room] This card gets +2500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "Time for some fun!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_058.png"
+    },
+    {
+        "name": "I-No: Crushing Power",
+        "code": "GGST/SX06-059",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Happy Chaos: Tome of Origin\", you may choose 1 \"Freedom\" in your waiting room, and return it to your hand.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Freedom\" is in your climax area, and you have 2 or more other characters, choose 1 of the following effects, and perform it. \"This card gets +1500 power until the end of your opponent's next turn, and you may return all cards in your opponent's waiting room to their deck. If you do, your opponent shuffles their deck.\" \"[(2)] You may pay the cost. If you do, deal 2 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_059.png"
+    },
+    {
+        "name": "Jack-O': By His Side",
+        "code": "GGST/SX06-060",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Guilty Gear》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 [Put 1 《Guilty Gear》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top 2 cards of your deck, your opponent chooses 1 event or character from among them, you put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Sol \"I'm not gonna let that go.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_060.png"
+    },
+    {
+        "name": "Sol: Prototype Gear",
+        "code": "GGST/SX06-061",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【AUTO】 When your character's trigger check reveals a card with in its trigger icon, choose 1 of your 《Guilty Gear》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Hurry up and retire already.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_061.png"
+    },
+    {
+        "name": "Axl: Unfair Way of Life",
+        "code": "GGST/SX06-062",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Woman \"I'll give you my unfair way of life.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_062.png"
+    },
+    {
+        "name": "Baiken & Delilah: Together",
+        "code": "GGST/SX06-063",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Guilty Gear》, this card gets +2000 power.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Let's give it up. Together.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_063.png"
+    },
+    {
+        "name": "Anji: Charismatic Dance",
+        "code": "GGST/SX06-064",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Fan"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Guilty Gear》 characters you have ×500.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "My dance is unparalleled.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_064.png"
+    },
+    {
+        "name": "I-No: Megalomania",
+        "code": "GGST/SX06-065",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Guilty Gear》 characters you have ×500.",
+            "【ACT】 [(4) Put 1 card from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room] Return all of your opponent's level 3 or lower characters in their center stage to their hand."
+        ],
+        "flavor_text": "Ready to go?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_065.png"
+    },
+    {
+        "name": "Jack-O': Forever Elysion Driver",
+        "code": "GGST/SX06-066",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 If you do not have another 《Guilty Gear》 character, this card cannot 【STAND】 during your stand phase.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room & Put 1 \"Overdrive: Forever Elysion Driver\" from your climax area into your waiting room] When this card attacks, if you have 2 or more other 《Guilty Gear》 characters, you may pay the cost. If you do, search your deck for up to 2 《Guilty Gear》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You won't get awaaay!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_066.png"
+    },
+    {
+        "name": "Jack-O': Right to Save the World",
+        "code": "GGST/SX06-067",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Guilty Gear》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & 【REST】 this card] Choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage."
+        ],
+        "flavor_text": "Do I not have the right to save the world because I don't have emotions?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_067.png"
+    },
+    {
+        "name": "I-No: Finally Recalling",
+        "code": "GGST/SX06-068",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.",
+            "【AUTO】 When this card is put into your waiting room from the stage, if your memory has 1 or less card, you may choose 1 \"I-No: Megalomania\" or \"I-No: Finally Recalling\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "Beautiful blonde hair... like a woman's.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_068.png"
+    },
+    {
+        "name": "Axl: Disaster Relief",
+        "code": "GGST/SX06-069",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put into your waiting room from the stage, if your memory has 1 or less card, you may choose 1 \"Axl: Time Manipulator\" or \"Axl: Disaster Relief\" in your waiting room, and put it into your memory.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Guilty Gear》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_069.png"
+    },
+    {
+        "name": "Axl: Going Easy",
+        "code": "GGST/SX06-070",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock & Return this card to your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other 《Guilty Gear》 characters, and return it to your hand."
+        ],
+        "flavor_text": "Go on.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_070.png"
+    },
+    {
+        "name": "Anji: In Pursuit",
+        "code": "GGST/SX06-071",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Fan"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand."
+        ],
+        "flavor_text": "This isn't him, Boss.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_071.png"
+    },
+    {
+        "name": "Baiken: Campfire Conversation",
+        "code": "GGST/SX06-072",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Guilty Gear》 characters, this card gets +2000 power.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "What are you, girl?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_072.png"
+    },
+    {
+        "name": "Anji & Baiken: Common Understanding",
+        "code": "GGST/SX06-073",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Fan"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "I'm not ready for you to cut me down.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_073.png"
+    },
+    {
+        "name": "Sol (furigana:Frederick): Ordinary Merchant",
+        "code": "GGST/SX06-074",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "7000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Guilty Gear》 characters."
+        ],
+        "flavor_text": "...And whose grave was that?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_074.png"
+    },
+    {
+        "name": "Outrage MK.II",
+        "code": "GGST/SX06-075",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《Guilty Gear》 character, this card cannot be played from your hand. Choose up to 2 of your 《Guilty Gear》 characters, and they get the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\""
+        ],
+        "flavor_text": "What, is it gonna blow up or something?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_075.png"
+    },
+    {
+        "name": "Removing the Corruption",
+        "code": "GGST/SX06-076",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 face up card in your level, return it to your hand, put this card into your level, choose 1 of your 《Guilty Gear》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 Experience [(4) Put 2 cards from your hand into your waiting room & Put this card from face up to face down] If this card is in your level, when your character attacks, if you are level 3 or higher, you may pay the cost. If you do, choose 1 character in battle, and 【STAND】 it."
+        ],
+        "flavor_text": "Asuka \"His power is not necessary for our world.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_076.png"
+    },
+    {
+        "name": "Resolve of Steel",
+        "code": "GGST/SX06-077",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the [[standby.gif]] effect.",
+            "([[standby.gif]]: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it in any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_077.png"
+    },
+    {
+        "name": "0% Possible",
+        "code": "GGST/SX06-078",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Rather than something being 1--% impossible,\nyou could also say it's -% possible.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_078.png"
+    },
+    {
+        "name": "Overdrive: Forever Elysion Driver",
+        "code": "GGST/SX06-079",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the [[standby.gif]] effect.",
+            "([[standby.gif]]: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it in any position of your stage as 【REST】)"
+        ],
+        "flavor_text": "Forever Elysion Driver!!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_079.png"
+    },
+    {
+        "name": "Freedom",
+        "code": "GGST/SX06-080",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "You're all free, now.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_080.png"
+    },
+    {
+        "name": "Ky: Sword of Justice",
+        "code": "GGST/SX06-081",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Guilty Gear》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Overdrive: Ride the Lightning\" is in your climax area, and you have 2 or more other 《Guilty Gear》 characters, choose 1 of the following effects, and perform it. \"Look at up to 4 cards from the top of your deck, choose up to 1 《Guilty Gear》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\" \"Choose 1 level 2 or higher 《Guilty Gear》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "A king's blade is not just for show.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_081.png"
+    },
+    {
+        "name": "Faust: Nutty Doctor",
+        "code": "GGST/SX06-082",
+        "rarity": "RR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Doctor"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Guilty Gear》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 During your turn, if all of your characters are 《Guilty Gear》, this card gets +2000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "Doctor, heal thyself...",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_082.png"
+    },
+    {
+        "name": "Happy Chaos: Unpredictable Menace",
+        "code": "GGST/SX06-083",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage."
+        ],
+        "flavor_text": "Let's make this fun.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_083.png"
+    },
+    {
+        "name": "Faust: Beginning Operation",
+        "code": "GGST/SX06-084",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Doctor"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"G-Canceler Field\" is placed on your climax area, if you have another 《Guilty Gear》 character, look at the top card of your deck, choose up to 1 《Guilty Gear》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Ready to operate!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_084.png"
+    },
+    {
+        "name": "Testament: Beautiful Gear",
+        "code": "GGST/SX06-085",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 character in your waiting room, and return it to your hand. If you returned a character to your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 [(2) Put 2 cards from your hand into your waiting room & Put 1 《Guilty Gear》 character from your memory into your waiting room & 【REST】 this card] Deal 1 damage to your opponent 2 times. (Damage may be canceled)"
+        ],
+        "flavor_text": "Let's see where your beauty lies.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_085.png"
+    },
+    {
+        "name": "Ky: Mighty King",
+        "code": "GGST/SX06-086",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it in any position of your stage, and this card gets +2000 power until end of turn.",
+            "【AUTO】 [(4) Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "Come at me with your full strength.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_086.png"
+    },
+    {
+        "name": "Ky: Blood of Juno",
+        "code": "GGST/SX06-087",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if your opponent has 3 or less characters, this card gets +1 level and +1500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "I-No \"Only a fraction, though.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_087.png"
+    },
+    {
+        "name": "Testament: Elegant Grim Reaper",
+        "code": "GGST/SX06-088",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Guilty Gear》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Do try to learn your limits.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_088.png"
+    },
+    {
+        "name": "Faust: Bone-Crushing Excitement",
+        "code": "GGST/SX06-089",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Doctor"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +500 power.",
+            "【ACT】 [Put 1 《Guilty Gear》 character from your memory into your waiting room & 【REST】 this card] Reveal the top card of your deck. If that card is a climax, choose 1 card in your opponent's waiting room, and put it on top of their deck. If that card is a level 0 or lower character, all of your characters get +1000 power until end of turn. If that card is level 1, choose 1 of your characters, and that character gets +4000 power until end of turn. If that card is level 2, put the top card of your deck into your clock. If that card is level 3 or higher, put the bottom card of your deck into your stock. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "I will... save you…",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_089.png"
+    },
+    {
+        "name": "Happy Chaos: Trigger Happy",
+        "code": "GGST/SX06-090",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 《Guilty Gear》 character from your memory into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 cost 1 or lower character in your opponent's back stage, and put it into their waiting room."
+        ],
+        "flavor_text": "I'm not really a direct combat guy.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_090.png"
+    },
+    {
+        "name": "Happy Chaos: Tome of Origin",
+        "code": "GGST/SX06-091",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 This card can be played from your hand without fulfilling color requirements.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Asuka: Gear Maker\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 [Put this card and 1 \"Asuka: Gear Maker\" from your stage into your waiting room] Choose 1 \"I-No: Crushing Power\" in your waiting room, and put it in the stage position that this card was in."
+        ],
+        "flavor_text": "The real Tome...",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_091.png"
+    },
+    {
+        "name": "Ky: Righteous Ruler",
+        "code": "GGST/SX06-092",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Guilty Gear》 characters get +500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "\"For the first time in history, humankind welcomed a non-human leader.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_092.png"
+    },
+    {
+        "name": "Faust: Creepy Eyes",
+        "code": "GGST/SX06-093",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Doctor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -500 power and 《Afro》 until end of turn.",
+            "【AUTO】 When this card is put into your waiting room from the stage, if you have 1 or less card in your memory, you may choose 1 \"Faust: Bone-crushing Excitement\" or \"Faust: Creepy Eyes\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "How many...fingers?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_093.png"
+    },
+    {
+        "name": "Happy Chaos: Restorer of Humanity",
+        "code": "GGST/SX06-094",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your memory has 1 or less card, you may choose 1 《Guilty Gear》 character in your waiting room, and put it into your memory.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "A voice speaks to them from above!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_094.png"
+    },
+    {
+        "name": "Testament: Graceful Victory",
+        "code": "GGST/SX06-095",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Guilty Gear》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Guilty Gear》 characters you have ×500.",
+            "【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 [Put 1 climax from your hand into your waiting room] When this card's trigger check reveals a climax, you may pay the cost. If you do, choose 1 《Guilty Gear》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'd say it's time for a tea break.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_095.png"
+    },
+    {
+        "name": "Sibling Succubi of Testament",
+        "code": "GGST/SX06-096",
+        "rarity": "C",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "power": "7500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Guilty Gear》 characters, this card gets +2000 power.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your other 《Guilty Gear》 characters, exchange them as 【STAND】, if your memory has 1 or less card, choose up to 1 \"Testament: Beautiful Gear\" or \"Sibling Succubi of Testament\" in your waiting room, and put it into your memory."
+        ],
+        "flavor_text": "Our contract is sealed.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_096.png"
+    },
+    {
+        "name": "Dragon Install",
+        "code": "GGST/SX06-097",
+        "rarity": "R",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 of your characters with \"Ky\" in its card name, and that character gets +3000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "Dragon Install!!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_097.png"
+    },
+    {
+        "name": "No Answer",
+        "code": "GGST/SX06-098",
+        "rarity": "U",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "Choose 1 face up card in your level, return it to your hand, put this card into your level, choose 1 of your 《Guilty Gear》 characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 Experience [(4) Put 1 card from your hand into your waiting room & Put this card from face up to face down] If this card is in your level, when your character is attacked, you may pay the cost. If you do, choose 1 of your opponent's characters, that character gets -3 soul until end of turn, and draw up to 1 card. If you drew 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Ariels \"Have you found your path?\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_098.png"
+    },
+    {
+        "name": "Overdrive: Ride the Lightning",
+        "code": "GGST/SX06-099",
+        "rarity": "CR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Resound!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_099.png"
+    },
+    {
+        "name": "G-Canceler Field",
+        "code": "GGST/SX06-100",
+        "rarity": "CC",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "April \"Output to full… Deploying G-Canceler Field...\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_100.png"
+    },
+    {
+        "name": "SD May & Faust",
+        "code": "GGST/SX06-101",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Pirate"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each marker underneath this card.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Guilty Gear》 characters you have ×500.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_101.png"
+    },
+    {
+        "name": "SD Anji & Chipp",
+        "code": "GGST/SX06-102",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each climax in your waiting room.",
+            "【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not become a direct attack)"
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_102.png"
+    },
+    {
+        "name": "SD Nagoriyuki & Potemkin",
+        "code": "GGST/SX06-103",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Guilty Gear》 characters, this card gets +1500 power, and during this card's battle, you cannot receive damage by the 【AUTO】 effects of your opponent's characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, all of your characters get +3000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_103.png"
+    },
+    {
+        "name": "SD Giovanna & Goldlewis",
+        "code": "GGST/SX06-104",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Spirit"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REST】 from 【STAND】, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, choose up to 2 of your other 《Guilty Gear》 characters, and they get \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" until end of turn.",
+            "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【STAND】 from 【REST】, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_104.png"
+    },
+    {
+        "name": "SD Millia & Zato=1",
+        "code": "GGST/SX06-105",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of their deck in the original order.",
+            "【ACT】 [(1)] Choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_105.png"
+    },
+    {
+        "name": "SD Ramlethal & Baiken",
+        "code": "GGST/SX06-106",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_106.png"
+    },
+    {
+        "name": "SD Sol, Jack-O' & Axl",
+        "code": "GGST/SX06-107",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 of your opponent's characters, move it to another open position of your opponent's stage, and this card gets +1000 power until end of turn.",
+            "【AUTO】 When this card is frontal attacked, reveal the top card of your deck. If that card is a climax, return all of your characters in your center stage to your hand. (Return the revealed card to its original place)",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1 level and +1000 power until end of turn. This card cannot 【STAND】 during your next stand phase."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "107",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_107.png"
+    },
+    {
+        "name": "SD I-No & Happy Chaos",
+        "code": "GGST/SX06-108",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《Guilty Gear》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 [(2) Put 2 cards from your hand into your waiting room & 【REST】 this card] At the beginning of your attack phase, if this card is in your center stage, you may pay the cost. If you do, deal 2 damage to your opponent 2 times, and put up to 1 card from the top of your clock into your waiting room. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "108",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_108.png"
+    },
+    {
+        "name": "SD Ky & Leo",
+        "code": "GGST/SX06-109",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Guilty Gear》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "109",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_109.png"
+    },
+    {
+        "name": "SD Testament",
+        "code": "GGST/SX06-110",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Gear"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck, and this card gets +X soul until end of turn. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 3 or less cards, you may put that character on top of your opponent's deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "110",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_110.png"
+    },
+    {
+        "name": "GUILTY GEAR -STRIVE-",
+        "code": "GGST/SX06-P01",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "-"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "P01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_P01.png"
+    },
+    {
+        "name": "Sol: Brash Warrior",
+        "code": "GGST/SX06-P03",
+        "rarity": "PR",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 If you do not have another 《Guilty Gear》 character, this card cannot 【STAND】 during your stand phase.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "P03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_P03.png"
+    },
+    {
+        "name": "I-No: Malicious Intent",
+        "code": "GGST/SX06-T01",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "I feel for you.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T01.png"
+    },
+    {
+        "name": "Sol: Left Behind",
+        "code": "GGST/SX06-T02",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Guilty Gear》 character in your waiting room, return it to your hand, choose 1 of your other 《Guilty Gear》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T02.png"
+    },
+    {
+        "name": "Anji & Chipp: Observing From Afar",
+        "code": "GGST/SX06-T03",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Fan"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Guilty Gear》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Guilty Gear》 characters, and that character gets +500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Chipp \"He's a true anomaly.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T03.png"
+    },
+    {
+        "name": "Jack-O' & Aria: Between Existences",
+        "code": "GGST/SX06-T04",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle or at the end of this card's attack, if you have 1 or less card in your memory, you may put this card into your memory.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Guilty Gear》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You don't have the courage to accept yourself, then.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T04.png"
+    },
+    {
+        "name": "Sol: Bounty Hunter",
+        "code": "GGST/SX06-T05",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Guilty Gear》 character in your back stage.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Overdrive: Dragon Install\" is in your climax area, and you have 2 or more other 《Guilty Gear》 characters, you may pay the cost. If you do, search your deck for up to 2 《Guilty Gear》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Then I don't need to hold back.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T05.png"
+    },
+    {
+        "name": "I-No: Staff Interview",
+        "code": "GGST/SX06-T06",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Not bad.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T06.png"
+    },
+    {
+        "name": "Axl: Something Amiss",
+        "code": "GGST/SX06-T07",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Time"
+        ],
+        "ability": [
+            "【CONT】 This card gets +3000 power for each other 《Guilty Gear》 character in your back stage.",
+            "【AUTO】 Encore [Put 1 《Guilty Gear》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "...!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T07.png"
+    },
+    {
+        "name": "Jack-O': Bounty Hunter",
+        "code": "GGST/SX06-T08",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Guilty Gear》 characters get +1000 power.",
+            "【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Guilty Gear》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Um, I'm working with him.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T08.png"
+    },
+    {
+        "name": "Sol: Greatest Rival",
+        "code": "GGST/SX06-T09",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Bounty Hunter"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.",
+            "【AUTO】 [(2) Put 2 《Guilty Gear》 characters from your hand into your waiting room & Put 1 《Guilty Gear》 character or \"Birthday Memories\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "I told you, no holding back.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T09.png"
+    },
+    {
+        "name": "Birthday Memories",
+        "code": "GGST/SX06-T10",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If your memory has 1 or less cards, put this card into your memory.",
+            "Choose 1 of your characters with \"Sol\" in its card name, and that card gets +2500 power, +1 soul, and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Guilty Gear》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "And maybe, I can always remain by your side, then.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T10.png"
+    },
+    {
+        "name": "Overdrive: Dragon Install",
+        "code": "GGST/SX06-T11",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Dragon Install!!",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T11.png"
+    },
+    {
+        "name": "Dangerous Duo",
+        "code": "GGST/SX06-T12",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "Happy Chaos \"Good morning.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T12.png"
+    },
+    {
+        "name": "Happy Chaos: Gunslinger",
+        "code": "GGST/SX06-T13",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"I-No: Staff Interview\" get +2000 power.",
+            "【AUTO】 Bond/\"I-No: Staff Interview\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"I-No: Staff Interview\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "You've got quite the sharp senses, I see.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T13.png"
+    },
+    {
+        "name": "Ky: First King of Illyria",
+        "code": "GGST/SX06-T14",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Guilty Gear》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Ky. Our administration isn't very popular.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T14.png"
+    },
+    {
+        "name": "Asuka: Gear Maker",
+        "code": "GGST/SX06-T15",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Magic"
+        ],
+        "ability": [
+            "【CONT】 This card can be played from your hand without fulfilling color requirements.",
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《Guilty Gear》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)"
+        ],
+        "flavor_text": "This isn't how I imagined our reunion.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T15.png"
+    },
+    {
+        "name": "Daryl: Third King of Illyria",
+        "code": "GGST/SX06-T16",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Guilty Gear》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Let's make a deal.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T16.png"
+    },
+    {
+        "name": "Ky: Rapid Escalation",
+        "code": "GGST/SX06-T17",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, this card gets +X power until the end of your opponent's next turn. X is equal to the number of 《Guilty Gear》 characters you have ×500."
+        ],
+        "flavor_text": "Leo \"I-No.\"",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T17.png"
+    },
+    {
+        "name": "Ky: Greatest Rival",
+        "code": "GGST/SX06-T18",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Guilty Gear",
+            "Illyria"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Kingly Smile\" is in your climax area, look at up to 2 cards from the top of your opponent's deck, choose up to 1 card from among them, put it at the bottom of their deck, put the rest on top of their deck in any order, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "I'm going to give this my all. You ready?",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T18.png"
+    },
+    {
+        "name": "Kingly Smile",
+        "code": "GGST/SX06-T19",
+        "rarity": "TD",
+        "expansion": "Guilty Gear -Strive-",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Let's have a fine duel.",
+        "set": "GGST",
+        "release": "X06",
+        "sid": "T19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GGST/SX06_T19.png"
+    }
+]
