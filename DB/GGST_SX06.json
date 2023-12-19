@@ -2118,15 +2118,16 @@
         "power": "-",
         "soul": 0,
         "trigger": [
-            "SOUL"
+            "SOUL",
+            "STANDBY"
         ],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the [[standby.gif]] effect.",
-            "([[standby.gif]]: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it in any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "-",
         "set": "GGST",
@@ -2176,15 +2177,16 @@
         "power": "-",
         "soul": 0,
         "trigger": [
-            "SOUL"
+            "SOUL",
+            "STANDBY"
         ],
         "attributes": [
             "-",
             "-"
         ],
         "ability": [
-            "【AUTO】 When this card is placed on your climax area from your hand, perform the [[standby.gif]] effect.",
-            "([[standby.gif]]: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it in any position of your stage as 【REST】)"
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
         ],
         "flavor_text": "Forever Elysion Driver!!",
         "set": "GGST",
@@ -3281,7 +3283,7 @@
         "type": "Character",
         "color": "RED",
         "level": "2",
-        "cost": "0",
+        "cost": "1",
         "power": "5000",
         "soul": 1,
         "trigger": [
