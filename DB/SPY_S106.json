@@ -1,0 +1,3568 @@
+[
+    {
+        "name": "Telepath Girl, Anya",
+        "code": "SPY/S106-E001",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When your other character is placed on the stage by \"Change\", that character gets +1000 power until the end of the next turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Berlint》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E001.png"
+    },
+    {
+        "name": "Matching Keychain, Becky",
+        "code": "SPY/S106-E002",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your back stage, all of your other \"Telepath Girl, Anya\" get the following ability. \"【CONT】 All of your other 《Berlint》 characters get +1500 power.\"",
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+            "【ACT】 [Put 1 \"Matching Keychain, Becky\" from your hand into your waiting room & 【REST】 this card] Search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E002.png"
+    },
+    {
+        "name": "Matching Keychain, Anya",
+        "code": "SPY/S106-E003",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Together on an Outing\" is in your climax area, you may pay the cost. If you do, look at up to 3 cards from the top of your opponent's deck, choose up to 3 of those cards, put them on the top of their deck in any order, put the rest into their waiting room, and put up to 1 card from the top of your clock into your waiting room.",
+            "【AUTO】 Change At the beginning of your encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Lively Daughter, Anya\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E003.png"
+    },
+    {
+        "name": "Daughter of the Blackbell Family, Becky Blackbell",
+        "code": "SPY/S106-E004",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 Assist During your opponent's turn, all of your 《Berlint》 characters in front of this card get +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Berlint》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage."
+        ],
+        "flavor_text": "Maybe I'll try out his wife's look.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E004.png"
+    },
+    {
+        "name": "Good Mood, Anya",
+        "code": "SPY/S106-E005",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Killer Punch Trained by a Mother\" in your waiting room, and return it to your hand.",
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm a grown-up?",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E005.png"
+    },
+    {
+        "name": "Shocked, Anya",
+        "code": "SPY/S106-E006",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 At the beginning of your encore step, if \"Tearful Apology\" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 [Put this card into your waiting room] When your other 《Berlint》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】."
+        ],
+        "flavor_text": "I'm… um…",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E006.png"
+    },
+    {
+        "name": "First Stella, Anya",
+        "code": "SPY/S106-E007",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Berlint》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Berlint》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E007.png"
+    },
+    {
+        "name": "Student of Eden College, Anya Forger",
+        "code": "SPY/S106-E008",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 This card cannot side attack.",
+            "【CONT】 During your turn, if you have another 《Berlint》 character, this card gets +3000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Berlint》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E008.png"
+    },
+    {
+        "name": "Classmates, Anya & Damian",
+        "code": "SPY/S106-E009",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E009.png"
+    },
+    {
+        "name": "Confident, Anya",
+        "code": "SPY/S106-E010",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 [Put 1《Berlint》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Stella Obtained\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Yes. Anya didn't get a single Tonitrus Bolt!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E010.png"
+    },
+    {
+        "name": "Second Son of the Desmond Family, Damian Desmond",
+        "code": "SPY/S106-E011",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E011.png"
+    },
+    {
+        "name": "Training Request, Anya",
+        "code": "SPY/S106-E012",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, reveal the top card of your deck. If that card is a 《Berlint》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Mama! Teach me a killer move!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E012.png"
+    },
+    {
+        "name": "Frustrated Damian",
+        "code": "SPY/S106-E013",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Berlint》 character, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When \"Tearful Apology\" is placed on your climax area, if this card is in your center stage, and you have another \"Shocked, Anya\", reveal the top 2 cards of your deck, your opponent chooses 1 character or event from among them, you put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "H-How dare she smirk at me like she's mocking me?!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E013.png"
+    },
+    {
+        "name": "Slightly Mature Young Lady, Becky",
+        "code": "SPY/S106-E014",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other 《Berlint》 characters, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Sudden Heart-Throbbing\" is in your climax area, and all of your characters are 《Berlint》, look at up to 4 cards from the top of your deck, choose up to 1 event or yellow character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Butler: \"Have a wonderful day, Miss Becky.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E014.png"
+    },
+    {
+        "name": "Confirmed for Supplementary Classes, Anya",
+        "code": "SPY/S106-E015",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Henry: \"You will have a supplementary lesson after school.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E015.png"
+    },
+    {
+        "name": "Housemaster, Henry Henderson",
+        "code": "SPY/S106-E016",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, draw 1 card.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Berlint》 characters, and that character gets +2000 power and 《Elegant》 until end of turn."
+        ],
+        "flavor_text": "Elegance creates tradition. Elegance is what\ntruly makes this world a paradise.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E016.png"
+    },
+    {
+        "name": "Classmate, Damian",
+        "code": "SPY/S106-E017",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "Don't get a big head.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E017.png"
+    },
+    {
+        "name": "Rolling Sweep!! Damian",
+        "code": "SPY/S106-E018",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Berlint》 character, this card gets +4000 power until end of turn.",
+            "【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E018.png"
+    },
+    {
+        "name": "Proud, Anya",
+        "code": "SPY/S106-E019",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Berlint》 characters, and that character gets +X power until the end of turn. X is equal to the number of other 《Berlint》 characters you have ×500."
+        ],
+        "flavor_text": "No problem. I've been studying hard lately.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E019.png"
+    },
+    {
+        "name": "Student of Eden College, Damian",
+        "code": "SPY/S106-E020",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Eden College"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more other 《Berlint》 characters, this card gets +6000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E020.png"
+    },
+    {
+        "name": "Running Anya",
+        "code": "SPY/S106-E021",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power and +2 soul until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E021.png"
+    },
+    {
+        "name": "Killer Punch Trained by a Mother",
+        "code": "SPY/S106-E022",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you do not have a 《Berlint》 character, this card cannot be played from your hand. Put this card into your memory.",
+            "Choose up to 2 of your characters, and those characters get the following ability until end of turn. \"【CONT】 This card's soul does not decrease by side attacking.\"",
+            "【CONT】 Memory If this card is in your memory, all of your characters with \"Change\" get +1000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【AUTO】 Memory If this card is in your memory, at the beginning of your opponent's encore step, put this card into your waiting room."
+        ],
+        "flavor_text": "Loid: \"What are you doing?\"\nYor: \"Preparing her to go to school!\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E022.png"
+    },
+    {
+        "name": "Stella Obtained",
+        "code": "SPY/S106-E023",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you have 3 or less 《Berlint》 characters, this card cannot be played from your hand.",
+            "You may choose 1 of your \"Confident, Anya\" and put it into your waiting room. If you do, choose 1 character with \"Anya(アーニャ)\" in its card name in your waiting room and put it in any position of your stage."
+        ],
+        "flavor_text": "First-year student from the Cecile Dorm,\nAnya Forger, has earned a Stella for rescuing a boy.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E023.png"
+    },
+    {
+        "name": "Good Friends",
+        "code": "SPY/S106-E024",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "3",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【COUNTER】 If you have 5 or more 《Berlint》 characters, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\"",
+            "Choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E024.png"
+    },
+    {
+        "name": "Together on an Outing",
+        "code": "SPY/S106-E025",
+        "rarity": "CR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E025.png"
+    },
+    {
+        "name": "Tearful Apology",
+        "code": "SPY/S106-E026",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "I'm r-really sorry......\nthat I suddenly hit you yesterday!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E026.png"
+    },
+    {
+        "name": "Sudden Heart-Throbbing",
+        "code": "SPY/S106-E027",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Who in the world is this unbelievably hot guy?!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E027.png"
+    },
+    {
+        "name": "Kind Smile, Loid",
+        "code": "SPY/S106-E028",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Berlint》 character, this card gets +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, perform the following action 2 times. \"You may place the top card of your deck into the waiting room.\"",
+            "【AUTO】 [(1) Put this card into your waiting room] When your other 《Berlint》 character is frontal attacked, you may pay the cost. If you do, return that character into your hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E028.png"
+    },
+    {
+        "name": "Smiling, Yor",
+        "code": "SPY/S106-E029",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, this card gets +2500 power and the following ability until end of turn. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Vows Alongside an Explosion\" is in your climax area, you may choose 1 character in your waiting room, and return it into your hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E029.png"
+    },
+    {
+        "name": "Family Full of Secrets, Loid & Anya & Yor",
+        "code": "SPY/S106-E030",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into the waiting room, choose 1 of the following effects, and perform it. \"If you have 4 or more other 《Berlint》 characters, you may put the top card of your deck into your stock.\" \"[(1) Put 1 《Berlint》 character from your hand into the waiting room] You may pay the cost. If you do, put the top card of your clock into your waiting room.\" \"This card gets +3000 power until end of turn.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E030.png"
+    },
+    {
+        "name": "On an Outing, Yor",
+        "code": "SPY/S106-E031",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "Loid... His exhaustion must be making him so thirsty.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E031.png"
+    },
+    {
+        "name": "Bond Forger",
+        "code": "SPY/S106-E032",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 If this card is in your back stage, all your other \"Telepath Girl, Anya\" get the following ability. \"【CONT】 All your other 《Berlint》 characters get +1500 power.\"",
+            "【ACT】 [【REST】 this card] If you have another \"Telepath Girl, Anya\", look at the top card of your opponent's deck, and put it on the top of their deck or into their waiting room."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E032.png"
+    },
+    {
+        "name": "Smiling Anya",
+        "code": "SPY/S106-E033",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Berlint》, this card gets +4000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"In the Midst of Dancing Petals\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 2 《Berlint》 characters from among them, reveal them to your opponent, choose 1 card from the revealed cards, put it into your hand, choose 1 card from the revealed cards, put it into your stock, and put the rest into your waiting room."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E033.png"
+    },
+    {
+        "name": "Perfect Father, Loid",
+        "code": "SPY/S106-E034",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by \"Change\", you may put the top card of your clock into your waiting room.",
+            "【AUTO】 Change At the beginning of your opponent's encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Agent 〈Twilight〉\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E034.png"
+    },
+    {
+        "name": "Lively Daughter, Anya",
+        "code": "SPY/S106-E035",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or by \"Change\", look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Berlint》 characters you have.",
+            "【AUTO】 Change At the beginning of your opponent's encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Matching Keychain, Anya\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E035.png"
+    },
+    {
+        "name": "Kind-Hearted Mother, Yor",
+        "code": "SPY/S106-E036",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or by \"Change\", you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【AUTO】 Change At the beginning of your opponent's encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"〈Thorn Princess〉, Yor\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E036.png"
+    },
+    {
+        "name": "Father and Daughter, Loid & Anya",
+        "code": "SPY/S106-E037",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 When this card direct attacks, this card gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Loid: \"I just don't understand this irrational behavior.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E037.png"
+    },
+    {
+        "name": "In Casual Clothes, Yor",
+        "code": "SPY/S106-E038",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot become 【REVERSE】 by the 【AUTO】 effects of your opponent's characters.\"",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Fank you for waiting…",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E038.png"
+    },
+    {
+        "name": "To the Interview! Loid",
+        "code": "SPY/S106-E039",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+            "【AUTO】 When your other 《Berlint》 character attacks, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "The time has come.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E039.png"
+    },
+    {
+        "name": "Splendid Landing, Bond",
+        "code": "SPY/S106-E040",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Telepath Girl, Anya\" get the following ability. \"【CONT】 All of your other 《Berlint》 characters get +500 power.\"",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E040.png"
+    },
+    {
+        "name": "Mother-Daughter Tie, Anya & Yor",
+        "code": "SPY/S106-E041",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost up to 2 times. Perform the following action X times. \"Put the top card of your deck into your waiting room. If that card is a 《Berlint》 character, return it to your hand.\" X is equal to the number of times you paid the cost for this ability.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "You're amazing, Miss Anya! Truly amazing!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E041.png"
+    },
+    {
+        "name": "Like a Princess, Anya",
+        "code": "SPY/S106-E042",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Berlint》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《Berlint》 character, reveal the top card of your deck. If that card is a level 2 or higher character, put it into your hand. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E042.png"
+    },
+    {
+        "name": "Excited Feeling, Anya",
+        "code": "SPY/S106-E043",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Berlint》 characters, this card gets +4000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if you have another 《Berlint》 character, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, and shuffles their deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E043.png"
+    },
+    {
+        "name": "Precious Family, Anya & Bond",
+        "code": "SPY/S106-E044",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Berlint》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Berlint》 characters, you may choose 1 《Berlint》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, return this card to your hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E044.png"
+    },
+    {
+        "name": "Yor's Unique Home Cooking",
+        "code": "SPY/S106-E045",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 All your other 《Berlint》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 At the beginning of your encore step, put this card into your waiting room.\" If the character chosen by this card's effect has \"Yuri(ユーリ)\" in its card name, that character gets +2000 power until end of turn.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Berlint》 characters, and that character gets +500 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "Oh, right! I actually made one more dish,\nif you'd like to try it!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E045.png"
+    },
+    {
+        "name": "〈Twilight〉 Disguised as Loid",
+        "code": "SPY/S106-E046",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your other \"Slight Smile, Yor\" is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 Bond/\"Slight Smile, Yor\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Slight Smile, Yor\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E046.png"
+    },
+    {
+        "name": "Congratulations on Admission! Anya",
+        "code": "SPY/S106-E047",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Berlint》 character from your waiting room, and return it to your hand.",
+            "【AUTO】 【CXCOMBO】 When \"Family Celebration\" is placed on your climax area, if you have 2 or more other 《Berlint》 characters, put the top 3 cards of your deck into your waiting room, choose up to 1 level X or lower 《Berlint》 character from your waiting room, and return it to your hand. X is equal to the number of 《Berlint》 characters put into your waiting room by this effect."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E047.png"
+    },
+    {
+        "name": "Lonely? Anya",
+        "code": "SPY/S106-E048",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Moment of Acceptance\" from your waiting room, and return it to your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Berlint》 characters, and return it to your hand."
+        ],
+        "flavor_text": "Ah, I am oh so lonely because I do not have a mama.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E048.png"
+    },
+    {
+        "name": "Anya in a Coat",
+        "code": "SPY/S106-E049",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Berlint》 characters among those cards ×1000.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Berlint》 character from your waiting room, return it to your hand, choose 1 of your other 《Berlint》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E049.png"
+    },
+    {
+        "name": "Slight Smile, Yor",
+        "code": "SPY/S106-E050",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E050.png"
+    },
+    {
+        "name": "Strange Girl, Anya",
+        "code": "SPY/S106-E051",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Berlint》 characters.",
+            "【AUTO】 When this card attacks, if the level of the character facing this card is 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E051.png"
+    },
+    {
+        "name": "Incident at the Bar, Loid & Yor",
+        "code": "SPY/S106-E052",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2000 power for each marker underneath this card.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another \"Answer He Came Up With, Loid\", you may put the top card of your deck face up underneath this card as a marker.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+        ],
+        "flavor_text": "Loid: \"But I want you to have faith in me.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E052.png"
+    },
+    {
+        "name": "Answer He Came Up With, Loid",
+        "code": "SPY/S106-E053",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Berlint》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn."
+        ],
+        "flavor_text": "Wait, does Yor have romantic feelings for me?!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E053.png"
+    },
+    {
+        "name": "Moment of Acceptance",
+        "code": "SPY/S106-E054",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "5",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose up to 1 \"Matching Keychain, Anya\", up to 1 \"〈Thorn Princess〉, Yor\" and up to 1 \"Agent 〈Twilight〉\" in your hand, put them on separate positions of your stage, and put this card into your memory.",
+            "【CONT】 【CXCOMBO】 Memory If this card is in your memory, during the turn this card was put into your memory, the card name of \"Family Full of Secrets\" in your climax area will also be regarded as \"Together on an Outing\" and \"Wife of The Forgers\" and \"Accomplishing Missions in Style\"."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E054.png"
+    },
+    {
+        "name": "Vows Alongside an Explosion",
+        "code": "SPY/S106-E055",
+        "rarity": "CR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Loid: \"Even in sickness, or in sadness…\nNo matter what hardships await us,\nlet us be there for one another.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E055.png"
+    },
+    {
+        "name": "In the Midst of Dancing Petals",
+        "code": "SPY/S106-E056",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E056.png"
+    },
+    {
+        "name": "Family Celebration",
+        "code": "SPY/S106-E057",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Loid: \"To our family's bright future!\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E057.png"
+    },
+    {
+        "name": "Extremely Skilled Assassin, Yor",
+        "code": "SPY/S106-E058",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a \"Work Call\" or 《Berlint》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E058.png"
+    },
+    {
+        "name": "〈Thorn Princess〉, Yor",
+        "code": "SPY/S106-E059",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Wife of The Forgers\" is in your climax area, and you have 2 or more other 《Berlint》 characters, you may pay the cost. If you do, deal 4 damage to your opponent, and this card gets +4000 power until end of turn. (Damage may be canceled)",
+            "【AUTO】 Change At the beginning of your encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Kind-Hearted Mother, Yor\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E059.png"
+    },
+    {
+        "name": "Assassin From Garden, Yor Forger",
+        "code": "SPY/S106-E060",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E060.png"
+    },
+    {
+        "name": "Second Lieutenant in the State Security Service, Yuri Briar",
+        "code": "SPY/S106-E061",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "State Security Service"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.",
+            "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E061.png"
+    },
+    {
+        "name": "Black Dress, Yor",
+        "code": "SPY/S106-E062",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 At the end of this card's attack, if \"Killing Time\" is in your climax area, and there is no character facing this card or the character facing this card is 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 \"Work Call\" or 《Berlint》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E062.png"
+    },
+    {
+        "name": "Lying on Petals, Yor",
+        "code": "SPY/S106-E063",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [(2) Put 1 climax with in its trigger icon from your hand into your waiting room & 【REST】 this card] Choose up to 1 \"Assassination Technique User, Yor\" in your hand, and put it in any position of your stage.\"",
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E063.png"
+    },
+    {
+        "name": "Assassination Technique User, Yor",
+        "code": "SPY/S106-E064",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Berlint》 character, deal X damage to your opponent. X is equal to the level of the revealed character. (Damage may be canceled. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E064.png"
+    },
+    {
+        "name": "Job Completed, Yor",
+        "code": "SPY/S106-E065",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When your character's trigger check reveals a climax, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "It's not coming off.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E065.png"
+    },
+    {
+        "name": "Lit by Moonlight, Yor",
+        "code": "SPY/S106-E066",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【ACT】 [Put 2 cards from your hand into your waiting room & Put this card at the bottom of your deck] Choose 1 《Berlint》 character with level equal to or lower than your level in your waiting room, and put it in the stage position that this card was in."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E066.png"
+    },
+    {
+        "name": "Shocking Truth, Yuri",
+        "code": "SPY/S106-E067",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "State Security Service"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "My sister got married?",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E067.png"
+    },
+    {
+        "name": "Job for the 〈Thorn Princess〉, Yor",
+        "code": "SPY/S106-E068",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Berlint》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "At first, I started this job so that I could take care\nof my brother, but now, I'm very proud of it.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E068.png"
+    },
+    {
+        "name": "In Battle, Yor",
+        "code": "SPY/S106-E069",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\"",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E069.png"
+    },
+    {
+        "name": "In Her Delusions, Yor",
+        "code": "SPY/S106-E070",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E070.png"
+    },
+    {
+        "name": "Unreasonable Request, Yuri",
+        "code": "SPY/S106-E071",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "State Security Service"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your characters with \"Yor(ヨル)\" in its card name, and return it to your hand.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Kiss right here and now.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E071.png"
+    },
+    {
+        "name": "Serious Gaze, Yor",
+        "code": "SPY/S106-E072",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +10000 power."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E072.png"
+    },
+    {
+        "name": "View of the City Sunrise, Yor",
+        "code": "SPY/S106-E073",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Berlint》, this card gets +2500 power and \"【AUTO】 Encore [Put 1 《Berlint》 character from your hand into your waiting room]\".",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"〈Thorn Princess〉\" is in your climax area, you may put the top card of your deck into your waiting room. If that card is a 《Berlint》 character, choose 1 character with a level equal to or lower than your level +1 in your waiting room, and put it in any position of your stage as 【REST】."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E073.png"
+    },
+    {
+        "name": "Sharp Stare, Yuri",
+        "code": "SPY/S106-E074",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "State Security Service"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Lying on Petals, Yor\", this card gets +2000 power for each of your other 《Berlint》 characters in the back stage.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, and put up to 1 card from the top of your deck into your stock."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E074.png"
+    },
+    {
+        "name": "Work Call",
+        "code": "SPY/S106-E075",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you have 2 or less 《Berlint》 characters, this card cannot be played from your hand.",
+            "Choose up to 1 \"〈Thorn Princess〉, Yor\" from your hand, and put it in any position of your stage."
+        ],
+        "flavor_text": "Yuri, you've got the wrong idea!\nI was just joking earlier--",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E075.png"
+    },
+    {
+        "name": "Wife of The Forgers",
+        "code": "SPY/S106-E076",
+        "rarity": "CR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E076.png"
+    },
+    {
+        "name": "Killing Time",
+        "code": "SPY/S106-E077",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E077.png"
+    },
+    {
+        "name": "〈Thorn Princess〉",
+        "code": "SPY/S106-E078",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E078.png"
+    },
+    {
+        "name": "〈Nightfall〉, Fiona Frost",
+        "code": "SPY/S106-E079",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Silent Passion in Her Heart\" is in your climax area, and you have another 《Berlint》 character, look at up to 3 cards from the top of your deck, choose up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and put the rest in any order on the top of your deck.",
+            "【AUTO】 Change At the beginning of your encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Hospital Staff, Fiona\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E079.png"
+    },
+    {
+        "name": "Agent 〈Twilight〉",
+        "code": "SPY/S106-E080",
+        "rarity": "RR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】【CXCOMBO】 [(2)] When this card attacks, if \"Accomplishing Missions in Style\" is in your climax area, and your hand has 6 or less cards, you may pay the cost. If you do, deal 3 damage to your opponent. If this damage is canceled, you may deal 1 damage to your opponent. (Damage may be canceled)",
+            "【AUTO】 Change At the beginning of your encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"Perfect Father, Loid\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E080.png"
+    },
+    {
+        "name": "Handler, Sylvia Sherwood",
+        "code": "SPY/S106-E081",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Berlint》 characters, and that character gets +X power until end of turn. X is equal to the number of other《Berlint》 characters you have ×500."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E081.png"
+    },
+    {
+        "name": "Hospital Staff, Fiona",
+        "code": "SPY/S106-E082",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other《Berlint》 characters, during your turn, this card gets +4000 power, and during your opponent's turn, this card gets +6000 power.",
+            "【AUTO】 At the end of this card's battle opponent's attack, look at up to 3 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 Change At the beginning of your opponent's encore step, if this card is 【REST】, you may choose 1 marker underneath this card or 1 \"〈Nightfall〉, Fiona Frost\" in your waiting room, and put it in the stage position that this card is on as 【REST】. If you do, put this card face up underneath that character as a marker."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E082.png"
+    },
+    {
+        "name": "Meeting with the Target, Loid Forger",
+        "code": "SPY/S106-E083",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Berlint》 characters, and that character gets +1000 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" until the end of your opponent's next turn."
+        ],
+        "flavor_text": "I'm Loid Forger.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E083.png"
+    },
+    {
+        "name": "Brilliant Spy From 〈WISE〉, 〈Twilight〉",
+        "code": "SPY/S106-E084",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"For the Sake of a Better World\" is in your climax area, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return it into your hand.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E084.png"
+    },
+    {
+        "name": "Stylish Agent, 〈Twilight〉",
+        "code": "SPY/S106-E085",
+        "rarity": "R",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into their memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E085.png"
+    },
+    {
+        "name": "Bullet Signifying the End, 〈Twilight〉",
+        "code": "SPY/S106-E086",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Berlint》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Berlint》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Your plan is finished.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E086.png"
+    },
+    {
+        "name": "Unexpected Return Home, Fiona",
+        "code": "SPY/S106-E087",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 event or character with \"Loid(ロイド)\", \"〈Twilight〉(〈昏〉)\" or \"Fiona(フィオナ)\" in its card name from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Berlint》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "He returned sooner than I expected.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E087.png"
+    },
+    {
+        "name": "Underground Tennis Tournament, Loid",
+        "code": "SPY/S106-E088",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if you have another \"After the Mission, Fiona\", you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Berlint》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "We'll correct our trajectory calculations and strike back.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E088.png"
+    },
+    {
+        "name": "Informant, Franky Franklin",
+        "code": "SPY/S106-E089",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Informant"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Berlint》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I copied all the files of unmarried women from city hall.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E089.png"
+    },
+    {
+        "name": "Sudden Visit, Fiona",
+        "code": "SPY/S106-E090",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Berlint》 characters, you may choose 1 《Berlint》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Berlint》 characters, this card gets +4000 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E090.png"
+    },
+    {
+        "name": "Fullmetal Lady, Sylvia",
+        "code": "SPY/S106-E091",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card is placed on your stage from your hand or put into your waiting room from your stage, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 1 《Berlint》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 [Put the top card of your stock into your waiting room OR Put the top card of your deck into your clock] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E091.png"
+    },
+    {
+        "name": "Next Mission, 〈Twilight〉",
+        "code": "SPY/S106-E092",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When your other character with \"Change\" is placed on the stage from your hand, that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E092.png"
+    },
+    {
+        "name": "Next Move, 〈Twilight〉",
+        "code": "SPY/S106-E093",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, look at up to 4 cards from the top of your deck, choose up to 1 《Berlint》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Let's head to the minister's location.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E093.png"
+    },
+    {
+        "name": "On a Mission, 〈Twilight〉",
+        "code": "SPY/S106-E094",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E094.png"
+    },
+    {
+        "name": "After the Mission, Fiona",
+        "code": "SPY/S106-E095",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another \"Underground Tennis Tournament, Loid\", this card gets +2000 power.",
+            "【CONT】 All of your other \"Underground Tennis Tournament, Loid\" get +2000 power and the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "I'll drop you off at your house.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E095.png"
+    },
+    {
+        "name": "Muzzle Illuminated in the Dark, 〈Twilight〉",
+        "code": "SPY/S106-E096",
+        "rarity": "C",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Berlint》 characters, you may choose 1 《Berlint》 character in your waiting room, and put it into your stock.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E096.png"
+    },
+    {
+        "name": "Front Line of the Cold War",
+        "code": "SPY/S106-E097",
+        "rarity": "U",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "[【REST】 1 of your 《Berlint》 characters] If your memory has 2 or less cards, you may pay the cost. If you do, put this card into your memory.",
+            "【AUTO】 Memory If this card is in your memory, at the beginning of your main phase, this card gets the following ability until end of turn. \"【ACT】 Memory [Put this card from your memory into your waiting room] Choose up to 1 \"Agent 〈Twilight〉\" in your waiting room, and put it in any position of your stage.\""
+        ],
+        "flavor_text": "I will have to find that out in this conversation.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E097.png"
+    },
+    {
+        "name": "Accomplishing Missions in Style",
+        "code": "SPY/S106-E098",
+        "rarity": "CR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E098.png"
+    },
+    {
+        "name": "Silent Passion in Her Heart",
+        "code": "SPY/S106-E099",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E099.png"
+    },
+    {
+        "name": "For the Sake of a Better World",
+        "code": "SPY/S106-E100",
+        "rarity": "CC",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E100.png"
+    },
+    {
+        "name": "Smirk, Anya",
+        "code": "SPY/S106-E101",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your opponent's deck, and look at the bottom card of your opponent's deck. (Return the cards you saw to its original place)",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Berlint》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Smirk.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E101.png"
+    },
+    {
+        "name": "Morning Moment, Yor",
+        "code": "SPY/S106-E102",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, choose up to 1 character in your opponent's center stage, and that character gets -3000 power until end of turn.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E102.png"
+    },
+    {
+        "name": "Serious Expression, Anya",
+        "code": "SPY/S106-E103",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters with \"Loid(ロイド)\" or \"〈Twilight〉(〈昏〉)\" in its card name, and that character gets +1000 power until end of turn.",
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your characters with \"Yor(ヨル)\" in its card name, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "If I can disarm this, I can save Papa!",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E103.png"
+    },
+    {
+        "name": "Standing Up, Loid",
+        "code": "SPY/S106-E104",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【ACT】 [Put 1 climax from your hand into your waiting room & 【REST】 2 of your 《Berlint》 characters] Search your deck for up to 1 character with \"Change\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E104.png"
+    },
+    {
+        "name": "Kicking Up, Yor",
+        "code": "SPY/S106-E105",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《Berlint》 character, you may choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E105.png"
+    },
+    {
+        "name": "On the Phone With Allies, Loid",
+        "code": "SPY/S106-E106",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Berlint》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_E106.png"
+    },
+    {
+        "name": "Together With Penguin, Anya",
+        "code": "SPY/S106-PE01",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Berlint》 characters get +500 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "PE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_PE01.png"
+    },
+    {
+        "name": "Family Full of Secrets, Loid & Anya & Yor",
+        "code": "SPY/S106-PE02",
+        "rarity": "PR",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into your waiting room, choose 1 of the following effects, and perform it. \"If you have 4 or more other 《Berlint》 characters, you may put the top card of your deck into your stock.\" \"[(1) Put 1《Berlint》 character from your hand into your waiting room] You may pay the cost. If you do, put the top card of your clock into your waiting room.\" \"This card gets +3000 power until end of turn.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "PE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_PE02.png"
+    },
+    {
+        "name": "Happy Bond",
+        "code": "SPY/S106-TE01",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Promise, Anya\" get +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+            "【AUTO】 Bond/\"Promise, Anya\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Promise, Anya\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Loid: \"I thank you for saving my daughter.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE01.png"
+    },
+    {
+        "name": "In the Toilet, Bond",
+        "code": "SPY/S106-TE02",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Berlint》 characters get +500 power.",
+            "【AUTO】 When this card or your other 《Berlint》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)"
+        ],
+        "flavor_text": "Anya: \"He had to poo.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE02.png"
+    },
+    {
+        "name": "Sitting, Anya",
+        "code": "SPY/S106-TE03",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Loid: \"Anya!\"\nAnya: \"Papa!\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE03.png"
+    },
+    {
+        "name": "Okey-Dokey, Anya",
+        "code": "SPY/S106-TE04",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Berlint》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Okey-dokey",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE04.png"
+    },
+    {
+        "name": "Telepath, Anya",
+        "code": "SPY/S106-TE05",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Berlint》 characters, this card gets +1000 power.",
+            "【AUTO】 【CXCOMBO】 At the beginning of your encore step, if \"Fun Times\" is in your climax area, this card is in your center stage, you have 2 or more other 《Berlint》 characters, and there is no character facing this card or the character facing this card is 【REVERSE】, search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE05.png"
+    },
+    {
+        "name": "Promise, Anya",
+        "code": "SPY/S106-TE06",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Sylvia: \"So make sure you take really good care\nof this pup here, all right? Let's promise each other.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE06.png"
+    },
+    {
+        "name": "Nerve-Racking Interview, Anya",
+        "code": "SPY/S106-TE07",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Psychic Ability"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Berlint》 characters, this card gets +2500 power and gets \"【AUTO】 Encore [Put 1 《Berlint》 character from your hand into your waiting room]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent's characters, and return it to their hand."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE07.png"
+    },
+    {
+        "name": "Operation Strix",
+        "code": "SPY/S106-TE08",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Put 4 cards from the top of your deck into your waiting room, choose up to 1 level X or lower 《Berlint》 character in your waiting room, and return it to your hand. X is equal to the total number of in the trigger icons of those cards."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE08.png"
+    },
+    {
+        "name": "Fun Times",
+        "code": "SPY/S106-TE09",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE09.png"
+    },
+    {
+        "name": "Seeking a Daughter, 〈Twilight〉",
+        "code": "SPY/S106-TE10",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【ACT】 [(1)] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them in your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE10.png"
+    },
+    {
+        "name": "Full of Motivation, Yor",
+        "code": "SPY/S106-TE11",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Berlint》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Berlint》 characters you have ×500."
+        ],
+        "flavor_text": "I'll make dinner tonight.",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE11.png"
+    },
+    {
+        "name": "Assassin, Yor",
+        "code": "SPY/S106-TE12",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Berlint》, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Berlint》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE12.png"
+    },
+    {
+        "name": "Moment at Home, Loid",
+        "code": "SPY/S106-TE13",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Berlint》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE13.png"
+    },
+    {
+        "name": "Cool Agent, 〈Twilight〉",
+        "code": "SPY/S106-TE14",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Berlint》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE14.png"
+    },
+    {
+        "name": "Exchange Under Moonlight, Loid",
+        "code": "SPY/S106-TE15",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of their deck in the original order.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage."
+        ],
+        "flavor_text": "Anya: \"I'm gonna do my best in school!\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE15.png"
+    },
+    {
+        "name": "Entrance Examination, Yor",
+        "code": "SPY/S106-TE16",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Berlint》, you may put the top card of your deck into your stock.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE16.png"
+    },
+    {
+        "name": "For The Sake of Peace, Loid",
+        "code": "SPY/S106-TE17",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "WISE"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [【REST】 this card] Look at the top card of your deck, put it on the top of your deck or into your waiting room, and all of your other \"Fake Family, Loid & Anya & Yor\" get +1000 power and the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from their hand.\""
+        ],
+        "flavor_text": "Sylvia: \"Thank goodness today ended peacefully.\"",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE17.png"
+    },
+    {
+        "name": "Favor, Yor",
+        "code": "SPY/S106-TE18",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "Assassin"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Berlint》 characters you have ×1000.",
+            "【AUTO】 Encore [Put 1 《Berlint》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Please, Yuri. I'm counting on you. Okay?",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE18.png"
+    },
+    {
+        "name": "Fake Family, Loid & Anya & Yor",
+        "code": "SPY/S106-TE19",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Berlint",
+            "The Forgers"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Family Full of Secrets\" is in your climax area, and you have 2 or more other 《Berlint》 characters, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE19.png"
+    },
+    {
+        "name": "Family Full of Secrets",
+        "code": "SPY/S106-TE20",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE20.png"
+    },
+    {
+        "name": "Hero Who Saves the Princess",
+        "code": "SPY/S106-TE21",
+        "rarity": "TD",
+        "expansion": "SPY x FAMILY",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "",
+        "cost": "",
+        "power": "",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "",
+        "set": "SPY",
+        "release": "106",
+        "sid": "TE21",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SPYFAM/S106_TE21.png"
+    }
+]
