@@ -1,0 +1,480 @@
+[
+    {
+        "name": "Happy 15th Anniversary!! Takanashi Kiara",
+        "code": "HOL/WE45-TE01",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "holoEN -Myth-"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《hololive》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《hololive》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE01.png"
+    },
+    {
+        "name": "On Stage! Moona Hoshinova & Takanashi Kiara",
+        "code": "HOL/WE45-TE02",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "holoID 1st Gen ",
+            "holoEN -Myth-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your clock, and put the rest into your waiting room. If you put 1 card into your clock, choose 1 《hololive》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE02.png"
+    },
+    {
+        "name": "Prayer of Blessings, Takanashi Kiara",
+        "code": "HOL/WE45-TE03",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "holoEN -Myth-"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are 《hololive》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Result of the Race?\" is in your climax area, and you have another 《hololive》 character, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 \"Cherry Blossom\" or 《hololive》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE03.png"
+    },
+    {
+        "name": "Let's Weiß Schwarz!! Takanashi Kiara",
+        "code": "HOL/WE45-TE04",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "hololive",
+            "holoEN -Myth-"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of characters in your opponent's back stage ×1000."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE04.png"
+    },
+    {
+        "name": "Result of the Race?",
+        "code": "HOL/WE45-TE05",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE05.png"
+    },
+    {
+        "name": "On Stage! Hoshimachi Suisei & Sakura Miko",
+        "code": "HOL/WE45-TE06",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other characters, this card gets -1500 power.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE06.png"
+    },
+    {
+        "name": "Prayer of Blessings, Sakura Miko",
+        "code": "HOL/WE45-TE07",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+            "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE07.png"
+    },
+    {
+        "name": "Let's Weiß Schwarz!! Sakura Miko",
+        "code": "HOL/WE45-TE08",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《hololive》 characters, and that character gets +500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\""
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE08.png"
+    },
+    {
+        "name": "Happy 15th Anniversary!! Sakura Miko",
+        "code": "HOL/WE45-TE09",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "3500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 If you have 2 or more other 《hololive》 characters, this card gets +7000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《hololive》 characters you have."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE09.png"
+    },
+    {
+        "name": "Cherry Blossom",
+        "code": "HOL/WE45-TE10",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "If you do not have a 《hololive》 character, this card cannot be played from your hand.",
+            "Search your deck for up to 1 《hololive》 character, reveal it to your opponent, put it into your hand, shuffle your deck, and put this card into your memory.",
+            "【AUTO】 Memory [Put 1 climax from your hand into your waiting room] If this card is in your memory, at the beginning of your main phase, you may pay the cost. If you do, return this card to your hand."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE10.png"
+    },
+    {
+        "name": "Let's Weiß Schwarz!! Moona Hoshinova",
+        "code": "HOL/WE45-TE11",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "holoID 1st Gen"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, choose 1 of your 《hololive》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE11.png"
+    },
+    {
+        "name": "Prayer of Blessings, Hoshimachi Suisei",
+        "code": "HOL/WE45-TE12",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "0th Generation ",
+            "holoEN -Myth-"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\"",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE12.png"
+    },
+    {
+        "name": "Happy 15th Anniversary!! Hoshimachi Suisei",
+        "code": "HOL/WE45-TE13",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《hololive》 character in your waiting room, return it to your hand, choose 1 of your other 《hololive》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 When a climax is placed on your opponent's climax area, you may put this card into your stock."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE13.png"
+    },
+    {
+        "name": "Happy 15th Anniversary!! Moona Hoshinova",
+        "code": "HOL/WE45-TE14",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "hololive",
+            "holoID 1st Gen"
+        ],
+        "ability": [
+            "【CONT】 This card can be played from your hand without fulfilling color requirements.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 character in your waiting room, and return it to your hand.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn."
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE14.png"
+    },
+    {
+        "name": "Let's Weiß Schwarz!! Hoshimachi Suisei",
+        "code": "HOL/WE45-TE15",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "hololive",
+            "0th Generation"
+        ],
+        "ability": [
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of their deck.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE15.png"
+    },
+    {
+        "name": "Prayer of Blessings, Moona Hoshinova",
+        "code": "HOL/WE45-TE16",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "hololive",
+            "holoID 1st Gen"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"All-Out Goldfish Scooping!\" is in your climax area, and your hand has 5 or less cards, choose 1 of the following effects and perform it. \"Reveal the top card of your deck. If that card is \"Cherry Blossom\" or a 《hololive》 character, deal 4 damage to your opponent.\" \"[(1)] At the end of this card's attack, if the character facing this card is 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent.\" (Damage may be canceled. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE16.png"
+    },
+    {
+        "name": "All-Out Goldfish Scooping!",
+        "code": "HOL/WE45-TE17",
+        "rarity": "TD",
+        "expansion": "hololive production feat. Weiß Schwarz Ambassadors",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            "-",
+            "-"
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "―",
+        "set": "HOL",
+        "release": "E45",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/HOLAS/WE45_TE17.png"
+    }
+]
