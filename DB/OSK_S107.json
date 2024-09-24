@@ -1,0 +1,3518 @@
+[
+    {
+        "name": "\"B-KOMACHI\" Ruby",
+        "code": "OSK/S107-E001",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, reveal the top card of your deck. If that card is level 1 or higher, choose 1 of your 《Show Business》 characters, and that character gets +1000 power and +1 soul until end of turn. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E001.png"
+    },
+    {
+        "name": "Moment She Fell in Love, Kana Arima",
+        "code": "OSK/S107-E002",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Show Business》 character, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"I'll Go Sweet Today\" is in your climax area, if the total level of the cards in your level is 2 or higher, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Show Business》 character in your waiting room, and return it to your hand, if X is 2 or higher, you may choose 1 card in your hand and put it into your waiting room. If you put 1 card into your waiting room, choose 1 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E002.png"
+    },
+    {
+        "name": "\"B-KOMACHI\" MEMcho",
+        "code": "OSK/S107-E003",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【CONT】 If all of your characters are 《Show Business》, this card gets +1000 power.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is 3 or higher, choose 1 of the following effects and perform it. \"Look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your hand, and put the rest on the top of your deck in any order.\"\"[Put 1 card from your hand into your waiting room] You may pay the cost. If you do, choose 1 《Show Business》 character in your clock, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E003.png"
+    },
+    {
+        "name": "\"B-KOMACHI\" Kana Arima",
+        "code": "OSK/S107-E004",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Experience [(1)] When this card attacks, if \"Beyond That Gaze\" is in your climax area, and the total level of the cards in your level is 6 or higher, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, put the bottom 3 cards of your opponent's deck into their waiting room, and deal 2 damage to your opponent X times.. X is equal to the number of level 0 or lower cards among those cards.\" (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E004.png"
+    },
+    {
+        "name": "Casting Negotiation, Kana Arima",
+        "code": "OSK/S107-E005",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Yeah, you know it?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E005.png"
+    },
+    {
+        "name": "Aiming for the Idol She Admires, Ruby",
+        "code": "OSK/S107-E006",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax with in its trigger icon in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E006.png"
+    },
+    {
+        "name": "Newcomer Idol, Kana Arima",
+        "code": "OSK/S107-E007",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if your stock has 3 or less cards, this card gets +2000 power.",
+            "【AUTO】 At the beginning of your opponent's draw phase, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may return this card to your hand. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E007.png"
+    },
+    {
+        "name": "Once More Towards Her Dream, MEMcho",
+        "code": "OSK/S107-E008",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 level 0 or lower character in your opponent's center stage, and return it to their hand.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E008.png"
+    },
+    {
+        "name": "Lying About Her Age, MEMcho",
+        "code": "OSK/S107-E009",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 Experience If this card is in your level, this card gets +3 level.",
+            "【ACT】 [(1) Put 1 《Show Business》 character in your level into your waiting room & Put this card into your level] Look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Twenty-four... Was my age, until this spring.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E009.png"
+    },
+    {
+        "name": "Road to JIF, MEMcho",
+        "code": "OSK/S107-E010",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 You may choose 1 \"First Stage\" in your waiting room by the effect.",
+            "【CONT】 During your turn, all of your other 《Show Business》 characters get +1000 power.",
+            "【AUTO】 When a climax with in its trigger icon is placed on your climax area, all of your characters get +500 power until end of turn."
+        ],
+        "flavor_text": "Yeah, the producer I worked with on Love Now has a connection. If we're interested, he says he can squeeze us into the lineup.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E010.png"
+    },
+    {
+        "name": "Blinding White Light, Kana Arima",
+        "code": "OSK/S107-E011",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if your climax area has a climax with in its trigger icon, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, and this card gets +1000 power until end of turn.",
+            "【AUTO】 Experience When this card attacks, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +X power until end of turn. X is equal to the number of other 《Show Business》 characters you have ×500."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E011.png"
+    },
+    {
+        "name": "Cute Pose♪ MEMcho",
+        "code": "OSK/S107-E012",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E012.png"
+    },
+    {
+        "name": "Promo Vid Filming, Kana Arima",
+        "code": "OSK/S107-E013",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +1500 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E013.png"
+    },
+    {
+        "name": "Before the Performance, Ruby",
+        "code": "OSK/S107-E014",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\"",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "You're not scared, Senpai?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E014.png"
+    },
+    {
+        "name": "Dreaming Girl, MEMcho",
+        "code": "OSK/S107-E015",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Show Business》 characters get +1000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Topic Straight up Out of a Dream, MEMcho\", put it in any position of your stage, and shuffle your deck.",
+            "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+        ],
+        "flavor_text": "But, I had a single mother and two younger brothers.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E015.png"
+    },
+    {
+        "name": "Brawny Masked Trainer Slash Youtuber, Pieyon",
+        "code": "OSK/S107-E016a",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Muscle"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Brawny Masked Trainer Slash Youtuber, Pieyon\" get +3000 power.",
+            "【CONT】 All of your other 《Show Business》 characters get +500 power."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E016a",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E016a.png"
+    },
+    {
+        "name": "Topic Straight up Out of a Dream, MEMcho",
+        "code": "OSK/S107-E017",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Show Business》 characters.",
+            "【AUTO】 【CXCOMBO】 Experience When \"Fake Wings\" is placed on your climax area, if this card is in your center stage, and the total level of the cards in your level is 3 or higher, choose up to 1 《Show Business》 character in your waiting room, return it to your hand, and this card gets the following ability until end of turn.\"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, choose up to 2 《Show Business》 characters in your waiting room, and put them into your stock in any order.\""
+        ],
+        "flavor_text": "C'mon, quit joking like...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E017.png"
+    },
+    {
+        "name": "Battle for the Center, Ruby",
+        "code": "OSK/S107-E018",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"\"B-KOMACHI\" MEMcho\" get +1500 power and \"【AUTO】 Encore [Put 1 《Show Business》 character from your hand into your waiting room]\".",
+            "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets the following abilities. \"【AUTO】 When this card attacks, if the character facing this card is level 2 or higher, this card gets +6000 power until end of turn.\" \"【AUTO】 Encore [Put 1 《Show Business》 character from your hand into your waiting room]\""
+        ],
+        "flavor_text": "I-it's not like I'm champing at the bit... but if everyone really insists...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E018.png"
+    },
+    {
+        "name": "Shaken Heart of a Maiden, Kana Arima",
+        "code": "OSK/S107-E019",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, and return it to their hand. You may choose 1 card in your hand, and put it into your waiting room. If you do, choose 1 of your opponent's characters, and return it to their hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Show Business》 characters, you may choose 1 《Show Business》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "Aqua!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E019.png"
+    },
+    {
+        "name": "Pro at Going Viral, MEMcho",
+        "code": "OSK/S107-E020",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [【REST】 this card] When \"Going Viral\" is placed on your climax area, you may pay the cost. If you do, choose 1 《Show Business》 character in your waiting room, and put it into your stock."
+        ],
+        "flavor_text": "I've come this far through online marketing and self-promotion.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E020.png"
+    },
+    {
+        "name": "Karaoke, Ruby",
+        "code": "OSK/S107-E021",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players put the top card of their deck into their waiting room. If the level of the card put into your waiting room by this effect is higher than your opponent's, this card gets +3000 power until end of turn. (Climax are regarded as level 0)",
+            "【AUTO】 When damage dealt by this card is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "The joy of watching an unskilled girl gradually get better over time... That's what I plan to offer fans!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E021.png"
+    },
+    {
+        "name": "The Very First Time, Kana Arima",
+        "code": "OSK/S107-E022",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"First Stage\" or a 《Show Business》 character, this card gets +1 soul until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, if you do not have another character in your back stage, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character in any position of your back stage."
+        ],
+        "flavor_text": "So, you like older girls?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E022.png"
+    },
+    {
+        "name": "Looking for Members, Ruby",
+        "code": "OSK/S107-E023",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is put into your waiting room from the stage, look at up to 3 cards from the top of your deck, choose up to 1 character with \"Experience\" from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "We've been waiting. You're late.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E023.png"
+    },
+    {
+        "name": "Someone Who Looks at Me, Kana Arima",
+        "code": "OSK/S107-E024",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Pieyon's True Identity, Aqua\" or \"Fan of the Entire Group, Aqua\" in your back stage, this card gets +4000 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "Are you a fan of mine or something?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E024.png"
+    },
+    {
+        "name": "Talking About Her Obsession, Ruby",
+        "code": "OSK/S107-E025",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Show Business》 character, this card gets +3000 power.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "She's my number one fave right now!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E025.png"
+    },
+    {
+        "name": "Karaoke, MEMcho",
+        "code": "OSK/S107-E026",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players put the top card of their deck into their waiting room. If the level of the card put into your waiting room by this effect is higher than your opponent's, you may put the top card of your deck into your stock. (Climax are regarded as level 0)",
+            "【AUTO】 When damage dealt by this card is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "Idols are all about individuality! Even if I'm not the best, I have commercial value! But it's totally hopeless if you're straight-up bad!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E026.png"
+    },
+    {
+        "name": "The Type He Likes? MEMcho",
+        "code": "OSK/S107-E027",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Show Business》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "Hmm, but I think I can picture it.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E027.png"
+    },
+    {
+        "name": "Obvious Attitude, Kana Arima",
+        "code": "OSK/S107-E028",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each other 《Show Business》 character in your center stage.",
+            "【AUTO】 When a climax with in its trigger icon is placed on your climax area, if this card is in your center stage, all of your other characters get the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "But, I'm not all that cute in-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E028.png"
+    },
+    {
+        "name": "First Stage",
+        "code": "OSK/S107-E029",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose 1 of the following effects and perform it.",
+            "\"Search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+            "\"Choose 1 of your characters, that character gets +4000 power until end of turn, and put this card into your stock.\"",
+            "\"[(4)] You may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When this card attacks, you may deal 3 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E029.png"
+    },
+    {
+        "name": "Beyond That Gaze",
+        "code": "OSK/S107-E030",
+        "rarity": "CR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E030.png"
+    },
+    {
+        "name": "I'll Go Sweet Today",
+        "code": "OSK/S107-E031",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Even so...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E031.png"
+    },
+    {
+        "name": "Fake Wings",
+        "code": "OSK/S107-E032",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E032.png"
+    },
+    {
+        "name": "Going Viral",
+        "code": "OSK/S107-E033",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "MEMcho: \"It's looking good! It's gonna make it! YES!\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E033.png"
+    },
+    {
+        "name": "\"B-KOMACHI\" Ai",
+        "code": "OSK/S107-E034",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Show Business》 character in your waiting room at the bottom of your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Show Business》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E034.png"
+    },
+    {
+        "name": "Beyond the Darkness, Aqua",
+        "code": "OSK/S107-E035",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room.",
+            "【AUTO】 [(1) Put this card into your memory] When your other 《Show Business》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E035.png"
+    },
+    {
+        "name": "To a Shining Stage, Ruby",
+        "code": "OSK/S107-E036",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 Memory When this card is placed on the stage from your hand, if \"\"B-KOMACHI\" Ai\" is in your memory, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Memory [Put 1 card from your hand into your waiting room] When this card attacks, if \"Hidden Passion\" is in your climax area, you may pay the cost. If you do, look at up to 2 cards from the top of your opponent's deck, choose up to 2 characters with X or lower total power from among them, put them into their clock in any order, and put the rest into their waiting room. X is equal to the number of cards with different card names in your memory ×4000."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E036.png"
+    },
+    {
+        "name": "Pieyon's True Identity, Aqua",
+        "code": "OSK/S107-E037",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 2 or higher, you may pay the cost. If you do, choose 1 \"Fan of the Entire Group, Aqua\" in your waiting room, and put it in the stage position that this card was in.",
+            "【ACT】 [(1) 【REST】 this card] Choose 1 of your 《Show Business》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Kana Arima: \"Pieyon's Mask!\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E037.png"
+    },
+    {
+        "name": "Swimsuit Photo, Ai",
+        "code": "OSK/S107-E038",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 [【REST】 this card and 1 of your other characters] Reveal the top card of your deck. If that card is an event or a 《Show Business》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E038.png"
+    },
+    {
+        "name": "Underground Idol Debut? Ruby",
+        "code": "OSK/S107-E039",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have another 《Show Business》 character, this card gets +1500 power until end of turn.",
+            "【AUTO】 Memory When this card attacks, if \"\"B-KOMACHI\" Ai\" is in your memory, this card gets +500 power until end of turn, and reveal the top card of your deck. If that card is \"Mask of Revenge, Aqua\" or level 2 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Yeah, for one of those underground idol groups.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E039.png"
+    },
+    {
+        "name": "Fan of the Entire Group, Aqua",
+        "code": "OSK/S107-E040",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 Your other \"\"B-KOMACHI\" Kana Arima\" in the middle position of your center stage gets the following ability. \"【AUTO】 When this card attacks, look at the top card of your opponent's deck, and put it on the top or at the bottom of their deck.\"",
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your other character with \"Ruby(ルビー)\" or \"Kana Arima(有馬かな)\" or \"MEMcho(MEMちょ)\" in its card name attacks, choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Kana Arima: \"Somebody... Anybody... tell me it's okay for me to be here!\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E040.png"
+    },
+    {
+        "name": "The Very First Time, Aqua",
+        "code": "OSK/S107-E041",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their memory.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Whoa, nice throw.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E041.png"
+    },
+    {
+        "name": "In Order to Return the Favor, Akane Kurokawa",
+        "code": "OSK/S107-E042",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, if you have 4 or more other 《Show Business》 characters, you may pay the cost. If you do, your opponent returns all cards from their stock to their deck, shuffles their deck, and puts the same number of cards from the top of their deck into their stock."
+        ],
+        "flavor_text": "I'll do my best.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E042.png"
+    },
+    {
+        "name": "Deciding Each Member's Color, Ruby",
+        "code": "OSK/S107-E043",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 Memory If your memory has 3 or more cards with different card names, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 《Show Business》 character in your clock, put it at the bottom of your deck, and this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "My glow stick color will be red!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E043.png"
+    },
+    {
+        "name": "Eyes That Naturally Draw You In, Ai",
+        "code": "OSK/S107-E044",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Show Business》 characters get +1500 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] At the beginning of your encore step, if this card is in your center stage, and there are no characters in your opponent's center stage or all characters in their center stage are 【REVERSE】, you may pay the cost. If you do, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E044.png"
+    },
+    {
+        "name": "Legendary Idol, Ai",
+        "code": "OSK/S107-E045",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +4000 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Shine as Bright as the First Star of the Night\" from your climax area into your waiting room] At the beginning of your encore step, if this card is in the middle position of your center stage, you may pay the cost. If you do, choose up to 1 《Show Business》 character in your waiting room, return it to your hand, and put the top card of your deck into your waiting room. If that card is level 1 or higher, choose up to 1 《Show Business》 character in your waiting room, and return it to your hand. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E045.png"
+    },
+    {
+        "name": "Differing Feelings, Aqua",
+        "code": "OSK/S107-E046",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your clock, and return it to your hand. If you do, choose 1 card in your hand, and put it into your clock.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck."
+        ],
+        "flavor_text": "Good work out there.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E046.png"
+    },
+    {
+        "name": "Self-Proclaimed Idol, Ruby",
+        "code": "OSK/S107-E047",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"Deciding Each Member's Color, Ruby\" or \"Underground Idol Debut? Ruby\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm Ruby Hoshino… with Ichigo Production...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E047.png"
+    },
+    {
+        "name": "Fireworks Event, Akane Kurokawa",
+        "code": "OSK/S107-E048",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Show Business》 characters you have."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E048.png"
+    },
+    {
+        "name": "Relationship Going Forward, Akane Kurokawa",
+        "code": "OSK/S107-E049",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 level 1 or lower character in your opponent's center stage, and put it into their waiting room.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Is our relationship a work one? Or is it the real deal?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E049.png"
+    },
+    {
+        "name": "Villain, Aqua",
+        "code": "OSK/S107-E050",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Show Business》 characters, and that character gets +2000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [Return this card to your hand] When \"High School Debut Round Two\" or \"Manga-Based Drama\" is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Ruby: \"You're perfect for it. You've got a sinister-looking face, after all.\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E050.png"
+    },
+    {
+        "name": "Modeling Job, Ai",
+        "code": "OSK/S107-E051",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《Show Business》 character, this card gets +3000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if you have another 《Show Business》 character, you may pay the cost. If you do, search your deck for up to 1 \"Creepy Kid, Aqua\" or \"Glimpse of an Idol, Ruby\", put it in any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E051.png"
+    },
+    {
+        "name": "Watching a Drama, Ruby",
+        "code": "OSK/S107-E052",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Manga-Based Drama\" or \"High School Debut Round Two\" is in your climax area, choose up to 1 《Show Business》 character in your waiting room, put it into your stock, and this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "So, what's the show called?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E052.png"
+    },
+    {
+        "name": "Rehearsing, Akane Kurokawa",
+        "code": "OSK/S107-E053",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+            "【AUTO】 When damage dealt by this card is not canceled, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E053.png"
+    },
+    {
+        "name": "Promotional Activities, Miyako Saitou",
+        "code": "OSK/S107-E054",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Watching a Drama, Ruby\" in your hand, and put it in the stage position that this card was in.\"",
+            "【AUTO】 Bond/\"Villain, Aqua\" \"Watching a Drama, Ruby\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Villain, Aqua\" or \"Watching a Drama, Ruby\" in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I'll Go Sweet Today. It's based on a shoujo manga.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E054.png"
+    },
+    {
+        "name": "Stealing Talent, Ruby",
+        "code": "OSK/S107-E055",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【ACT】 Memory [【REST】 this card] If \"\"B-KOMACHI\" Ai\" is in your memory, draw 1 card, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Well, in performing arts, we've got this cute girl with a huge bust called Minami Kotobuki...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E055.png"
+    },
+    {
+        "name": "In a Lesson, Ruby",
+        "code": "OSK/S107-E056",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E056.png"
+    },
+    {
+        "name": "Reclaimed Light, Akane Kurokawa",
+        "code": "OSK/S107-E057",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand or into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Show Business》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +4000 power until end of turn."
+        ],
+        "flavor_text": "I don't hate you. You're strong, kind... I like you.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E057.png"
+    },
+    {
+        "name": "\"45510\" Aqua",
+        "code": "OSK/S107-E058",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Show Business》, this card gets +2000 power.",
+            "【AUTO】 When this card's trigger check reveals a climax, you may deal 1 damage to your opponent. (Damage may be canceled)",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card."
+        ],
+        "flavor_text": "Though Ai seemed ditzy, I learned she was more careful than I'd imagined and spared no effort in protecting our secret.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E058.png"
+    },
+    {
+        "name": "Internet Literacy, Ruby",
+        "code": "OSK/S107-E059",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When your other 《Show Business》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Show Business》 characters you have ×500.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Eww, this soft drink's awful.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E059.png"
+    },
+    {
+        "name": "Unscrupulous Scouting, Aqua",
+        "code": "OSK/S107-E060",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 Memory During your turn, if \"\"B-KOMACHI\" Ai\" is in your memory, this card gets +1500 power for each of your other 《Show Business》 characters.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "Hello there. Can I have a minute of your time?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E060.png"
+    },
+    {
+        "name": "Words Left Behind",
+        "code": "OSK/S107-E061",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you do not have a character with \"Aqua(アクア)\" or \"Ruby(ルビー)\" in its card name, this card cannot be played from your hand.",
+            "Search your deck for up to 1 《Show Business》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "If you do not have \"\"B-KOMACHI\" Ai\" in your memory, you may choose 1 \"\"B-KOMACHI\" Ai\" in your waiting room, and put it into your memory.",
+            "Put this card into your memory."
+        ],
+        "flavor_text": "Ruby... Aqua... I love you.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E061.png"
+    },
+    {
+        "name": "Hidden Passion",
+        "code": "OSK/S107-E062",
+        "rarity": "CR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E062.png"
+    },
+    {
+        "name": "Shine as Bright as the First Star of the Night",
+        "code": "OSK/S107-E063",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E063.png"
+    },
+    {
+        "name": "High School Debut Round Two",
+        "code": "OSK/S107-E064",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Ruby: \"Oh, so you didn't make any.\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E064.png"
+    },
+    {
+        "name": "Manga-Based Drama",
+        "code": "OSK/S107-E065",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Ruby: \"Oh, it's Loli-senpai!\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E065.png"
+    },
+    {
+        "name": "Putting Her Feelings Into Her Acting, Akane Kurokawa",
+        "code": "OSK/S107-E066",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E066.png"
+    },
+    {
+        "name": "Mask of Revenge, Aqua",
+        "code": "OSK/S107-E067",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Whereabouts of the Truth\" is in your climax area, and all of your characters are 《Show Business》, look at up to 4 cards from the top of your deck, choose up to 1 event or 《Show Business》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E067.png"
+    },
+    {
+        "name": "Perfect Trace, Akane Kurokawa",
+        "code": "OSK/S107-E068",
+        "rarity": "RR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "8500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 Memory When this card attacks, if \"Thorough Role Preparation\" is in your climax area, there is a marker underneath this card, and \"\"B-KOMACHI\" Ai\" is in your memory, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on the top of their deck in any order, put the rest into their waiting room, and put up to 1 card from the top of your clock into your stock."
+        ],
+        "flavor_text": "Tee hee!☆",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E068.png"
+    },
+    {
+        "name": "Big Comeback, MEMcho",
+        "code": "OSK/S107-E069",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your stock for up to 1 character, reveal it to your opponent, return it to your hand, and shuffle your stock.",
+            "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Ruby: \"But... at least listen to us sing, okay?\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E069.png"
+    },
+    {
+        "name": "Bell Pepper Exercise, Kana Arima",
+        "code": "OSK/S107-E070",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Bell Pepper"
+        ],
+        "ability": [
+            "【AUTO】 Memory [(2) Put this face up card face down] If this card is in your memory, when you level up, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Show Business》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "If you eat bell peppers, you'll be Superman!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E070.png"
+    },
+    {
+        "name": "Work Date, Akane Kurokawa",
+        "code": "OSK/S107-E071",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 If you would pay the 【ACT】 cost for your \"Work Date, Aqua\", you may put 1 marker from underneath this card into your waiting room instead of 1 card from your stock.",
+            "【AUTO】 When your climax triggers, if there are 2 or less markers underneath this card, you may look at the top card of your deck. If you do, put it face down underneath this card as a marker.",
+            "【ACT】 Resonate [(1) Reveal 1 \"Perfect Trace, Akane Kurokawa\" in your hand & 【REST】 this card] Look at up to 3 cards from the top of your deck, choose up to 1 \"Love for Real\" or 《Show Business》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Do you think this is good?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E071.png"
+    },
+    {
+        "name": "Seductive Eyes, Aqua",
+        "code": "OSK/S107-E072",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 character in your opponent's center stage, and that character gets -X power until end of turn. X is equal to the number of other 《Show Business》 characters you have ×500.",
+            "【AUTO】 Memory [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if \"\"B-KOMACHI\" Ai\" is in your memory, you may pay the cost. If you do, choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E072.png"
+    },
+    {
+        "name": "To Overcome a Genius, Akane Kurokawa",
+        "code": "OSK/S107-E073",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 [Put 1 climax from your hand into your waiting room] When this card's trigger check reveals a climax, you may pay the cost. If you do, choose 1 《Show Business》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E073.png"
+    },
+    {
+        "name": "Profiling, Akane Kurokawa",
+        "code": "OSK/S107-E074",
+        "rarity": "R",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 《Show Business》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+            "【AUTO】 [Put 1 \"Perfect Trace, Akane Kurokawa\" in your hand face up underneath this card as a marker] At the beginning of your climax phase, you may pay the cost. If you do, choose this card and 1 \"Perfect Trace, Akane Kurokawa\" marker underneath this card, and exchange them. If you do, at the end of the turn, exchange those characters, choose 1 marker underneath that \"Profiling, Akane Kurokawa\", and return it to your hand."
+        ],
+        "flavor_text": "There's some kind of bias in the way she feels affection. An obsession with secrecy and a need for exposure. A perfectionist, in contrast to her sensational behavior. Nonchalant and over-attached. Moderate when it comes to money. Somewhat indifferent when it comes to fashion.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E074.png"
+    },
+    {
+        "name": "True Objective, Aqua",
+        "code": "OSK/S107-E075",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your clock] When this card is frontal attacked, you may pay the cost. If you do, choose up to 1 \"Egosearching, Kana Arima\" in your hand, and put it in the stage position that this card was in as the defending character.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\""
+        ],
+        "flavor_text": "I've collected what I needed, so my goal is already accomplished.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E075.png"
+    },
+    {
+        "name": "Sparkling Extrovert, Aqua",
+        "code": "OSK/S107-E076",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage.",
+            "【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"Youtou High General Education, Aqua\" or \"Seductive Eyes, Aqua\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm Aqua! Whew, I'm feeling really nervous. It's nice to meet you all!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E076.png"
+    },
+    {
+        "name": "Performing Together Again, Akane Kurokawa",
+        "code": "OSK/S107-E077",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 4 or less cards, you may put that card at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "Touki's a supporting character, but thanks to the romcom elements, I think he has a good amount of male fans, too.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E077.png"
+    },
+    {
+        "name": "Anti-flaming Measures, Kana Arima",
+        "code": "OSK/S107-E078",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "They say everyone has their idiosyncrasies, right?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E078.png"
+    },
+    {
+        "name": "Hard Work to Stand Out, Akane Kurokawa",
+        "code": "OSK/S107-E079",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Show Business》 character in your back stage.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Genius Actress From Theater Lalalai\" is in your climax area, and you have 2 or more other 《Show Business》 characters, choose 1 of the following effects and perform it. \"Search your deck for up to 1 \"Perfect Trace, Akane Kurokawa\" or \"Profiling, Akane Kurokawa\", reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"During that attack, perform a trigger check 2 times on the trigger step.\""
+        ],
+        "flavor_text": "Director: \"What should you do to stand out?\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E079.png"
+    },
+    {
+        "name": "Egosearching, Kana Arima",
+        "code": "OSK/S107-E080",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If the character facing this card is cost 0 or lower, this card gets +1 level and +3500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if all of your characters are 《Show Business》, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Kana Arima: \"Oh my, you even added \"cute.\" Did you wanna be called cute that bad?\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E080.png"
+    },
+    {
+        "name": "Work Date, Aqua",
+        "code": "OSK/S107-E081",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [(4) 【REST】 this card] Choose up to 1 \"Profiling, Akane Kurokawa\" in your hand, and put it in any position of your stage."
+        ],
+        "flavor_text": "I can't really say, but I guess it looks fine.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E081.png"
+    },
+    {
+        "name": "Like Cats and Dogs? Kana Arima",
+        "code": "OSK/S107-E082",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Like Cats and Dogs? Akane Kurokawa\" in your center stage, this card gets +4000 power.",
+            "【AUTO】 [Put 1 《Show Business》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Like Cats and Dogs? Akane Kurokawa\" in your waiting room, and put it in any position of your stage."
+        ],
+        "flavor_text": "Oh, come to think of it, weren't you recently on a reality dating show? I hear you got popular by selling away your private life bit by bit. Good for you.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E082.png"
+    },
+    {
+        "name": "Like Cats and Dogs? Akane Kurokawa",
+        "code": "OSK/S107-E083",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Like Cats and Dogs? Kana Arima\" in your center stage, this card gets the following abilities. \"【CONT】 During your turn, this card gets +4000 power.\" \"【AUTO】 During your opponent's turn, when this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may put that character at the bottom of your opponent's deck.\"",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may choose this card and 1 of your \"Like Cats and Dogs? Kana Arima\", and exchange them as 【STAND】."
+        ],
+        "flavor_text": "How many years since we've acted together? I was convinced that you'd called it quits.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E083.png"
+    },
+    {
+        "name": "Wrap-up Party, Aqua",
+        "code": "OSK/S107-E084",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 other 《Show Business》 character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, choose up to 1 card from among them, put it into your stock, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(9) Put 2 cards from your hand into your waiting room] At the end of this card's attack, if \"Strategically Planned Kiss Scene\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent 3 times. (Damage may be canceled)"
+        ],
+        "flavor_text": "Well, it's not exactly a work thing...",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E084.png"
+    },
+    {
+        "name": "Role of an Adult, Aqua",
+        "code": "OSK/S107-E085",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Show Business》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 Memory When this card is placed on the stage from your hand, if \"\"B-KOMACHI\" Ai\" is in your memory, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Pro or not, 17-year-olds are dumb kids who're always making mistakes.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E085.png"
+    },
+    {
+        "name": "Baking Soda-Licking Genius Child Actress",
+        "code": "OSK/S107-E086",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Baking Soda"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Show Business》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, draw 1 card.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Ruby: \"Oh, isn't she...? Hmm, what was it again? The genius child actor who can lick baking soda like that.\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E086.png"
+    },
+    {
+        "name": "Popular Live Streamer, MEMcho",
+        "code": "OSK/S107-E087",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Show Business》 characters get +500 power.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E087.png"
+    },
+    {
+        "name": "Movie Director, Taishi Gotanda",
+        "code": "OSK/S107-E088",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Director"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《Show Business》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Wrap-up Party, Aqua\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Show Business》 characters, that character gets +X power until end of turn, and if that character has \"Aqua(アクア)\" in its card name, that character gets 《Precocious》 until end of turn. X is equal to that character's soul ×1000."
+        ],
+        "flavor_text": "It's fine to dream of the entertainment industry, but it's best not to have illusions about the entertainment industry.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E088.png"
+    },
+    {
+        "name": "Confused, MEMcho",
+        "code": "OSK/S107-E089",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "I'm quite a bit older than Arima-chan, but I can't recall her ever speaking to me that way.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E089.png"
+    },
+    {
+        "name": "Girls' Talk, Yuki Sumi",
+        "code": "OSK/S107-E090",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Model"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Charm That Draws You to Her, Akane Kurokawa\" in your center stage, this card gets +3500 power, +1 soul, and the following ability. \"【CONT】 All of your other \"Charm That Draws You to Her, Akane Kurokawa\" get +2000 power, and +1 soul.\"",
+            "【AUTO】 At the beginning of your attack phase, if this card is 【STAND】, and you have 1 or less other characters in your center stage, all of your characters in your center stage get the following ability until end of turn. \"【AUTO】 When this card attacks, look at the top card of your deck, choose up to 1 \"Love for Real\" or 《Show Business》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "You like the new Akane, huh?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E090.png"
+    },
+    {
+        "name": "Charm That Draws You to Her, Akane Kurokawa",
+        "code": "OSK/S107-E091",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Aqua, let's hang out together today.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E091.png"
+    },
+    {
+        "name": "Repulsed, MEMcho",
+        "code": "OSK/S107-E092",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
+        ],
+        "flavor_text": "The very embodiment of being all about looks.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E092.png"
+    },
+    {
+        "name": "Nifty Notetaker, Akane Kurokawa",
+        "code": "OSK/S107-E093",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Show Business》 characters you have.",
+            "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)"
+        ],
+        "flavor_text": "Excuse me... Is the way I'm doing it okay?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E093.png"
+    },
+    {
+        "name": "Today's Main Character, MEMcho",
+        "code": "OSK/S107-E094",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Live Streamer"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1500 power for each of your other 《Show Business》 characters.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Show Business》 characters, and that character gets +X power until end of turn. X is equal to the number of events in your waiting room ×1500."
+        ],
+        "flavor_text": "So, you see... people these days want to see something more extreme.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E094.png"
+    },
+    {
+        "name": "Unskilled Actor, Melt Narushima",
+        "code": "OSK/S107-E095",
+        "rarity": "C",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Model"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other 《Show Business》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +3000 power until end of turn.",
+            "【AUTO】 Encore [Put 1 《Show Business》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Well look at that... You're cute when you smile.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E095.png"
+    },
+    {
+        "name": "Love for Real",
+        "code": "OSK/S107-E096",
+        "rarity": "U",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《Show Business》 character, this card cannot be played from your hand.",
+            "If your level is 2 or lower, look at up to 4 cards from the top of your deck, choose up to 1 《Show Business》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "[(2) Put 1 \"Love for Real\" from your hand into your waiting room] If your level is 3 or higher, you may pay the cost. If you do, put this card into your memory, and perform the following action 2 times. \"Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\"\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E096.png"
+    },
+    {
+        "name": "Whereabouts of the Truth",
+        "code": "OSK/S107-E097",
+        "rarity": "CR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E097.png"
+    },
+    {
+        "name": "Thorough Role Preparation",
+        "code": "OSK/S107-E098",
+        "rarity": "CR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E098.png"
+    },
+    {
+        "name": "Genius Actress From Theater Lalalai",
+        "code": "OSK/S107-E099",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E099.png"
+    },
+    {
+        "name": "Strategically Planned Kiss Scene",
+        "code": "OSK/S107-E100",
+        "rarity": "CC",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I can use Akane Kurokawa.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E100.png"
+    },
+    {
+        "name": "Chibi MEMcho",
+        "code": "OSK/S107-E101",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 Your other character in the middle position of your center stage gets +1000 power.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your 《Show Business》 characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E101.png"
+    },
+    {
+        "name": "Chibi Kana Arima",
+        "code": "OSK/S107-E102",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E102.png"
+    },
+    {
+        "name": "Chibi Ruby",
+        "code": "OSK/S107-E103",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +3000 power and +1 soul.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E103.png"
+    },
+    {
+        "name": "Chibi Ai",
+        "code": "OSK/S107-E104",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Show Business》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Show Business》 characters you have ×1000.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E104.png"
+    },
+    {
+        "name": "Chibi Aqua",
+        "code": "OSK/S107-E105",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Show Business》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Show Business》 characters you have×500."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E105.png"
+    },
+    {
+        "name": "Chibi Akane Kurokawa",
+        "code": "OSK/S107-E106",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Show Business》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_E106.png"
+    },
+    {
+        "name": "Summer Sweet Memory, Kana Arima",
+        "code": "OSK/S107-PE03",
+        "rarity": "PR",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【ACT】［Put 1 card from your hand into your waiting room & Put this card at the bottom of your deck］ Search your deck for up to 1 《Show Business》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "PE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_PE03.png"
+    },
+    {
+        "name": "Scouted, Ai",
+        "code": "OSK/S107-TE01",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《Show Business》 characters, and that character gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" until the end of your opponent's next turn."
+        ],
+        "flavor_text": "You said you were a scout so I was wondering... An idol? Me? What a laugh!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE01",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE01.png"
+    },
+    {
+        "name": "Idol-Fan Dance, Ruby",
+        "code": "OSK/S107-TE02",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Otaku"
+        ],
+        "ability": [
+            "【AUTO】 Bond/\"Unshakable Center, Ai\" \"Idol-Fan Dance, Aqua\" [Put 1 card from your hand into your waiting room] When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Unshakable Center, Ai\" or \"Idol-Fan Dance, Aqua\" in your waiting room, and return it to your hand)",
+            "【ACT】 [(1) Put this card into your waiting room] Choose 1 \"From Mother to Children\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Goo-goo!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE02",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE02.png"
+    },
+    {
+        "name": "President of Ichigo Production, Ichigo Saitou",
+        "code": "OSK/S107-TE03",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "President"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Show Business》 characters get +500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Scouted, Ai\", put it in any position of your stage, and shuffle your deck."
+        ],
+        "flavor_text": "Now listen here! If word gets out that an idol like you became a mother of 2 at 16, you can kiss your idol career goodbye.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE03",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE03.png"
+    },
+    {
+        "name": "Youtou High Entertainment Department, Ruby",
+        "code": "OSK/S107-TE04",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Show Business》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE04",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE04.png"
+    },
+    {
+        "name": "Glimpse of an Idol, Ruby",
+        "code": "OSK/S107-TE05",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your 《Show Business》 characters, and that character gets +1500 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Light of Continued Admiration\" is in your climax area, choose 1 of your 《Show Business》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Show Business》 character in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE05",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE05.png"
+    },
+    {
+        "name": "Connection to Their Father, Ai",
+        "code": "OSK/S107-TE06",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each other 《Show Business》 character in your back stage.",
+            "【AUTO】 When this card attacks, if all of your characters are 《Show Business》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "You know, our kids have gotten pretty big. Wanna try meeting them?",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE06",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE06.png"
+    },
+    {
+        "name": "Lies Are Love, Ai",
+        "code": "OSK/S107-TE07",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Gorou: \"This story is a work of fiction.\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE07",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE07.png"
+    },
+    {
+        "name": "Natural Smile, Ai",
+        "code": "OSK/S107-TE08",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Show Business》 characters, this card gets +2000 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "My kids are so cuuute!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE08",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE08.png"
+    },
+    {
+        "name": "Practicing Together, Ruby & Ai",
+        "code": "OSK/S107-TE09",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & 【REST】 this card] Look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Ai: \"You'll be fine. Trust your mama, okay?\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE09",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE09.png"
+    },
+    {
+        "name": "Unshakable Center, Ai",
+        "code": "OSK/S107-TE10",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Idol"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Idol\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, and this card gets \"【CONT】 Great Performance (When your opponent attacks, if this card is in the middle position of your center stage and not 【REVERSE】, your opponent frontal attacks this card instead)\"until the end of your opponent's next turn. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE10",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE10.png"
+    },
+    {
+        "name": "Light of Continued Admiration",
+        "code": "OSK/S107-TE11",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Move more! My body!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE11",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE11.png"
+    },
+    {
+        "name": "Idol",
+        "code": "OSK/S107-TE12",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE12",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE12.png"
+    },
+    {
+        "name": "Creepy Kid, Aqua",
+        "code": "OSK/S107-TE13",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Show Business》 characters, all of your other \"Unshakable Center, Ai\" and \"Glimpse of an Idol, Ruby\" get +1000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+        ],
+        "flavor_text": "If my aim is to intuit his intent, it's actually better I don't even act.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE13",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE13.png"
+    },
+    {
+        "name": "Genius Child Actor, Kana Arima",
+        "code": "OSK/S107-TE14",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actress"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Show Business》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 During this card's battle, when the damage you received is not canceled, this card gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Everyone says the way I cry in dramas is amazing! Because it is amazing!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE14",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE14.png"
+    },
+    {
+        "name": "Flames of Vengeance, Aqua",
+        "code": "OSK/S107-TE15",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\"."
+        ],
+        "flavor_text": "I can't die yet.",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE15",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE15.png"
+    },
+    {
+        "name": "Idol-Fan Dance, Aqua",
+        "code": "OSK/S107-TE16",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Show Business",
+            "Otaku"
+        ],
+        "ability": [
+            "-"
+        ],
+        "flavor_text": "Goo-goo!",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE16",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE16.png"
+    },
+    {
+        "name": "Gorou & Sarina",
+        "code": "OSK/S107-TE17",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each other 《Show Business》 character in your back stage."
+        ],
+        "flavor_text": "Sarina: \"I love you, Sensei! Marry me!\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE17",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE17.png"
+    },
+    {
+        "name": "Youtou High General Education, Aqua",
+        "code": "OSK/S107-TE18",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Show Business",
+            "Actor"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it in any position of your stage, and that character gets +2000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE18",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE18.png"
+    },
+    {
+        "name": "From Mother to Children",
+        "code": "OSK/S107-TE19",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "If you have \"Creepy Kid, Aqua\" and \"Practicing Together, Ruby & Ai\", choose up to 1 \"Unshakable Center, Ai\" in your hand, put it in any position of your stage, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play event cards or \"Backup\" from their hand.\"",
+            "Put this card into your memory."
+        ],
+        "flavor_text": "Ai: \"In any case, please grow up healthy.\"",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE19",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE19.png"
+    },
+    {
+        "name": "Dream-Like Days",
+        "code": "OSK/S107-TE20",
+        "rarity": "TD",
+        "expansion": "【OSHI NO KO】",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +2 soul."
+        ],
+        "flavor_text": "-",
+        "set": "OSK",
+        "release": "107",
+        "sid": "TE20",
+        "image": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/OSK/S107_TE20.png"
+    }
+]
