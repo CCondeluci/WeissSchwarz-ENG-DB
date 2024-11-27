@@ -791,11 +791,11 @@
         "color": "RED",
         "level": "0",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "500",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【ACT】 [(1) Put this 【STAND】 card into your memory] If your level is 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
@@ -817,11 +817,11 @@
         "color": "RED",
         "level": "0",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "1500",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 If your hand has 5 or more cards, this card gets +1500 power and the following ability. \"【CONT】 The character facing this card cannot move to another position of the stage.\"",
@@ -1592,11 +1592,11 @@
         "color": "RED",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "3000",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【AUTO】 When a climax with in its trigger icon is placed on your climax area, choose 1 of your 《MARVEL》 characters, and that character gets +1 soul until end of turn.",
@@ -1619,13 +1619,13 @@
         "color": "RED",
         "level": "1",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "3500",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 Assist All of your 《MARVEL》 characters in front of this card get +X power. X is equal to that character's level ×500.",
@@ -1648,13 +1648,13 @@
         "color": "RED",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "3000",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【AUTO】 When this card attacks, choose 1 of your 《MARVEL》 characters, and that character gets +3000 power until end of turn.",
@@ -1677,13 +1677,13 @@
         "color": "RED",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "5000",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 All of your other \"Superhuman, Hulk\" get the following ability. \"【CONT】 You cannot receive damage by the 【AUTO】 effect of your \"Superhuman, Hulk\".\"",
@@ -1706,13 +1706,13 @@
         "color": "RED",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "6000",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【AUTO】 When this card frontal attacks, this card gets +X power until end of turn. X is equal to this card's soul ×3000.",
@@ -1734,13 +1734,13 @@
         "color": "RED",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "7000",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 If you have 4 or more 《MARVEL》 characters, this card gets -1 level while in your hand.",
@@ -2543,11 +2543,11 @@
         "color": "BLUE",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "4000",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 If there is a marker underneath this card, this card gets +1000 power for each of your other 《MARVEL》 characters.",
@@ -2569,13 +2569,13 @@
         "color": "BLUE",
         "level": "2",
         "cost": "2",
-        "power": "-",
-        "soul": 0,
+        "power": "7000",
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 This card gets +2000 power for each other 《MARVEL》 character in your back stage."
@@ -2789,13 +2789,13 @@
         "color": "BLUE",
         "level": "3",
         "cost": "2",
-        "power": "-",
-        "soul": 0,
+        "power": "3500",
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            ""
+            "MARVEL"
         ],
         "ability": [
             "【CONT】 Assist All of your characters in front of this card get +2000 power.",
