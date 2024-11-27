@@ -2907,7 +2907,7 @@
         "level": "0",
         "cost": "0",
         "power": "1000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -2935,7 +2935,7 @@
         "level": "0",
         "cost": "0",
         "power": "3000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -2963,7 +2963,7 @@
         "level": "0",
         "cost": "0",
         "power": "4000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -2991,7 +2991,7 @@
         "level": "1",
         "cost": "0",
         "power": "4500",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -3129,7 +3129,7 @@
         "level": "0",
         "cost": "0",
         "power": "1500",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -3158,7 +3158,7 @@
         "level": "0",
         "cost": "0",
         "power": "3000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -3186,7 +3186,7 @@
         "level": "1",
         "cost": "0",
         "power": "6000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -3214,7 +3214,7 @@
         "level": "1",
         "cost": "1",
         "power": "7000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
@@ -3323,11 +3323,8 @@
         "level": "0",
         "cost": "0",
         "power": "2000",
-        "soul": 0,
-        "trigger": [
-            "SOUL",
-            "SOUL"
-        ],
+        "soul": 1,
+        "trigger": [],
         "attributes": [
             "Servant",
             "Weapon"
@@ -3355,7 +3352,6 @@
         "power": "4000",
         "soul": 1,
         "trigger": [
-            "SOUL",
             "SOUL"
         ],
         "attributes": [
@@ -3441,7 +3437,7 @@
         "level": "1",
         "cost": "0",
         "power": "5000",
-        "soul": 0,
+        "soul": 1,
         "trigger": [],
         "attributes": [
             "Master",
