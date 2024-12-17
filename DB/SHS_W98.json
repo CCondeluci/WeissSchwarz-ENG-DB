@@ -1693,12 +1693,11 @@
         "color": "RED",
         "level": "0",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "500",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game"
         ],
         "ability": [
             "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage.",
@@ -1721,12 +1720,11 @@
         "color": "RED",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game"
         ],
         "ability": [
             "【CONT】 This card gets +500 power for each other 《Game》 character in your back stage.",
@@ -1748,12 +1746,12 @@
         "color": "RED",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Novel"
         ],
         "ability": [
             "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1000 power.",
@@ -1775,14 +1773,14 @@
         "color": "RED",
         "level": "3",
         "cost": "2",
-        "power": "-",
-        "soul": 0,
+        "power": "9000",
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Novel"
         ],
         "ability": [
             "【CONT】 If you have 4 or more 《Game》 characters, this card gets -1 level while in your hand.",
@@ -1805,12 +1803,12 @@
         "color": "RED",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "4000",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Novel"
         ],
         "ability": [
             "【CONT】 This card gets +500 power for each of your other 《Game》 characters.",
@@ -1832,14 +1830,14 @@
         "color": "RED",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Novel"
         ],
         "ability": [
             "【CONT】 All of your other 《Game》 characters get +1000 power.",
@@ -2678,12 +2676,12 @@
         "color": "BLUE",
         "level": "1",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "1000",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Music"
         ],
         "ability": [
             "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
@@ -2705,14 +2703,14 @@
         "color": "BLUE",
         "level": "1",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "500",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Music"
         ],
         "ability": [
             "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
@@ -2734,14 +2732,14 @@
         "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "6500",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Music"
         ],
         "ability": [
             "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
@@ -2819,12 +2817,12 @@
         "color": "YELLOW",
         "level": "0",
         "cost": "0",
-        "power": "-",
-        "soul": 0,
+        "power": "1000",
+        "soul": 1,
         "trigger": [],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Manga"
         ],
         "ability": [
             "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to the number of soul that character has ×1000.",
@@ -2928,14 +2926,14 @@
         "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "power": "-",
-        "soul": 0,
+        "power": "2000",
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "attributes": [
-            "-",
-            "-"
+            "Game",
+            "Music"
         ],
         "ability": [
             "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Game》 characters, you may choose 1 《Game》 character in your waiting room, and put it into your stock.",
