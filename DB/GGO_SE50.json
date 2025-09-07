@@ -1,0 +1,1675 @@
+[
+    {
+        "name": "《Third Squad Jam》 LLENN",
+        "code": "GGO/SE50-E01",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Running Across the Battlefield, LLENN\", all of your other 《Avatar》 or 《Net》 characters get +1000 power.",
+            "【ACT】 [【REST】 this card] If you have 4 or more other 《Avatar》 or 《Net》 characters, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax card revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E01",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E01.png"
+    },
+    {
+        "name": "A Little Rest, LLENN",
+        "code": "GGO/SE50-E02",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have 2 or more other characters, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Dreamland Leading To the Starry Sky\" is in your climax area, and you have 3 or more other characters, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. If X is 2 or more, put up to 1 card from the bottom of your deck into your stock. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E02",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E02.png"
+    },
+    {
+        "name": "In a Dream, Karen",
+        "code": "GGO/SE50-E03",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are 《Avatar》 or 《Net》, this card gets +1 level and +1500 power.",
+            "【AUTO】 [(1) Put this card into your waiting room] When your other 《Avatar》 or 《Net》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E03",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E03.png"
+    },
+    {
+        "name": "Raring for Revenge, LLENN",
+        "code": "GGO/SE50-E04",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Word of Honor\" is in your climax area, and you have 2 or more other 《Avatar》 or 《Net》 characters, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E04",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E04.png"
+    },
+    {
+        "name": "《BTRY》 Eva",
+        "code": "GGO/SE50-E05",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+            "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of characters in your opponent's back stage ×1000."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E05",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E05.png"
+    },
+    {
+        "name": "Running at Full Speed, LLENN",
+        "code": "GGO/SE50-E06",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I don’t wanna die! I don’t wanna die!\nI don’t wanna die!",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E06",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E06.png"
+    },
+    {
+        "name": "Aiming for Revenge, Saki",
+        "code": "GGO/SE50-E07",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "ability": [
+            "【ACT】 [(1) Put this card into your waiting room] Choose 1 \"Craving for Sweets Too! Saki & Milana\" in your waiting room, put it in the stage position that this card was in, and that character gets +X power until end of turn. X is equal to the number of 《Avatar》 or 《Net》 characters you have ×1000."
+        ],
+        "flavor_text": "Listen to this! Karen's gonna be teaming up with Pitohui and Fukaziroh!",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E07",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E07.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Eva",
+        "code": "GGO/SE50-E08",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When \"Course of the Last Battle\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose up to 1 \"Boss of 《SHINC》, Eva\" in your hand, and put it in any position of your stage.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax is in your climax area, you may put the top card of your deck into your stock."
+        ],
+        "flavor_text": "Audience: \"Those ladies have no mercy.\" \"I'll say they don't!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E08",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E08.png"
+    },
+    {
+        "name": "After the Battle, LLENN",
+        "code": "GGO/SE50-E09",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "2500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When \"Cut! Kick!\" is placed on your climax area, you may pay the cost. If you do, choose up to 2 of your opponent's characters, and those characters get -2000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E09",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E09.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Roza",
+        "code": "GGO/SE50-E10",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《SHINC》 or 《Sports》 characters get +500 power.",
+            "【AUTO】 【CXCOMBO】 [Put 1 climax from your hand into your waiting room] When your \"\"Operation Sweets\" A Major Success!\" or \"Course of the Last Battle\" triggers, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Audience: \"They're for killing tanks, not people!\" \"That's right!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E10",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E10.png"
+    },
+    {
+        "name": "Vacant Look, Karen",
+        "code": "GGO/SE50-E11",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\"",
+            "【ACT】 [Put 1 event from your hand into your waiting room & 【REST】 this card] Choose 1 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E11",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E11.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Tanya",
+        "code": "GGO/SE50-E12",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "Audience: \"We've been waiting for you!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E12",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E12.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Toma",
+        "code": "GGO/SE50-E13",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 green character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Degtyaryov Anti-Tank Rifle\" in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Audience: \"Anti-tank rifles should be against the rules...\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E13",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E13.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Anna",
+        "code": "GGO/SE50-E14",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"Degtyaryov Anti-Tank Rifle\" or an 《Avatar》 or 《Net》 character, choose 1 of your characters, and that character gets +3000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Audience: \"This time you're gonna win! I know it!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E14",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E14.png"
+    },
+    {
+        "name": "《SHINC》 Joining the Battle, Sophie",
+        "code": "GGO/SE50-E15",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《SHINC》 or 《Sports》 characters in front of this card get +1500 power.",
+            "【ACT】 [(2) 【REST】 this card] Choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "flavor_text": "Audience: \"So scary...\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E15",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E15.png"
+    },
+    {
+        "name": "Dreamland Leading To the Starry Sky",
+        "code": "GGO/SE50-E16",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E16",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E16.png"
+    },
+    {
+        "name": "《LPFM》 LLENN",
+        "code": "GGO/SE50-E17",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, choose 1 of your other 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E17",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E17.png"
+    },
+    {
+        "name": "《LPFM》 Fukaziroh",
+        "code": "GGO/SE50-E18",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 [Put the top card of your deck into your clock] When this card becomes 【REVERSE】, if all of your characters are 《Avatar》 or 《Net》, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 event or level 1 or lower character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E18",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E18.png"
+    },
+    {
+        "name": "High Spirits! Fukaziroh",
+        "code": "GGO/SE50-E19",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+            "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Avatar》 or 《Net》 characters you have ×1000.",
+            "【AUTO】 When this card becomes 【REVERSE】, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E19",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E19.png"
+    },
+    {
+        "name": "Running Across the Battlefield, LLENN",
+        "code": "GGO/SE50-E20",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 【CXCOMBO】 If \"The Showdown\" is in your climax area, this card gets +4000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] At the beginning of your encore step, if this card is in your center stage, and there are no characters in your opponent's center stage or all characters in their center stage are 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E20",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E20.png"
+    },
+    {
+        "name": "Proud Gunner, Fukaziroh",
+        "code": "GGO/SE50-E21",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Rampaging in \"GGO\"! Fukaziroh\" get +1000 power.",
+            "【AUTO】 [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Rampaging in \"GGO\"! Fukaziroh\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E21",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E21.png"
+    },
+    {
+        "name": "“Huge Betrayal” Clarence",
+        "code": "GGO/SE50-E22",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 climax, reveal it to your opponent, choose up to 1 climax in your hand, reveal it to your opponent, exchange them, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E22",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E22.png"
+    },
+    {
+        "name": "“Pink Bunny” LLENN",
+        "code": "GGO/SE50-E23",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other \"Insane LLENN\" get +500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+            "【CONT】 Assist All of your 《Avatar》 or 《Net》 characters in front of this card get +1500 power.",
+            "【ACT】 [(3) 【REST】 this card] Choose up to 1 \"Insane LLENN\" in your hand, and put it in any position of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E23",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E23.png"
+    },
+    {
+        "name": "《Third Squad Jam》 Fukaziroh",
+        "code": "GGO/SE50-E24",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets the following abilities. \"【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"",
+            "【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"In Between Battles\" is in your climax area, and you have 4 or more other 《Avatar》 or 《Net》 characters, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E24",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E24.png"
+    },
+    {
+        "name": "“Hard Target” LLENN",
+        "code": "GGO/SE50-E25",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+            "【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if you have 2 or more other 《Avatar》 or 《Net》 characters, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E25",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E25.png"
+    },
+    {
+        "name": "Peaceful Sleep, Karen",
+        "code": "GGO/SE50-E26",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When your climax triggers, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E26",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E26.png"
+    },
+    {
+        "name": "“Usual Aloofness” Fukaziroh",
+        "code": "GGO/SE50-E27",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or attacks, choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E27",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E27.png"
+    },
+    {
+        "name": "Battle Between Women, Clarence",
+        "code": "GGO/SE50-E28",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【AUTO】 When your other 《Avatar》 or 《Net》 character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E28",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E28.png"
+    },
+    {
+        "name": "Invitation to a Dream, LLENN",
+        "code": "GGO/SE50-E29",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《Avatar》 or 《Net》 characters, this card gets +2000 power.",
+            "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E29",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E29.png"
+    },
+    {
+        "name": "Dive Complete! LLENN",
+        "code": "GGO/SE50-E30",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, all players put the top card of their deck into their waiting room. If the level of the card put into your waiting room by this effect is higher than your opponent's, you may put the top card of your deck into your stock. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E30",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E30.png"
+    },
+    {
+        "name": "《GGO》 Again, Miyu",
+        "code": "GGO/SE50-E31",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Game"
+        ],
+        "ability": [
+            "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your attack phase, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, if the character facing this card is level 2 or higher, this card gets +6000 power until end of turn.\""
+        ],
+        "flavor_text": "Hell yeah! Let's get those Amazons!\nWe're gonna murder-ize 'em all!",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E31",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E31.png"
+    },
+    {
+        "name": "Continuous Grumbling, LLENN",
+        "code": "GGO/SE50-E32",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and move it to another open position of their stage as 【STAND】, or choose another of your opponent's characters and exchange them as 【STAND】.",
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's memory."
+        ],
+        "flavor_text": "You're so irresponsible!\nYou know how stressed out I am!",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E32",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E32.png"
+    },
+    {
+        "name": "NPC? Doc",
+        "code": "GGO/SE50-E33",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"NPC? Jacob\" in your center stage, this card gets +5500 power and \"【AUTO】 Encore [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room]\".",
+            "【CONT】 All of your other \"NPC? Jacob\" get +1500 power and the following abilities. \"【CONT】 This card cannot be chosen by your opponent's effects.\" \"【AUTO】 Encore [Put 1 event or 《Avatar》 or 《Net》 character from your hand into your waiting room]\""
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E33",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E33.png"
+    },
+    {
+        "name": "Beloved Rightony and Leftania, Fukaziroh",
+        "code": "GGO/SE50-E34",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 This card gets +2500 power for each character in your opponent's back stage.",
+            "【AUTO】 Encore [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E34",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E34.png"
+    },
+    {
+        "name": "NPC? Jacob",
+        "code": "GGO/SE50-E35",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"NPC? Doc\", reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E35",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E35.png"
+    },
+    {
+        "name": "Plasma Warhead Grenade",
+        "code": "GGO/SE50-E36",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Brainstorm If you do not have an 《Avatar》 or 《Net》 character, this card cannot be played from your hand.",
+            "Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "All players flip over 3 cards from the top of their decks, and put them into their waiting rooms. If the total power of the characters put into your waiting room by this effect is equal to or higher than the total power of the characters put into your opponent's waiting room by this effect, choose up to 2 《Avatar》 or 《Net》 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "Fukaziroh: \"And I got six of 'em!\nThank you, Pito! I love them! I love you!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E36",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E36.png"
+    },
+    {
+        "name": "The Showdown",
+        "code": "GGO/SE50-E37",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E37",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E37.png"
+    },
+    {
+        "name": "In Between Battles",
+        "code": "GGO/SE50-E38",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E38",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E38.png"
+    },
+    {
+        "name": "Biggest Rival, Pitohui",
+        "code": "GGO/SE50-E39",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if there is an event in your waiting room, this card gets +3000 power until the end of your opponent's next turn.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Fierce Nemeses Once Again\" is in your climax area, and all of your characters are 《Avatar》 or 《Net》, look at up to 4 cards from the top of your deck, choose up to 1 event or 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E39",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E39.png"
+    },
+    {
+        "name": "《LPFM》 Pitohui",
+        "code": "GGO/SE50-E40",
+        "rarity": "RR",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If your deck has 5 or less cards, this card gets -1 level while in your hand.",
+            "【CONT】 If this card is in your center stage, all of your 《Avatar》 or 《Net》 characters get +1500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, if your deck has 5 or less cards, return all cards in your waiting room to your deck. If you do, search your deck for up to 1 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E40",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E40.png"
+    },
+    {
+        "name": "《LPFM》 M",
+        "code": "GGO/SE50-E41",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E41",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E41.png"
+    },
+    {
+        "name": "《BTRY》 Pitohui",
+        "code": "GGO/SE50-E42",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 [(1)] When this card's trigger check reveals a climax, you may pay the cost. If you do, put the top card of your deck into your stock, choose 1 of your characters, and that character gets +2000 power until end of turn.\""
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E42",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E42.png"
+    },
+    {
+        "name": "《Third Squad Jam》 M",
+        "code": "GGO/SE50-E43",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Avatar》 or 《Net》 character, this card gets +2000 power until end of turn.",
+            "【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Avatar》 or 《Net》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E43",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E43.png"
+    },
+    {
+        "name": "User of Exploding Bullets, Shirley",
+        "code": "GGO/SE50-E44",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 soul until end of turn.",
+            "【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E44",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E44.png"
+    },
+    {
+        "name": "《Third Squad Jam》 Pitohui",
+        "code": "GGO/SE50-E45",
+        "rarity": "R",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 At the end of this card's attack, if \"Cry of Joy Echoing in the Battlefield\" is in your climax area, and you have another 《Avatar》 or 《Net》 character, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"[Put 2 cards from your hand into your waiting room] You may pay the cost. If you do, deal 3 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E45",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E45.png"
+    },
+    {
+        "name": "Both Thinking the Same, David",
+        "code": "GGO/SE50-E46",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "MMTM"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 \"Muramasa F9\" or 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "We'll stay out of each other's way... and just let it happen.",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E46",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E46.png"
+    },
+    {
+        "name": "Team Leader, M",
+        "code": "GGO/SE50-E47",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card attacks, choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E47",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E47.png"
+    },
+    {
+        "name": "“Domination” Pitohui",
+        "code": "GGO/SE50-E48",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\""
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E48",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E48.png"
+    },
+    {
+        "name": "Acting Solo, Shirley",
+        "code": "GGO/SE50-E49",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Battle Between Women, Clarence\", this card gets +4000 power.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E49",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E49.png"
+    },
+    {
+        "name": "《BTRY》 Cole",
+        "code": "GGO/SE50-E50",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "TOMS"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+            "【AUTO】 [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E50",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E50.png"
+    },
+    {
+        "name": "Imposing, Pitohui",
+        "code": "GGO/SE50-E51",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "ability": [
+            "【AUTO】 This ability activates up to 1 time per turn. When you play an event, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax card revealed among those cards, search your deck for up to 1 《Music》 character or character with \"Pitohui(ピトフーイ)\", \"M(エム)\", or \"Goushi(豪志)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E51",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E51.png"
+    },
+    {
+        "name": "Driving, Goushi",
+        "code": "GGO/SE50-E52",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Love"
+        ],
+        "ability": [
+            "【CONT】 All of your other characters with \"Elza(エルザ)\" in their card names get 《Love》.",
+            "【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Weapon》 character and up to 1 character with \"Elza(エルザ)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I just got a text with some news you should hear.",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E52",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E52.png"
+    },
+    {
+        "name": "Huddling Up, ZEMAL",
+        "code": "GGO/SE50-E53",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "ZEMAL"
+        ],
+        "ability": [
+            "【CONT】 Your other 《Avatar》 or 《Net》 character in the middle position of your center stage gets +1500 power.",
+            "【AUTO】 When your climax triggers, choose 1 character in your opponent's center stage, and that character gets -500 power until end of turn.",
+            "【ACT】 [(1)] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax card revealed among those cards, choose up to 1 cost 0 or lower character in your waiting room, and put them in separate positions of your stage."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E53",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E53.png"
+    },
+    {
+        "name": "《BTRY》 Tomtom",
+        "code": "GGO/SE50-E54",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Avatar",
+            "ZEMAL"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.",
+            "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax card revealed among those cards, choose up to 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E54",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E54.png"
+    },
+    {
+        "name": "Somber Look, Elza",
+        "code": "GGO/SE50-E55",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if you have 2 or more other 《Avatar》 or 《Net》 characters, this card gets +2000 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Avatar》 or 《Net》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E55",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E55.png"
+    },
+    {
+        "name": "《BTRY》 David",
+        "code": "GGO/SE50-E56",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "MMTM"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《Avatar》 or 《Net》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+            "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\"",
+            "【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E56",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E56.png"
+    },
+    {
+        "name": "《BTRY》 Elvin",
+        "code": "GGO/SE50-E57",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "Avatar",
+            "T-S"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 《Avatar》 or 《Net》 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 soul until end of turn.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E57",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E57.png"
+    },
+    {
+        "name": "A Special Rule Launched",
+        "code": "GGO/SE50-E58",
+        "rarity": "U",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Perform the following action 2 times. \"You may choose 1 card in your hand, and put it into your waiting room. If you do, choose 1 event in your waiting room, and return it to your hand.\""
+        ],
+        "flavor_text": "Standby for the new rule announcement and launch.",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E58",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E58.png"
+    },
+    {
+        "name": "Fierce Nemeses Once Again",
+        "code": "GGO/SE50-E59",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Pitohui: \"I get another chance to fight you, LLENN!\"",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E59",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E59.png"
+    },
+    {
+        "name": "Cry of Joy Echoing in the Battlefield",
+        "code": "GGO/SE50-E60",
+        "rarity": "C",
+        "expansion": "Love Live! School idol festival 2 MIRACLE LIVE!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "-",
+        "set": "GGO",
+        "release": "E50",
+        "sid": "E60",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/g/GGO/GGO_SE50_E60.png"
+    }
+]
