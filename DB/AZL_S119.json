@@ -1,0 +1,3598 @@
+[
+    {
+        "name": "Light Cruiser, Sirius",
+        "code": "AZL/S119-E001",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are yellow or blue, this card gets +1500 power.",
+            "【AUTO】 [(1) Put 1 《KAN-SEN》 character from your waiting room at the bottom of your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E001",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E001.png"
+    },
+    {
+        "name": "Heavy Cruiser, Cheshire",
+        "code": "AZL/S119-E002",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 2 or higher, this card gets +6000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+            "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E002",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E002.png"
+    },
+    {
+        "name": "Light Cruiser, Belfast",
+        "code": "AZL/S119-E003",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "8000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 6 or higher, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\""
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E003",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E003.png"
+    },
+    {
+        "name": "Light Aircraft Carrier, Unicorn",
+        "code": "AZL/S119-E004",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Don't Miss the Mission Bonus, Okay?\" is in your climax area, and you have another 《KAN-SEN》 character, perform the following action up to X times. \"Put the top card of your deck into your waiting room. If that card has in its trigger icon, deal 1 damage to your opponent.\" X is equal to 3 if this card is in the middle position of your center stage, otherwise it is equal to 2. (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E004",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E004.png"
+    },
+    {
+        "name": "Chen Hai",
+        "code": "AZL/S119-E005",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Dragon Empery"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When this card attacks, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn."
+        ],
+        "flavor_text": "If you're not busy, then... come here, let's play a match of Go?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E005",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E005.png"
+    },
+    {
+        "name": "Joffre",
+        "code": "AZL/S119-E006",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Vichya Dominion"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 yellow character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Done with your morning prayers already?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E006",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E006.png"
+    },
+    {
+        "name": "Plymouth",
+        "code": "AZL/S119-E007",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 You cannot play events or \"Backup\" from your hand.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage."
+        ],
+        "flavor_text": "Rejoice, dear Commander, for this morning is most refreshing.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E007",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E007.png"
+    },
+    {
+        "name": "Scylla",
+        "code": "AZL/S119-E008",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is 2 or higher, this card gets +4500 power until the end of your opponent's next turn.",
+            "【AUTO】 When this card's trigger check reveals a card with in its trigger icon, choose 1 of your characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Heehee, as you can see, I am nothing more than an ordinary maid.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E008",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E008.png"
+    },
+    {
+        "name": "Janus",
+        "code": "AZL/S119-E009",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《KAN-SEN》 character, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Anniversary Shot With Everyone\" is in your climax area, choose 1 《KAN-SEN》 character in your waiting room, return it to your hand, and this card gets \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" until the end of your opponent's next turn."
+        ],
+        "flavor_text": "I hope the seas will remain calm today…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E009",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E009.png"
+    },
+    {
+        "name": "Brest",
+        "code": "AZL/S119-E010",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iris Libre"
+        ],
+        "ability": [
+            "【CONT】 During your opponent's turn, if you have another 《KAN-SEN》 character, this card gets +10500 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +10500 power until end of turn."
+        ],
+        "flavor_text": "O Champion, what tales of heroism will you weave into the annals of history today?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E010",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E010.png"
+    },
+    {
+        "name": "Manchester",
+        "code": "AZL/S119-E011",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power and +2 soul until end of turn."
+        ],
+        "flavor_text": "Hey up, Master! Just got done tidying up the office.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E011",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E011.png"
+    },
+    {
+        "name": "Implacable",
+        "code": "AZL/S119-E012",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's hand has 4 or more cards, choose 1 random card in your opponent's hand, reveal it, put it into their memory, and your opponent returns that card to their hand at the end of their next turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+        ],
+        "flavor_text": "May blessings find their way to you, Commander.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E012",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E012.png"
+    },
+    {
+        "name": "Surcouf",
+        "code": "AZL/S119-E013",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iris Libre"
+        ],
+        "ability": [
+            "【AUTO】 When a climax with in its trigger icon is placed on your climax area, choose 1 of your 《KAN-SEN》 characters, and that character gets +1 soul until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "Commander, why don't we design a flag for the fleet?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E013",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E013.png"
+    },
+    {
+        "name": "Royal Oak",
+        "code": "AZL/S119-E014",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 《KAN-SEN》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, put it into their memory, and at the beginning of the encore step, your opponent puts that character from their memory in any position of their stage.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room."
+        ],
+        "flavor_text": "Hyah! Sorry, I wasn't standing behind the door on purpose...",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E014",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E014.png"
+    },
+    {
+        "name": "Valiant",
+        "code": "AZL/S119-E015",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put up to 2 cards from the top of your deck into your waiting room.",
+            "【AUTO】 [Put 1 level 1 or higher card from your hand into your waiting room] During your main phase, when this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《KAN-SEN》 character with level equal to or lower than your level in your waiting room, and during that main phase, you may play that card from your waiting room without fulfilling color requirements. (If cost is needed to play the card, pay the cost. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Remember this face, for it is the face of a fleet leader!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E015",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E015.png"
+    },
+    {
+        "name": "Albion",
+        "code": "AZL/S119-E016",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 You cannot play events or \"Backup\" from your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\""
+        ],
+        "flavor_text": "I await your orders.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E016",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E016.png"
+    },
+    {
+        "name": "Abercrombie",
+        "code": "AZL/S119-E017",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 All of your other climax with in the trigger icon in all of your zones get in the trigger icon.",
+            "【ACT】 [【REST】 this card] Look at the top card of your deck, put it on the top of your deck or into your waiting room, choose 1 of your 《KAN-SEN》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Take THIS! – Oh, Commander?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E017",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E017.png"
+    },
+    {
+        "name": "Flandre",
+        "code": "AZL/S119-E018",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Vichya Dominion"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +4000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Do You Think You Can Win Against Me?\" is in your climax area, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 [(2)] When this card is frontal attacked, you may pay the cost. If you do, choose 1 character facing this card, and that character gets +6 soul until end of turn.\"",
+            "【AUTO】 Experience During this card's battle, when the damage you received is canceled, if the total level of the cards in your level is 5 or higher, deal 1 damage to your opponent. (Damage may be canceled)"
+        ],
+        "flavor_text": "Your will be done, Commander. I am battleship Flandre.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E018",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E018.png"
+    },
+    {
+        "name": "Charybdis",
+        "code": "AZL/S119-E019",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《KAN-SEN》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Fair winds and a following sea~",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E019",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E019.png"
+    },
+    {
+        "name": "Vanguard",
+        "code": "AZL/S119-E020",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 If this card is in the middle position of your center stage, this card gets +3000 power.",
+            "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《KAN-SEN》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "The Commander has arrived! Ladies, at attention!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E020",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E020.png"
+    },
+    {
+        "name": "Theseus",
+        "code": "AZL/S119-E021",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《KAN-SEN》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《KAN-SEN》 character in your waiting room, and exchange them."
+        ],
+        "flavor_text": "If you ever need someone to carry out combat, housework, or an incantation, just call my name.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E021",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E021.png"
+    },
+    {
+        "name": "Argus",
+        "code": "AZL/S119-E022",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000.",
+            "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, reveal the top 2 cards of your deck, your opponent chooses 1 event or character from among them, puts it into your hand, and puts the rest into your waiting room."
+        ],
+        "flavor_text": "Shall we get to work, Commander? It's getting late. I don't think we should wait any longer…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E022",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E022.png"
+    },
+    {
+        "name": "Alsace",
+        "code": "AZL/S119-E023",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iris Libre"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +3000 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Commander, why do you gaze upon this one for so long?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E023",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E023.png"
+    },
+    {
+        "name": "Lung Wu",
+        "code": "AZL/S119-E024",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Dragon Empery"
+        ],
+        "ability": [
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. Deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (Damage may be canceled)"
+        ],
+        "flavor_text": "You wanna see today's menu? Here you go! Just lemme know if anything catches your eye!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E024",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E024.png"
+    },
+    {
+        "name": "Indomitable",
+        "code": "AZL/S119-E025",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +500 power for each of your other 《KAN-SEN》 characters.",
+            "【AUTO】 [Put 1 《KAN-SEN》 character from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 character facing this card and another of your opponent's level 1 or lower characters, and exchange them as 【STAND】."
+        ],
+        "flavor_text": "Ehh? You're going to start working already?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E025",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E025.png"
+    },
+    {
+        "name": "Mogador",
+        "code": "AZL/S119-E026",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Vichya Dominion"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Commaaander, welcome baaack.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E026",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E026.png"
+    },
+    {
+        "name": "Vampire",
+        "code": "AZL/S119-E027",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【AUTO】 Experience [(1) Put 1 card from your hand into your waiting room] When you use this card's \"Backup\", if the total level of the cards in your level is 3 or higher, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "Thine blood looks delectable!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E027",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E027.png"
+    },
+    {
+        "name": "Fortune",
+        "code": "AZL/S119-E028",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Royal Navy"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Commander... I worked hard but... am I still not good?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E028",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E028.png"
+    },
+    {
+        "name": "Curia of Vichya",
+        "code": "AZL/S119-E029",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【COUNTER】 If you do not have a 《KAN-SEN》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\""
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E029",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E029.png"
+    },
+    {
+        "name": "Dragon Empery",
+        "code": "AZL/S119-E030",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "All players put the top 3 cards of their deck into their waiting room. If the number of level 1 or lower characters put into your waiting room by this effect is more than the number of level 0 or lower characters put into your opponent's waiting room by this effect, you may draw 1 card.",
+            "Put this card into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E030",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E030.png"
+    },
+    {
+        "name": "Iris Libre",
+        "code": "AZL/S119-E031",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Choose 1 of your characters, and that character gets +4000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E031",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E031.png"
+    },
+    {
+        "name": "Don't Miss the Mission Bonus, Okay?",
+        "code": "AZL/S119-E032",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "I'll... do my best...!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E032",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E032.png"
+    },
+    {
+        "name": "Anniversary Shot With Everyone",
+        "code": "AZL/S119-E033",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Jervis: \"What are you doing, may I ask?\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E033",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E033.png"
+    },
+    {
+        "name": "Do You Think You Can Win Against Me?",
+        "code": "AZL/S119-E034",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)"
+        ],
+        "flavor_text": "Felix Schultz: \"I suppose I wouldn't mind poking and prodding at the sensitive spots on your frail body– Ahaha, I wonder how soon you'll cry for mercy~♪\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E034",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E034.png"
+    },
+    {
+        "name": "Battleship, Nagato",
+        "code": "AZL/S119-E035",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 4 or more cards, and you do not have another character, this card cannot become 【REVERSE】.",
+            "【CONT】 During your turn, this card gets +3000 power.",
+            "【AUTO】 [Put 1《KAN-SEN》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E035",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E035.png"
+    },
+    {
+        "name": "Destroyer, Shimakaze",
+        "code": "AZL/S119-E036",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 [Put 2 cards from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card attacks, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 《KAN-SEN》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E036",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E036.png"
+    },
+    {
+        "name": "Light Cruiser, Noshiro",
+        "code": "AZL/S119-E037",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《KAN-SEN》, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Sisters' Joint Battle\" is in your climax area, perform the following action 2 times. \"Reveal the top card of your deck. If that card is an event or a 《KAN-SEN》 character, put it into your hand.\" (Otherwise, return it to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E037",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E037.png"
+    },
+    {
+        "name": "Aircraft Carrier, Shinano",
+        "code": "AZL/S119-E038",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your deck has 6 or less cards, you may return all cards from your waiting room to your deck. If you do, shuffle your deck.",
+            "【ACT】 [Put 1 \"Aircraft Carrier, Shinano\" from your hand into your waiting room & 【REST】 2 of your characters] Put up to 2 cards from the top of your deck into your stock."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E038",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E038.png"
+    },
+    {
+        "name": "Destroyer, Ayanami",
+        "code": "AZL/S119-E039",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 7 or higher, this card gets +3000 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play events from their hand.\"",
+            "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Are You Learning How to Dance?\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E039",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E039.png"
+    },
+    {
+        "name": "Hatsuzuki",
+        "code": "AZL/S119-E040",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《KAN-SEN》, this card gets +3000 power.",
+            "【AUTO】 When this card attacks, if you have 2 or more other 《KAN-SEN》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "Isn't it wonderful to have me so close to you?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E040",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E040.png"
+    },
+    {
+        "name": "Yuugure",
+        "code": "AZL/S119-E041",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or attacks, if all of your characters are 《KAN-SEN》, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《KAN-SEN》 character in your waiting room, return it to your hand, choose 1 of your other 《KAN-SEN》 characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Hatsuharu? No, please do remember I'm Ariake class. This is something I won't back down from!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E041",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E041.png"
+    },
+    {
+        "name": "Tosa",
+        "code": "AZL/S119-E042",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if you have a 《KAN-SEN》 character, put the top 3 cards of your deck or your opponent's deck into the waiting room.",
+            "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+        ],
+        "flavor_text": "For the time being, let me first assess your abilities.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E042",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E042.png"
+    },
+    {
+        "name": "Shimanto",
+        "code": "AZL/S119-E043",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《KAN-SEN》 character, this card gets +6000 power.",
+            "【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"Divine Presence\" is in your climax area, the total level of the cards in your level is 5 or higher, and you have 4 or more other 《KAN-SEN》 characters, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent, and put the top 4 cards of your opponent's deck into their waiting room.\" \"Choose up to 2 level 1 or higher characters in your waiting room, and return them to your hand.\""
+        ],
+        "flavor_text": "I am Shimanto, a fantasy given form through wishes embodied. Commander, don't be too hard on me, 'kay?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E043",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E043.png"
+    },
+    {
+        "name": "Unzen",
+        "code": "AZL/S119-E044",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Exorcism for the Mortal Realm\" is in your climax area, look at up to 3 cards from the top of your deck, choose up to 3 cards from among them, put them on the top of your deck in any order, put the rest into your waiting room, and this card gets +1000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "I am heavy cruiser Unzen, and I shall avail myself of your hospitality for the time being.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E044",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E044.png"
+    },
+    {
+        "name": "Musashi",
+        "code": "AZL/S119-E045",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+            "【AUTO】 [Put this card into your waiting room] When your other 《KAN-SEN》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +4500 power until end of turn."
+        ],
+        "flavor_text": "If it is my acknowledgment you seek, then quell the storms that rage across these seas with your magnificence.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E045",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E045.png"
+    },
+    {
+        "name": "Chitose",
+        "code": "AZL/S119-E046",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Chiyoda\" in your center stage, this card gets +4000 power.",
+            "【CONT】 During your turn, all of your other \"Chiyoda\" get +4000 power."
+        ],
+        "flavor_text": "Oh, you're here. There's some red bean jelly from Chiyoda on your desk. Feel free to take some.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E046",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E046.png"
+    },
+    {
+        "name": "Ryuuhou",
+        "code": "AZL/S119-E047",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, choose 1 of your other 《KAN-SEN》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《KAN-SEN》 characters you have ×500.",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock."
+        ],
+        "flavor_text": "I will strive to bring you victory, Commander!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E047",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E047.png"
+    },
+    {
+        "name": "Chiyoda",
+        "code": "AZL/S119-E048",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock & Return this card to your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other \"Chitose\", and return it to your hand.",
+            "【ACT】 [【REST】 2 of your characters] This card gets +500 power and the following ability until end of turn. \"【CONT】 Your other \"Chitose\" and \"Chiyoda\" in all of your zones get in their trigger icon.\""
+        ],
+        "flavor_text": "I help Chitose out with her Shinto duties sometimes. You know, as a shrine maiden. ...Huh? You think I'd be more of a hindrance...?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E048",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E048.png"
+    },
+    {
+        "name": "Asanagi",
+        "code": "AZL/S119-E049",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《KAN-SEN》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Well, well... Hmph. What a weak little child you are! I am Asanagi, of the Kamikaze class!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E049",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E049.png"
+    },
+    {
+        "name": "Sakawa",
+        "code": "AZL/S119-E050",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 When \"Sisters' Joint Battle\" is placed on your climax area, if you have 4 or more other 《KAN-SEN》 characters, reveal the top 2 cards of your deck, your opponent chooses 1 event or character from among them, puts it into your hand, and puts the rest into your waiting room.",
+            "【ACT】 [【REST】 this card] Choose 1 of the following effects, and perform it. \"Choose 1 of your characters, and that character gets +1000 power until end of turn.\" \"[Put 1 card from your hand into your waiting room & 【REST】 1 of your other 《KAN-SEN》 characters] You may pay the cost. If you do, search your deck for up to 1 \"Light Cruiser, Noshiro\", reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "flavor_text": "And you're the Commander? I see~ I get why Noshiro is so into you. I am, too!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E050",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E050.png"
+    },
+    {
+        "name": "Haruna",
+        "code": "AZL/S119-E051",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +500 power for each of your other 《KAN-SEN》 characters.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "I prefer to use my fists over my blade, but I hope that won't be an issue.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E051",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E051.png"
+    },
+    {
+        "name": "Natori",
+        "code": "AZL/S119-E052",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\"",
+            "【AUTO】 When this card attacks, choose 1 of your other 《KAN-SEN》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《KAN-SEN》 characters you have ×500."
+        ],
+        "flavor_text": "Ahem– I am the strongest light cruiser Natori, and this is my partner, Old Man Hiranuma!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E052",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E052.png"
+    },
+    {
+        "name": "Haguro",
+        "code": "AZL/S119-E053",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +2500 power until the end of your opponent's next turn.",
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Wassup? I'm part of the team now or whatever.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E053",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E053.png"
+    },
+    {
+        "name": "Kazagumo",
+        "code": "AZL/S119-E054",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If a climax with in its trigger icon is in your climax area, your other \"Shinano\" in all of your zones get in the trigger icons.",
+            "【CONT】 All of your other \"Shinano\" get the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\""
+        ],
+        "flavor_text": "I like being alone in my own room. What exactly do I do in my free time? ...I'm not telling you.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E054",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E054.png"
+    },
+    {
+        "name": "Izumo",
+        "code": "AZL/S119-E055",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《KAN-SEN》 characters get +500 power.",
+            "【ACT】 [【REST】 this card] Choose 1 of your 《KAN-SEN》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "Listen here: do anything to slow me down, and you won't hear the end of it!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E055",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E055.png"
+    },
+    {
+        "name": "Ryuujou",
+        "code": "AZL/S119-E056",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's attack phase, choose 1 of your 《KAN-SEN》 characters, and that character gets +500 power until end of turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《KAN-SEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "Milord, I am called Ryuujou, a ranger from the Land of the Rising Sun! I shall lay down my seven lives to mete out justice in your name!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E056",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E056.png"
+    },
+    {
+        "name": "Miyuki",
+        "code": "AZL/S119-E057",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《KAN-SEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 Experience If this card is in your level, at the beginning of your main phase, you may choose this card and 1 《KAN-SEN》 character in your waiting room, and exchange them."
+        ],
+        "flavor_text": "Is there anything I can help with today? I, um, would like to be more useful to you…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E057",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E057.png"
+    },
+    {
+        "name": "I-26",
+        "code": "AZL/S119-E058",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When this card attacks, if a green climax is in your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 green character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn."
+        ],
+        "flavor_text": "Tans are a sign of good health! So why not come with me and sunbathe a bit?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E058",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E058.png"
+    },
+    {
+        "name": "Kirishima",
+        "code": "AZL/S119-E059",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if you have another 《KAN-SEN》 character, this card gets +3000 power.",
+            "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Now, Commander, there's a long road ahead of us, and we should walk down it together!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E059",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E059.png"
+    },
+    {
+        "name": "Mikasa",
+        "code": "AZL/S119-E060",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If you have 2 or more other 《KAN-SEN》 characters, during your turn, this card gets +2500 power, and during your opponent's turn, this card gets +1500 power.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "Until we've reclaimed our former glory, we must never stop pressing forward!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E060",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E060.png"
+    },
+    {
+        "name": "Owari",
+        "code": "AZL/S119-E061",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "power": "5500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Kii\" in your center stage, this card gets +4000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your other \"Kii\" is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《KAN-SEN》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "Haha~♪ Bein' dumb has its benefits, y'know!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E061",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E061.png"
+    },
+    {
+        "name": "Akatsuki",
+        "code": "AZL/S119-E062",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "6500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sakura Empire"
+        ],
+        "ability": [
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 3 or higher, this card gets +8000 power."
+        ],
+        "flavor_text": "My name is Akatsuki, I am the ninja who will banish all the darkness in the world!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E062",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E062.png"
+    },
+    {
+        "name": "Sisters' Joint Battle",
+        "code": "AZL/S119-E063",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Sakawa: \"Keep your eyes on me!\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E063",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E063.png"
+    },
+    {
+        "name": "Are You Learning How to Dance?",
+        "code": "AZL/S119-E064",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "Z23: \"I've done everything I needed to in advance, and am ready for your invitation at any moment.\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E064",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E064.png"
+    },
+    {
+        "name": "Divine Presence",
+        "code": "AZL/S119-E065",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "For the purpose of bringing me an offering, I presume?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E065",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E065.png"
+    },
+    {
+        "name": "Exorcism for the Mortal Realm",
+        "code": "AZL/S119-E066",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
+        ],
+        "flavor_text": "I know this training method... Would you like to try it on me, Commander?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E066",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E066.png"
+    },
+    {
+        "name": "Heavy Cruiser, Roon",
+        "code": "AZL/S119-E067",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 At the beginning of your main phase, choose up to 3 level 2 or lower characters or events in your level, and those cards get +1 level until the end of your opponent's next turn.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《KAN-SEN》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E067",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E067.png"
+    },
+    {
+        "name": "Large Cruiser, Ägir",
+        "code": "AZL/S119-E068",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 Experience During your turn, if the total level of the cards in your level is 1 or higher, this card gets +3000 power.",
+            "【AUTO】 【CXCOMBO】 When this card attacks, if \"Let's Have a Celebration Drink\" is in your climax area, and you have another 《KAN-SEN》 character, look at up to 3 cards from the top of your deck, choose up to 1 《KAN-SEN》 character from among them, reveal it to your opponent, put it into your hand, and put the rest on the top of your deck in any order."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E068",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E068.png"
+    },
+    {
+        "name": "Felix Schultz",
+        "code": "AZL/S119-E069",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 If your clock has 3 or more cards, this card gets +3000 power.",
+            "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《KAN-SEN》 characters you have."
+        ],
+        "flavor_text": "Did you miss me that badly? Heehee. Surely you didn't come all the way here just for some piddling chores?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E069",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E069.png"
+    },
+    {
+        "name": "Prinz Rupprecht",
+        "code": "AZL/S119-E070",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 [Put 1 \"Let's Lie Down Together\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《KAN-SEN》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)"
+        ],
+        "flavor_text": "Hmph! Commander of what, exactly? From now on, I shall be the one issuing commands around here! Now, hurry along~♪",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E070",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E070.png"
+    },
+    {
+        "name": "Otto von Alvensleben",
+        "code": "AZL/S119-E071",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《KAN-SEN》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+            "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《KAN-SEN》 character, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "You're madly in love, and now you can't take your eyes off me?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E071",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E071.png"
+    },
+    {
+        "name": "Regensburg",
+        "code": "AZL/S119-E072",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have another 《KAN-SEN》 character, this card gets +4000 power until end of turn.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 card in your waiting room, and exchange them."
+        ],
+        "flavor_text": "What, Regina? Is it feeding time?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E072",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E072.png"
+    },
+    {
+        "name": "Marco Polo",
+        "code": "AZL/S119-E073",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "9000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sardegna Empire"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《KAN-SEN》 characters, this card gets -1 level while in your hand.",
+            "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +1000 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock."
+        ],
+        "flavor_text": "I hope you know what you're in for, now that you've awoken me.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E073",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E073.png"
+    },
+    {
+        "name": "Golden Hind",
+        "code": "AZL/S119-E074",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Tempesta"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may perform the following effect. \"Your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, and shuffles their deck.\"",
+            "【AUTO】 When a climax is placed on your climax area, if your level is 3 or higher, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return the card to its original place. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "You really do have a stunning body, my darling~ Heehee♡",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E074",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E074.png"
+    },
+    {
+        "name": "Hindenburg",
+        "code": "AZL/S119-E075",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "power": "10500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 The character facing this card gets -1 soul.",
+            "【AUTO】 【CXCOMBO】 [(2) Put 4 cards from your hand into your waiting room] When this card attacks, if \"This Path is for You to Decide\" is in your climax area, and all of your characters are green or red, you may pay the cost. If you do, this card gets +4000 power until end of turn, your opponent reveals the top 3 cards of their deck, if there are 2 or more climax among those cards, your opponent puts them into their waiting room, and if there are 1 or less climax among those cards, your opponent puts those cards into their clock in any order."
+        ],
+        "flavor_text": "Was it you who summoned me?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E075",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E075.png"
+    },
+    {
+        "name": "Brünhilde",
+        "code": "AZL/S119-E076",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《KAN-SEN》 characters, and that character gets +1000 power until end of turn.",
+            "【AUTO】 At the beginning of your climax phase, you may look at the top card of your opponent's deck. (Return the card you saw to its original place)"
+        ],
+        "flavor_text": "As fellow bearers of great responsibility, let us hone one another as we press forward.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E076",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E076.png"
+    },
+    {
+        "name": "Magdeburg",
+        "code": "AZL/S119-E077",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+            "【ACT】 [Put this card into your waiting room] Choose 1 of your characters, and that character gets +1 soul until end of turn."
+        ],
+        "flavor_text": "Yo! Iron Blood light cruiser Magdeburg here! Gimme a fistbump to celebrate us becomin' homies!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E077",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E077.png"
+    },
+    {
+        "name": "Yorck",
+        "code": "AZL/S119-E078",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand or attacks, choose 1 of your 《KAN-SEN》 characters, and that character gets +1500 power until end of turn."
+        ],
+        "flavor_text": "You're free to regard me as a tool – a means to exert your power.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E078",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E078.png"
+    },
+    {
+        "name": "Lützow",
+        "code": "AZL/S119-E079",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《KAN-SEN》, this card gets +2000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put that character on the top of your opponent's deck."
+        ],
+        "flavor_text": "*yawn*... Hm? Who are you?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E079",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E079.png"
+    },
+    {
+        "name": "Z35",
+        "code": "AZL/S119-E080",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "3500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【ACT】 [Put this card at the bottom of your deck] Choose up to 1 character in your hand with level equal to or lower than your level, and put it in the stage position that this card was in."
+        ],
+        "flavor_text": "I am the singing and dancing Z35! Pleased to meet you!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E080",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E080.png"
+    },
+    {
+        "name": "Jade",
+        "code": "AZL/S119-E081",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +1000 power.",
+            "【ACT】 [【REST】 this card] Choose 1 character in your opponent's center stage, and that character gets -2000 power and the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play events from your hand.\""
+        ],
+        "flavor_text": "Goodness, you don't have to introduce yourself– I already know everything about you. Heehee~♪",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E081",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E081.png"
+    },
+    {
+        "name": "Z28",
+        "code": "AZL/S119-E082",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card direct attacks, you may choose 1 《KAN-SEN》 character in your waiting room, and put it into your stock.",
+            "【ACT】 Experience [(4)] If the total level of the cards in your level is 5 or higher, return all level 3 or lower characters in your opponent's center stage to their hand."
+        ],
+        "flavor_text": "My mission is to support you to the best of my abilities!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E082",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E082.png"
+    },
+    {
+        "name": "Blücher",
+        "code": "AZL/S119-E083",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)",
+            "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character."
+        ],
+        "flavor_text": "Heheh☆ Doesn't seeing me make you all happy?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E083",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E083.png"
+    },
+    {
+        "name": "U-37",
+        "code": "AZL/S119-E084",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《KAN-SEN》 characters get +500 power.",
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When your climax with in its trigger icon triggers, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm the hunter that prances across the open seas, U-37!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E084",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E084.png"
+    },
+    {
+        "name": "U-410",
+        "code": "AZL/S119-E085",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《KAN-SEN》 character in your waiting room, and return it to your hand.",
+            "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+        ],
+        "flavor_text": "I think it's good for a submarine to act a bit more mysterious. Wouldn't you agree, Commander?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E085",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E085.png"
+    },
+    {
+        "name": "Friedrich Carl",
+        "code": "AZL/S119-E086",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+            "【AUTO】 When this card attacks, choose 1 of your other 《KAN-SEN》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Come, little one – let us get to the core truth of love and bring happiness to the whole world.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E086",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E086.png"
+    },
+    {
+        "name": "Thüringen",
+        "code": "AZL/S119-E087",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《KAN-SEN》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+            "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\""
+        ],
+        "flavor_text": "Before I formally sign on, there's one thing I want to ask – what role, exactly, do you have in mind for me?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E087",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E087.png"
+    },
+    {
+        "name": "Pola",
+        "code": "AZL/S119-E088",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sardegna Empire"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, look at up to 4 cards from the top of your deck, choose up to 1 《KAN-SEN》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "And you're the commander of this fleet? I see. Well, don't let me down, okay? Hehe~",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E088",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E088.png"
+    },
+    {
+        "name": "Attilio Regolo",
+        "code": "AZL/S119-E089",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Sardegna Empire"
+        ],
+        "ability": [
+            "【ACT】 【COUNTER】 Backup X, Level 1 [Put this card from your hand into your waiting room] X is equal to the number of 《KAN-SEN》 characters you have ×500. (Choose 1 of your characters that is being frontal attacked, and that character gets +X power until end of turn)"
+        ],
+        "flavor_text": "Finally, I found you! Hehe, go on—welcome me to your castle!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E089",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E089.png"
+    },
+    {
+        "name": "Mainz",
+        "code": "AZL/S119-E090",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Iron Blood"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's memory.",
+            "【AUTO】 When this card attacks, if all of your characters are 《KAN-SEN》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room."
+        ],
+        "flavor_text": "You'll be my first Commander. Hmph. Don't you dare disappoint me.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E090",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E090.png"
+    },
+    {
+        "name": "Littorio",
+        "code": "AZL/S119-E091",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Sardegna Empire"
+        ],
+        "ability": [
+            "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room.",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "There are two kinds of people in the world: those who are Littorio, and those who are not.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E091",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E091.png"
+    },
+    {
+        "name": "Royal Fortune",
+        "code": "AZL/S119-E092",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "power": "6000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Tempesta"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《KAN-SEN》 characters.",
+            "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+        ],
+        "flavor_text": "You're looking at the mysterious, heartstopping Royal Fortune!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E092",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E092.png"
+    },
+    {
+        "name": "Sardegna Empire",
+        "code": "AZL/S119-E093",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "Look at up to 3 cards from the top of your deck, choose up to 3 《KAN-SEN》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E093",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E093.png"
+    },
+    {
+        "name": "Let's Have a Celebration Drink",
+        "code": "AZL/S119-E094",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Indomitable: \"Maybe I should start to get serious...\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E094",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E094.png"
+    },
+    {
+        "name": "Let's Lie Down Together",
+        "code": "AZL/S119-E095",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.",
+            "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)"
+        ],
+        "flavor_text": "Plymouth: \"Are you satisfied after seeing me in my swimsuit?\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E095",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E095.png"
+    },
+    {
+        "name": "This Path is for You to Decide",
+        "code": "AZL/S119-E096",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Shimanto: \"Got a prayer you want the Dragon God to hear? Want me to make it rain?\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E096",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E096.png"
+    },
+    {
+        "name": "Battleship, New Jersey",
+        "code": "AZL/S119-E097",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. If X is 2 or higher, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. X is equal to the level of the revealed card. (If you do not draw 1 card, return it to its original position. Climax are regarded as level 0)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E097",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E097.png"
+    },
+    {
+        "name": "Light Cruiser, Pamiat' Merkuria",
+        "code": "AZL/S119-E098",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "7500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Northern Parliament"
+        ],
+        "ability": [
+            "【AUTO】 【CXCOMBO】 Experience When \"I'm Gonna Claim My Reward!\" is placed on your climax area, if the total level of the cards in your level is 5 or higher, choose up to 1 character in your waiting room, return it to your hand, this card gets +1000 power until end of turn, and the following ability until the end of your opponent's next turn. \"【AUTO】 When this card becomes 【REVERSE】, reveal the top card of your deck. If that card is a 《KAN-SEN》 character, you may return this card to your hand.\" (Return the revealed card to its original place)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E098",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E098.png"
+    },
+    {
+        "name": "Aircraft Carrier, Enterprise",
+        "code": "AZL/S119-E099",
+        "rarity": "RR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+            "【AUTO】 【CXCOMBO】 Experience [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"Brave Eagles, We Fight Until The End!\" is in your climax area, and the total level of the cards in your level is 6 or higher, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step, and this card gets the following ability until end of turn. \"【AUTO】 This ability activates up to 2 times per turn. When this card's trigger check reveals a yellow or blue 《KAN-SEN》 character, you may deal 3 damage to your opponent.\" (Damage may be canceled)"
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E099",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E099.png"
+    },
+    {
+        "name": "Bristol",
+        "code": "AZL/S119-E100",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck.",
+            "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 climax, reveal it to your opponent, choose up to 1 climax from your hand, reveal it to your opponent, exchange them, and shuffle your deck."
+        ],
+        "flavor_text": "Weapons check complete – I'm ready to go on an adventure!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E100",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E100.png"
+    },
+    {
+        "name": "Yorktown Ⅱ",
+        "code": "AZL/S119-E101",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, look at the top card of your deck, and put it on the top or at the bottom of your deck or into your waiting room.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When your climax triggers, you may pay the cost. If you do, choose 1 blue character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Commander, let us step into the future together!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E101",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E101.png"
+    },
+    {
+        "name": "Grozny",
+        "code": "AZL/S119-E102",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Northern Parliament"
+        ],
+        "ability": [
+            "【CONT】 If your hand has 5 or more cards, this card gets +1000 power.",
+            "【AUTO】 When this card is put into your waiting room from the stage, look at up to 3 cards from the top of your deck, choose up to 1 character with \"Experience\" from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room."
+        ],
+        "flavor_text": "I am Gnevny-class destroyer Grozny, reporting for duty…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E102",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E102.png"
+    },
+    {
+        "name": "Hammann Ⅱ",
+        "code": "AZL/S119-E103",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 During your turn, if all of your characters are 《KAN-SEN》, this card gets +2000 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room & 【REST】 1 of your other 【STAND】 《KAN-SEN》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 2 《KAN-SEN》 characters in your waiting room, and return them to your hand."
+        ],
+        "flavor_text": "Wh-what do you think you're looking at, pervert?!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E103",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E103.png"
+    },
+    {
+        "name": "LaffeyⅡ",
+        "code": "AZL/S119-E104",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "5500",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 If you have 4 or more 《KAN-SEN》 characters, this card gets -1 level while in your hand.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, choose up to 1 《KAN-SEN》 character in your clock, put it at the bottom of your deck, and if the total level of the cards in your level is 6 or higher, this card gets +4500 power until end of turn.",
+            "【AUTO】 When this card becomes 【REVERSE】, you may return this card to your hand."
+        ],
+        "flavor_text": "Laffey's ready, raring, and more motivated than ever…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E104",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E104.png"
+    },
+    {
+        "name": "Kearsarge",
+        "code": "AZL/S119-E105",
+        "rarity": "R",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《KAN-SEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+            "【AUTO】 【CXCOMBO】 Experience [(1) Put 1 《KAN-SEN》 character from your hand into your waiting room] When this card attacks, if \"Hybrid Idealization X\" is in your climax area, and the total level of the cards in your level is 8 or higher, you may pay the cost. If you do, deal 2 damage to your opponent, choose 1 of your opponent's characters, and that character gets -X power until end of turn. X is equal to the number of other 《KAN-SEN》 characters you have ×1000. (Damage may be canceled)"
+        ],
+        "flavor_text": "Save the small talk for after work. I'm concentrating on my secretary duties, so don't disturb me.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E105",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E105.png"
+    },
+    {
+        "name": "HornetⅡ",
+        "code": "AZL/S119-E106",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, all characters in your opponent's center stage get -500 power until end of turn.",
+            "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《KAN-SEN》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+        ],
+        "flavor_text": "The new and improved Hornet has arrived at the office!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E106",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E106.png"
+    },
+    {
+        "name": "San Jacinto",
+        "code": "AZL/S119-E107",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+            "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "Commander, were you expecting any... romantic developments?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E107",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E107.png"
+    },
+    {
+        "name": "Constellation",
+        "code": "AZL/S119-E108",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《KAN-SEN》 character, choose 1 character in your opponent's center stage, and that character gets -6000 power until end of turn. (Return the revealed card to its original place)",
+            "【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand."
+        ],
+        "flavor_text": "Shall I tell you your fortune for today?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E108",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E108.png"
+    },
+    {
+        "name": "Seattle",
+        "code": "AZL/S119-E109",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "1000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +4000 power.",
+            "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, declare either your deck or your waiting room, search your declared zone for up to 1 《KAN-SEN》 character, reveal it to your opponent, and put it into your hand. If you declared your deck, shuffle your deck."
+        ],
+        "flavor_text": "Sup! You the one who woke me up?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E109",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E109.png"
+    },
+    {
+        "name": "HoustonⅡ",
+        "code": "AZL/S119-E110",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 If all of your characters are 《KAN-SEN》, this card gets +3000 power.",
+            "【AUTO】 During this card's battle, when the damage you received is not canceled, this card gets +6000 power until end of turn."
+        ],
+        "flavor_text": "Commander, I return to you in a whole new style.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E110",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E110.png"
+    },
+    {
+        "name": "Anchorage",
+        "code": "AZL/S119-E111",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +2000 power.",
+            "【AUTO】 【CXCOMBO】 Experience When \"Mid-Autumn Moon\" is placed on your climax area, if this card is in your center stage, and the total level of the cards in your level is 2 or higher, search your deck for up to 2 《KAN-SEN》 characters, and reveal them to your opponent. Your opponent chooses 1 character from among them, puts that character into your waiting room, puts the rest into your hand, and shuffles your deck."
+        ],
+        "flavor_text": "Com...mander? No... Teacher?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E111",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E111.png"
+    },
+    {
+        "name": "Chapayev",
+        "code": "AZL/S119-E112",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Northern Parliament"
+        ],
+        "ability": [
+            "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+            "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +1500 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "So you're the Commander? Hehe, I like what I see…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E112",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E112.png"
+    },
+    {
+        "name": "West Virginia",
+        "code": "AZL/S119-E113",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "4000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 Assist All of your 《KAN-SEN》 characters in front of this card get +1000 power.",
+            "【AUTO】 When a climax with in its trigger icon is placed on your climax area, choose 1 of your characters, and that character gets +1000 power and the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\""
+        ],
+        "flavor_text": "It's finally my time to show my strength...",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E113",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E113.png"
+    },
+    {
+        "name": "Flasher",
+        "code": "AZL/S119-E114",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "2500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 Experience [(1)] When you use this card's \"Backup\", if the total level of the cards in your level is 5 or higher, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+            "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+        ],
+        "flavor_text": "It's a lovely day today. Can we go hunt some enemies?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E114",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E114.png"
+    },
+    {
+        "name": "Guam",
+        "code": "AZL/S119-E115",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "power": "10000",
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1000 power and the following ability. \"【CONT】 During this card's battle, you cannot receive damage by 【AUTO】 effects of your opponent's characters.\"",
+            "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《KAN-SEN》 characters you have."
+        ],
+        "flavor_text": "Whatcha got planned today? Can I tag along?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E115",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E115.png"
+    },
+    {
+        "name": "Montpelier",
+        "code": "AZL/S119-E116",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 All of your other 《KAN-SEN》 characters get +500 power.",
+            "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《KAN-SEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "You're a commander? You don't... look reliable.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E116",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E116.png"
+    },
+    {
+        "name": "Halsey Powell",
+        "code": "AZL/S119-E117",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+            "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage."
+        ],
+        "flavor_text": "There you are, Commander! Ehehe~ Huh? You've never heard of me?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E117",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E117.png"
+    },
+    {
+        "name": "Alabama",
+        "code": "AZL/S119-E118",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《KAN-SEN》 characters among those cards ×1000.",
+            "【AUTO】 [(1) Put 1 《KAN-SEN》 character from your waiting room at the bottom of your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《KAN-SEN》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "I'm Alabama. You need somethin'?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E118",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E118.png"
+    },
+    {
+        "name": "Morrison",
+        "code": "AZL/S119-E119",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your 《KAN-SEN》 characters, and that character gets +2000 power until end of turn."
+        ],
+        "flavor_text": "Ah, um, are you the commander?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E119",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E119.png"
+    },
+    {
+        "name": "Astoria",
+        "code": "AZL/S119-E120",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《KAN-SEN》 characters, 【REST】 it, and move it to an open position of your back stage."
+        ],
+        "flavor_text": "Commander, you can totally rely on me more!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E120",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E120.png"
+    },
+    {
+        "name": "Nautilus",
+        "code": "AZL/S119-E121",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 [Put this card into your waiting room] When your other 《KAN-SEN》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+            "【ACT】 [Put 1 card from your hand into your waiting room & Put this card at the bottom of your deck] Search your deck for up to 1 《KAN-SEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+        ],
+        "flavor_text": "I wish I could dive deeper and get to know the secrets of the sea…",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E121",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E121.png"
+    },
+    {
+        "name": "Dewey",
+        "code": "AZL/S119-E122",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "3000",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 If you have another \"Gridley\" in your center stage, this card gets +1000 power and the following ability. \"【CONT】 All of your other \"Gridley\" get +1500 power and \"【AUTO】 Encore [Put 1 《KAN-SEN》 character from your waiting room at the bottom of your clock]\".",
+            "【AUTO】 When this card attacks, choose up to 2 of your 《KAN-SEN》 characters, and those characters get +1500 power until end of turn."
+        ],
+        "flavor_text": "Is there something on your mind, Commander?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E122",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E122.png"
+    },
+    {
+        "name": "Biloxi",
+        "code": "AZL/S119-E123",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【AUTO】 When this card attacks, if there is a climax is in your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+            "【AUTO】 When this card attacks, if there is no climax in your climax area, and you have another 《KAN-SEN》 character, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "I hope we can work together and seize victory as fellow fleet members.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E123",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E123.png"
+    },
+    {
+        "name": "Louisville",
+        "code": "AZL/S119-E124",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "4500",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Eagle Union"
+        ],
+        "ability": [
+            "【CONT】 This card gets +1500 power for each of your other 《KAN-SEN》 characters.",
+            "【AUTO】 During this card's battle, when the damage you received is not canceled, this card gets +3000 power until end of turn."
+        ],
+        "flavor_text": "Today's schedule is... observing the port, confirming the drill plans, sitting in on a friendly meeting... Hm? Which one was the first thing in the morning, again...?",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E124",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E124.png"
+    },
+    {
+        "name": "Chkalov",
+        "code": "AZL/S119-E125",
+        "rarity": "C",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "power": "6000",
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "attributes": [
+            "KAN-SEN",
+            "Northern Parliament"
+        ],
+        "ability": [
+            "【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand.",
+            "【ACT】 Experience [【REST】 this card] If the total level of the cards in your level is 5 or higher, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\""
+        ],
+        "flavor_text": "Oh, so you're a real workhorse. Suppose I'll really have to apply myself as your secretary then.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E125",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E125.png"
+    },
+    {
+        "name": "Northern Parliament",
+        "code": "AZL/S119-E126",
+        "rarity": "U",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "power": "-",
+        "soul": 0,
+        "trigger": [],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "You may choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+            "Choose 1 《KAN-SEN》 character in your waiting room, and return it to your hand."
+        ],
+        "flavor_text": "-",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E126",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E126.png"
+    },
+    {
+        "name": "I'm Gonna Claim My Reward!",
+        "code": "AZL/S119-E127",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "Ying Swei: \"I never thought I'd be able to enjoy the company of my sister and all our friends like this…\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E127",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E127.png"
+    },
+    {
+        "name": "Brave Eagles, We Fight Until The End!",
+        "code": "AZL/S119-E128",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "New Jersey: \"We owe a lot to you, Miss Heroine.\"",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E128",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E128.png"
+    },
+    {
+        "name": "Hybrid Idealization X",
+        "code": "AZL/S119-E129",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "I've determined that establishing mutual trust between us is beneficial to my battlefield performance.",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E129",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E129.png"
+    },
+    {
+        "name": "Mid-Autumn Moon",
+        "code": "AZL/S119-E130",
+        "rarity": "CR",
+        "expansion": "Azur Lane Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "-",
+        "cost": "-",
+        "power": "-",
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "attributes": [
+            ""
+        ],
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul.",
+            "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+        ],
+        "flavor_text": "The moon and the lights are all bright and pretty...!",
+        "set": "AZL",
+        "release": "119",
+        "sid": "E130",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/AZL2/S119-E130.png"
+    }
+]
